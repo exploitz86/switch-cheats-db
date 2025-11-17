@@ -1835,6 +1835,10 @@ if __name__ == '__main__':
     try:
         if gbatemp and highfps:
             should_update = gbatemp.has_new_cheats(database_version) or highfps.has_new_cheats(database_version)
+            if not should_update:
+                print("GBATemp cheats are already up to date!")
+                print("Nothing to commit.")
+                exit(0)  # Exit successfully but don't continue processing
     except Exception as e:
         print(f"Error checking for updates: {e}. Will proceed with update anyway.")
         should_update = True
@@ -1864,11 +1868,13 @@ if __name__ == '__main__':
                 gbatemp_success = True
             else:
                 print("✗ GBATemp archive extraction failed")
+                print("CRITICAL ERROR: GBATemp download/extraction failed")
+                exit(1)  # Fail the workflow
                 
         except Exception as e:
             print(f"✗ Error downloading/extracting GBATemp cheats: {e}")
-            print("  Note: GBATemp has very strict bot protection - this may be temporary")
-            print("  Continuing with HighFPS source only...")
+            print("CRITICAL ERROR: GBATemp download failed - failing workflow")
+            exit(1)  # Fail the workflow
         
         # Download HighFPS cheats (with error handling)
         highfps_success = False
@@ -1889,9 +1895,18 @@ if __name__ == '__main__':
                 highfps_success = True
             else:
                 print("✗ HighFPS archive extraction failed")
+                print("CRITICAL ERROR: HighFPS download/extraction failed")
+                exit(1)  # Fail the workflow
                 
         except Exception as e:
             print(f"✗ Error downloading/extracting HighFPS cheats: {e}")
+            print("CRITICAL ERROR: HighFPS download failed - failing workflow")
+            exit(1)  # Fail the workflow
+        
+        # Verify that at least one download was successful
+        if not gbatemp_success and not highfps_success:
+            print("CRITICAL ERROR: All download sources failed")
+            exit(1)  # Fail the workflow
         
         # Debug: List what was actually extracted
         print("\nDebug: Checking extracted directories...")
