@@ -17,4 +17,4 @@ https://github.com/exploitz86/switch-cheats-db/releases/latest
 | Gameplay + graphics codes | contents_complete.zip       | titles_complete.zip       |
 
 ## Cheats count
-59117 cheats in 2492 titles/5595 updates
+59172 cheats in 2494 titles/5601 updates
