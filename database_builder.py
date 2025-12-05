@@ -1836,7 +1836,7 @@ if __name__ == '__main__':
         if gbatemp and highfps:
             should_update = gbatemp.has_new_cheats(database_version) or highfps.has_new_cheats(database_version)
             if not should_update:
-                print("GBATemp cheats are already up to date!")
+                print("Everything is already up to date!")
                 print("Nothing to commit.")
                 exit(0)  # Exit successfully but don't continue processing
     except Exception as e:
@@ -1989,10 +1989,8 @@ if __name__ == '__main__':
                 print(f"Warning: {description} directory not found, skipping archive creation")
 
         try:
-            # Use the most recent source version date for VERSION file
-            version_date = None
-            if gbatemp:
-                version_date = gbatemp.get_gbatemp_version()
+            # Use the current date for VERSION to avoid reusing GBATemp release tags
+            version_date = date.today()
             archive_worker.create_version_file(version_date=version_date)
             print("✓ Version file created successfully")
         except Exception as e:
