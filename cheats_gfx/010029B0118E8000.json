@@ -1,0 +1,11 @@
+{
+    "799D1061182C1302": {
+        "[60 FPS offline switcher - exefs req]": "[60 FPS offline switcher - exefs req]\n580F0000 0195CDF0\n580F1000 00000188\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[30 FPS online switcher]": "[30 FPS online switcher]\n580F0000 0195CDF0\n580F1000 00000188\n780F0000 00000F14\n640F0000 00000000 00000002\n\n",
+        "[True 60 FPS]": "[True 60 FPS]\n04000000 00F0043C 00000001\n580F0000 0195CDF0\n580F1000 00000188\n780F0000 00000F14\n640F0000 00000000 00000001\n\n",
+        "[True 30 FPS (default)]": "[True 30 FPS (default)]\n04000000 00F0043C 00000000\n580F0000 0195CDF0\n580F1000 00000188\n780F0000 00000F14\n640F0000 00000000 00000002\n\n"
+    },
+    "attribution": {
+        "Need for Speed Hot Pursuit Remastered.txt": "By masagrator\n"
+    }
+}
