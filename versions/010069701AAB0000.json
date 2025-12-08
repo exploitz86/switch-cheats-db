@@ -2,7 +2,24 @@
     "0": "F0C22772C3BE53AB",
     "131072": "5330CCE5A84C9331",
     "65536": "2DCF8D6C5B31B50B",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010069701AAB1001",
+            "name": "Tangram Collection Egg"
+        },
+        {
+            "id": "010069701AAB1002",
+            "name": "Tangram Collection Other T"
+        },
+        {
+            "id": "010069701AAB1003",
+            "name": "Tangram Collection F"
+        },
+        {
+            "id": "010069701AAB1004",
+            "name": "Tangram Collection Heart"
+        }
+    ],
     "latest": 131072,
     "title": "Tangram Collection"
 }

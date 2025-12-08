@@ -4,7 +4,20 @@
     "262144": "430CEDC27F23FB46",
     "327680": "8BC3BE6474FF5243",
     "65536": "EEB9F70CA4348A41",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100DEC00F7ED001",
+            "name": "Pizza Bar Tycoon Expansion Pack #1"
+        },
+        {
+            "id": "0100DEC00F7ED002",
+            "name": "Pizza Bar Tycoon Expansion Pack #2"
+        },
+        {
+            "id": "0100DEC00F7ED003",
+            "name": "Pizza Bar Tycoon Multiplayer Mode"
+        }
+    ],
     "latest": 327680,
     "title": "Pizza Bar Tycoon"
 }

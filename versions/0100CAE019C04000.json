@@ -1,7 +1,16 @@
 {
     "0": "BA657CB2F7F065C5",
     "65536": "C4CCD9AE9A0B1824",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100CAE019C05001",
+            "name": "Cowboy Poker"
+        },
+        {
+            "id": "0100CAE019C05002",
+            "name": "Interactive Science Fiction"
+        }
+    ],
     "latest": 65536,
     "title": "Radiantflux Hyperfractal 4.0"
 }

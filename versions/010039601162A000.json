@@ -1,7 +1,12 @@
 {
     "0": "D99343762A1A8146",
     "65536": "B5C59FBC58EB1D4C",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010039601162B001",
+            "name": "Her Challenges"
+        }
+    ],
     "latest": 65536,
     "title": "Him & Her"
 }

@@ -1,7 +1,28 @@
 {
     "0": "B93BA62FDE50A845",
     "65536": "F459B14A1B5EA208",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01004CE01A2C9001",
+            "name": "Experience x3 - Heirs of the Kings"
+        },
+        {
+            "id": "01004CE01A2C9002",
+            "name": "No Encounters - Heirs of the Kings"
+        },
+        {
+            "id": "01004CE01A2C9003",
+            "name": "Damage x2 - Heirs of the Kings"
+        },
+        {
+            "id": "01004CE01A2C9004",
+            "name": "Full Restore - Heirs of the Kings"
+        },
+        {
+            "id": "01004CE01A2C9005",
+            "name": "No Skill Cost - Heirs of the Kings"
+        }
+    ],
     "latest": 65536,
     "title": "Heirs of the Kings"
 }

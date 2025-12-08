@@ -10,7 +10,12 @@
     "655360": "56FA8820A413774A",
     "720896": "6073FA65E07FD349",
     "786432": "21474B7080A2E742",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010070A00A5F5001",
+            "name": "Armello - Complete Edition Upgrade"
+        }
+    ],
     "latest": 786432,
     "title": "Armello"
 }

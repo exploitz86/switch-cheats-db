@@ -1,7 +1,12 @@
 {
     "0": "445AC0747D128243",
     "65536": "0144DE369591F411",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01006AA013087001",
+            "name": "Art Sqool - All Brushes and Colors!"
+        }
+    ],
     "latest": 65536,
     "title": "Art Sqool"
 }

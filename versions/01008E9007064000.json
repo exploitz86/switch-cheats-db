@@ -18,7 +18,520 @@
     "851968": "F39BA946D940994C",
     "917504": "57DE920DA88F2A4E",
     "983040": "22F0E0B89F3A2E42",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01008E9007065001",
+            "name": "Cosmetics set (Magical Makeup,Hair Catalog)"
+        },
+        {
+            "id": "01008E9007065002",
+            "name": "High Speed Anklet Set (Anklet of Light, Anklet of Hermes)"
+        },
+        {
+            "id": "01008E9007065003",
+            "name": "Hair Dye Set A ( Lt. Brown, Lavender, Cream, Cherry Blossom )"
+        },
+        {
+            "id": "01008E9007065004",
+            "name": "Hair Dye Set B (Pink, Turquoise, Blue Silver, White Sand)"
+        },
+        {
+            "id": "01008E9007065005",
+            "name": "Hair Dye Set C (Sandy Blond, Dk. Brown, Violet, Abyssal Green)"
+        },
+        {
+            "id": "01008E9007065006",
+            "name": "Hair Dye Set D (Chestnut, Chocolate, Night Sky, Inferno)"
+        },
+        {
+            "id": "01008E9007065007",
+            "name": "Glasses Set A ( Wellington Glasses, Square Frames, \"color:Red,Blue,Purple\" )"
+        },
+        {
+            "id": "01008E9007065008",
+            "name": "Glasses Set B ( Silver Frame Monocle, Black and Red Half Frames )"
+        },
+        {
+            "id": "01008E9007065009",
+            "name": "Luxury Wedding Attire Set ( White, Pink, Blue )"
+        },
+        {
+            "id": "01008E900706500A",
+            "name": "Ihm Color Set (White, Pink, Mint, Ice Blue, Cream, Lavender, Graphite)"
+        },
+        {
+            "id": "01008E900706500B",
+            "name": "Ihm Ihm Set (Child's Ihm Knapsack, Ihm Knapsack, Ihm Ear Earmuffs, White Jumbo Stuffed Ihm, Cocoi Suit)"
+        },
+        {
+            "id": "01008E900706500C",
+            "name": "Set of \"Sakura\" furniture and clothes"
+        },
+        {
+            "id": "01008E900706500D",
+            "name": "Summer Wedding Attire Set (Seaside, Sunset beach, Night Sea)"
+        },
+        {
+            "id": "01008E900706500E",
+            "name": "Our Majesty's Blk Armor"
+        },
+        {
+            "id": "01008E900706500F",
+            "name": "Warrior's Black Clothes Set"
+        },
+        {
+            "id": "01008E9007065010",
+            "name": "Black Ancestral Garb Set"
+        },
+        {
+            "id": "01008E9007065011",
+            "name": "Jade Ancestral Garb Set"
+        },
+        {
+            "id": "01008E9007065012",
+            "name": "Forester's Garb"
+        },
+        {
+            "id": "01008E9007065013",
+            "name": "Traditional Green Outfit"
+        },
+        {
+            "id": "01008E9007065014",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01008E9007065015",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01008E9007065016",
+            "name": "Headshroom Set (Rogh, Mallo and Inber)"
+        },
+        {
+            "id": "01008E9007065017",
+            "name": "Guiding Butterfly Wings"
+        },
+        {
+            "id": "01008E9007065018",
+            "name": "Set of stuffed bears"
+        },
+        {
+            "id": "01008E9007065019",
+            "name": "Set of red furniture and clothes"
+        },
+        {
+            "id": "01008E900706501A",
+            "name": "Noel set"
+        },
+        {
+            "id": "01008E900706501B",
+            "name": "New Year's Set"
+        },
+        {
+            "id": "01008E900706501C",
+            "name": "Interior set for farmers"
+        },
+        {
+            "id": "01008E900706501D",
+            "name": "Antique Furnishings Set"
+        },
+        {
+            "id": "01008E900706501E",
+            "name": "Banner Set( Roselle, Galfin, Dhorme, Farm, Regal, Shiznee )"
+        },
+        {
+            "id": "01008E900706501F",
+            "name": "+4 save slots (adds 4 additional save data slots)"
+        },
+        {
+            "id": "01008E9007065020",
+            "name": "Challenge Dungeon \"Hellfire Lair\""
+        },
+        {
+            "id": "01008E9007065021",
+            "name": "Challenge Dungeon \"Sunken Ruins\""
+        },
+        {
+            "id": "01008E9007065022",
+            "name": "Set of Nalulu Kingdom outfits"
+        },
+        {
+            "id": "01008E9007065023",
+            "name": "Emerald Summer Dress Set"
+        },
+        {
+            "id": "01008E9007065024",
+            "name": "Citrus Summer Dress Set"
+        },
+        {
+            "id": "01008E9007065025",
+            "name": "Chocolate Outfits Set"
+        },
+        {
+            "id": "01008E9007065026",
+            "name": "Latte Uniforms Set"
+        },
+        {
+            "id": "01008E9007065027",
+            "name": "Navy Devon Coat Set"
+        },
+        {
+            "id": "01008E9007065028",
+            "name": "Charcoal Devon Coat Set"
+        },
+        {
+            "id": "01008E9007065029",
+            "name": "Dark Rose Sweater Set"
+        },
+        {
+            "id": "01008E900706502A",
+            "name": "Moss Green Sweater Set"
+        },
+        {
+            "id": "01008E900706502B",
+            "name": "Spring Outfits Set"
+        },
+        {
+            "id": "01008E900706502C",
+            "name": "Southern Attire Set"
+        },
+        {
+            "id": "01008E900706502D",
+            "name": "Yano Market Clothing Set"
+        },
+        {
+            "id": "01008E900706502E",
+            "name": "Orient Mail"
+        },
+        {
+            "id": "01008E900706502F",
+            "name": "White Wings Set"
+        },
+        {
+            "id": "01008E9007065030",
+            "name": "Black Wings Set"
+        },
+        {
+            "id": "01008E9007065031",
+            "name": "Small Demon Wings Set"
+        },
+        {
+            "id": "01008E9007065032",
+            "name": "Chocolate Accessories Set"
+        },
+        {
+            "id": "01008E9007065033",
+            "name": "White-Winged Outfits Set"
+        },
+        {
+            "id": "01008E9007065034",
+            "name": "Navy Sailor Uniforms Set"
+        },
+        {
+            "id": "01008E9007065035",
+            "name": "Charcoal Sailor Uniforms Set"
+        },
+        {
+            "id": "01008E9007065036",
+            "name": "Summer Sailor Uniforms: White Set"
+        },
+        {
+            "id": "01008E9007065037",
+            "name": "Sunflower Cloths Pack Set"
+        },
+        {
+            "id": "01008E9007065038",
+            "name": "Sunflower Interiors Pack Set"
+        },
+        {
+            "id": "01008E9007065039",
+            "name": "Steampunk Outfits Set"
+        },
+        {
+            "id": "01008E900706503A",
+            "name": "Wedding Equipments Set"
+        },
+        {
+            "id": "01008E900706503B",
+            "name": "Halloween Costume Set"
+        },
+        {
+            "id": "01008E900706503C",
+            "name": "White Wizard Coats Set"
+        },
+        {
+            "id": "01008E900706503D",
+            "name": "Brown Fishing Coats Set"
+        },
+        {
+            "id": "01008E900706503E",
+            "name": "Navy Fishing Coats Set"
+        },
+        {
+            "id": "01008E900706503F",
+            "name": "Black Fishing Coats Set"
+        },
+        {
+            "id": "01008E9007065040",
+            "name": "Citizen's Country Wear Set"
+        },
+        {
+            "id": "01008E9007065041",
+            "name": "Bright Yellow Country Wear Set"
+        },
+        {
+            "id": "01008E9007065042",
+            "name": "Royal Country Wear Set"
+        },
+        {
+            "id": "01008E9007065043",
+            "name": "White Elegant Dress Set"
+        },
+        {
+            "id": "01008E9007065044",
+            "name": "Town-Wear Set(Common)"
+        },
+        {
+            "id": "01008E9007065045",
+            "name": "Town-Wear Set(Royal)"
+        },
+        {
+            "id": "01008E9007065046",
+            "name": "Town-Wear Set(Sunny)"
+        },
+        {
+            "id": "01008E9007065047",
+            "name": "Tiara Set"
+        },
+        {
+            "id": "01008E9007065048",
+            "name": "Wedding Festoon Set"
+        },
+        {
+            "id": "01008E9007065049",
+            "name": "Summer Outfit Set(Common)"
+        },
+        {
+            "id": "01008E900706504A",
+            "name": "Summer Outfit Set(Clean-Cut)"
+        },
+        {
+            "id": "01008E900706504B",
+            "name": "Summer Outfit Set(Sunny)"
+        },
+        {
+            "id": "01008E900706504C",
+            "name": "Summer Outfit Set(Yano Market)"
+        },
+        {
+            "id": "01008E900706504D",
+            "name": "Working Equipments Set"
+        },
+        {
+            "id": "01008E900706504E",
+            "name": "Knapsack Set"
+        },
+        {
+            "id": "01008E900706504F",
+            "name": "Rucksack Set"
+        },
+        {
+            "id": "01008E9007065050",
+            "name": "Backpack"
+        },
+        {
+            "id": "01008E9007065052",
+            "name": "Town Furs Set ( White )"
+        },
+        {
+            "id": "01008E9007065053",
+            "name": "Town Furs Set ( Orange )"
+        },
+        {
+            "id": "01008E9007065054",
+            "name": "Town Furs Set(Mint)"
+        },
+        {
+            "id": "01008E9007065055",
+            "name": "Patchwork Wear(Chocolate)"
+        },
+        {
+            "id": "01008E9007065056",
+            "name": "Patchwork Wear(Autumn)"
+        },
+        {
+            "id": "01008E9007065057",
+            "name": "Polar Travel Outfit(Noel)"
+        },
+        {
+            "id": "01008E9007065058",
+            "name": "Soft Kid's White Cat"
+        },
+        {
+            "id": "01008E9007065059",
+            "name": "Blue Northern Fur Coat"
+        },
+        {
+            "id": "01008E900706505A",
+            "name": "Wa -Japan- Fair ( Free )"
+        },
+        {
+            "id": "01008E900706505B",
+            "name": "Tea-party(Galphin)"
+        },
+        {
+            "id": "01008E900706505C",
+            "name": "Yukata"
+        },
+        {
+            "id": "01008E900706505D",
+            "name": "Island Breeze Set"
+        },
+        {
+            "id": "01008E900706505E",
+            "name": "Island Pastel Set"
+        },
+        {
+            "id": "01008E900706505F",
+            "name": "Island Citrus Set"
+        },
+        {
+            "id": "01008E9007065060",
+            "name": "Island Berry Set"
+        },
+        {
+            "id": "01008E9007065061",
+            "name": "Island Flower Set"
+        },
+        {
+            "id": "01008E9007065062",
+            "name": "Pioneer Autumn Outfit Set(Blue)"
+        },
+        {
+            "id": "01008E9007065063",
+            "name": "Pioneer Autumn Outfit Set(Silver)"
+        },
+        {
+            "id": "01008E9007065064",
+            "name": "Elegant Twilight Dress Set"
+        },
+        {
+            "id": "01008E9007065065",
+            "name": "Ihm's stylish accessories Set"
+        },
+        {
+            "id": "01008E9007065066",
+            "name": "Festive Boa Coat Set"
+        },
+        {
+            "id": "01008E9007065067",
+            "name": "Snow White Boa Coat Set"
+        },
+        {
+            "id": "01008E9007065068",
+            "name": "Soft Kid's Black Cat"
+        },
+        {
+            "id": "01008E9007065069",
+            "name": "Naruelu Wine and recipies"
+        },
+        {
+            "id": "01008E900706506A",
+            "name": "Embroidery Kits"
+        },
+        {
+            "id": "01008E900706506B",
+            "name": "Cat Baby Suits"
+        },
+        {
+            "id": "01008E900706506C",
+            "name": "Red Huashan-style Formal Set"
+        },
+        {
+            "id": "01008E900706506D",
+            "name": "Indigo Huashan-style Formal Set"
+        },
+        {
+            "id": "01008E900706506E",
+            "name": "Pioneer Spring Outfit Set(Pink)"
+        },
+        {
+            "id": "01008E900706506F",
+            "name": "Pioneer Spring Outfit Set(Green)"
+        },
+        {
+            "id": "01008E9007065070",
+            "name": "Kid's Forester's Garb"
+        },
+        {
+            "id": "01008E9007065071",
+            "name": "Verdure Fishing Outfit Set"
+        },
+        {
+            "id": "01008E9007065072",
+            "name": "Pioneer Summer Outfit Set"
+        },
+        {
+            "id": "01008E9007065073",
+            "name": "Pioneer Summer Outfi Set: Aqua"
+        },
+        {
+            "id": "01008E9007065074",
+            "name": "Pioneer Summer Outfit Set: Berry"
+        },
+        {
+            "id": "01008E9007065075",
+            "name": "Pioneer Summer Outfit Set: Citrus"
+        },
+        {
+            "id": "01008E9007065076",
+            "name": "Waistcoat Outfit Set: Ash"
+        },
+        {
+            "id": "01008E9007065077",
+            "name": "Waistcoat Outfit Set: Green"
+        },
+        {
+            "id": "01008E9007065078",
+            "name": "Rose Accessories Set"
+        },
+        {
+            "id": "01008E9007065079",
+            "name": "Summer Accessories Set"
+        },
+        {
+            "id": "01008E900706507A",
+            "name": "Zohm Knapsack"
+        },
+        {
+            "id": "01008E900706507B",
+            "name": "Academy Mage Wear Set: Sakura"
+        },
+        {
+            "id": "01008E900706507C",
+            "name": "Academy Mage Wear Set: Lavender"
+        },
+        {
+            "id": "01008E900706507D",
+            "name": "Boa Coat Set: Beige"
+        },
+        {
+            "id": "01008E900706507E",
+            "name": "Fur Bolero Set: Wine"
+        },
+        {
+            "id": "01008E900706507F",
+            "name": "Fur Bolero Set: Orange"
+        },
+        {
+            "id": "01008E9007065080",
+            "name": "Farming Hats Set"
+        },
+        {
+            "id": "01008E90070650A0",
+            "name": "Cotton Rope Craft Set"
+        }
+    ],
     "latest": 2031616,
     "title": "WorldNeverland - Elnea Kingdom"
 }

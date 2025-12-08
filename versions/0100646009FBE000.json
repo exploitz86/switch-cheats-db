@@ -39,7 +39,28 @@
     "851968": "5474C91B733D8621",
     "917504": "E123F86E654CA1EF",
     "983040": "CE6074604542ACAC",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100646009FBF001",
+            "name": "Dead Cells: Rise of the Giant"
+        },
+        {
+            "id": "0100646009FBF002",
+            "name": "Dead Cells: The Bad Seed"
+        },
+        {
+            "id": "0100646009FBF003",
+            "name": "Dead Cells: Fatal Falls"
+        },
+        {
+            "id": "0100646009FBF004",
+            "name": "Dead Cells: The Queen and the Sea"
+        },
+        {
+            "id": "0100646009FBF005",
+            "name": "Dead Cells: Return to Castlevania"
+        }
+    ],
     "latest": 3014656,
     "title": "Dead Cells"
 }

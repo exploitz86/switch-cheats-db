@@ -1,7 +1,48 @@
 {
     "0": "F988A05BBE07E327",
     "131072": "7F8AF4380449F13D",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100D1800D903001",
+            "name": "Busty Special DLC Set"
+        },
+        {
+            "id": "0100D1800D903005",
+            "name": "New Outfit Quartet"
+        },
+        {
+            "id": "0100D1800D903006",
+            "name": "Outfit Sextet 1"
+        },
+        {
+            "id": "0100D1800D903007",
+            "name": "Outfit Sextet 2"
+        },
+        {
+            "id": "0100D1800D903008",
+            "name": "New Accessories Quintet"
+        },
+        {
+            "id": "0100D1800D90300A",
+            "name": "New Diorama Pose Quintet"
+        },
+        {
+            "id": "0100D1800D90300B",
+            "name": "SENRAN KAGURA PBS Stage BGM"
+        },
+        {
+            "id": "0100D1800D90300C",
+            "name": "SENRAN KAGURA EV Stage BGM"
+        },
+        {
+            "id": "0100D1800D90300D",
+            "name": "SENRAN KAGURA SV Stage BGM"
+        },
+        {
+            "id": "0100D1800D90300E",
+            "name": "SENRAN KAGURA DC Stage BGM"
+        }
+    ],
     "latest": 131072,
     "title": "SENRAN KAGURA Peach Ball"
 }

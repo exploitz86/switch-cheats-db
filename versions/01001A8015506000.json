@@ -14,7 +14,24 @@
     "786432": "CFA86C620D2AC1E0",
     "851968": "F7FED63330B41BF7",
     "917504": "7B10BC13670FEE2C",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01001A8015507001",
+            "name": "SCOUT"
+        },
+        {
+            "id": "01001A8015507002",
+            "name": "NINE TILES"
+        },
+        {
+            "id": "01001A8015507003",
+            "name": "Make the Difference"
+        },
+        {
+            "id": "01001A8015507004",
+            "name": "Kobayakawa"
+        }
+    ],
     "latest": 1245184,
     "title": "Let\u2019s Play! Oink Games"
 }

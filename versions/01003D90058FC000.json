@@ -11,7 +11,20 @@
     "851968": "30EF4EF007671FEC",
     "917504": "B29B19271DC4FC92",
     "983040": "21B127E9667F3CCB",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01003D90058FD001",
+            "name": "CrossCode: Ninja Skin"
+        },
+        {
+            "id": "01003D90058FD002",
+            "name": "CrossCode: A New Home"
+        },
+        {
+            "id": "01003D90058FD003",
+            "name": "CrossCode: Manlea Skin"
+        }
+    ],
     "latest": 983040,
     "title": "CrossCode"
 }

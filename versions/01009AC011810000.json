@@ -5,7 +5,20 @@
     "262144": "3F350462A2BBC644",
     "327680": "0EB43FA70598674D",
     "65536": "647D803BD6B7224B",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01009AC011811001",
+            "name": "Additional Story \uff06 Playable Character: Akasha"
+        },
+        {
+            "id": "01009AC011811002",
+            "name": "Additional Story \uff06 Playable Character: Yuji Otori"
+        },
+        {
+            "id": "01009AC011811003",
+            "name": "Additional Story \uff06 Playable Character: Copen (Gunvolt Chronicles: Luminous Avenger iX 2)"
+        }
+    ],
     "latest": 327680,
     "title": "COGEN: Sword of Rewind"
 }

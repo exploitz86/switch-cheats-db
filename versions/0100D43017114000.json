@@ -8,7 +8,20 @@
     "458752": "BB03E9C2553D0010",
     "655360": "8409F8FCE2606BA6",
     "720896": "85A2BFB08490B8D8",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100D43017115001",
+            "name": "Super Mega Baseball\u2122 4 Peril Point Stadium"
+        },
+        {
+            "id": "0100D43017115002",
+            "name": "Super Mega Baseball\u2122 4 Ciudad de Colores Stadium"
+        },
+        {
+            "id": "0100D43017115003",
+            "name": "Super Mega Baseball\u2122 4 Castillo Arena Stadium"
+        }
+    ],
     "latest": 720896,
     "title": "Super Mega Baseball\u2122 4"
 }

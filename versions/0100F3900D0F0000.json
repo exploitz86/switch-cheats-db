@@ -8,7 +8,20 @@
     "458752": "EE9C223FCF64964D",
     "524288": "346A7A58F142EB42",
     "65536": "B03A57C0D6FA7147",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100F3900D0F1001",
+            "name": "Food Truck Tycoon Expansion Pack"
+        },
+        {
+            "id": "0100F3900D0F1002",
+            "name": "Food Truck Tycoon Expansion Pack #2"
+        },
+        {
+            "id": "0100F3900D0F1003",
+            "name": "Food Truck Tycoon Multiplayer Mode"
+        }
+    ],
     "latest": 524288,
     "title": "Food Truck Tycoon"
 }

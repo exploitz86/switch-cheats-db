@@ -1,7 +1,12 @@
 {
     "0": "02FFBFDC6FB44104",
     "65536": "02FFBFDC6FB44104",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100E95010059001",
+            "name": "#EqqoDonation"
+        }
+    ],
     "latest": 65536,
     "title": "EQQO"
 }

@@ -1,7 +1,28 @@
 {
     "0": "92EC5E5A7338B442",
     "65536": "ABC23C47749AD846",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010076F012CD9001",
+            "name": "Experience x3 - Dragon Lapis"
+        },
+        {
+            "id": "010076F012CD9002",
+            "name": "No Encounters - Dragon Lapis"
+        },
+        {
+            "id": "010076F012CD9003",
+            "name": "Damage x2 - Dragon Lapis"
+        },
+        {
+            "id": "010076F012CD9004",
+            "name": "Full Restore - Dragon Lapis"
+        },
+        {
+            "id": "010076F012CD9005",
+            "name": "No Skill Cost - Dragon Lapis"
+        }
+    ],
     "latest": 65536,
     "title": "Dragon Lapis"
 }

@@ -2,7 +2,20 @@
     "0": "463970E512218F47",
     "131072": "B2E7AD86B575094C",
     "65536": "EF2ECEF4E1815849",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100C38019A03001",
+            "name": "Colors of the fishing net"
+        },
+        {
+            "id": "0100C38019A03002",
+            "name": "Colors of a simple fishing rod"
+        },
+        {
+            "id": "0100C38019A03003",
+            "name": "Colors of the fly rod"
+        }
+    ],
     "latest": 131072,
     "title": "Isle of Jura Fishing Trip"
 }

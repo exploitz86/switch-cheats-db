@@ -1,7 +1,20 @@
 {
     "0": "525DBBDC331F1BA3",
     "65536": "DFAA4A98E8DBD314",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100C7E015BF9001",
+            "name": "Experience x3 - Sword of Elpisia"
+        },
+        {
+            "id": "0100C7E015BF9002",
+            "name": "Damage x2 - Sword of Elpisia"
+        },
+        {
+            "id": "0100C7E015BF9003",
+            "name": "No Skill Cost - Sword of Elpisia"
+        }
+    ],
     "latest": 65536,
     "title": "Sword of Elpisia"
 }

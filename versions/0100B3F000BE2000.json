@@ -1,7 +1,16 @@
 {
     "0": "62C368A77211D296",
     "458752": "49690BA2EFDCD7A7",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100B3F000BE3001",
+            "name": "Pokk\u00e9n Tournament DX Battle Pack Wave 1"
+        },
+        {
+            "id": "0100B3F000BE3002",
+            "name": "Pokk\u00e9n Tournament DX Battle Pack Wave 2"
+        }
+    ],
     "latest": 458752,
     "title": "Pokk\u00e9n Tournament\u2122 DX"
 }

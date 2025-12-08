@@ -1,6 +1,99 @@
 {
     "0": "933BE577C524071F",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100A8400471B001",
+            "name": "5 Lightnings"
+        },
+        {
+            "id": "0100A8400471B002",
+            "name": "5 Lightnings"
+        },
+        {
+            "id": "0100A8400471B003",
+            "name": "5 Lightnings"
+        },
+        {
+            "id": "0100A8400471B004",
+            "name": "5 Lightnings"
+        },
+        {
+            "id": "0100A8400471B005",
+            "name": "5 Lightnings"
+        },
+        {
+            "id": "0100A8400471B006",
+            "name": "5 Lightnings"
+        },
+        {
+            "id": "0100A8400471B007",
+            "name": "5 Lightnings"
+        },
+        {
+            "id": "0100A8400471B008",
+            "name": "5 Lightnings"
+        },
+        {
+            "id": "0100A8400471B009",
+            "name": "5 Lightnings"
+        },
+        {
+            "id": "0100A8400471B00A",
+            "name": "5 Lightnings"
+        },
+        {
+            "id": "0100A8400471B00B",
+            "name": "20 Lightnings"
+        },
+        {
+            "id": "0100A8400471B00C",
+            "name": "20 Lightnings"
+        },
+        {
+            "id": "0100A8400471B00D",
+            "name": "20 Lightnings"
+        },
+        {
+            "id": "0100A8400471B00E",
+            "name": "20 Lightnings"
+        },
+        {
+            "id": "0100A8400471B00F",
+            "name": "20 Lightnings"
+        },
+        {
+            "id": "0100A8400471B015",
+            "name": "45 Lightnings"
+        },
+        {
+            "id": "0100A8400471B016",
+            "name": "45 Lightnings"
+        },
+        {
+            "id": "0100A8400471B017",
+            "name": "45 Lightnings"
+        },
+        {
+            "id": "0100A8400471B01F",
+            "name": "120 Lightnings"
+        },
+        {
+            "id": "0100A8400471B020",
+            "name": "120 Lightnings"
+        },
+        {
+            "id": "0100A8400471B029",
+            "name": "240 Lightnings"
+        },
+        {
+            "id": "0100A8400471B033",
+            "name": "480 Lightnings"
+        },
+        {
+            "id": "0100A8400471B03D",
+            "name": "720 Lightnings"
+        }
+    ],
     "latest": 0,
     "title": "MUJO"
 }

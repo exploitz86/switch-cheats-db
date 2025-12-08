@@ -7,7 +7,24 @@
     "589824": "BFCC992070850F0B",
     "655360": "A6508B49CB116267",
     "786432": "A3F6129A8632B959",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01005AA00D677001",
+            "name": "DLC Playable Character: Copen from \"Luminous Avenger iX\""
+        },
+        {
+            "id": "01005AA00D677002",
+            "name": "DLC Playable Character: Empress from \"Dragon Marked For Death\""
+        },
+        {
+            "id": "01005AA00D677003",
+            "name": "DLC Mini-game \"Kanna Raising Simulator\""
+        },
+        {
+            "id": "01005AA00D677004",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 786432,
     "title": "Blaster Master Zero 2"
 }

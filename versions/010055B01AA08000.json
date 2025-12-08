@@ -2,7 +2,44 @@
     "0": "B2B4B1967CA4A1AA",
     "196608": "E196E389FD9E0364",
     "65536": "A3CC675466367CB4",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010055B01AA09001",
+            "name": "Wedding Dress Set"
+        },
+        {
+            "id": "010055B01AA09003",
+            "name": "Samoyed!? Costume Set"
+        },
+        {
+            "id": "010055B01AA09005",
+            "name": "Synthetic Frame Palette: Green (Leben)"
+        },
+        {
+            "id": "010055B01AA09006",
+            "name": "Military Costume (Leben)"
+        },
+        {
+            "id": "010055B01AA09007",
+            "name": "Military Costume (Mikoto)"
+        },
+        {
+            "id": "010055B01AA09008",
+            "name": "Military Costume (Ami)"
+        },
+        {
+            "id": "010055B01AA0900A",
+            "name": "Swimsuit - Absolute Siren (Leben)"
+        },
+        {
+            "id": "010055B01AA0900B",
+            "name": "Swimsuit - Shining Mermaid (Mikoto)"
+        },
+        {
+            "id": "010055B01AA0900C",
+            "name": "Swimsuit - Top of Undine (Ami)"
+        }
+    ],
     "latest": 196608,
     "title": "CRYMACHINA"
 }

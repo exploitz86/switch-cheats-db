@@ -1,7 +1,20 @@
 {
     "0": "E6A51AB8E6C4E287",
     "65536": "8A262755F4E671A4",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100DF601C673001",
+            "name": "Z Escape: Balloons And Guns"
+        },
+        {
+            "id": "0100DF601C673002",
+            "name": "Z Escape: Lasers and Choppers"
+        },
+        {
+            "id": "0100DF601C673003",
+            "name": "Z Escape: Fire and Choppers"
+        }
+    ],
     "latest": 65536,
     "title": "Z Escape"
 }

@@ -5,7 +5,16 @@
     "327680": "4A2A8C5FAB6F023A",
     "393216": "86892EF0ABDAAAA3",
     "524288": "002644B17C4D6E7D",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100B1600DB3B001",
+            "name": "TINY METAL: Will of the Shogun"
+        },
+        {
+            "id": "0100B1600DB3B002",
+            "name": "Caesar's Rescue"
+        }
+    ],
     "latest": 524288,
     "title": "TINY METAL: FULL METAL RUMBLE"
 }

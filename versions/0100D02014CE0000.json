@@ -9,7 +9,40 @@
     "65536": "E6BA3C4E12D8F540",
     "655360": "EC44DE58B44F7241",
     "720896": "F936F78B1B14084A",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100D02014CE1001",
+            "name": "Arcade Paradise - CyberDance EuroMix DLC"
+        },
+        {
+            "id": "0100D02014CE1002",
+            "name": "Arcade Paradise - Empathy DLC"
+        },
+        {
+            "id": "0100D02014CE1003",
+            "name": "Arcade Paradise - Smoke 'em DLC"
+        },
+        {
+            "id": "0100D02014CE1004",
+            "name": "Arcade Paradise - Kung Fury DLC"
+        },
+        {
+            "id": "0100D02014CE1005",
+            "name": "Arcade Paradise - Summer of Sports"
+        },
+        {
+            "id": "0100D02014CE1006",
+            "name": "Arcade Paradise - R.O.G.E.R."
+        },
+        {
+            "id": "0100D02014CE1007",
+            "name": "Arcade Paradise - Penguin Push"
+        },
+        {
+            "id": "0100D02014CE1008",
+            "name": "Arcade Paradise - Vostok Inc. Pinball"
+        }
+    ],
     "latest": 720896,
     "title": "Arcade Paradise"
 }

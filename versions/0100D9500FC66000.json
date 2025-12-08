@@ -9,7 +9,44 @@
     "589824": "BE42D9C64E5D6A34",
     "655360": "153E0B3E9C816FB4",
     "720896": "B65B4B8763FB4840",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100D9500FC67001",
+            "name": "Apex Legends - Character Dialog French"
+        },
+        {
+            "id": "0100D9500FC67002",
+            "name": "Apex Legends - Character Dialog German"
+        },
+        {
+            "id": "0100D9500FC67003",
+            "name": "Apex Legends - Character Dialog Italian"
+        },
+        {
+            "id": "0100D9500FC67004",
+            "name": "Apex Legends - Character Dialog Japanese"
+        },
+        {
+            "id": "0100D9500FC67005",
+            "name": "Apex Legends - Character Dialog Korean"
+        },
+        {
+            "id": "0100D9500FC67006",
+            "name": "Apex Legends - Character Dialog Mandarin"
+        },
+        {
+            "id": "0100D9500FC67008",
+            "name": "Apex Legends - Character Dialog Russian"
+        },
+        {
+            "id": "0100D9500FC67009",
+            "name": "Apex Legends - Character Dialog Spanish"
+        },
+        {
+            "id": "0100D9500FC67064",
+            "name": "Apex Legends\u2122 - Champion Edition"
+        }
+    ],
     "latest": 1376256,
     "title": "Apex Legends\u2122"
 }

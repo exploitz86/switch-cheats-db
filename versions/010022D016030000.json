@@ -1,7 +1,48 @@
 {
     "0": "549ADCEC179DA64C",
     "65536": "6EE7E934540C8149",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010022D016031001",
+            "name": "Voice of Cards: The Beasts of Burden Mama Avatar"
+        },
+        {
+            "id": "010022D016031002",
+            "name": "Voice of Cards: The Beasts of Burden Handbook Pattern"
+        },
+        {
+            "id": "010022D016031003",
+            "name": "Voice of Cards: The Beasts of Burden The Cage Board"
+        },
+        {
+            "id": "010022D016031004",
+            "name": "Voice of Cards: The Beasts of Burden Aid Table"
+        },
+        {
+            "id": "010022D016031005",
+            "name": "Voice of Cards: The Beasts of Burden Decoration of Those in the Cage"
+        },
+        {
+            "id": "010022D016031006",
+            "name": "Voice of Cards: The Beasts of Burden Pixel Art Set"
+        },
+        {
+            "id": "010022D016031007",
+            "name": "Voice of Cards: The Beasts of Burden Story Collectors' Dice"
+        },
+        {
+            "id": "010022D016031008",
+            "name": "Voice of Cards: The Beasts of Burden Melody of reincarnation"
+        },
+        {
+            "id": "010022D01603100A",
+            "name": "Voice of Cards: The Beasts of Burden Iron Avatar"
+        },
+        {
+            "id": "010022D01603100B",
+            "name": "Voice of Cards: The Beasts of Burden Somber Girl's Abstract Pattern"
+        }
+    ],
     "latest": 65536,
     "title": "Voice of Cards: The Beasts of Burden"
 }

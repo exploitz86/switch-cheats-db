@@ -4,7 +4,28 @@
     "196608": "F4ABBDEDF899E8FC",
     "262144": "810AD2A225A24930",
     "65536": "B73A2CC57ED02A9D",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100A91015275001",
+            "name": "PAC-MAN MUSEUM+ Bonus Figure Set"
+        },
+        {
+            "id": "0100A91015275002",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100A91015275003",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100A91015275004",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100A91015275005",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 262144,
     "title": "PAC-MAN MUSEUM+"
 }

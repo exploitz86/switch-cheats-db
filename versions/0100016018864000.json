@@ -3,7 +3,24 @@
     "196608": "677ED1638AD7C449",
     "262144": "B9808978EF682046",
     "65536": "85351C2B17F50E67",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100016018865001",
+            "name": "Pathfinder: Wrath of the Righteous - Inevitable Excess"
+        },
+        {
+            "id": "0100016018865002",
+            "name": "Pathfinder: Wrath of the Righteous - Through the Ashes"
+        },
+        {
+            "id": "0100016018865003",
+            "name": "Pathfinder: Wrath of the Righteous - The Treasure of the Midnight Isles"
+        },
+        {
+            "id": "0100016018865004",
+            "name": "Pathfinder: Wrath of the Righteous - The Last Sarkorians"
+        }
+    ],
     "latest": 262144,
     "title": "Pathfinder: Wrath of the Righteous - Cloud Version"
 }

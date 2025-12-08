@@ -5,7 +5,84 @@
     "262144": "C45D3647B25481B7",
     "327680": "AFBCB88282102D05",
     "65536": "47032DE2B5AD7B32",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100ABC013137001",
+            "name": "Disgaea 6 Zed and Bieko Color & Equipment Set"
+        },
+        {
+            "id": "0100ABC013137002",
+            "name": "Disgaea 6 Laharl, Etna, and Flonne Color & Equipment Set"
+        },
+        {
+            "id": "0100ABC013137003",
+            "name": "Disgaea 6 Melodia Color & Equipment Set"
+        },
+        {
+            "id": "0100ABC013137004",
+            "name": "Disgaea 6 Majolene Color & Equipment Set"
+        },
+        {
+            "id": "0100ABC013137005",
+            "name": "Disgaea 6 Misedor Color & Equipment Set"
+        },
+        {
+            "id": "0100ABC013137006",
+            "name": "Disgaea 6 Ivar Color & Equipment Set"
+        },
+        {
+            "id": "0100ABC013137007",
+            "name": "Disgaea 6 Piyori Color & Equipment Set"
+        },
+        {
+            "id": "0100ABC013137008",
+            "name": "Disgaea 6 Starter Support Set"
+        },
+        {
+            "id": "0100ABC01313700E",
+            "name": "Disgaea 6 Hololive Collaboration Set"
+        },
+        {
+            "id": "0100ABC013137013",
+            "name": "Disgaea 6 Character: Mao"
+        },
+        {
+            "id": "0100ABC013137014",
+            "name": "Disgaea 6 Character: Raspberyl"
+        },
+        {
+            "id": "0100ABC013137015",
+            "name": "Disgaea 6 Character: Valvatorez"
+        },
+        {
+            "id": "0100ABC013137016",
+            "name": "Disgaea 6 Character: Pleinair"
+        },
+        {
+            "id": "0100ABC013137017",
+            "name": "Disgaea 6 Character: Fuka"
+        },
+        {
+            "id": "0100ABC013137018",
+            "name": "Disgaea 6 Character: Desco"
+        },
+        {
+            "id": "0100ABC013137019",
+            "name": "Disgaea 6 Character: Killia"
+        },
+        {
+            "id": "0100ABC01313701A",
+            "name": "Disgaea 6 Character: Usalia"
+        },
+        {
+            "id": "0100ABC01313701B",
+            "name": "Disgaea 6 Innocent Equipment Set"
+        },
+        {
+            "id": "0100ABC01313701C",
+            "name": "Season Pass Support Set"
+        }
+    ],
     "latest": 327680,
     "title": "Disgaea 6: Defiance of Destiny"
 }

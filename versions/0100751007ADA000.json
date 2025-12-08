@@ -6,7 +6,12 @@
     "458752": "B229733F2CA6782B",
     "589824": "2C2299A38BFDE649",
     "655360": "5649325AFA6F4F47",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100751007ADB001",
+            "name": "Don't Starve: Hamlet Nintendo Switch Edition"
+        }
+    ],
     "latest": 655360,
     "title": "Don't Starve: Nintendo Switch Edition"
 }

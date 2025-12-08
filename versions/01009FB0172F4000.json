@@ -6,7 +6,12 @@
     "327680": "11DCE99532D49E78",
     "393216": "7592657B25736761",
     "458752": "F712547C68C66A0A",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01009FB0172F5001",
+            "name": "SpongeBob SquarePants: The Cosmic Shake - Costume Pack DLC"
+        }
+    ],
     "latest": 458752,
     "title": "SpongeBob SquarePants: The Cosmic Shake"
 }

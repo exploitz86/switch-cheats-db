@@ -9,7 +9,276 @@
     "524288": "E469FDC9589BDDEB",
     "589824": "62840E15DB39E4FE",
     "65536": "7084BDA5918C68C4",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100AA60136D3001",
+            "name": "HOT WHEELS\u2122 - Sportscars Pack"
+        },
+        {
+            "id": "0100AA60136D3002",
+            "name": "HOT WHEELS\u2122 - Beefed Up Pack"
+        },
+        {
+            "id": "0100AA60136D3003",
+            "name": "HOT WHEELS\u2122 - Street Beasts\u2122 Pack"
+        },
+        {
+            "id": "0100AA60136D3004",
+            "name": "HOT WHEELS\u2122 - Bone Shaker\u2122 Unleashed Edition"
+        },
+        {
+            "id": "0100AA60136D3005",
+            "name": "HOT WHEELS\u2122 - Tropical Wave Customization Pack"
+        },
+        {
+            "id": "0100AA60136D3006",
+            "name": "HOT WHEELS\u2122 - Street Fighter M. Bison"
+        },
+        {
+            "id": "0100AA60136D3007",
+            "name": "HOT WHEELS\u2122 - Rolling Boulders Module"
+        },
+        {
+            "id": "0100AA60136D3008",
+            "name": "HOT WHEELS\u2122 - Superman\u2122"
+        },
+        {
+            "id": "0100AA60136D3009",
+            "name": "HOT WHEELS\u2122 - Aston Martin DB5 1963"
+        },
+        {
+            "id": "0100AA60136D300A",
+            "name": "HOT WHEELS\u2122 - Bye Focal\u2122 II"
+        },
+        {
+            "id": "0100AA60136D300B",
+            "name": "HOT WHEELS\u2122 - DC Super-Villains Racing Season"
+        },
+        {
+            "id": "0100AA60136D300C",
+            "name": "HOT WHEELS\u2122 - Pink Fashion Customization Pack"
+        },
+        {
+            "id": "0100AA60136D300D",
+            "name": "HOT WHEELS\u2122 - Street Fighter Blanka"
+        },
+        {
+            "id": "0100AA60136D300E",
+            "name": "HOT WHEELS\u2122 - Wonder Woman\u2122"
+        },
+        {
+            "id": "0100AA60136D300F",
+            "name": "HOT WHEELS\u2122 - AcceleRacers Deora\u2122 II"
+        },
+        {
+            "id": "0100AA60136D3010",
+            "name": "HOT WHEELS\u2122 - TMNT Leonardo"
+        },
+        {
+            "id": "0100AA60136D3011",
+            "name": "HOT WHEELS\u2122 - Thanksgiving Pack"
+        },
+        {
+            "id": "0100AA60136D3012",
+            "name": "HOT WHEELS\u2122 - Batman Expansion"
+        },
+        {
+            "id": "0100AA60136D3013",
+            "name": "HOT WHEELS\u2122 - Holiday Season Customization Pack"
+        },
+        {
+            "id": "0100AA60136D3014",
+            "name": "HOT WHEELS\u2122 - AcceleRacers Bassline\u2122"
+        },
+        {
+            "id": "0100AA60136D3015",
+            "name": "HOT WHEELS\u2122 - Spinning Tire Module"
+        },
+        {
+            "id": "0100AA60136D3016",
+            "name": "HOT WHEELS\u2122 - Dinopult Module"
+        },
+        {
+            "id": "0100AA60136D3017",
+            "name": "HOT WHEELS\u2122 - Barbie\u2122 Dream Camper\u2122"
+        },
+        {
+            "id": "0100AA60136D3018",
+            "name": "HOT WHEELS\u2122 - Christmas Pack"
+        },
+        {
+            "id": "0100AA60136D3019",
+            "name": "HOT WHEELS\u2122 - 2-Tuff\u2122"
+        },
+        {
+            "id": "0100AA60136D301A",
+            "name": "HOT WHEELS\u2122 - SpongeBob Racing Season"
+        },
+        {
+            "id": "0100AA60136D301B",
+            "name": "HOT WHEELS\u2122 - Outer Space Customization Pack"
+        },
+        {
+            "id": "0100AA60136D301C",
+            "name": "HOT WHEELS\u2122 - TMNT Michelangelo"
+        },
+        {
+            "id": "0100AA60136D301D",
+            "name": "HOT WHEELS\u2122 - Booster Slam Module"
+        },
+        {
+            "id": "0100AA60136D301E",
+            "name": "HOT WHEELS\u2122 - AcceleRacers Power Rage\u2122"
+        },
+        {
+            "id": "0100AA60136D301F",
+            "name": "HOT WHEELS\u2122 - Street Fighter Chun-Li"
+        },
+        {
+            "id": "0100AA60136D3020",
+            "name": "HOT WHEELS\u2122 - Mattel Dream Mobile\u2122"
+        },
+        {
+            "id": "0100AA60136D3021",
+            "name": "HOT WHEELS\u2122 - Skaters Customization Pack"
+        },
+        {
+            "id": "0100AA60136D3022",
+            "name": "HOT WHEELS\u2122 - Street Fighter Vega"
+        },
+        {
+            "id": "0100AA60136D3023",
+            "name": "HOT WHEELS\u2122 - Gorilla Garage Module"
+        },
+        {
+            "id": "0100AA60136D3024",
+            "name": "HOT WHEELS\u2122 - Corvette Stingray Convertible 2014"
+        },
+        {
+            "id": "0100AA60136D3025",
+            "name": "HOT WHEELS\u2122 - McLaren Senna"
+        },
+        {
+            "id": "0100AA60136D3026",
+            "name": "HOT WHEELS\u2122 - Night Burner\u2122"
+        },
+        {
+            "id": "0100AA60136D3027",
+            "name": "HOT WHEELS\u2122 - DC Super Heroes Racing Season"
+        },
+        {
+            "id": "0100AA60136D3028",
+            "name": "HOT WHEELS\u2122 - Monster Trucks Expansion"
+        },
+        {
+            "id": "0100AA60136D3029",
+            "name": "HOT WHEELS\u2122 - Haunted Customization Pack"
+        },
+        {
+            "id": "0100AA60136D302A",
+            "name": "HOT WHEELS\u2122 - Street Fighter Ryu"
+        },
+        {
+            "id": "0100AA60136D302B",
+            "name": "HOT WHEELS\u2122 - Shark Jaws Module"
+        },
+        {
+            "id": "0100AA60136D302C",
+            "name": "HOT WHEELS\u2122 - TMNT Raphael"
+        },
+        {
+            "id": "0100AA60136D302D",
+            "name": "HOT WHEELS\u2122 - AcceleRacers Hollowback\u2122"
+        },
+        {
+            "id": "0100AA60136D302E",
+            "name": "HOT WHEELS\u2122 - Chevy 1956"
+        },
+        {
+            "id": "0100AA60136D302F",
+            "name": "HOT WHEELS\u2122 - Mad Manga\u2122"
+        },
+        {
+            "id": "0100AA60136D3030",
+            "name": "HOT WHEELS\u2122 - Cyberpunk Customization Pack"
+        },
+        {
+            "id": "0100AA60136D3031",
+            "name": "HOT WHEELS\u2122 - TMNT Donatello"
+        },
+        {
+            "id": "0100AA60136D3032",
+            "name": "HOT WHEELS\u2122 - Jumping Towers Module"
+        },
+        {
+            "id": "0100AA60136D3033",
+            "name": "HOT WHEELS\u2122 - He-Man\u2122"
+        },
+        {
+            "id": "0100AA60136D3034",
+            "name": "HOT WHEELS\u2122 - The Mystery Machine\u2122"
+        },
+        {
+            "id": "0100AA60136D3035",
+            "name": "HOT WHEELS\u2122 - Hotweiler\u2122"
+        },
+        {
+            "id": "0100AA60136D3036",
+            "name": "HOT WHEELS\u2122 - Jurassic World Racing Season"
+        },
+        {
+            "id": "0100AA60136D3037",
+            "name": "HOT WHEELS\u2122 - Looney Tunes Expansion"
+        },
+        {
+            "id": "0100AA60136D3038",
+            "name": "HOT WHEELS\u2122 - Retro Game Customization Pack"
+        },
+        {
+            "id": "0100AA60136D3039",
+            "name": "HOT WHEELS\u2122 - TMNT Shredder"
+        },
+        {
+            "id": "0100AA60136D303A",
+            "name": "HOT WHEELS\u2122 - Zero Gravity Checkpoint Module"
+        },
+        {
+            "id": "0100AA60136D303B",
+            "name": "HOT WHEELS\u2122 - Skeletor\u2122"
+        },
+        {
+            "id": "0100AA60136D303C",
+            "name": "HOT WHEELS\u2122 - Swamp Thing\u2122"
+        },
+        {
+            "id": "0100AA60136D303D",
+            "name": "HOT WHEELS\u2122 - Aston Martin DBS 2010"
+        },
+        {
+            "id": "0100AA60136D303E",
+            "name": "HOT WHEELS\u2122 - Hot Rod Customization Pack"
+        },
+        {
+            "id": "0100AA60136D303F",
+            "name": "HOT WHEELS\u2122 - The Jetsons\u2122"
+        },
+        {
+            "id": "0100AA60136D3040",
+            "name": "HOT WHEELS\u2122 - Super Dealership Module"
+        },
+        {
+            "id": "0100AA60136D3041",
+            "name": "HOT WHEELS\u2122 - Classic Packard"
+        },
+        {
+            "id": "0100AA60136D3042",
+            "name": "HOT WHEELS\u2122 - McLaren 720S"
+        },
+        {
+            "id": "0100AA60136D3043",
+            "name": "HOT WHEELS\u2122 - Fun Pack"
+        }
+    ],
     "latest": 589824,
     "title": "HOT WHEELS UNLEASHED\u2122"
 }

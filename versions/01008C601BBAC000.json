@@ -1,7 +1,16 @@
 {
     "0": "CD9394C3AB185718",
     "131072": "EE3A8747ADE85477",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01008C601BBAD001",
+            "name": "Crowd City: Zombie Apocalypse DLC"
+        },
+        {
+            "id": "01008C601BBAD002",
+            "name": "Crowd City: Pirate Island DLC"
+        }
+    ],
     "latest": 131072,
     "title": "Crowd City"
 }

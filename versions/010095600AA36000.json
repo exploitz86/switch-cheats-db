@@ -1,7 +1,12 @@
 {
     "0": "C301F538A3BAEE48",
     "65536": "41A7BBEFD2780344",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010095600AA37001",
+            "name": "Phil's USA Road Trip"
+        }
+    ],
     "latest": 65536,
     "title": "Fill-a-Pix: Phil's Epic Adventure"
 }

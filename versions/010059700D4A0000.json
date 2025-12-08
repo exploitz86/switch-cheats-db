@@ -2,7 +2,32 @@
     "0": "274D62F691FA5A40",
     "131072": "12E09E020CE01A42",
     "65536": "B5C7F687C3A04F4B",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010059700D4A1001",
+            "name": "Experience x3 - Sephirothic Stories"
+        },
+        {
+            "id": "010059700D4A1002",
+            "name": "SP x3 - Sephirothic Stories"
+        },
+        {
+            "id": "010059700D4A1003",
+            "name": "Experience & SP x2 - Sephirothic Stories"
+        },
+        {
+            "id": "010059700D4A1004",
+            "name": "No Encounters - Sephirothic Stories"
+        },
+        {
+            "id": "010059700D4A1005",
+            "name": "Damage x2 - Sephirothic Stories"
+        },
+        {
+            "id": "010059700D4A1006",
+            "name": "Full Restore - Sephirothic Stories"
+        }
+    ],
     "latest": 131072,
     "title": "Sephirothic Stories"
 }

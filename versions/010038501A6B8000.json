@@ -2,7 +2,32 @@
     "0": "50147C5B942ABE91",
     "131072": "9DC2719372439CD7",
     "65536": "A3DDA470893BC4EA",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010038501A6B9001",
+            "name": "Song Pack 1"
+        },
+        {
+            "id": "010038501A6B9002",
+            "name": "Song Pack 2"
+        },
+        {
+            "id": "010038501A6B9004",
+            "name": "Song Pack 4"
+        },
+        {
+            "id": "010038501A6B9005",
+            "name": "Song Pack 5"
+        },
+        {
+            "id": "010038501A6B9006",
+            "name": "Song Pack 6"
+        },
+        {
+            "id": "010038501A6B9007",
+            "name": "Song Pack 7"
+        }
+    ],
     "latest": 131072,
     "title": "Piano: Learn and Play"
 }

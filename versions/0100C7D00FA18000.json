@@ -1,7 +1,12 @@
 {
     "0": "B96FDFE8C0BF3DA6",
     "65536": "555C6D6356DB330C",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100C7D00FA19001",
+            "name": "Spooky Party"
+        }
+    ],
     "latest": 65536,
     "title": "Chompy Chomp Chomp Party"
 }

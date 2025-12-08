@@ -2,7 +2,16 @@
     "0": "2D9B56EF70A047DD",
     "131072": "D3016FC0C0402DFB",
     "65536": "71CDEB75B75FA30E",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010084D00CF5F003",
+            "name": "NARUTO SHIPPUDEN\u2122: Ultimate Ninja\u00ae STORM 4 ROAD TO BORUTO Momoshiki and Kinshiki Otsutsuki Early Unlock"
+        },
+        {
+            "id": "010084D00CF5F025",
+            "name": "NARUTO SHIPPUDEN\u2122: Ultimate Ninja\u00ae STORM 4 ROAD TO BORUTO Playable Characters and Ninja Costumes Early Unlock"
+        }
+    ],
     "latest": 131072,
     "title": "NARUTO SHIPPUDEN\u2122: Ultimate Ninja\u00ae STORM 4 ROAD TO BORUTO"
 }

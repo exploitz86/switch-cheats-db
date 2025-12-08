@@ -1,7 +1,32 @@
 {
     "0": "A98C092AB06C72A5",
     "327680": "DF15EDAAF603E00C",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01008F2005155001",
+            "name": "Relics of Zaron \u2013 Stick of Truth Costumes and Perks Pack"
+        },
+        {
+            "id": "01008F2005155002",
+            "name": "South Park\u2122: The Fractured but Whole\u2122 Towelie: Your Gaming Bud"
+        },
+        {
+            "id": "01008F2005155003",
+            "name": "South Park\u2122: The Fractured but Whole\u2122 - Super Streamer Starter Kit"
+        },
+        {
+            "id": "01008F2005155004",
+            "name": "South Park\u2122: The Fractured but Whole\u2122 - Danger Deck"
+        },
+        {
+            "id": "01008F2005155005",
+            "name": "South Park\u2122: The Fractured But Whole\u2122 \u2013 From Dusk Till Casa Bonita"
+        },
+        {
+            "id": "01008F2005155006",
+            "name": "South Park: The Fractured But Whole Bring the Crunch"
+        }
+    ],
     "latest": 327680,
     "title": "South Park\u2122: The Fractured but Whole\u2122 - Standard Edition"
 }

@@ -1,7 +1,40 @@
 {
     "0": "F92DCFC79E37DD03",
     "327680": "DEEE18D307C81634",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010009800203F001",
+            "name": "WWE 2K18 Kurt Angle Pack"
+        },
+        {
+            "id": "010009800203F002",
+            "name": "WWE 2K18 Accelerator"
+        },
+        {
+            "id": "010009800203F003",
+            "name": "WWE 2K18 Cena (Nuff) Pack"
+        },
+        {
+            "id": "010009800203F004",
+            "name": "WWE 2K18 MyPLAYER Kick Start"
+        },
+        {
+            "id": "010009800203F005",
+            "name": "WWE 2K18 NXT Generation Pack"
+        },
+        {
+            "id": "010009800203F006",
+            "name": "WWE 2K18 NXT Generation Pack"
+        },
+        {
+            "id": "010009800203F007",
+            "name": "WWE 2K18 New Moves Pack"
+        },
+        {
+            "id": "010009800203F008",
+            "name": "WWE 2K18 Enduring Icons Pack"
+        }
+    ],
     "latest": 327680,
     "title": "WWE 2K18"
 }

@@ -2,7 +2,28 @@
     "0": "15412B5D3B8D711A",
     "131072": "85E49C169A8B988A",
     "65536": "85E49C169A8B988A",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010028D00BA1B001",
+            "name": "Investigator Pack"
+        },
+        {
+            "id": "010028D00BA1B002",
+            "name": "Merciful Madness"
+        },
+        {
+            "id": "010028D00BA1B003",
+            "name": "Chicago Organ Grinder"
+        },
+        {
+            "id": "010028D00BA1B004",
+            "name": "Worshippers of the Necronomicon"
+        },
+        {
+            "id": "010028D00BA1B005",
+            "name": "Experience Boost"
+        }
+    ],
     "latest": 131072,
     "title": "The Sinking City"
 }

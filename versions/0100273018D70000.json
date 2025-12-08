@@ -2,7 +2,28 @@
     "0": "3846C29E56B3D022",
     "131072": "54C42C73890100F1",
     "65536": "146793D113E1391B",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100273018D71001",
+            "name": "PAW Patrol World - Aqua Pups - Costume Pack"
+        },
+        {
+            "id": "0100273018D71002",
+            "name": "PAW Patrol World - Halloween - Costume Pack"
+        },
+        {
+            "id": "0100273018D71003",
+            "name": "PAW Patrol World - The Mighty Movie - Costume Pack"
+        },
+        {
+            "id": "0100273018D71004",
+            "name": "PAW Patrol World - Rescue Knights - Costume Pack"
+        },
+        {
+            "id": "0100273018D71005",
+            "name": "PAW Patrol World - Ultimate Rescue - Costume Pack"
+        }
+    ],
     "latest": 131072,
     "title": "PAW Patrol World"
 }

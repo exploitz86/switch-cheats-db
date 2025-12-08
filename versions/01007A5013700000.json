@@ -1,6 +1,15 @@
 {
     "0": "983A85378B25E047",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01007A5013701001",
+            "name": "My Magic Florist Expansion Pack 1"
+        },
+        {
+            "id": "01007A5013701002",
+            "name": "My Magic Florist Expansion Pack 2"
+        }
+    ],
     "latest": 0,
     "title": "My Magic Florist"
 }

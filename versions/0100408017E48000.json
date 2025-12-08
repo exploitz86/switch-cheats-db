@@ -5,7 +5,16 @@
     "262144": "7A93E3E83A97DB7A",
     "327680": "D12346222E36FD1E",
     "65536": "1AF976332ECFAA71",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100408017E49001",
+            "name": "Bratz\u2122: Flaunt Your Fashion - Girls Nite Out Fashion Pack"
+        },
+        {
+            "id": "0100408017E49002",
+            "name": "Bratz\u00ae: Flaunt Your Fashion - Pretty 'N' Punk Fashion Pack"
+        }
+    ],
     "latest": 327680,
     "title": "Bratz\u00ae: Flaunt your fashion - Complete Edition"
 }

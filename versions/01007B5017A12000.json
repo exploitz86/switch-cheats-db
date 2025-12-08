@@ -5,7 +5,12 @@
     "327680": "CE14D183190A44D2",
     "393216": "4A5D86DA05A4E7BB",
     "65536": "95FA701F6A1F1409",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01007B5017A13001",
+            "name": "Sifu Deluxe Cosmetic Pack"
+        }
+    ],
     "latest": 393216,
     "title": "Sifu"
 }

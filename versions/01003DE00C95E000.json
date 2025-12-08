@@ -2,7 +2,28 @@
     "131072": "852EAB3DECED1F79",
     "196608": "A305A5E7B29C2B6E",
     "262144": "C16E154E683D7EB8",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01003DE00C95F008",
+            "name": "Mary Skelter Game Item"
+        },
+        {
+            "id": "01003DE00C95F013",
+            "name": "Blood Maidens' Swimsuits"
+        },
+        {
+            "id": "01003DE00C95F015",
+            "name": "Death end re;Quest Job Attire 1"
+        },
+        {
+            "id": "01003DE00C95F016",
+            "name": "Death end re;Quest Job Attire 2"
+        },
+        {
+            "id": "01003DE00C95F017",
+            "name": "Jailbreak Support Goods"
+        }
+    ],
     "latest": 262144,
     "title": "Mary Skelter 2"
 }

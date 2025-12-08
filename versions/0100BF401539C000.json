@@ -8,7 +8,16 @@
     "589824": "772C4AA86836C994",
     "655360": "CC7022B0233341C9",
     "720896": "CC7022B0233341C9",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100BF401539D001",
+            "name": "Dinosaur Island DLC"
+        },
+        {
+            "id": "0100BF401539D002",
+            "name": "Aquarium Odyssey DLC"
+        }
+    ],
     "latest": 720896,
     "title": "Let's Build a Zoo"
 }

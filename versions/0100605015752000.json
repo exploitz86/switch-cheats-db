@@ -1,6 +1,11 @@
 {
     "0": "E030CE6545B08A52",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100605015753001",
+            "name": "Toy Box"
+        }
+    ],
     "latest": 0,
     "title": "Checkers for Kids"
 }

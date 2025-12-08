@@ -1,7 +1,12 @@
 {
     "0": "B429AAA0E36F3C4C",
     "196608": "19DEAC72D7C61B47",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010092B010449001",
+            "name": "Piffle DLC 1: The Great Dessert"
+        }
+    ],
     "latest": 196608,
     "title": "Piffle: A Cat Puzzle Adventure"
 }

@@ -2,7 +2,24 @@
     "0": "491398E9DAA24C43",
     "196608": "4A6DECC31E12434E",
     "262144": "C4434934C12F3A43",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010033100AC2D001",
+            "name": "\u300cBig and Strong\u300dForever"
+        },
+        {
+            "id": "010033100AC2D002",
+            "name": "\u300cAdd 10 Balls\u300dForever"
+        },
+        {
+            "id": "010033100AC2D003",
+            "name": "\u300cDefense Block\u300dForever"
+        },
+        {
+            "id": "010033100AC2D004",
+            "name": "\u300cLIFE Infinite\u300dForever"
+        }
+    ],
     "latest": 262144,
     "title": "Akihabara CRASH! 123STAGE+1"
 }

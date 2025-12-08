@@ -3,7 +3,16 @@
     "131072": "FA3711C80F8E4C96",
     "196608": "2AE460B4DAEBFC2D",
     "65536": "F3C919EF98FFCC15",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100360016801001",
+            "name": "PAW Patrol: Grand Prix - Race in Barkingburg"
+        },
+        {
+            "id": "0100360016801002",
+            "name": "PAW Patrol Grand Prix - Pup Treat Arena"
+        }
+    ],
     "latest": 196608,
     "title": "PAW Patrol: Grand Prix - Complete Edition"
 }

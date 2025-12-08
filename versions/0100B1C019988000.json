@@ -3,7 +3,12 @@
     "262144": "CE44A0776999BEDD",
     "327680": "9726FFA64610429C",
     "65536": "16E367C68FA27E7D",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100B1C019989001",
+            "name": "The Last Hero of Nostalgaia - The Rise of Evil"
+        }
+    ],
     "latest": 327680,
     "title": "The Last Hero of Nostalgaia"
 }

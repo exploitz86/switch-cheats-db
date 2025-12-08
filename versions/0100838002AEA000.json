@@ -3,7 +3,24 @@
     "524288": "7156BBA698B3704A",
     "589824": "2DAAB52C4A8F9041",
     "655360": "8174C89125B5404E",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100838002AEB003",
+            "name": "Classic Space Pack"
+        },
+        {
+            "id": "0100838002AEB007",
+            "name": "Monsters Pack"
+        },
+        {
+            "id": "0100838002AEB00A",
+            "name": "Showcase Collection Pack 1"
+        },
+        {
+            "id": "0100838002AEB00B",
+            "name": "Showcase Collection Pack #2"
+        }
+    ],
     "latest": 655360,
     "title": "LEGO\u00ae Worlds"
 }

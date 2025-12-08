@@ -12,7 +12,20 @@
     "458752": "ED16D718B9F3B0E1",
     "917504": "0C2526B7A45C6287",
     "983040": "0335D16C678BD527",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100926016013001",
+            "name": "PowerWash Simulator \u2013 Tomb Raider Special Pack"
+        },
+        {
+            "id": "0100926016013002",
+            "name": "PowerWash Simulator Midgar Special Pack"
+        },
+        {
+            "id": "0100926016013003",
+            "name": "PowerWash Simulator SpongeBob SquarePants Special Pack"
+        }
+    ],
     "latest": 1245184,
     "title": "PowerWash Simulator"
 }

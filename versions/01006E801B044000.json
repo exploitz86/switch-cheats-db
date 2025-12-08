@@ -1,7 +1,12 @@
 {
     "131072": "4AA93F0C324D862A",
     "65536": "00A77836DF30286D",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01006E801B045001",
+            "name": "Christopher Bell Preorder Exclusive"
+        }
+    ],
     "latest": 131072,
     "title": "World of Outlaws: Dirt Racing '23 Edition"
 }

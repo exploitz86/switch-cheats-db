@@ -3,7 +3,36 @@
     "327680": "79AEDEDA53868D89",
     "393216": "6649C19BA80590E4",
     "458752": "2D120FCBDE373F4E",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01000E2003FA1001",
+            "name": "DLC Character: Ekoro"
+        },
+        {
+            "id": "01000E2003FA1002",
+            "name": "DLC Character: Call"
+        },
+        {
+            "id": "01000E2003FA1003",
+            "name": "DLC Character: Joule"
+        },
+        {
+            "id": "01000E2003FA1004",
+            "name": "DLC Character: Ray"
+        },
+        {
+            "id": "01000E2003FA1005",
+            "name": "DLC Character: Copen"
+        },
+        {
+            "id": "01000E2003FA1006",
+            "name": "DLC Character: Kurona"
+        },
+        {
+            "id": "01000E2003FA1007",
+            "name": "DLC Character: Tenzou"
+        }
+    ],
     "latest": 458752,
     "title": "MIGHTY GUNVOLT BURST"
 }

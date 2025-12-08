@@ -2,7 +2,12 @@
     "0": "DA78949BB4161F40",
     "131072": "C949E2576F532C43",
     "65536": "C8F7A25E31377144",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01001AF00CE55001",
+            "name": "Ouka-Setsugetsu"
+        }
+    ],
     "latest": 131072,
     "title": "ONINAKI"
 }

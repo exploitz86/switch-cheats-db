@@ -1,7 +1,20 @@
 {
     "0": "555C31C0B8C8D540",
     "65536": "80DF59304275054E",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01001620105FF001",
+            "name": "Experience x3 - Monster Viator"
+        },
+        {
+            "id": "01001620105FF002",
+            "name": "White Pancho - Monster Viator"
+        },
+        {
+            "id": "01001620105FF003",
+            "name": "Damage x2 - Monster Viator"
+        }
+    ],
     "latest": 65536,
     "title": "Monster Viator"
 }

@@ -1,7 +1,48 @@
 {
     "0": "BD266195D25F5B4D",
     "393216": "20CD49F2BA64744D",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100D3A00409F001",
+            "name": "Classic Guardians of the Galaxy Character Pack"
+        },
+        {
+            "id": "0100D3A00409F002",
+            "name": "Out of Time Character Pack"
+        },
+        {
+            "id": "0100D3A00409F003",
+            "name": "Agents of Atlas Character Pack"
+        },
+        {
+            "id": "0100D3A00409F004",
+            "name": "Marvel's Guardians of the Galaxy: Vol. 2 Movie Level Pack"
+        },
+        {
+            "id": "0100D3A00409F005",
+            "name": "Champions Character Pack"
+        },
+        {
+            "id": "0100D3A00409F006",
+            "name": "Marvel's Black Panther Movie Character and Level Pack"
+        },
+        {
+            "id": "0100D3A00409F007",
+            "name": "Cloak And Dagger Character and Level Pack"
+        },
+        {
+            "id": "0100D3A00409F008",
+            "name": "Runaways Level and Character Pack"
+        },
+        {
+            "id": "0100D3A00409F009",
+            "name": "Marvel's Avengers: Infinity War Movie Level Pack"
+        },
+        {
+            "id": "0100D3A00409F00A",
+            "name": "Marvel's Ant-Man and the Wasp Character and Level Pack"
+        }
+    ],
     "latest": 393216,
     "title": "LEGO\u00ae Marvel Super Heroes 2"
 }

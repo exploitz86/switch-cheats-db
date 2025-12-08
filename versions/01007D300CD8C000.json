@@ -3,7 +3,36 @@
     "131072": "580D7EC935250645",
     "196608": "781A8278C5BFE44A",
     "65536": "91B7A8F90E00B44C",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01007D300CD8D001",
+            "name": "Experience Green Orb"
+        },
+        {
+            "id": "01007D300CD8D002",
+            "name": "Skill Point Green Orb"
+        },
+        {
+            "id": "01007D300CD8D003",
+            "name": "Skill Level Green Orb"
+        },
+        {
+            "id": "01007D300CD8D004",
+            "name": "Boost Green Orb Set"
+        },
+        {
+            "id": "01007D300CD8D005",
+            "name": "Encounter Green Orb"
+        },
+        {
+            "id": "01007D300CD8D006",
+            "name": "Damage Green Orb"
+        },
+        {
+            "id": "01007D300CD8D007",
+            "name": "Full Recovery Green Orb"
+        }
+    ],
     "latest": 196608,
     "title": "Asdivine Hearts II"
 }

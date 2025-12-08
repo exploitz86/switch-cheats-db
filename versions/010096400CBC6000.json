@@ -8,7 +8,32 @@
     "458752": "2641EC4578CC4B49",
     "524288": "D20F78A37DB27149",
     "589824": "5BB42BA6EEA25944",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010096400CBC7001",
+            "name": "TerraTech - To the Stars Pack"
+        },
+        {
+            "id": "010096400CBC7002",
+            "name": "TerraTech - Weapons of War Pack"
+        },
+        {
+            "id": "010096400CBC7003",
+            "name": "TerraTech - R&D Pack"
+        },
+        {
+            "id": "010096400CBC7004",
+            "name": "TerraTech - Fantabulous Contraptions Pack"
+        },
+        {
+            "id": "010096400CBC7005",
+            "name": "TerraTech - Warriors of Future Past Pack"
+        },
+        {
+            "id": "010096400CBC7006",
+            "name": "TerraTech - Falcon Genesis Pack"
+        }
+    ],
     "latest": 589824,
     "title": "TerraTech"
 }

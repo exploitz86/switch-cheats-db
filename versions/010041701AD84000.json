@@ -1,6 +1,15 @@
 {
     "0": "81300E4C2A376A82",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010041701AD85001",
+            "name": "AMAZE! Level Pack 1"
+        },
+        {
+            "id": "010041701AD85002",
+            "name": "AMAZE! Level Pack 2"
+        }
+    ],
     "latest": 0,
     "title": "AMAZE!"
 }

@@ -1,6 +1,11 @@
 {
     "0": "D3FA3AA21A0EB48C",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010010400D46B001",
+            "name": "SNACK WORLD: THE DUNGEON CRAWL \u2014 GOLD\nSpecial Bonus"
+        }
+    ],
     "latest": 0,
     "title": "SNACK WORLD: THE DUNGEON CRAWL \u2014 GOLD"
 }

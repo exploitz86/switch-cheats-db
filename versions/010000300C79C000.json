@@ -3,7 +3,12 @@
     "262144": "89E633A470C65BA8",
     "393216": "4647CDCF85FF7A16",
     "458752": "9051D80B56225300",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010000300C79D001",
+            "name": "Gensokyo Defenders Plus"
+        }
+    ],
     "latest": 458752,
     "title": "GensokyoDefenders"
 }

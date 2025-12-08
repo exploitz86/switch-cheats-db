@@ -2,7 +2,32 @@
     "0": "C3CDF1E64243454E",
     "131072": "86E1BC7F7B8DC744",
     "65536": "1CE7C61E5BD18E49",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010054B00D4A3001",
+            "name": "Experience x3 - Asdivine Dios"
+        },
+        {
+            "id": "010054B00D4A3002",
+            "name": "SP x3 - Asdivine Dios"
+        },
+        {
+            "id": "010054B00D4A3003",
+            "name": "Experience & SP x2 - Asdivine Dios"
+        },
+        {
+            "id": "010054B00D4A3004",
+            "name": "No Encounters - Asdivine Dios"
+        },
+        {
+            "id": "010054B00D4A3005",
+            "name": "Damage x2 - Asdivine Dios"
+        },
+        {
+            "id": "010054B00D4A3006",
+            "name": "Full Restore - Asdivine Dios"
+        }
+    ],
     "latest": 131072,
     "title": "Asdivine Dios"
 }

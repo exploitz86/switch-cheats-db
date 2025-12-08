@@ -9,7 +9,12 @@
     "589824": "745957957D93EAC6",
     "65536": "96BEFB305F90058B",
     "655360": "8486D9D7E525D331",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100E4701355D001",
+            "name": "Extra Modes"
+        }
+    ],
     "latest": 655360,
     "title": "Sword of the Necromancer"
 }

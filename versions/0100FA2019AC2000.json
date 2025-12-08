@@ -5,7 +5,12 @@
     "262144": "9EB5D1C2B271266B",
     "458752": "91CE601F6A7174CF",
     "65536": "EA1AEB8D63B5C581",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100FA2019AC3002",
+            "name": "TT Isle Of Man 3 \u2013 John McGuiness 100th Start Livery"
+        }
+    ],
     "latest": 458752,
     "title": "TT Isle of Man: Ride on the Edge 3"
 }

@@ -8,7 +8,12 @@
     "589824": "552DD4DBDC4D3942",
     "655360": "C85290E49736074A",
     "720896": "C85290E49736074A",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100F4700B2E1001",
+            "name": "Moonlighter: Between Dimensions"
+        }
+    ],
     "latest": 720896,
     "title": "Moonlighter"
 }

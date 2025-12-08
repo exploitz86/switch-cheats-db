@@ -5,7 +5,12 @@
     "262144": "8DEE425C06CB9C19",
     "327680": "63DEB63518DAA853",
     "65536": "4F3A19BB05A452F4",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100317014B7D001",
+            "name": "Bomb Rush Cyberfunk DLC - Base & Jay"
+        }
+    ],
     "latest": 327680,
     "title": "Bomb Rush Cyberfunk"
 }

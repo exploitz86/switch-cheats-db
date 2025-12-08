@@ -1,6 +1,19 @@
 {
     "0": "EC8DA89307D43846",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010048600B14F001",
+            "name": "Encore Pack"
+        },
+        {
+            "id": "010048600B14F002",
+            "name": "Gal Metal \u2014 Bonus Tracks Vol. 1"
+        },
+        {
+            "id": "010048600B14F003",
+            "name": "Gal Metal \u2014 Bonus Tracks Vol. 2"
+        }
+    ],
     "latest": 0,
     "title": "Gal Metal"
 }

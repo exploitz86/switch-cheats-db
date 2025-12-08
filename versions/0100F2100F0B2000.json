@@ -1,7 +1,12 @@
 {
     "0": "BE6F72DDC9E7244B",
     "65536": "452D521CB12D114F",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100F2100F0B3001",
+            "name": "Soul-Soothing Donation"
+        }
+    ],
     "latest": 65536,
     "title": "Soul Searching"
 }

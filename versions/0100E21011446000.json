@@ -11,7 +11,132 @@
     "655360": "52D3FBEF16F2D951",
     "720896": "92F79074CAADA359",
     "786432": "C91D98A546E55D5C",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100E21011447001",
+            "name": "Ena's Outfit: Tropical Dress"
+        },
+        {
+            "id": "0100E21011447002",
+            "name": "Monster Hunter Stories 2: Wings of Ruin Deluxe Kit"
+        },
+        {
+            "id": "0100E21011447003",
+            "name": "Ena's Outfit: Ancient Raiment"
+        },
+        {
+            "id": "0100E21011447004",
+            "name": "Ena's Outfit: Felyne Shelter Garb"
+        },
+        {
+            "id": "0100E21011447005",
+            "name": "Ena's Outfits: Cheerleader Three-Pack (Blue/Orange/Pink)"
+        },
+        {
+            "id": "0100E21011447006",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100E21011447007",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100E2101144700A",
+            "name": "Ena's Outfit: Kamura Maiden Outfit"
+        },
+        {
+            "id": "0100E2101144700B",
+            "name": "Rider's Layered Armor: Hakum Rider Outfit"
+        },
+        {
+            "id": "0100E2101144700F",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100E21011447010",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100E21011447011",
+            "name": "Navirou's Outfit: Downy Duds"
+        },
+        {
+            "id": "0100E21011447012",
+            "name": "Navirou's Outfit: Kulu-Ya-Ku Costume"
+        },
+        {
+            "id": "0100E21011447013",
+            "name": "Navirou's Outfit: Legiana Costume"
+        },
+        {
+            "id": "0100E21011447014",
+            "name": "Navirou's Outfit: Paolumu Costume"
+        },
+        {
+            "id": "0100E21011447015",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100E21011447016",
+            "name": "Navirou's Outfit: Anjanath Costume"
+        },
+        {
+            "id": "0100E21011447017",
+            "name": "Navirou's Outfit: Fulgur Anja Costume"
+        },
+        {
+            "id": "0100E21011447018",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100E21011447019",
+            "name": "Navirou's Outfit: Velkhana Costume"
+        },
+        {
+            "id": "0100E2101144701A",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100E2101144701B",
+            "name": "Rider's Hairstyle: Shaggy Legiana"
+        },
+        {
+            "id": "0100E2101144701C",
+            "name": "Rider's Hairstyle: Lumu Afro"
+        },
+        {
+            "id": "0100E2101144701D",
+            "name": "Rider's Hairstyle: Mizutsune Braid"
+        },
+        {
+            "id": "0100E2101144701E",
+            "name": "Rider's Hairstyle: Mohawk Kulu"
+        },
+        {
+            "id": "0100E2101144701F",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100E21011447020",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100E21011447022",
+            "name": "Character Edit Ticket One-Pack"
+        },
+        {
+            "id": "0100E21011447023",
+            "name": "Character Edit Ticket Two-Pack"
+        },
+        {
+            "id": "0100E21011447024",
+            "name": "Character Edit Ticket Three-Pack"
+        },
+        {
+            "id": "0100E21011447027",
+            "name": "Launch Starter Pack"
+        }
+    ],
     "latest": 786432,
     "title": "Monster Hunter Stories 2: Wings of Ruin"
 }

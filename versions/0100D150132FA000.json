@@ -2,7 +2,16 @@
     "0": "8900CB9072C67E49",
     "131072": "30FD5F9A4B9FB642",
     "65536": "9A7802AA18C7E94C",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100D150132FB001",
+            "name": "Pancake Bar Tycoon Expansion Pack #1"
+        },
+        {
+            "id": "0100D150132FB002",
+            "name": "Pancake Bar Tycoon Expansion Pack #2"
+        }
+    ],
     "latest": 131072,
     "title": "Pancake Bar Tycoon"
 }

@@ -2,7 +2,100 @@
     "0": "D4697788BCE011D0",
     "262144": "351694385B22760D",
     "327680": "F7C4835FD8AE9D10",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01007F200B0C1013",
+            "name": "Ys VIII: Lacrimosa of DANA - Free Set 1"
+        },
+        {
+            "id": "01007F200B0C1014",
+            "name": "Ys VIII: Lacrimosa of DANA - Free Set 2"
+        },
+        {
+            "id": "01007F200B0C1015",
+            "name": "Ys VIII: Lacrimosa of DANA - Bottled Potion Set"
+        },
+        {
+            "id": "01007F200B0C1016",
+            "name": "Ys VIII: Lacrimosa of DANA - Ripe Fruit Set"
+        },
+        {
+            "id": "01007F200B0C1017",
+            "name": "Ys VIII: Lacrimosa of DANA - Status Recovery Set"
+        },
+        {
+            "id": "01007F200B0C1018",
+            "name": "Ys VIII: Lacrimosa of DANA - Elixir Set 1"
+        },
+        {
+            "id": "01007F200B0C1019",
+            "name": "Ys VIII: Lacrimosa of DANA - Elixir Set 2"
+        },
+        {
+            "id": "01007F200B0C101A",
+            "name": "Ys VIII: Lacrimosa of DANA - Elixir Set 3"
+        },
+        {
+            "id": "01007F200B0C101B",
+            "name": "Ys VIII: Lacrimosa of DANA - Elixir Set 4"
+        },
+        {
+            "id": "01007F200B0C101C",
+            "name": "Ys VIII: Lacrimosa of DANA - Elixir Set 5"
+        },
+        {
+            "id": "01007F200B0C101D",
+            "name": "Ys VIII: Lacrimosa of DANA - Tempest Set 1"
+        },
+        {
+            "id": "01007F200B0C101E",
+            "name": "Ys VIII: Lacrimosa of DANA - Tempest Set 2"
+        },
+        {
+            "id": "01007F200B0C101F",
+            "name": "Ys VIII: Lacrimosa of DANA - Tempest Set 3"
+        },
+        {
+            "id": "01007F200B0C1020",
+            "name": "Ys VIII: Lacrimosa of DANA - Tempest Set 4"
+        },
+        {
+            "id": "01007F200B0C1021",
+            "name": "Ys VIII: Lacrimosa of DANA - Tempest Set 5"
+        },
+        {
+            "id": "01007F200B0C1022",
+            "name": "Ys VIII: Lacrimosa of DANA - Castaway Start Dash Set"
+        },
+        {
+            "id": "01007F200B0C1023",
+            "name": "Ys VIII: Lacrimosa of DANA - Premium Material Set"
+        },
+        {
+            "id": "01007F200B0C1024",
+            "name": "Ys VIII: Lacrimosa of DANA - Economy Ingredient Set"
+        },
+        {
+            "id": "01007F200B0C1025",
+            "name": "Ys VIII: Lacrimosa of DANA - Useful Accessory Set"
+        },
+        {
+            "id": "01007F200B0C1026",
+            "name": "Ys VIII: Lacrimosa of DANA - Advanced Accessory Set"
+        },
+        {
+            "id": "01007F200B0C1027",
+            "name": "Ys VIII: Lacrimosa of DANA - Fish Bait Set 1"
+        },
+        {
+            "id": "01007F200B0C1028",
+            "name": "Ys VIII: Lacrimosa of DANA - Fish Bait Set 2"
+        },
+        {
+            "id": "01007F200B0C1029",
+            "name": "Ys VIII: Lacrimosa of DANA - Fish Bait Set 3"
+        }
+    ],
     "latest": 327680,
     "title": "Ys VIII: Lacrimosa of DANA"
 }

@@ -2,7 +2,20 @@
     "0": "E75EB371AA43A3D0",
     "131072": "3AC7888EC5951124",
     "65536": "C732BDE307278249",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01005CE015081001",
+            "name": "Experience x3 - Alphadia Genesis 2"
+        },
+        {
+            "id": "01005CE015081002",
+            "name": "Damage x2 - Alphadia Genesis 2"
+        },
+        {
+            "id": "01005CE015081003",
+            "name": "Full Restore - Alphadia Genesis 2"
+        }
+    ],
     "latest": 131072,
     "title": "Alphadia Genesis 2"
 }

@@ -3,7 +3,12 @@
     "131072": "63A577F7274C5ABB",
     "196608": "951688518EB810A0",
     "65536": "7ED186AD1218ACDF",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100996012D7B001",
+            "name": "Doodle Devil: 3volution - Puzzles & Quests"
+        }
+    ],
     "latest": 196608,
     "title": "Doodle Devil: 3volution"
 }

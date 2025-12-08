@@ -5,7 +5,16 @@
     "327680": "753C9D77C83FA5BD",
     "393216": "86C38FBDDB7714EE",
     "65536": "1CB890C0FD2DE966",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100118016037001",
+            "name": "\"SNOW MIKU 2022\" Downloadable Content"
+        },
+        {
+            "id": "0100118016037002",
+            "name": "\"Kagamine Rin / Len Happy 14th Birthday\" Downloadable Content"
+        }
+    ],
     "latest": 393216,
     "title": "Hatsune Miku Connecting Puzzle TAMAGOTORI"
 }

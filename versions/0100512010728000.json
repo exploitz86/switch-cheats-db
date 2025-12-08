@@ -7,7 +7,20 @@
     "393216": "6D65CCDDD18B3546",
     "524288": "4AF126A14506B30C",
     "65536": "D542DB8FA2A7EB41",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100512010729001",
+            "name": "Cyberfunk"
+        },
+        {
+            "id": "0100512010729002",
+            "name": "Stunt Sets"
+        },
+        {
+            "id": "0100512010729003",
+            "name": "Dress Code"
+        }
+    ],
     "latest": 524288,
     "title": "Totally Reliable Delivery Service"
 }

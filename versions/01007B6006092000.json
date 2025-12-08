@@ -12,7 +12,20 @@
     "786432": "41E17F6A2292EE9D",
     "851968": "41E17F6A2292EE9D",
     "917504": "41E17F6A2292EE9D",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01007B6006093002",
+            "name": "House Theme"
+        },
+        {
+            "id": "01007B6006093003",
+            "name": "Universe Theme"
+        },
+        {
+            "id": "01007B6006093004",
+            "name": "JP Cyber Theme"
+        }
+    ],
     "latest": 917504,
     "title": "MUSYNX"
 }

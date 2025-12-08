@@ -1,7 +1,12 @@
 {
     "0": "1EDD374DA8E72C42",
     "65536": "1EDD374DA8E72C42",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01005E700ABB9001",
+            "name": "Alf's Escape"
+        }
+    ],
     "latest": 65536,
     "title": "Oddworld: New 'n' Tasty"
 }

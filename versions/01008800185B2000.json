@@ -1,6 +1,11 @@
 {
     "65536": "3AFD9FDFECEDFC3F",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01008800185B3001",
+            "name": "Resident Evil 2 Cloud All In-game Rewards Unlock"
+        }
+    ],
     "latest": 65536,
     "title": "Resident Evil 2 Cloud"
 }

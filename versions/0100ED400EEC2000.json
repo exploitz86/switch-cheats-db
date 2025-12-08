@@ -5,7 +5,28 @@
     "262144": "9587AA1DA8220111",
     "327680": "64DA1F5FC9618698",
     "65536": "E963F5692EB8AEDD",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100ED400EEC3001",
+            "name": "Cow Costume"
+        },
+        {
+            "id": "0100ED400EEC3002",
+            "name": "Sheep Costume"
+        },
+        {
+            "id": "0100ED400EEC3003",
+            "name": "Dog Costume"
+        },
+        {
+            "id": "0100ED400EEC3004",
+            "name": "Chick Costume"
+        },
+        {
+            "id": "0100ED400EEC3005",
+            "name": "Chicken Costume"
+        }
+    ],
     "latest": 327680,
     "title": "STORY OF SEASONS: Friends of Mineral Town"
 }

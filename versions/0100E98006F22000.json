@@ -3,7 +3,12 @@
     "393216": "DC19E7CB0A65EB4C",
     "458752": "DC19E7CB0A65EB4C",
     "524288": "A128E6A49B36464A",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100E98006F23001",
+            "name": "Bad North Portraits Pack"
+        }
+    ],
     "latest": 524288,
     "title": "Bad North"
 }

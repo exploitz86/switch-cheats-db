@@ -5,7 +5,96 @@
     "393216": "4D9BDF741A92EA9B",
     "458752": "D8278814BC44E5D3",
     "65536": "0A0D955453215B3F",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010071C0133910C8",
+            "name": "Ryza's Outfit\u00a0- Special Costume for Ao"
+        },
+        {
+            "id": "010071C0133910C9",
+            "name": "Summer Bikini - Costume for Ao"
+        },
+        {
+            "id": "010071C0133910CA",
+            "name": "Hoshinomiya Extreme Makeover Swimsuit - Costume Set"
+        },
+        {
+            "id": "010071C0133910CB",
+            "name": "Uniform Alt. Color - Costume Set"
+        },
+        {
+            "id": "010071C0133910CC",
+            "name": "Hoshinomiya Uniform - Costume Set"
+        },
+        {
+            "id": "010071C0133910D4",
+            "name": "Ao Costume - Hospitable Kitty"
+        },
+        {
+            "id": "010071C0133910D5",
+            "name": "Kokoro, Kirara & Hiori Costumes - Hospitable Kitties"
+        },
+        {
+            "id": "010071C0133910D6",
+            "name": "Rena, Hinako & Uta Costumes - Hospitable Kitties"
+        },
+        {
+            "id": "010071C0133910D7",
+            "name": "Yuki, Shiho & Mio Costumes - Hospitable Kitties"
+        },
+        {
+            "id": "010071C0133910D8",
+            "name": "Ao Costume - Beachside Puppy"
+        },
+        {
+            "id": "010071C0133910D9",
+            "name": "Kokoro, Kirara & Hiori Costumes - Beachside Puppies"
+        },
+        {
+            "id": "010071C0133910DA",
+            "name": "Rena, Hinako & Uta Costumes - Beachside Puppies"
+        },
+        {
+            "id": "010071C0133910DB",
+            "name": "Yuki, Shiho & Mio Costumes - Beachside Puppies"
+        },
+        {
+            "id": "010071C013391258",
+            "name": "Additional Map - Atelier Ryza Collab Dungeon"
+        },
+        {
+            "id": "010071C013391259",
+            "name": "Additional Map - Hidden Southern Island"
+        },
+        {
+            "id": "010071C0133912BC",
+            "name": "Crafting Function - Ether Synthesis"
+        },
+        {
+            "id": "010071C013391320",
+            "name": "Bunny Ear Headband\u00a0- Accessory"
+        },
+        {
+            "id": "010071C013391322",
+            "name": "Sunflower Headband & Summer Sunglasses"
+        },
+        {
+            "id": "010071C013391384",
+            "name": "Special Photo Frame - Bulletin Board"
+        },
+        {
+            "id": "010071C0133913E8",
+            "name": "Extreme School Makeover Kit"
+        },
+        {
+            "id": "010071C0133913E9",
+            "name": "School Development Facility - Summer Night Vacation"
+        },
+        {
+            "id": "010071C01339144C",
+            "name": "Jump Start Fragment Set"
+        }
+    ],
     "latest": 458752,
     "title": "BLUE REFLECTION: Second Light"
 }

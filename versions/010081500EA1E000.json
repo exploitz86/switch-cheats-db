@@ -5,7 +5,16 @@
     "262144": "5B6017B8FE30A28D",
     "327680": "57F46046A792060D",
     "393216": "57F46046A792060D",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010081500EA1F001",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010081500EA1F002",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 393216,
     "title": "Asterix & Obelix XXL 3  - The Crystal Menhir"
 }

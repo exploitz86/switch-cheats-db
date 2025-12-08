@@ -6,7 +6,20 @@
     "393216": "D45B9332B5742A70",
     "458752": "E47783ECB944D857",
     "65536": "7BB82A75CC91FBA5",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100664016D5D001",
+            "name": "Redout 2 - Veloce Livery"
+        },
+        {
+            "id": "0100664016D5D003",
+            "name": "Redout 2 - Summer Pack"
+        },
+        {
+            "id": "0100664016D5D004",
+            "name": "Redout 2 - Winter Pack"
+        }
+    ],
     "latest": 458752,
     "title": "Redout 2"
 }

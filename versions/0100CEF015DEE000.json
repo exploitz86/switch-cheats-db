@@ -2,7 +2,28 @@
     "0": "CFB2EEA48D2FA748",
     "131072": "5F7629D335DDF04C",
     "65536": "FE2C7D33B4B82447",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100CEF015DEF001",
+            "name": "Whiteboards Pack 1"
+        },
+        {
+            "id": "0100CEF015DEF002",
+            "name": "Whiteboards Pack 2"
+        },
+        {
+            "id": "0100CEF015DEF003",
+            "name": "Whiteboards Pack 3"
+        },
+        {
+            "id": "0100CEF015DEF004",
+            "name": "Whiteboards Pack 4"
+        },
+        {
+            "id": "0100CEF015DEF005",
+            "name": "Whiteboards Pack 5"
+        }
+    ],
     "latest": 131072,
     "title": "Comic Coloring Book - Complete Edition"
 }

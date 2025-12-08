@@ -5,7 +5,12 @@
     "262144": "C34C886CB6E97346",
     "327680": "5BF31D69C3AE6F49",
     "65536": "C9F9319F120B2749",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100FB5010D2F001",
+            "name": "3000th Duel: The Wise Ones"
+        }
+    ],
     "latest": 327680,
     "title": "3000th Duel"
 }

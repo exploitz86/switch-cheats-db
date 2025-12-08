@@ -3,7 +3,64 @@
     "327680": "A6FA3BBAB160DFB7",
     "458752": "63EBAAF9271D215E",
     "524288": "A85AF4C49F905364",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100092006815001",
+            "name": "Tennis World Tour - Agassi Pack"
+        },
+        {
+            "id": "0100092006815002",
+            "name": "Tennis World Tour - John McEnroe"
+        },
+        {
+            "id": "0100092006815003",
+            "name": "Tennis World Tour - Wilson\u00ae Pro Staff RF97"
+        },
+        {
+            "id": "0100092006815004",
+            "name": "Tennis World Tour - Wilson\u00ae Pro Staff 97"
+        },
+        {
+            "id": "0100092006815005",
+            "name": "Tennis World Tour - Legend Badge"
+        },
+        {
+            "id": "0100092006815006",
+            "name": "Tennis World Tour - Nike\u00ae Official Outfits"
+        },
+        {
+            "id": "0100092006815007",
+            "name": "Tennis World Tour - Skill Cards Pack"
+        },
+        {
+            "id": "0100092006815008",
+            "name": "Tennis World Tour - Coach Sophie Walker"
+        },
+        {
+            "id": "0100092006815009",
+            "name": "Tennis World Tour - Rafael Nadal"
+        },
+        {
+            "id": "010009200681500A",
+            "name": "Tennis World Tour - Kristina Mladenovic"
+        },
+        {
+            "id": "010009200681500B",
+            "name": "Tennis World Tour - Caroline Garcia"
+        },
+        {
+            "id": "010009200681500C",
+            "name": "Tennis World Tour - Stadium Pack"
+        },
+        {
+            "id": "010009200681500D",
+            "name": "Tennis World Tour - Alex De Minaur"
+        },
+        {
+            "id": "010009200681500E",
+            "name": "Tennis World Tour - Denis Shapovalov"
+        }
+    ],
     "latest": 524288,
     "title": "Tennis World Tour: Roland Garros Edition - Retail Only"
 }

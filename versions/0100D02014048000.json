@@ -5,7 +5,12 @@
     "262144": "BF27A52883BA9AB8",
     "393216": "98211EAAF0A23EDD",
     "65536": "DF1959DF0D668F95",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100D02014049001",
+            "name": "FIGHTING EX LAYER ANOTHER DASH Full Package"
+        }
+    ],
     "latest": 393216,
     "title": "FIGHTING EX LAYER ANOTHER DASH"
 }

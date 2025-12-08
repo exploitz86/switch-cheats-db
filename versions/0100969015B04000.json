@@ -1,7 +1,16 @@
 {
     "0": "716FAD93708FD749",
     "65536": "8D46D21C5C120944",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100969015B05001",
+            "name": "Illustrations in Gallery Full Open"
+        },
+        {
+            "id": "0100969015B05002",
+            "name": "High difficulty stage addition"
+        }
+    ],
     "latest": 65536,
     "title": "Magical Girls Second Magic"
 }

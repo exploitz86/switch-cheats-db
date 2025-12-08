@@ -2,7 +2,12 @@
     "0": "58EEED2A3FC2FBB2",
     "131072": "7F7DC5576C6D9BC5",
     "65536": "CA04C858A6C211B1",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100C540192F9001",
+            "name": "Zombie Dead Smasher - DLC Pack"
+        }
+    ],
     "latest": 131072,
     "title": "Zombie Dead Smasher - World Simulator Kill Strike Gun Shooter 3D Poly Games 2023"
 }

@@ -2,7 +2,56 @@
     "0": "D4840CA75D7B48F3",
     "131072": "7BCD694B69C98104",
     "65536": "9926F51221C28212",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100DC0012E49001",
+            "name": "Retro Rammers Car Pack"
+        },
+        {
+            "id": "0100DC0012E49002",
+            "name": "Backwoods Bangers Car Pack"
+        },
+        {
+            "id": "0100DC0012E49003",
+            "name": "Modified Monsters Car Pack"
+        },
+        {
+            "id": "0100DC0012E49004",
+            "name": "Rusty Rats Car Pack"
+        },
+        {
+            "id": "0100DC0012E49005",
+            "name": "American All-Stars Car Pack"
+        },
+        {
+            "id": "0100DC0012E49006",
+            "name": "Banger Racing Car Pack"
+        },
+        {
+            "id": "0100DC0012E49007",
+            "name": "Getaway Car Pack"
+        },
+        {
+            "id": "0100DC0012E49008",
+            "name": "Racing Heroes Car Pack"
+        },
+        {
+            "id": "0100DC0012E49009",
+            "name": "Reckless Car Pack"
+        },
+        {
+            "id": "0100DC0012E4900A",
+            "name": "Offroad Car Pack"
+        },
+        {
+            "id": "0100DC0012E4900B",
+            "name": "Goofy Roofs Pack"
+        },
+        {
+            "id": "0100DC0012E4900C",
+            "name": "Steel & Wheels Pack"
+        }
+    ],
     "latest": 131072,
     "title": "Wreckfest"
 }

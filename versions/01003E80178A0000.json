@@ -6,7 +6,20 @@
     "524288": "D80D7E59E9888436",
     "65536": "B4F410AFD99DA685",
     "720896": "660805200CFDFD3A",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01003E80178A1001",
+            "name": "Season 1 Pass - Palette Pack and Pixel Lobby Accessories"
+        },
+        {
+            "id": "01003E80178A1002",
+            "name": "TFH - Additional Character #1 Texas"
+        },
+        {
+            "id": "01003E80178A1003",
+            "name": "TFH - Additional Character #2 Stronghoof"
+        }
+    ],
     "latest": 720896,
     "title": "Them's Fightin' Herds: Deluxe Edition"
 }

@@ -6,7 +6,16 @@
     "393216": "8CEB0BA7D9FB86EF",
     "458752": "A753E6CFC9A3A3D9",
     "65536": "695AF56D26630F0D",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100EAB0183F5001",
+            "name": "Visitors From Afar Pack"
+        },
+        {
+            "id": "0100EAB0183F5002",
+            "name": "Animal Avalanche Pack"
+        }
+    ],
     "latest": 458752,
     "title": "Harvest Moon: The Winds of Anthos"
 }

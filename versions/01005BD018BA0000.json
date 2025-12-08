@@ -2,7 +2,12 @@
     "0": "19348CCDF521427D",
     "131072": "A0C59D633B304326",
     "65536": "C59DC17A4CD77AA9",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01005BD018BA1001",
+            "name": "Run Sausage Run: Coins, Bugs and Chicken"
+        }
+    ],
     "latest": 131072,
     "title": "Run Sausage Run!"
 }

@@ -1,7 +1,12 @@
 {
     "0": "07C2CA32599CE4C2",
     "65536": "DC722438491E6F7E",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01000C900A137001",
+            "name": "Costume Megapack"
+        }
+    ],
     "latest": 65536,
     "title": "Kitten Squad"
 }

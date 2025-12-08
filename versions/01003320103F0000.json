@@ -7,7 +7,20 @@
     "458752": "F516B470D6EFF647",
     "524288": "D3B2E366542F6640",
     "65536": "56CEE3C09148BE4D",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01003320103F1001",
+            "name": "Breakfast Bar Tycoon Expansion pack"
+        },
+        {
+            "id": "01003320103F1002",
+            "name": "Breakfast Bar Tycoon Expansion Pack #2"
+        },
+        {
+            "id": "01003320103F1003",
+            "name": "Breakfast Bar Tycoon Multiplayer Mode"
+        }
+    ],
     "latest": 524288,
     "title": "Breakfast Bar Tycoon"
 }

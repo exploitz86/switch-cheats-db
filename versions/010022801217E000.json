@@ -1,7 +1,12 @@
 {
     "0": "50FC466A6D3EB342",
     "65536": "C3E0C62E9FBDED4C",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010022801217F001",
+            "name": "Party Hard 2 DLC: Alien Butt Form"
+        }
+    ],
     "latest": 65536,
     "title": "Party Hard 2"
 }

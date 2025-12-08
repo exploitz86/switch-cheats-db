@@ -4,7 +4,20 @@
     "196608": "5A7A13D1563CB339",
     "262144": "36FCAAB2D55D0714",
     "65536": "7DEBCD480D3D5C1D",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010068300E08F001",
+            "name": "Fated Romance -Love in the Time of Blogging-"
+        },
+        {
+            "id": "010068300E08F002",
+            "name": "Fated Romance -The Dear Bird's Call-"
+        },
+        {
+            "id": "010068300E08F003",
+            "name": "Fated Romance -The Weight of Love-"
+        }
+    ],
     "latest": 262144,
     "title": "Enchanted in the Moonlight - Kiryu, Chikage & Yukinojo -"
 }

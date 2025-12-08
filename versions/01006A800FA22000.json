@@ -7,7 +7,28 @@
     "458752": "C8E352570D304B47",
     "589824": "E8F564CB5E294E40",
     "65536": "4D52A6EC4C634C45",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01006A800FA23001",
+            "name": "Stained Glass Cards"
+        },
+        {
+            "id": "01006A800FA23002",
+            "name": "Biodiversity Promo Pack"
+        },
+        {
+            "id": "01006A800FA23003",
+            "name": "Arms Race Promo Pack"
+        },
+        {
+            "id": "01006A800FA23004",
+            "name": "Climate Board Game Expansion"
+        },
+        {
+            "id": "01006A800FA23005",
+            "name": "Alone and Unafraid Promo Pack"
+        }
+    ],
     "latest": 589824,
     "title": "Evolution Board Game"
 }

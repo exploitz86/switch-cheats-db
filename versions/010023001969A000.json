@@ -5,7 +5,16 @@
     "262144": "D40B81867A121EB0",
     "327680": "F327FFD8C2E85895",
     "65536": "A1B7149FF6D37E1E",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010023001969B001",
+            "name": "Session: Skate Sim Brandalised\u00ae Pack"
+        },
+        {
+            "id": "010023001969B002",
+            "name": "Session: Skate Sim Warm-up Pack"
+        }
+    ],
     "latest": 327680,
     "title": "Session: Skate Sim"
 }

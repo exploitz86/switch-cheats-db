@@ -1,7 +1,20 @@
 {
     "0": "6464CF665ABC9842",
     "65536": "2F81A2EC9B298B37",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010049B017775005",
+            "name": "Pre-Order Bonus"
+        },
+        {
+            "id": "010049B017775006",
+            "name": "DRAGON QUEST TREASURES Digital Deluxe Edition Upgrade"
+        },
+        {
+            "id": "010049B017775007",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 65536,
     "title": "DRAGON QUEST TREASURES"
 }

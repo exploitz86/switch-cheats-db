@@ -1,7 +1,20 @@
 {
     "0": "9D64AD89C2F5CDD8",
     "65536": "057DD05BD232ECB9",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010029B019D39001",
+            "name": "Banana"
+        },
+        {
+            "id": "010029B019D39002",
+            "name": "Crown"
+        },
+        {
+            "id": "010029B019D39003",
+            "name": "Eggshell"
+        }
+    ],
     "latest": 65536,
     "title": "THAT'S A COW"
 }

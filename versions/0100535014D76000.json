@@ -6,7 +6,16 @@
     "393216": "5BA1C162571DBD01",
     "458752": "8CCC67A5A75CB8E5",
     "65536": "99B1CD48C88835F6",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100535014D77001",
+            "name": "Little Noah: Scion of Paradise DLC 1: Avatar, Lilliput, and Accessory Pack"
+        },
+        {
+            "id": "0100535014D77002",
+            "name": "Little Noah: Scion of Paradise DLC 2: Avatar, Lilliput, and Accessory Pack"
+        }
+    ],
     "latest": 458752,
     "title": "Little Noah: Scion of Paradise"
 }

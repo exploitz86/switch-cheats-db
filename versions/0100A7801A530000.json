@@ -3,7 +3,84 @@
     "131072": "ECFE5936549248CF",
     "196608": "E24C4E03918D3A6C",
     "262144": "E9E83F8BECBE01EC",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100A7801A531064",
+            "name": "Glasses Costumes Set"
+        },
+        {
+            "id": "0100A7801A53106E",
+            "name": "Magical Girl Magic Knight & Spirit Costumes"
+        },
+        {
+            "id": "0100A7801A531078",
+            "name": "Charming Prinny & Slumber Cat Costumes"
+        },
+        {
+            "id": "0100A7801A531082",
+            "name": "Short-Hair Succubus & Felynn Costumes"
+        },
+        {
+            "id": "0100A7801A53108C",
+            "name": "Animal Ear Armor Knight & Witch Costumes"
+        },
+        {
+            "id": "0100A7801A531096",
+            "name": "Gamer Professor & Mecha Girl Costumes"
+        },
+        {
+            "id": "0100A7801A5310A0",
+            "name": "Nurse Kunoichi & Cleric Costumes"
+        },
+        {
+            "id": "0100A7801A5310AA",
+            "name": "Oni & Kappa Prinny Costumes"
+        },
+        {
+            "id": "0100A7801A5310C8",
+            "name": "Starter Support Set"
+        },
+        {
+            "id": "0100A7801A531190",
+            "name": "Bonus Story: The Overlord, Demon Lord, and Sheltered Girl"
+        },
+        {
+            "id": "0100A7801A53119A",
+            "name": "Bonus Story: The Hothead, Princess, and Dreamer"
+        },
+        {
+            "id": "0100A7801A5311A4",
+            "name": "Bonus Story: The Honor Student, Final Boss, and Ex-President"
+        },
+        {
+            "id": "0100A7801A5311AE",
+            "name": "Bonus Story: The Instructor, Steward, and Fallen Angel of Love"
+        },
+        {
+            "id": "0100A7801A5311B8",
+            "name": "Bonus Story: The Kind Demon, Singing Princess, and Thief Angel"
+        },
+        {
+            "id": "0100A7801A5311C2",
+            "name": "Bonus Story: The Zombie Sibs and Angel Little Sister"
+        },
+        {
+            "id": "0100A7801A5311CC",
+            "name": "Bonus Story: The Delinquent, Curry Lover, and Lady Overlord"
+        },
+        {
+            "id": "0100A7801A5311F4",
+            "name": "Pleinair Completion Bonus"
+        },
+        {
+            "id": "0100A7801A531258",
+            "name": "Special Weapons Set"
+        },
+        {
+            "id": "0100A7801A531262",
+            "name": "Disgaea Costumes Set"
+        }
+    ],
     "latest": 262144,
     "title": "Disgaea 7: Vows of the Virtueless"
 }

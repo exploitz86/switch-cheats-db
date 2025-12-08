@@ -1,6 +1,11 @@
 {
     "0": "1C6CFBB089B91D9D",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100BBD01A887001",
+            "name": "Color Set"
+        }
+    ],
     "latest": 0,
     "title": "Dogotchi: Virtual Pet"
 }

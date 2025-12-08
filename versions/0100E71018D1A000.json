@@ -2,7 +2,20 @@
     "0": "F01CBC1FC2F54FCC",
     "131072": "E32265E56EE025FB",
     "196608": "8B1BC6D7B367605F",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100E71018D1B001",
+            "name": "We Love Katamari REROLL+ Royal Reverie - Little Prince Costume"
+        },
+        {
+            "id": "0100E71018D1B002",
+            "name": "We Love Katamari REROLL+ Royal Reverie - Little King Costume"
+        },
+        {
+            "id": "0100E71018D1B003",
+            "name": "We Love Katamari REROLL+ Royal Reverie - Katamari Damacy Series Music Pack"
+        }
+    ],
     "latest": 196608,
     "title": "We Love Katamari REROLL+ Royal Reverie"
 }

@@ -1,7 +1,12 @@
 {
     "0": "E88F29E25C0E4E70",
     "131072": "CCFB17791F815BD1",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100FBC007EAF001",
+            "name": "For Science!"
+        }
+    ],
     "latest": 131072,
     "title": "Tesla vs Lovecraft"
 }

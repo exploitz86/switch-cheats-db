@@ -1,7 +1,12 @@
 {
     "0": "7293A899EB598B41",
     "65536": "7293A899EB598B41",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100CBD016A13001",
+            "name": "Nirvana : Relax Mode"
+        }
+    ],
     "latest": 65536,
     "title": "Nirvana"
 }

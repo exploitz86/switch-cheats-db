@@ -1,7 +1,12 @@
 {
     "0": "010A796EA6032653",
     "65536": "30D51A973CBB0100",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100F1801ACA7002",
+            "name": "The Sisters 2 - Road to Fame - Kigurumi Outfits"
+        }
+    ],
     "latest": 65536,
     "title": "The Sisters 2 - Road to Fame"
 }

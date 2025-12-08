@@ -1,7 +1,40 @@
 {
     "0": "D3EBEDB552A15863",
     "65536": "E8AC2999C001DB7F",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01004B601BA77001",
+            "name": "Cooking Arena: Sweet Bakery Tycoon (DLC#1)"
+        },
+        {
+            "id": "01004B601BA77002",
+            "name": "Cooking Arena: Food Truck Tycoon Asian Cuisine (DLC#2)"
+        },
+        {
+            "id": "01004B601BA77003",
+            "name": "Cooking Arena: Burger Chef Tycoon (DLC#3)"
+        },
+        {
+            "id": "01004B601BA77004",
+            "name": "Cooking Arena: Breakfast Bar Tycoon (DLC#4)"
+        },
+        {
+            "id": "01004B601BA77005",
+            "name": "Cooking Arena: Pizza Bar Tycoon (DLC#5)"
+        },
+        {
+            "id": "01004B601BA77006",
+            "name": "Cooking Arena: Pancake Bar Tycoon (DLC#6)"
+        },
+        {
+            "id": "01004B601BA77007",
+            "name": "Cooking Arena: Sushi Time! (DLC#7)"
+        },
+        {
+            "id": "01004B601BA77008",
+            "name": "Cooking Arena: Salad Bar Tycoon (DLC#8)"
+        }
+    ],
     "latest": 65536,
     "title": "Cooking Arena"
 }

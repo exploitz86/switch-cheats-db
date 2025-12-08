@@ -2,7 +2,16 @@
     "0": "C16D3D2E24E0E95C",
     "131072": "BECA5C3682DB69E7",
     "196608": "7E2AA1ED5A6F65FA",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010092701966B001",
+            "name": "Bunny and Bear Kigu Skin Bundle"
+        },
+        {
+            "id": "010092701966B002",
+            "name": "Midnight Kitty, Chinese Dress, & Nurse Skin Bundle"
+        }
+    ],
     "latest": 196608,
     "title": "Little Witch Nobeta"
 }

@@ -32,7 +32,1288 @@
     "851968": "4872EA6FE5E1BC45",
     "917504": "CD2C296A04B4FEAC",
     "983040": "2BE0384B2D3597F9",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01002C000B553001",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Gold DON-chan"
+        },
+        {
+            "id": "01002C000B553002",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Toy Symphony"
+        },
+        {
+            "id": "01002C000B553003",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Symphony No. 25 in G Minor - First Movement"
+        },
+        {
+            "id": "01002C000B553004",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! From Symphony No. 7"
+        },
+        {
+            "id": "01002C000B553005",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! La Campanella"
+        },
+        {
+            "id": "01002C000B553006",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Hungarian Dance No. 5"
+        },
+        {
+            "id": "01002C000B553007",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Requiem - Day of Wrath"
+        },
+        {
+            "id": "01002C000B553008",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! March From The Nutcracker"
+        },
+        {
+            "id": "01002C000B553009",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Jupiter"
+        },
+        {
+            "id": "01002C000B55300A",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Montagues and Capulets"
+        },
+        {
+            "id": "01002C000B55300D",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55300E",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55300F",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553010",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553011",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! STUDIO GHIBLI Pack"
+        },
+        {
+            "id": "01002C000B553012",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553013",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553014",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553015",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553016",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553017",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! VOCALOID\u2122 Music Pack"
+        },
+        {
+            "id": "01002C000B553018",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! NEKOKO & TOMOMO"
+        },
+        {
+            "id": "01002C000B553019",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55301A",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55301B",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Touhou Project Arrangements Pack"
+        },
+        {
+            "id": "01002C000B55301C",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55301D",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55301E",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Pops Pack Vol. 1"
+        },
+        {
+            "id": "01002C000B55301F",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Platinum DON-chan"
+        },
+        {
+            "id": "01002C000B553020",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553021",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553022",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! HIKAKIN Pack"
+        },
+        {
+            "id": "01002C000B553023",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! ZASSOU"
+        },
+        {
+            "id": "01002C000B553024",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553025",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553026",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Winter Holiday Anime Pack"
+        },
+        {
+            "id": "01002C000B553027",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553028",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553029",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55302A",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55302B",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Tatsujin Challenge Pack Vol. 1"
+        },
+        {
+            "id": "01002C000B55302C",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55302D",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55302E",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55302F",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553030",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Tatsujin Challenge Pack Vol. 2"
+        },
+        {
+            "id": "01002C000B553031",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553032",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553033",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Pops Pack Vol. 2"
+        },
+        {
+            "id": "01002C000B553034",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Mezase Pok\u00e9mon Master -20th Anniversary-"
+        },
+        {
+            "id": "01002C000B553035",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Mirai Connection"
+        },
+        {
+            "id": "01002C000B553036",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Pok\u00e9mon: Let's Go, Pikachu! and Pok\u00e9mon: Let's Go, Eevee!"
+        },
+        {
+            "id": "01002C000B553037",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553038",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553039",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55303A",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55303B",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55303C",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! VOCALOID\u2122\u00a0Music Pack Vol. 2"
+        },
+        {
+            "id": "01002C000B55303D",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55303E",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55303F",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553040",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553041",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Tatsujin Challenge Pack Vol. 3"
+        },
+        {
+            "id": "01002C000B553042",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Gold Armor"
+        },
+        {
+            "id": "01002C000B553043",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553044",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553045",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Dragon Ball Anime Songs Pack"
+        },
+        {
+            "id": "01002C000B553046",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553047",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553048",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553049",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55304A",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Tatsujin Challenge Pack Vol. 4"
+        },
+        {
+            "id": "01002C000B55304C",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55304D",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55304E",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Studio Ghibli Pack Vol. 2"
+        },
+        {
+            "id": "01002C000B55304F",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553050",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553051",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553052",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553053",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Tatsujin Challenge Pack Vol. 5"
+        },
+        {
+            "id": "01002C000B553054",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553055",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553056",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553057",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553058",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Tatsujin Challenge Pack Vol. 6"
+        },
+        {
+            "id": "01002C000B553059",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Marigold"
+        },
+        {
+            "id": "01002C000B55305A",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Ainokatachi feat.HIDE(GReeeeN)"
+        },
+        {
+            "id": "01002C000B55305B",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Anata To Tu Lat Tat Ta\u266a"
+        },
+        {
+            "id": "01002C000B55305C",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Kishiryu Sentai Ryuusouja"
+        },
+        {
+            "id": "01002C000B55305D",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Butter\u2010Fly"
+        },
+        {
+            "id": "01002C000B55305E",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55305F",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553060",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553061",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553062",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! VOCALOID\u2122\u00a0Music Pack Vol. 3"
+        },
+        {
+            "id": "01002C000B553063",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553064",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553065",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553066",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553067",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Tatsujin Challenge Pack Vol. 7"
+        },
+        {
+            "id": "01002C000B553068",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! HYPNOSISMIC -Division Battle Anthem-"
+        },
+        {
+            "id": "01002C000B553069",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55306A",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55306B",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Case Closed Pack"
+        },
+        {
+            "id": "01002C000B55306C",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55306D",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55306E",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! UNDERTALE Pack"
+        },
+        {
+            "id": "01002C000B55306F",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553070",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553071",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! ONE PIECE Anime Songs Pack"
+        },
+        {
+            "id": "01002C000B553072",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553073",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553074",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553075",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553076",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Donder Pack -Lightning-"
+        },
+        {
+            "id": "01002C000B553077",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553078",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! NinjaBox Pack"
+        },
+        {
+            "id": "01002C000B553079",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! UMA TO SHIKA"
+        },
+        {
+            "id": "01002C000B55307A",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! KIMIWA ROCK WO KIKANAI"
+        },
+        {
+            "id": "01002C000B55307B",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Christmas Song"
+        },
+        {
+            "id": "01002C000B55307C",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55307D",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55307E",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55307F",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553080",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Donder Pack -Winter Moon-"
+        },
+        {
+            "id": "01002C000B553081",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553082",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553083",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Touhou Project Arrangements Pack Vol.2"
+        },
+        {
+            "id": "01002C000B553084",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553085",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553086",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553087",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553088",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Donder Pack -Thunderclap-"
+        },
+        {
+            "id": "01002C000B553089",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55308A",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55308B",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! WEATHERING WITH YOU Anime Songs Pack"
+        },
+        {
+            "id": "01002C000B55308C",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55308D",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55308E",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55308F",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553090",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! VOCALOID\u2122\u00a0Music Pack Vol. 4"
+        },
+        {
+            "id": "01002C000B553091",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Dramaturgy"
+        },
+        {
+            "id": "01002C000B553092",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553093",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553094",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553095",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553096",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Late Night Anime Pack"
+        },
+        {
+            "id": "01002C000B553097",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553098",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553099",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Pops Pack Vol. 3"
+        },
+        {
+            "id": "01002C000B55309A",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Gurenge"
+        },
+        {
+            "id": "01002C000B55309B",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55309C",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55309D",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55309E",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55309F",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Donder Pack -X-"
+        },
+        {
+            "id": "01002C000B5530A0",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530A1",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530A2",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Pops Pack Vol. 4"
+        },
+        {
+            "id": "01002C000B5530A3",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530A4",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530A5",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Touhou Project Arrangements Pack Vol.3"
+        },
+        {
+            "id": "01002C000B5530A6",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530A7",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530A8",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Pops Pack Vol. 5"
+        },
+        {
+            "id": "01002C000B5530A9",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530AA",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530AB",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530AC",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530AD",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Donder Pack -NatsuOri- Vol. 1"
+        },
+        {
+            "id": "01002C000B5530AE",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! GODSONG"
+        },
+        {
+            "id": "01002C000B5530AF",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530B0",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530B1",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530B2",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530B3",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530B4",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530B5",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530B6",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530B7",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530B8",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! \"Over 1 Million Sold Celebration! I LOVE GAMES\" Pack"
+        },
+        {
+            "id": "01002C000B5530B9",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! \uff11\u30fb\uff12\u30fb\uff13"
+        },
+        {
+            "id": "01002C000B5530BA",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530BB",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530BC",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Rock Music Pack"
+        },
+        {
+            "id": "01002C000B5530BD",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530BE",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530BF",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530C0",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530C1",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! VOCALOID\u2122\u00a0Music Pack Vol. 5"
+        },
+        {
+            "id": "01002C000B5530C2",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Cloudless"
+        },
+        {
+            "id": "01002C000B5530C3",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530C4",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530C5",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Dance Music Pack"
+        },
+        {
+            "id": "01002C000B5530C6",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! JOIN THE PAC -Taiko No Tatsujin Ver.-"
+        },
+        {
+            "id": "01002C000B5530C7",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530C8",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530C9",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530CA",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530CB",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Late Night Anime Pack Vol. 2"
+        },
+        {
+            "id": "01002C000B5530CC",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530CD",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530CE",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530CF",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530D0",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! DEEMO Pack"
+        },
+        {
+            "id": "01002C000B5530D1",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! BORN ON DREAM! ~HANABI\u2606NIGHT~"
+        },
+        {
+            "id": "01002C000B5530D2",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530D3",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530D4",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530D5",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530D6",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! VOCALOID\u2122\u00a0Music Pack Vol. 6"
+        },
+        {
+            "id": "01002C000B5530D7",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530D8",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530D9",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530DA",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530DB",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Donder Pack -Juvenile-"
+        },
+        {
+            "id": "01002C000B5530DC",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Furry Purry Friends NEKO-TOMO!"
+        },
+        {
+            "id": "01002C000B5530DD",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! LAST CHRISTMAS"
+        },
+        {
+            "id": "01002C000B5530DE",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Racing into the Night"
+        },
+        {
+            "id": "01002C000B5530DF",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530E0",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530E1",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! UUUM Pack"
+        },
+        {
+            "id": "01002C000B5530E2",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530E3",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530E4",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530E5",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530E6",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Classical Arrangements Pack"
+        },
+        {
+            "id": "01002C000B5530E7",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Kanden"
+        },
+        {
+            "id": "01002C000B5530E8",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Hoshikage no Yell"
+        },
+        {
+            "id": "01002C000B5530E9",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530EA",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530EB",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Touhou Project Arrangements Pack Vol. 4"
+        },
+        {
+            "id": "01002C000B5530EC",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530ED",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530EE",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530EF",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530F0",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Donder Pack -NatsuOri- Vol. 2"
+        },
+        {
+            "id": "01002C000B5530F1",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! KOUSUI"
+        },
+        {
+            "id": "01002C000B5530F2",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530F3",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530F4",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! DEN-ON-BU -Sotokanda Bungei High School- Pack"
+        },
+        {
+            "id": "01002C000B5530F5",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530F6",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530F7",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530F8",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530F9",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530FA",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530FB",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530FC",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B5530FD",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! 20th Anniversary! Generations Theme Song Pack"
+        },
+        {
+            "id": "01002C000B5530FE",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Moonlight"
+        },
+        {
+            "id": "01002C000B5530FF",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! HOMURA"
+        },
+        {
+            "id": "01002C000B553100",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! KAIKAIKITAN"
+        },
+        {
+            "id": "01002C000B553101",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553102",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553103",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553104",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! DEN-ON-BU Pack"
+        },
+        {
+            "id": "01002C000B553105",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Resound! Taiko no Tatsujin! (20th Anniversary Song)"
+        },
+        {
+            "id": "01002C000B553107",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Haru wo Tsugeru"
+        },
+        {
+            "id": "01002C000B553108",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! NEKO"
+        },
+        {
+            "id": "01002C000B553109",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Ao to Natsu"
+        },
+        {
+            "id": "01002C000B55310A",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55310B",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55310C",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55310D",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55310E",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! VOCALOID\u2122 Music Pack Vol. 7"
+        },
+        {
+            "id": "01002C000B55310F",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Welcome to the Taiko Stadium!"
+        },
+        {
+            "id": "01002C000B553110",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Tsukiiro Chainon"
+        },
+        {
+            "id": "01002C000B553111",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Into the Unknown"
+        },
+        {
+            "id": "01002C000B553112",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553113",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553114",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553115",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Late Night Anime Pack Vol. 3"
+        },
+        {
+            "id": "01002C000B553116",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Parallel Lollipop"
+        },
+        {
+            "id": "01002C000B553117",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Usseewa"
+        },
+        {
+            "id": "01002C000B553118",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Monster"
+        },
+        {
+            "id": "01002C000B553119",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Byoushinwo Kamu"
+        },
+        {
+            "id": "01002C000B55311A",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! He's a Pirate"
+        },
+        {
+            "id": "01002C000B55311B",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Theme From Indiana Jones"
+        },
+        {
+            "id": "01002C000B55311C",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Star Wars: Main Title"
+        },
+        {
+            "id": "01002C000B55311D",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! 4+1 Myriad Futures"
+        },
+        {
+            "id": "01002C000B55311E",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! RNG Cinderella"
+        },
+        {
+            "id": "01002C000B55311F",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Saraba, Itoshiki Kanashimi Tachi Yo -ZZ ver.-"
+        },
+        {
+            "id": "01002C000B553120",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! I Want You Back"
+        },
+        {
+            "id": "01002C000B553121",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! God knows\u2026"
+        },
+        {
+            "id": "01002C000B553122",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Realize"
+        },
+        {
+            "id": "01002C000B553123",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553124",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553125",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Touhou Project Arrangements Pack Vol.5"
+        },
+        {
+            "id": "01002C000B553126",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Hold me tight"
+        },
+        {
+            "id": "01002C000B553127",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! YES or YES"
+        },
+        {
+            "id": "01002C000B553128",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Dejavina (Japanese ver.)"
+        },
+        {
+            "id": "01002C000B553129",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Walking with you"
+        },
+        {
+            "id": "01002C000B55312A",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Pixel Galaxy"
+        },
+        {
+            "id": "01002C000B55312B",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Donder Time"
+        },
+        {
+            "id": "01002C000B55312C",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Dried Flower"
+        },
+        {
+            "id": "01002C000B55312D",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! GUNJOU"
+        },
+        {
+            "id": "01002C000B55312E",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55312F",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553130",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Classical Arrangements Pack Vol. 2"
+        },
+        {
+            "id": "01002C000B553131",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Don't Doubt This Love"
+        },
+        {
+            "id": "01002C000B553132",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! HADAKA NO KOKORO"
+        },
+        {
+            "id": "01002C000B553133",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Cry Baby"
+        },
+        {
+            "id": "01002C000B553134",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Genesis of AQUARION"
+        },
+        {
+            "id": "01002C000B553135",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! No Fire for Monster Girl"
+        },
+        {
+            "id": "01002C000B553136",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! DAIBOUKEN TATSUDON"
+        },
+        {
+            "id": "01002C000B553137",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Kirari"
+        },
+        {
+            "id": "01002C000B553138",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! VOCALOID\u2122 Music Pack Vol.8"
+        },
+        {
+            "id": "01002C000B553139",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55313A",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B55313B",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! ISSEIFUBI"
+        },
+        {
+            "id": "01002C000B55313C",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Harujion"
+        },
+        {
+            "id": "01002C000B55313D",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Odo"
+        },
+        {
+            "id": "01002C000B55313E",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Favorite Sounds of Taiko"
+        },
+        {
+            "id": "01002C000B55313F",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! Byoudouin Hou-ou-DON vs Choju-gi-KATSU"
+        },
+        {
+            "id": "01002C000B553140",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553141",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553142",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553143",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002C000B553144",
+            "name": "Taiko no Tatsujin: Drum 'n' Fun! SAITAMA Set"
+        }
+    ],
     "latest": 2621440,
     "title": "Taiko no Tatsujin: Drum 'n' Fun!"
 }

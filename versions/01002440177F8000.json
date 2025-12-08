@@ -1,6 +1,11 @@
 {
     "0": "5C96EA651F7CEF73",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01002440177F9001",
+            "name": "EleMetals: Death Metal Death Match Soundtrack"
+        }
+    ],
     "latest": 0,
     "title": "EleMetals: Death Metal Death Match!"
 }

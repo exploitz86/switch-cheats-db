@@ -9,7 +9,36 @@
     "65536": "FD5311D0A2FF3BEF",
     "655360": "06A155C780AA55B6",
     "720896": "EB53655DBA49C6C8",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100F9A01B0A3009",
+            "name": "\"NOBUNAGA'S AMBITION: Awakening\" Scenario \"Muskets Arrive\", 40th Anniversary \"Officer Face Graphics and Additional Traits\""
+        },
+        {
+            "id": "0100F9A01B0A300B",
+            "name": "\"NOBUNAGA'S AMBITION: Awakening\" Scenario \"Battle of Tetorigawa\""
+        },
+        {
+            "id": "0100F9A01B0A300C",
+            "name": "\"NOBUNAGA'S AMBITION: Awakening\" 40th Anniversary Commemorative Book, Officer Artbook, and Soundtrack"
+        },
+        {
+            "id": "0100F9A01B0A300D",
+            "name": "\"NOBUNAGA'S AMBITION: Awakening\" 40th Anniversary \"Series Collection of Officer Face Graphics\" (set of 20)"
+        },
+        {
+            "id": "0100F9A01B0A300E",
+            "name": "\"NOBUNAGA'S AMBITION: Awakening\" NOBUNAGA'S AMBITION 40th Anniversary Music"
+        },
+        {
+            "id": "0100F9A01B0A300F",
+            "name": "\"NOBUNAGA'S AMBITION: Awakening\" Additional Officer Graphics and Trait of Popular Officers from the \"NOBUNAGA'S AMBITION\" 40th Anniversary Series' Popularity Rankings"
+        },
+        {
+            "id": "0100F9A01B0A3010",
+            "name": "New Officer Data for \"NOBUNAGA'S AMBITION: Awakening\" Collaborating NIJISANJI's VTuber \"Ibrahim\""
+        }
+    ],
     "latest": 720896,
     "title": "NOBUNAGA'S AMBITION: Awakening"
 }

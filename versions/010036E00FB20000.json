@@ -1,6 +1,11 @@
 {
     "0": "1DA748FC9499882F",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010036E00FB21001",
+            "name": "Additional Art & Music from the Vaults"
+        }
+    ],
     "latest": 0,
     "title": "The Great Ace Attorney Chronicles"
 }

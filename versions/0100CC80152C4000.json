@@ -1,7 +1,12 @@
 {
     "0": "DC349B96A777C54A",
     "65536": "E295AD23DA544946",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100CC80152C5001",
+            "name": "Extra Music Pack"
+        }
+    ],
     "latest": 65536,
     "title": "Zoo Dentist"
 }

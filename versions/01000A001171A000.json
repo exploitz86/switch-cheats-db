@@ -7,7 +7,28 @@
     "393216": "01F5B02C6B5A4C6E",
     "458752": "A3A0313BE4A4A26F",
     "65536": "E567F4C52BC3FD4A",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01000A001171B001",
+            "name": "FIFA 21 In-Game Commentary \u2013 Russian"
+        },
+        {
+            "id": "01000A001171B002",
+            "name": "FIFA 21 In-Game Commentary \u2013 Polish"
+        },
+        {
+            "id": "01000A001171B003",
+            "name": "FIFA 21 In-Game Commentary \u2013 Dutch"
+        },
+        {
+            "id": "01000A001171B004",
+            "name": "FIFA 21 In-Game Commentary \u2013 Arabic"
+        },
+        {
+            "id": "01000A001171B005",
+            "name": "FIFA 21 In-Game Commentary \u2013 Portuguese (Brazil)"
+        }
+    ],
     "latest": 458752,
     "title": "FIFA 21 Nintendo Switch\u2122 Legacy Edition"
 }

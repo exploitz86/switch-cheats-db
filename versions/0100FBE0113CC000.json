@@ -6,7 +6,28 @@
     "327680": "125FD2F801D473ED",
     "393216": "AC8DA787C7A8E2B9",
     "65536": "2E4D1158A395F558",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100FBE0113CD001",
+            "name": "The Llama of Wall Street"
+        },
+        {
+            "id": "0100FBE0113CD002",
+            "name": "Spitter"
+        },
+        {
+            "id": "0100FBE0113CD003",
+            "name": "Lobbyistico"
+        },
+        {
+            "id": "0100FBE0113CD004",
+            "name": "Caribbean Skies"
+        },
+        {
+            "id": "0100FBE0113CD005",
+            "name": "Festival"
+        }
+    ],
     "latest": 393216,
     "title": "Tropico 6 - Nintendo Switch\u2122 Edition"
 }

@@ -11,7 +11,28 @@
     "720896": "C3C6A6DC345FE046",
     "851968": "5019537CA2C60D49",
     "917504": "2E9E54A353A61742",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010031200E045001",
+            "name": "Two Point Hospital: Close Encounters"
+        },
+        {
+            "id": "010031200E045002",
+            "name": "Two Point Hospital: Exhibition Items Pack"
+        },
+        {
+            "id": "010031200E045003",
+            "name": "Two Point Hospital: Retro Items Pack"
+        },
+        {
+            "id": "010031200E045004",
+            "name": "Two Point Hospital: Off the Grid"
+        },
+        {
+            "id": "010031200E045005",
+            "name": "Two Point Hospital Bonus Campus Items"
+        }
+    ],
     "latest": 917504,
     "title": "Two Point Hospital\u2122"
 }

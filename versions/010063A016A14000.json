@@ -2,7 +2,28 @@
     "0": "E376E40F0A474749",
     "131072": "C65BDE64867BE74F",
     "65536": "000E4204230EA041",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010063A016A15001",
+            "name": "Grandmaster Chessboard"
+        },
+        {
+            "id": "010063A016A15002",
+            "name": "Winter White Chessboard"
+        },
+        {
+            "id": "010063A016A15003",
+            "name": "Pink Bubble Gum Chessboard"
+        },
+        {
+            "id": "010063A016A15004",
+            "name": "Wisdom Chessboard"
+        },
+        {
+            "id": "010063A016A15005",
+            "name": "Emerald Green Chessboard"
+        }
+    ],
     "latest": 131072,
     "title": "Family Chess"
 }

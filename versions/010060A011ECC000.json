@@ -5,7 +5,24 @@
     "327680": "50DA5A3E3E6CA34A",
     "393216": "50DA5A3E3E6CA34A",
     "65536": "F2642701E1372942",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010060A011ECD001",
+            "name": "Knights & Guns Expansion Pack #1"
+        },
+        {
+            "id": "010060A011ECD002",
+            "name": "Knights & Guns Expansion Pack #2"
+        },
+        {
+            "id": "010060A011ECD003",
+            "name": "Knights & Guns Armor Pack #1"
+        },
+        {
+            "id": "010060A011ECD004",
+            "name": "Knights & Guns Armor Pack #2"
+        }
+    ],
     "latest": 393216,
     "title": "Knights & Guns"
 }

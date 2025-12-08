@@ -6,7 +6,20 @@
     "327680": "114E9E4C4C461CA2",
     "393216": "F3777CD802F343FC",
     "524288": "DE7982A1B495EC26",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100A9E00D97B001",
+            "name": "Svafnir, Clan of the Snake"
+        },
+        {
+            "id": "0100A9E00D97B003",
+            "name": "Northgard - Nidhogg, Clan of the Dragon"
+        },
+        {
+            "id": "0100A9E00D97B004",
+            "name": "Svadilfari, the Clan of the Horse"
+        }
+    ],
     "latest": 524288,
     "title": "Northgard"
 }

@@ -5,7 +5,28 @@
     "327680": "5D46412CBA875769",
     "393216": "7CA4BA376B23FADF",
     "458752": "B5245DC1DFBAAEAB",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100763015C2F001",
+            "name": "Special DLC boss \"Kohaku Otori\" from \"COGEN: Sword of Rewind\""
+        },
+        {
+            "id": "0100763015C2F002",
+            "name": "Special DLC boss \"Yang Yumo\" from \"Dusk Diver 2\""
+        },
+        {
+            "id": "0100763015C2F003",
+            "name": "Special DLC boss \"Jason Frudnick\" from \"Blaster Master Zero 3\""
+        },
+        {
+            "id": "0100763015C2F004",
+            "name": "Special DLC boss \"Kurona\" from \"Gal*Gun Double Peace\""
+        },
+        {
+            "id": "0100763015C2F005",
+            "name": "Special DLC boss \"Kirin\" from \"Azure Striker GUNVOLT 3\""
+        }
+    ],
     "latest": 458752,
     "title": "Gunvolt Chronicles: Luminous Avenger iX 2"
 }

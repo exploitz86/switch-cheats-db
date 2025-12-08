@@ -1,6 +1,51 @@
 {
     "0": "2EFF5A2CA6A41448",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100EF5019981001",
+            "name": "Whiteboards Pack 1"
+        },
+        {
+            "id": "0100EF5019981002",
+            "name": "Whiteboards Pack 2"
+        },
+        {
+            "id": "0100EF5019981003",
+            "name": "Whiteboards Pack 3"
+        },
+        {
+            "id": "0100EF5019981004",
+            "name": "Whiteboards Pack 4"
+        },
+        {
+            "id": "0100EF5019981005",
+            "name": "Whiteboards Pack 5"
+        },
+        {
+            "id": "0100EF5019981006",
+            "name": "Whiteboards Pack 6"
+        },
+        {
+            "id": "0100EF5019981007",
+            "name": "Whiteboards Pack 7"
+        },
+        {
+            "id": "0100EF5019981008",
+            "name": "Whiteboards Pack 8"
+        },
+        {
+            "id": "0100EF5019981009",
+            "name": "Whiteboards Pack 9"
+        },
+        {
+            "id": "0100EF501998100A",
+            "name": "Fish"
+        },
+        {
+            "id": "0100EF501998100B",
+            "name": "Plane"
+        }
+    ],
     "latest": 0,
     "title": "Cat Tales"
 }

@@ -4,7 +4,20 @@
     "196608": "5A7A13D1563CB339",
     "262144": "36FCAAB2D55D0714",
     "65536": "7DEBCD480D3D5C1D",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100C2000E08D001",
+            "name": "Fated Romance -A Foxy Butler!?-"
+        },
+        {
+            "id": "0100C2000E08D002",
+            "name": "Fated Romance -Paws or claws?-"
+        },
+        {
+            "id": "0100C2000E08D003",
+            "name": "Luck in Love -The Key to Happiness-"
+        }
+    ],
     "latest": 262144,
     "title": "Enchanted in the Moonlight - Miyabi, Kyoga & Samon -"
 }

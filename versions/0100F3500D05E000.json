@@ -1,6 +1,47 @@
 {
     "0": "3879A9ED5B275E46",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100F3500D05F001",
+            "name": "Heroes"
+        },
+        {
+            "id": "0100F3500D05F002",
+            "name": "Nightland"
+        },
+        {
+            "id": "0100F3500D05F003",
+            "name": "Desert"
+        },
+        {
+            "id": "0100F3500D05F004",
+            "name": "Aztec"
+        },
+        {
+            "id": "0100F3500D05F005",
+            "name": "Carrotville"
+        },
+        {
+            "id": "0100F3500D05F006",
+            "name": "Coins pack 01"
+        },
+        {
+            "id": "0100F3500D05F007",
+            "name": "Coins pack 02"
+        },
+        {
+            "id": "0100F3500D05F008",
+            "name": "Coins pack 03"
+        },
+        {
+            "id": "0100F3500D05F009",
+            "name": "Coins pack 04"
+        },
+        {
+            "id": "0100F3500D05F00A",
+            "name": "Coins pack 05"
+        }
+    ],
     "latest": 0,
     "title": "Angry Bunnies: Colossal Carrot Crusade"
 }

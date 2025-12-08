@@ -1,5 +1,78 @@
 {
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100459009A2B001",
+            "name": "Cygon Garage Kit"
+        },
+        {
+            "id": "0100459009A2B002",
+            "name": "Terra Garage Kit"
+        },
+        {
+            "id": "0100459009A2B003",
+            "name": "Vintek Garage Kit"
+        },
+        {
+            "id": "0100459009A2B004",
+            "name": "Pariah Garage Kit"
+        },
+        {
+            "id": "0100459009A2B005",
+            "name": "Nyvoss Hex Pack"
+        },
+        {
+            "id": "0100459009A2B006",
+            "name": "Nyvoss Garage Kit"
+        },
+        {
+            "id": "0100459009A2B007",
+            "name": "Cygon Garage Kit 2"
+        },
+        {
+            "id": "0100459009A2B008",
+            "name": "Nyvoss Garage Kit 2"
+        },
+        {
+            "id": "0100459009A2B009",
+            "name": "Pariah Garage Kit 2"
+        },
+        {
+            "id": "0100459009A2B00A",
+            "name": "Terra Garage Kit 2"
+        },
+        {
+            "id": "0100459009A2B00B",
+            "name": "Vintek Garage Kit 2"
+        },
+        {
+            "id": "0100459009A2B00C",
+            "name": "Artifex Car Pack"
+        },
+        {
+            "id": "0100459009A2B00D",
+            "name": "Cygon Garage Kit 3"
+        },
+        {
+            "id": "0100459009A2B00E",
+            "name": "Nyvoss Garage Kit 3"
+        },
+        {
+            "id": "0100459009A2B00F",
+            "name": "Pariah Garage Kit 3"
+        },
+        {
+            "id": "0100459009A2B010",
+            "name": "Terra Garage Kit 3"
+        },
+        {
+            "id": "0100459009A2B011",
+            "name": "Vintek Garage Kit 3"
+        },
+        {
+            "id": "0100459009A2B012",
+            "name": "DeLorean 2650"
+        }
+    ],
     "latest": 524288,
     "title": "GRIP: Ultimate Edition (retail only)"
 }

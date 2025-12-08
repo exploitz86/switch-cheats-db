@@ -1,7 +1,12 @@
 {
     "0": "027A5DDF9A44264E",
     "131072": "821623D5241AB14B",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100F2B0123AF001",
+            "name": "THE QUEEN PACK DLC"
+        }
+    ],
     "latest": 131072,
     "title": "L.O.L. Surprise! Remix: We Rule The World"
 }

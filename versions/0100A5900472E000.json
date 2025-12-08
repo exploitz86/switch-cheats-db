@@ -2,7 +2,48 @@
     "131072": "9848DD70E8EF4EE0",
     "196608": "A374BC6635374933",
     "262144": "5B667C52B9042D43",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100A5900472F001",
+            "name": "Chess Ultra: Santa Monica Game Pack"
+        },
+        {
+            "id": "0100A5900472F002",
+            "name": "Chess Ultra: Imperial chess set"
+        },
+        {
+            "id": "0100A5900472F003",
+            "name": "Chess Ultra: Easter Island chess set"
+        },
+        {
+            "id": "0100A5900472F004",
+            "name": "Chess Ultra: Academy game pack"
+        },
+        {
+            "id": "0100A5900472F005",
+            "name": "Chess Ultra: Isle of Lewis chess set"
+        },
+        {
+            "id": "0100A5900472F006",
+            "name": "Chess Ultra: Pantheon Game Pack"
+        },
+        {
+            "id": "0100A5900472F007",
+            "name": "Chess Ultra X Purling London Bold Chess"
+        },
+        {
+            "id": "0100A5900472F008",
+            "name": "Chess Ultra X Purling London Mr. Jiver Art Chess"
+        },
+        {
+            "id": "0100A5900472F009",
+            "name": "Chess Ultra X Purling London Nette Robinson Art Chess"
+        },
+        {
+            "id": "0100A5900472F00A",
+            "name": "Chess Ultra X Purling London Olivia Pilling Art Chess"
+        }
+    ],
     "latest": 262144,
     "title": "Chess Ultra"
 }

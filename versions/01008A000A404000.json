@@ -1,7 +1,20 @@
 {
     "0": "9D2088B918D82C43",
     "65536": "C7209AEDA44B0447",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01008A000A405001",
+            "name": "The Lost Child: Light of Blessing Set"
+        },
+        {
+            "id": "01008A000A405002",
+            "name": "The Lost Child: Fruits of Wisdom Set"
+        },
+        {
+            "id": "01008A000A405003",
+            "name": "The Lost Child: Heavenly 7 Set"
+        }
+    ],
     "latest": 65536,
     "title": "The Lost Child"
 }

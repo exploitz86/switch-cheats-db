@@ -1,7 +1,12 @@
 {
     "0": "EDF2BBD98BFFD972",
     "131072": "9DC1B82D22F29722",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010075E0047F9001",
+            "name": "Arena"
+        }
+    ],
     "latest": 131072,
     "title": "Neon Chrome"
 }

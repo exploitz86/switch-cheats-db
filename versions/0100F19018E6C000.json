@@ -1,7 +1,28 @@
 {
     "0": "27C7DB2646AC1144",
     "65536": "CD0729778FF92D42",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100F19018E6D001",
+            "name": "Mini Island Winter"
+        },
+        {
+            "id": "0100F19018E6D002",
+            "name": "Mini Island Spring"
+        },
+        {
+            "id": "0100F19018E6D003",
+            "name": "Mini Island Summer"
+        },
+        {
+            "id": "0100F19018E6D004",
+            "name": "Mixx Island Remix Vol. 2"
+        },
+        {
+            "id": "0100F19018E6D005",
+            "name": "Mini Island Autumn"
+        }
+    ],
     "latest": 65536,
     "title": "Mixx Island: Remix Plus"
 }

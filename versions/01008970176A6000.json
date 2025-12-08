@@ -2,7 +2,12 @@
     "0": "4147BB6A8E2EF17B",
     "131072": "01CE9FF4CCED024F",
     "196608": "4CBA9B7CE88603D1",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01008970176A7001",
+            "name": "Etrian Odyssey HD Character Portrait DLC Set"
+        }
+    ],
     "latest": 196608,
     "title": "Etrian Odyssey HD"
 }

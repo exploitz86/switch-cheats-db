@@ -2,7 +2,12 @@
     "0": "8B7B9472C7A61BF2",
     "131072": "2EAD6E43DEDD2E33",
     "327680": "E65C3D763028D666",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100AAF018059004",
+            "name": "Let's Sing 2024 - International Hits"
+        }
+    ],
     "latest": 327680,
     "title": "Let's Sing 2024"
 }

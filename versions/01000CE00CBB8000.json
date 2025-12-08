@@ -5,7 +5,12 @@
     "262144": "FE248225DAB0BC4A",
     "327680": "C5002CDB8F813141",
     "65536": "5C011B74E7FD7C46",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01000CE00CBB9001",
+            "name": "Plague Inc: The Cure"
+        }
+    ],
     "latest": 327680,
     "title": "Plague Inc: Evolved"
 }

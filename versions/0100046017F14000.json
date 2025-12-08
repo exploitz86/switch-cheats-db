@@ -6,7 +6,44 @@
     "327680": "E83FD44E4CD5632C",
     "393216": "E2B1DFD7CAA9B66F",
     "65536": "D8E240C7BCD62F0C",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100046017F15001",
+            "name": "Forklift Extreme: Operator Pack"
+        },
+        {
+            "id": "0100046017F15002",
+            "name": "Forklift Extreme: Military Storage"
+        },
+        {
+            "id": "0100046017F15003",
+            "name": "Forklift Extreme: Impound Lot"
+        },
+        {
+            "id": "0100046017F15004",
+            "name": "Forklift Extreme: Vertigo Farm"
+        },
+        {
+            "id": "0100046017F15005",
+            "name": "Forklift Extreme: Furniture Direct"
+        },
+        {
+            "id": "0100046017F15006",
+            "name": "Forklift Extreme: Santa's Workshop"
+        },
+        {
+            "id": "0100046017F15007",
+            "name": "Forklift Extreme: Docks"
+        },
+        {
+            "id": "0100046017F15008",
+            "name": "Forklift Extreme: Construction Site"
+        },
+        {
+            "id": "0100046017F1500A",
+            "name": "Forklift Extreme: Eco Depot"
+        }
+    ],
     "latest": 393216,
     "title": "Forklift Extreme"
 }

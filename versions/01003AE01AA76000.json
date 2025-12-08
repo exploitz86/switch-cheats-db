@@ -4,7 +4,28 @@
     "65536": "B3F271EF130A5338",
     "786432": "8D6606B544CBCBC8",
     "851968": "6C46135714ABB870",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01003AE01AA77001",
+            "name": "Bonus Equipment: Hallowed Relic Sword Mountings"
+        },
+        {
+            "id": "01003AE01AA77002",
+            "name": "Fate/Samurai Remnant Digital Artbook & Soundtrack"
+        },
+        {
+            "id": "01003AE01AA77003",
+            "name": "Phantasmal Dress \"Miyamoto Iori\""
+        },
+        {
+            "id": "01003AE01AA77004",
+            "name": "Phantasmal Dress \"Saber\""
+        },
+        {
+            "id": "01003AE01AA77005",
+            "name": "Phantasmal Dress \"Miyamoto Musashi\""
+        }
+    ],
     "latest": 851968,
     "title": "Fate/Samurai Remnant"
 }

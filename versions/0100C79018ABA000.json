@@ -2,7 +2,16 @@
     "0": "2C34A5E67EB580B6",
     "131072": "8BFE6BDBA1D4AF82",
     "65536": "B1EA439E2A5CDDD7",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100C79018ABB001",
+            "name": "Fashion Girls: Extra Levels!"
+        },
+        {
+            "id": "0100C79018ABB002",
+            "name": "Fashion Girls: Special Levels"
+        }
+    ],
     "latest": 131072,
     "title": "Fashion Girls"
 }

@@ -3,7 +3,12 @@
     "131072": "392B78375AFC0428",
     "196608": "A501404256573707",
     "65536": "5B499264AA7C5E07",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100743013D57001",
+            "name": "Blizzard's 30th Anniversary Bundle"
+        }
+    ],
     "latest": 196608,
     "title": "Blizzard\u00ae Arcade Collection"
 }

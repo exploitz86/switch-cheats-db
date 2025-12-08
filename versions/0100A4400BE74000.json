@@ -2,7 +2,16 @@
     "0": "49B37D7ACD389E45",
     "131072": "22AF43D2B640A347",
     "196608": "BAC1309DDF75B14D",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100A4400BE75001",
+            "name": "The LEGO Movie\u00a02 Videogame: Prophecy\u00a0Pack"
+        },
+        {
+            "id": "0100A4400BE75002",
+            "name": "Galactic Adventures Character & Level Pack"
+        }
+    ],
     "latest": 196608,
     "title": "The LEGO Movie 2 Videogame"
 }

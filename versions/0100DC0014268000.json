@@ -5,7 +5,16 @@
     "262144": "67180EADBF212884",
     "393216": "1DB283E770FD6E21",
     "65536": "39417736E7920EC3",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100DC0014269001",
+            "name": "Tribes of Midgard Deluxe Content"
+        },
+        {
+            "id": "0100DC0014269002",
+            "name": "Tribes of Midgard Eira Cosmetics"
+        }
+    ],
     "latest": 393216,
     "title": "Tribes of Midgard"
 }

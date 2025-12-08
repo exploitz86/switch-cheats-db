@@ -10,7 +10,12 @@
     "589824": "91DA2AB570573640",
     "65536": "6F6F0DFB2678C14B",
     "655360": "4C277E67AB50D547",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01002BD00F627001",
+            "name": "Inertial Drift: Twilight Rivals Pack"
+        }
+    ],
     "latest": 655360,
     "title": "Inertial Drift"
 }

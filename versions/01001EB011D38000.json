@@ -1,7 +1,28 @@
 {
     "0": "0D5D07181F8BE84C",
     "65536": "B52645EFE7EB0C4F",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01001EB011D39001",
+            "name": "Experience x3 - Miden Tower"
+        },
+        {
+            "id": "01001EB011D39002",
+            "name": "SP x3 - Miden Tower"
+        },
+        {
+            "id": "01001EB011D39003",
+            "name": "Experience & SP x2 - Miden Tower"
+        },
+        {
+            "id": "01001EB011D39004",
+            "name": "Damage x2 - Miden Tower"
+        },
+        {
+            "id": "01001EB011D39005",
+            "name": "No Skill Cost - Miden Tower"
+        }
+    ],
     "latest": 65536,
     "title": "Miden Tower"
 }

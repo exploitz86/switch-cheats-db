@@ -5,7 +5,24 @@
     "262144": "3A2D1227979971E5",
     "327680": "C3CF52BF2B05D731",
     "65536": "5A982FA25220E4DF",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01002B00111A3001",
+            "name": "\u25a0Digital Version Preorder Bonus"
+        },
+        {
+            "id": "01002B00111A3002",
+            "name": "Hyrule Warriors: Age of Calamity Expansion Pass - Purchase Bonus"
+        },
+        {
+            "id": "01002B00111A3003",
+            "name": "Pulse of the Ancients"
+        },
+        {
+            "id": "01002B00111A3004",
+            "name": "Guardian of Remembrance"
+        }
+    ],
     "latest": 327680,
     "title": "Hyrule Warriors: Age of Calamity"
 }

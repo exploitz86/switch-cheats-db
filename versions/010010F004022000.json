@@ -2,7 +2,20 @@
     "0": "36EB098D4651B578",
     "196608": "6B91661CFBEE961D",
     "262144": "F410687E1BAB9189",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010010F004023001",
+            "name": "Touhou Kobuto V: Burst Battle - Koishi Komeiji"
+        },
+        {
+            "id": "010010F004023002",
+            "name": "Touhou Kobuto V: Burst Battle - Chibi-Chara"
+        },
+        {
+            "id": "010010F004023003",
+            "name": "Touhou Kobuto V: Burst Battle - Youmu Konpaku"
+        }
+    ],
     "latest": 262144,
     "title": "Touhou Kobuto V: Burst Battle"
 }

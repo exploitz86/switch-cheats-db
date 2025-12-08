@@ -1,6 +1,11 @@
 {
     "0": "1661168B97C53E42",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010056A010679001",
+            "name": "Seismic"
+        }
+    ],
     "latest": 0,
     "title": "Gunscape"
 }

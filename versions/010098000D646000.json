@@ -19,7 +19,396 @@
     "851968": "2DC278F14DEFCC40",
     "917504": "EAE3FC7DA542014C",
     "983040": "830A32796422784B",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010098000D647001",
+            "name": "Additional character: Tappy"
+        },
+        {
+            "id": "010098000D647002",
+            "name": "Additional character: Uiro"
+        },
+        {
+            "id": "010098000D647003",
+            "name": "Additional skin: Nyack (Xmas ver.)"
+        },
+        {
+            "id": "010098000D647004",
+            "name": "Additional skin: Mash (Xmas ver.)"
+        },
+        {
+            "id": "010098000D647005",
+            "name": "Additional skin: Kagero (Xmas ver.)"
+        },
+        {
+            "id": "010098000D647006",
+            "name": "Additional skin: Papyrus (Xmas ver.)"
+        },
+        {
+            "id": "010098000D647007",
+            "name": "Additional skin: Aurora (Xmas ver.)"
+        },
+        {
+            "id": "010098000D647008",
+            "name": "Additional skin: Cobra (Xmas ver.)"
+        },
+        {
+            "id": "010098000D647009",
+            "name": "Additional skin: Jelly (Xmas ver.)"
+        },
+        {
+            "id": "010098000D64700A",
+            "name": "Additional skin: Pudding (Xmas ver.)"
+        },
+        {
+            "id": "010098000D64700B",
+            "name": "Additional skin: Amoeba mob (Xmas ver.)"
+        },
+        {
+            "id": "010098000D64700C",
+            "name": "Additional skin: Nyack (Pajama Party ver.)"
+        },
+        {
+            "id": "010098000D64700D",
+            "name": "Additional skin: Mash (Pajama Party ver.)"
+        },
+        {
+            "id": "010098000D64700E",
+            "name": "Additional skin: Kagero (Pajama Party ver.)"
+        },
+        {
+            "id": "010098000D64700F",
+            "name": "Additional skin: Papyrus (Pajama Party ver.)"
+        },
+        {
+            "id": "010098000D647010",
+            "name": "Additional skin: Aurora (Pajama Party ver.)"
+        },
+        {
+            "id": "010098000D647011",
+            "name": "Additional skin: Cobra (Pajama Party ver.)"
+        },
+        {
+            "id": "010098000D647012",
+            "name": "Additional skin: Jelly (Pajama Party ver.)"
+        },
+        {
+            "id": "010098000D647013",
+            "name": "Additional skin: Pudding (Pajama Party ver.)"
+        },
+        {
+            "id": "010098000D647014",
+            "name": "Additional skin: Amoeba mob (Pajama Party ver.)"
+        },
+        {
+            "id": "010098000D647015",
+            "name": "Additional skin: Nyack (College Days ver.)"
+        },
+        {
+            "id": "010098000D647016",
+            "name": "Additional skin: Mash (College Days ver.)"
+        },
+        {
+            "id": "010098000D647017",
+            "name": "Additional skin: Kagero (College Days ver.)"
+        },
+        {
+            "id": "010098000D647018",
+            "name": "Additional skin: Papyrus (College Days ver.)"
+        },
+        {
+            "id": "010098000D647019",
+            "name": "Additional skin: Aurora (College Days ver.)"
+        },
+        {
+            "id": "010098000D64701A",
+            "name": "Additional skin: Cobra (College Days ver.)"
+        },
+        {
+            "id": "010098000D64701B",
+            "name": "Additional skin: Jelly (College Days ver.)"
+        },
+        {
+            "id": "010098000D64701C",
+            "name": "Additional skin: Pudding (College Days ver.)"
+        },
+        {
+            "id": "010098000D64701D",
+            "name": "Additional skin: Amoeba mob (College Days ver.)"
+        },
+        {
+            "id": "010098000D64701E",
+            "name": "New battle style: \"Tenkaichi Hi-Speed Battle!!\""
+        },
+        {
+            "id": "010098000D64701F",
+            "name": "New battle style: \"Super Goonya Fighters!?\""
+        },
+        {
+            "id": "010098000D647020",
+            "name": "New battle style: \"\"Don't Touch The Poop\" Party!!\""
+        },
+        {
+            "id": "010098000D647021",
+            "name": "New battle style: \"Flippy-Floppy-Floaty Battle!!\""
+        },
+        {
+            "id": "010098000D647022",
+            "name": "New battle style: \"Bighead Battle!!\""
+        },
+        {
+            "id": "010098000D647023",
+            "name": "New battle style: \"Slip -n- Slide\""
+        },
+        {
+            "id": "010098000D647024",
+            "name": "Additional skin: Nyack (New Year's ver.)"
+        },
+        {
+            "id": "010098000D647025",
+            "name": "Additional skin: Mash (New Year's ver.)"
+        },
+        {
+            "id": "010098000D647026",
+            "name": "Additional skin: Kagero (New Year's ver.)"
+        },
+        {
+            "id": "010098000D647027",
+            "name": "Additional skin: Papyrus (New Year's ver.)"
+        },
+        {
+            "id": "010098000D647028",
+            "name": "Additional skin: Aurora (New Year's ver.)"
+        },
+        {
+            "id": "010098000D647029",
+            "name": "Additional skin: Cobra (New Year's ver.)"
+        },
+        {
+            "id": "010098000D64702A",
+            "name": "Additional skin: Jelly (New Year's ver.)"
+        },
+        {
+            "id": "010098000D64702B",
+            "name": "Additional skin: Pudding (New Year's ver.)"
+        },
+        {
+            "id": "010098000D64702C",
+            "name": "Additional skin: Amoeba mob (New Year's ver.)"
+        },
+        {
+            "id": "010098000D64702D",
+            "name": "New battle style: \"Special Move: Fire Them Turds!!\""
+        },
+        {
+            "id": "010098000D64702E",
+            "name": "New battle style: \"Item Battle: Flippy Floppy Giants!\""
+        },
+        {
+            "id": "010098000D64702F",
+            "name": "New battle style: \"The New Sensation: A View From Behind!\""
+        },
+        {
+            "id": "010098000D647030",
+            "name": "New battle style:\"Special Move: Solid Swift Sliding Kick!\""
+        },
+        {
+            "id": "010098000D647031",
+            "name": "New battle style: \"Running On Fumes?! Natural Jet Propulsion Battle!\""
+        },
+        {
+            "id": "010098000D647032",
+            "name": "New battle style: \"Bomber Fighter Insanity!\""
+        },
+        {
+            "id": "010098000D647033",
+            "name": "New battle style: \"Item Battle: First-Aid Boxes and some TLC\""
+        },
+        {
+            "id": "010098000D647034",
+            "name": "New battle style: \"Super Untouchable Goonya Fighters!!\""
+        },
+        {
+            "id": "010098000D647035",
+            "name": "New battle style: \"Be one with the JoyCon! Controller Motion Battle!!\""
+        },
+        {
+            "id": "010098000D647036",
+            "name": "Additional character: Glyph"
+        },
+        {
+            "id": "010098000D647037",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010098000D647038",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010098000D647039",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010098000D64703A",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010098000D64703B",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010098000D64703C",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010098000D64703D",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010098000D64703E",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010098000D64703F",
+            "name": "Additional skin: Free Trial Pack (Masked Fighters Ver.)"
+        },
+        {
+            "id": "010098000D647040",
+            "name": "Additional skin: Nyack (Summer Vacation ver.)"
+        },
+        {
+            "id": "010098000D647041",
+            "name": "Additional skin: Mash (Summer Vacation ver.)"
+        },
+        {
+            "id": "010098000D647042",
+            "name": "Additional skin: Kagero (Summer Vacation ver.)"
+        },
+        {
+            "id": "010098000D647043",
+            "name": "Additional skin: Papyrus (Summer Vacation ver.)"
+        },
+        {
+            "id": "010098000D647044",
+            "name": "Additional skin: Aurora (Summer Vacation ver.)"
+        },
+        {
+            "id": "010098000D647045",
+            "name": "Additional skin: Cobra (Summer Vacation ver.)"
+        },
+        {
+            "id": "010098000D647046",
+            "name": "Additional skin: Jelly (Summer Vacation ver.)"
+        },
+        {
+            "id": "010098000D647047",
+            "name": "Additional skin: Pudding (Summer Vacation ver.)"
+        },
+        {
+            "id": "010098000D647048",
+            "name": "Additional skin: Amoeba mob (Summer Vacation ver.)"
+        },
+        {
+            "id": "010098000D647049",
+            "name": "Additional skin: Nyack (Halloween ver.)"
+        },
+        {
+            "id": "010098000D64704A",
+            "name": "Additional skin: Mash (Halloween ver.)"
+        },
+        {
+            "id": "010098000D64704B",
+            "name": "Additional skin: Kagero (Halloween ver.)"
+        },
+        {
+            "id": "010098000D64704C",
+            "name": "Additional skin: Papyrus (Halloween ver.)"
+        },
+        {
+            "id": "010098000D64704D",
+            "name": "Additional skin: Aurora (Halloween ver.)"
+        },
+        {
+            "id": "010098000D64704E",
+            "name": "Additional skin: Cobra (Halloween ver.)"
+        },
+        {
+            "id": "010098000D64704F",
+            "name": "Additional skin: Jelly (Halloween ver.)"
+        },
+        {
+            "id": "010098000D647050",
+            "name": "Additional skin: Pudding (Halloween ver.)"
+        },
+        {
+            "id": "010098000D647051",
+            "name": "Additional skin: Amoeba mob (Halloween ver.)"
+        },
+        {
+            "id": "010098000D647052",
+            "name": "Additional character: Akira(Virtua Fighter Collab)"
+        },
+        {
+            "id": "010098000D647053",
+            "name": "Additional character: Pai(Virtua Fighter Collab)"
+        },
+        {
+            "id": "010098000D647054",
+            "name": "Additional character: Lau(Virtua Fighter Collab)"
+        },
+        {
+            "id": "010098000D647055",
+            "name": "Additional character: Wolf(Virtua Fighter Collab)"
+        },
+        {
+            "id": "010098000D647056",
+            "name": "Additional character: Sara(Virtua Fighter Collab)"
+        },
+        {
+            "id": "010098000D647057",
+            "name": "Additional character: Hati(BORDER BREAK Collab)"
+        },
+        {
+            "id": "010098000D647058",
+            "name": "Additional character: Cougar(BORDER BREAK Collab)"
+        },
+        {
+            "id": "010098000D647059",
+            "name": "Additional character: Puimo(Mascot Collab)"
+        },
+        {
+            "id": "010098000D64705A",
+            "name": "Additional character: Jingisukan no JinKun(Mascot Collab)"
+        },
+        {
+            "id": "010098000D64705B",
+            "name": "Additional character: Nagomi Shibakko(Mascot Collab)"
+        },
+        {
+            "id": "010098000D64705C",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010098000D64705D",
+            "name": "Additional character: Kana Hayama(JUNJO NO AFILIA Collab)"
+        },
+        {
+            "id": "010098000D64705E",
+            "name": "Additional character: Kaori Nagisa(JUNJO NO AFILIA Collab)"
+        },
+        {
+            "id": "010098000D64705F",
+            "name": "Additional character: Yumi Terasaka(JUNJO NO AFILIA Collab)"
+        },
+        {
+            "id": "010098000D647060",
+            "name": "Additional character: Ruri Asano(ASANO SHIMAI PROJECT Collab)"
+        },
+        {
+            "id": "010098000D647061",
+            "name": "Additional character: Akane Asano(ASANO SHIMAI PROJECT Collab)"
+        }
+    ],
     "latest": 1441792,
     "title": "Goonya Fighter"
 }

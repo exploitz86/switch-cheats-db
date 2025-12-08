@@ -2,7 +2,12 @@
     "0": "68C536A816B43CF4",
     "131072": "7563F518847778EA",
     "65536": "F9D95561A290C432",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01001390140BD001",
+            "name": "Zorya: The Celestial Sisters \u2122 (Full Game)"
+        }
+    ],
     "latest": 131072,
     "title": "Zorya: The Celestial Sisters \u2122"
 }

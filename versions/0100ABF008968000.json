@@ -7,7 +7,16 @@
     "393216": "4628A512B1D93D37",
     "458752": "A3B75BCD3311385A",
     "65536": "490648316CC1CCDC",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100ABF008969001",
+            "name": "The Isle of Armor"
+        },
+        {
+            "id": "0100ABF008969002",
+            "name": "The Crown Tundra"
+        }
+    ],
     "latest": 458752,
     "title": "Pok\u00e9mon Sword + Pok\u00e9mon Sword Expansion Pass"
 }

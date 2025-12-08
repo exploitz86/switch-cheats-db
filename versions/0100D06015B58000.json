@@ -3,7 +3,12 @@
     "131072": "829FD2E054696E32",
     "196608": "730B29EFD1E9ABC1",
     "65536": "0CAFE20D98847B76",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100D06015B59001",
+            "name": "Miraculous: Rise of the Sphinx Cat Noir and Ladybug Costume Pack"
+        }
+    ],
     "latest": 196608,
     "title": "Miraculous: Rise of the Sphinx"
 }

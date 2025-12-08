@@ -12,7 +12,172 @@
     "786432": "ED845F49E78DD0AE",
     "851968": "31C06A83F97BFDC0",
     "983040": "E61CCC9D35E74DD5",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010026301785B001",
+            "name": "Additional BGM : GO ON YA WAY/FAKE TYPE. feat. Chogakusei"
+        },
+        {
+            "id": "010026301785B002",
+            "name": "Additional Voice : Octo"
+        },
+        {
+            "id": "010026301785B003",
+            "name": "Additional Voice : Snail"
+        },
+        {
+            "id": "010026301785B004",
+            "name": "Additional Voice : Toad"
+        },
+        {
+            "id": "010026301785B005",
+            "name": "Additional Voice : Pirarucu"
+        },
+        {
+            "id": "010026301785B006",
+            "name": "Battle Pass : Episode1 + Infinity Cookie"
+        },
+        {
+            "id": "010026301785B007",
+            "name": "Battle Pass : Episode2 + Infinity Cookie"
+        },
+        {
+            "id": "010026301785B008",
+            "name": "Battle Pass : Episode3 + Infinity Cookie"
+        },
+        {
+            "id": "010026301785B009",
+            "name": "Battle Pass : Episode 4 + Infinity Cookie"
+        },
+        {
+            "id": "010026301785B00A",
+            "name": "Battle Pass : Episode 5 + Infinity Cookie"
+        },
+        {
+            "id": "010026301785B00C",
+            "name": "Additional BGM : GO ON YA WAY(Instrumental Ver.)/FAKE TYPE. feat. Chogakusei"
+        },
+        {
+            "id": "010026301785B00D",
+            "name": "Additional Custom\uff1aDX Pack"
+        },
+        {
+            "id": "010026301785B00E",
+            "name": "Soul Coin & Soul Gem for Digital DX"
+        },
+        {
+            "id": "010026301785B00F",
+            "name": "Additional Character (Monster) : DYES IWASAKI/FAKE TYPE."
+        },
+        {
+            "id": "010026301785B010",
+            "name": "Additional Character (Monster) : TOPHAMHAT-KYO/FAKE TYPE."
+        },
+        {
+            "id": "010026301785B011",
+            "name": "Additional Character (Buster) : Fujimori/SAKANAMON"
+        },
+        {
+            "id": "010026301785B012",
+            "name": "Additional Character (Buster) : Morino/SAKANAMON"
+        },
+        {
+            "id": "010026301785B013",
+            "name": "Additional Character (Buster) : Kimura/SAKANAMON"
+        },
+        {
+            "id": "010026301785B014",
+            "name": "Additional Character (Monster) : Sakanamon/SAKANAMON"
+        },
+        {
+            "id": "010026301785B015",
+            "name": "Additional Character (Buster) : Guchio/Miracle Gucci"
+        },
+        {
+            "id": "010026301785B016",
+            "name": "Additional Character (Buster) : Guchiyama/Miracle Gucci"
+        },
+        {
+            "id": "010026301785B017",
+            "name": "Additional Character (Monster) : Sensei/Miracle Gucci"
+        },
+        {
+            "id": "010026301785B018",
+            "name": "Additional Voice : Anemone"
+        },
+        {
+            "id": "010026301785B019",
+            "name": "Additional Voice : Slug"
+        },
+        {
+            "id": "010026301785B01A",
+            "name": "Additional Voice : Orca"
+        },
+        {
+            "id": "010026301785B01B",
+            "name": "Additional Voice : Clione"
+        },
+        {
+            "id": "010026301785B01C",
+            "name": "Additional Character (Buster) : Anemone"
+        },
+        {
+            "id": "010026301785B01D",
+            "name": "Additional Character (Buster) : Slug"
+        },
+        {
+            "id": "010026301785B01E",
+            "name": "Additional Character (Buster) : Orca"
+        },
+        {
+            "id": "010026301785B01F",
+            "name": "Additional Character (Buster) : Clione"
+        },
+        {
+            "id": "010026301785B020",
+            "name": "Additional Character (Buster) : Puimo/Mascot Character"
+        },
+        {
+            "id": "010026301785B021",
+            "name": "Additional Character (Buster) : Jingiskan's Jinkun/Mascot Character"
+        },
+        {
+            "id": "010026301785B022",
+            "name": "Additional Character (Buster) : Nagomi Shibakko/Mascot Character"
+        },
+        {
+            "id": "010026301785B023",
+            "name": "Additional Character (Buster) : Alice"
+        },
+        {
+            "id": "010026301785B024",
+            "name": "Additional Voice : Alice"
+        },
+        {
+            "id": "010026301785B026",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010026301785B027",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010026301785B028",
+            "name": "Additional Character (Buster) : Tsukasa Tenkai/All Guys"
+        },
+        {
+            "id": "010026301785B029",
+            "name": "Additional Character (Buster) : Gatchman V/All Guys"
+        },
+        {
+            "id": "010026301785B02A",
+            "name": "Additional Character (Buster) : Mari Tomari/All Guys"
+        },
+        {
+            "id": "010026301785B02B",
+            "name": "Additional Character (Buster) : Meika Utai/All Guys"
+        }
+    ],
     "latest": 983040,
     "title": "Goonya Monster"
 }

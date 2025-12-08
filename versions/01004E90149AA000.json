@@ -8,7 +8,28 @@
     "458752": "E44E68CB47931421",
     "589824": "50B09B840DC79497",
     "65536": "5997FEF7E3BBB649",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01004E90149AB001",
+            "name": "EX Image Pulses: Stratos and Ghauri"
+        },
+        {
+            "id": "01004E90149AB002",
+            "name": "EX Image Pulses: Elise and Asroc pack"
+        },
+        {
+            "id": "01004E90149AB003",
+            "name": "EX Image Pulses: Merak and Teseo pack"
+        },
+        {
+            "id": "01004E90149AB004",
+            "name": "EX Image Pulses: Nova and Desna pack"
+        },
+        {
+            "id": "01004E90149AB005",
+            "name": "EX Image Pulses: Carrera, Gibril, and Milas pack"
+        }
+    ],
     "latest": 589824,
     "title": "Azure Striker GUNVOLT 3"
 }

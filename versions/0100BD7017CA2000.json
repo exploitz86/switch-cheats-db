@@ -1,7 +1,20 @@
 {
     "0": "881DD706B76CAEF1",
     "65536": "133E93F107DDD849",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100BD7017CA3001",
+            "name": "Experience x3 - Infinite Links"
+        },
+        {
+            "id": "0100BD7017CA3002",
+            "name": "Damage x2 - Infinite Links"
+        },
+        {
+            "id": "0100BD7017CA3003",
+            "name": "No Skill Cost - Infinite Links"
+        }
+    ],
     "latest": 65536,
     "title": "Infinite Links"
 }

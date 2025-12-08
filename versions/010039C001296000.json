@@ -1,7 +1,16 @@
 {
     "0": "8C433CB4C5DBD54B",
     "196608": "CFBAF5662A956642",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010039C001297001",
+            "name": "Tortuga"
+        },
+        {
+            "id": "010039C001297002",
+            "name": "Hangar 37"
+        }
+    ],
     "latest": 196608,
     "title": "Infinite Minigolf"
 }

@@ -2,7 +2,16 @@
     "0": "4A134A10586D5747",
     "131072": "01A7F31E7648A548",
     "65536": "A9E99DF42D35C74A",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010096300D9C1001",
+            "name": "Sushi Time! Expansion Pack #1"
+        },
+        {
+            "id": "010096300D9C1002",
+            "name": "Sushi Time! Expansion Pack #2"
+        }
+    ],
     "latest": 131072,
     "title": "Sushi Time!"
 }

@@ -8,7 +8,16 @@
     "458752": "752772F761E729AE",
     "524288": "EFE9F34E4A58B29E",
     "589824": "A083093D77B9EB00",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010040600C5CF001",
+            "name": "Block DLC 1"
+        },
+        {
+            "id": "010040600C5CF002",
+            "name": "Block DLC 2"
+        }
+    ],
     "latest": 589824,
     "title": "Tetris 99 Retail Bundle"
 }

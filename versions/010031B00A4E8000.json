@@ -4,7 +4,12 @@
     "262144": "CCCB908FADD61B44",
     "327680": "7E20AD08B0836944",
     "65536": "CD7179FA49A3254F",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010031B00A4E9001",
+            "name": "Reckonin' at Gun Manor"
+        }
+    ],
     "latest": 327680,
     "title": "West of Loathing"
 }

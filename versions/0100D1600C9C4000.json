@@ -4,6 +4,19 @@
     "524288": "70D2B55BC7B71E42",
     "589824": "8A2C117D278DFC44",
     "655360": "8A2C117D278DFC44",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100D1600C9C5001",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100D1600C9C5002",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100D1600C9C5003",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 655360
 }

@@ -1,7 +1,16 @@
 {
     "0": "59C1D1070DB7284C",
     "65536": "77E4F621E158724F",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010065500ED97001",
+            "name": "Vale of the Wild"
+        },
+        {
+            "id": "010065500ED97002",
+            "name": "Mana Storm"
+        }
+    ],
     "latest": 65536,
     "title": "Mystic Vale"
 }

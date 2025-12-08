@@ -2,7 +2,36 @@
     "0": "4B2884F107B9A441",
     "131072": "E697FD96A8DB2947",
     "65536": "EF1B17CF5FA6474C",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100C7801232D001",
+            "name": "Experience x3 - Alphadia Genesis"
+        },
+        {
+            "id": "0100C7801232D002",
+            "name": "SP x3 - Alphadia Genesis"
+        },
+        {
+            "id": "0100C7801232D003",
+            "name": "Experience & SP x2 - Alphadia Genesis"
+        },
+        {
+            "id": "0100C7801232D004",
+            "name": "No Encounters - Alphadia Genesis"
+        },
+        {
+            "id": "0100C7801232D005",
+            "name": "Damage x2 - Alphadia Genesis"
+        },
+        {
+            "id": "0100C7801232D006",
+            "name": "Full Restore - Alphadia Genesis"
+        },
+        {
+            "id": "0100C7801232D007",
+            "name": "No Skill Cost - Alphadia Genesis"
+        }
+    ],
     "latest": 131072,
     "title": "Alphadia Genesis"
 }

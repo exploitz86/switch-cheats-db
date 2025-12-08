@@ -1,7 +1,28 @@
 {
     "0": "5BFA9C424D15C0B8",
     "262144": "A70B9EB509780B4A",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010058500B3E1001",
+            "name": "Labyrinth of Refrain: Coven of Dusk - Meel's Manania Pact"
+        },
+        {
+            "id": "010058500B3E1002",
+            "name": "Labyrinth of Refrain: Coven of Dusk - Meel's Best Shield"
+        },
+        {
+            "id": "010058500B3E1003",
+            "name": "Labyrinth of Refrain: Coven of Dusk - Meel's Best Bell"
+        },
+        {
+            "id": "010058500B3E1004",
+            "name": "Labyrinth of Refrain: Coven of Dusk - Meel's Best Earrings"
+        },
+        {
+            "id": "010058500B3E1005",
+            "name": "Labyrinth of Refrain: Coven of Dusk - Meel's Strategy Guide Pact"
+        }
+    ],
     "latest": 262144,
     "title": "Labyrinth of Refrain: Coven of Dusk"
 }

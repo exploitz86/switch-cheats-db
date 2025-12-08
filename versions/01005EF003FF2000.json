@@ -28,7 +28,12 @@
     "851968": "D24257A7D46ED44D",
     "917504": "A10DBBCCF3C3064F",
     "983040": "081308A577E4994F",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01005EF003FF3001",
+            "name": "Kingdom Two Crowns: Norse Lands"
+        }
+    ],
     "latest": 2097152,
     "title": "Kingdom Two Crowns"
 }

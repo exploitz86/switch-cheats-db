@@ -1,7 +1,24 @@
 {
     "0": "9765B2C86C9A70CE",
     "589824": "3B39E0C06B8841F1",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010067300059B001",
+            "name": "Mario + Rabbids\u00ae Kingdom Battle : Pixel Pack"
+        },
+        {
+            "id": "010067300059B002",
+            "name": "Mario + Rabbids\u00ae Kingdom Battle : Season Pass exclusive - Steampunk Pack"
+        },
+        {
+            "id": "010067300059B003",
+            "name": "Mario + Rabbids Kingdom Battle Ultra Challenge Pack"
+        },
+        {
+            "id": "010067300059B004",
+            "name": "Mario + Rabbids\u00ae Kingdom Battle Donkey Kong Adventure"
+        }
+    ],
     "latest": 589824,
     "title": "Mario + Rabbids\u00ae Kingdom Battle"
 }

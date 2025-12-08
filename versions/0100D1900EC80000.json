@@ -8,7 +8,124 @@
     "524288": "6BAE122EA063FFEB",
     "589824": "3474FAEE2B35BCAD",
     "65536": "78A0EDFBD60C976E",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100D1900EC810C8",
+            "name": "Ryza's Outfit \"Divertimento Embrace\""
+        },
+        {
+            "id": "0100D1900EC810CB",
+            "name": "Ryza's Costume \"Summer Adventure!\""
+        },
+        {
+            "id": "0100D1900EC810CC",
+            "name": "Costume Set \"Another Fashion\""
+        },
+        {
+            "id": "0100D1900EC810CD",
+            "name": "Costume Set \"Summer Style\""
+        },
+        {
+            "id": "0100D1900EC810CE",
+            "name": "Sunlight Flower"
+        },
+        {
+            "id": "0100D1900EC810CF",
+            "name": "Elegant Mermaid"
+        },
+        {
+            "id": "0100D1900EC810D0",
+            "name": "Muscle Volcano"
+        },
+        {
+            "id": "0100D1900EC810D1",
+            "name": "Captain Tao"
+        },
+        {
+            "id": "0100D1900EC810D2",
+            "name": "Ocean Dandy"
+        },
+        {
+            "id": "0100D1900EC810D3",
+            "name": "Cool Selenite"
+        },
+        {
+            "id": "0100D1900EC810D5",
+            "name": "\u3010Ryza 1 Million Units Celebration\u3011White Lily of Summer"
+        },
+        {
+            "id": "0100D1900EC8112C",
+            "name": "Atelier Series Legacy BGM Pack"
+        },
+        {
+            "id": "0100D1900EC8112D",
+            "name": "GUST Extra BGM Pack"
+        },
+        {
+            "id": "0100D1900EC81190",
+            "name": "Initial Dash Item Set"
+        },
+        {
+            "id": "0100D1900EC81191",
+            "name": "Extra Large! Rebuild Gem Pack"
+        },
+        {
+            "id": "0100D1900EC811F4",
+            "name": "Tao's Story \"Interwoven Fate\""
+        },
+        {
+            "id": "0100D1900EC811F5",
+            "name": "Lent's Story \"True Strength\""
+        },
+        {
+            "id": "0100D1900EC811F6",
+            "name": "\"Ever Summer Queen & the Secret Island\""
+        },
+        {
+            "id": "0100D1900EC811F7",
+            "name": "\"The End of an Adventure and Beyond\""
+        },
+        {
+            "id": "0100D1900EC811F8",
+            "name": "Klaudia's Story \"Atelier Klaudia\""
+        },
+        {
+            "id": "0100D1900EC81258",
+            "name": "\"Secret Solitary Island\""
+        },
+        {
+            "id": "0100D1900EC812BC",
+            "name": "Hideout Parts \"Pixie Forest\""
+        },
+        {
+            "id": "0100D1900EC812BD",
+            "name": "Hideout Parts \"Lakeside Hideout\""
+        },
+        {
+            "id": "0100D1900EC812BE",
+            "name": "Stylish Weapon Skins - Ryza"
+        },
+        {
+            "id": "0100D1900EC812BF",
+            "name": "Stylish Weapon Skins - Klaudia"
+        },
+        {
+            "id": "0100D1900EC812C0",
+            "name": "Stylish Weapon Skins - Lent"
+        },
+        {
+            "id": "0100D1900EC812C1",
+            "name": "Stylish Weapon Skins - Tao"
+        },
+        {
+            "id": "0100D1900EC812C2",
+            "name": "Stylish Weapon Skins - Empel"
+        },
+        {
+            "id": "0100D1900EC812C3",
+            "name": "Stylish Weapon Skins - Lila"
+        }
+    ],
     "latest": 589824,
     "title": "Atelier Ryza: Ever Darkness & the Secret Hideout"
 }

@@ -1,6 +1,47 @@
 {
     "0": "4684BB42CD4FE34A",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100C89017D09001",
+            "name": "Zone B"
+        },
+        {
+            "id": "0100C89017D09002",
+            "name": "Zone C"
+        },
+        {
+            "id": "0100C89017D09003",
+            "name": "Zone D"
+        },
+        {
+            "id": "0100C89017D09004",
+            "name": "Zone E"
+        },
+        {
+            "id": "0100C89017D09005",
+            "name": "Zone F"
+        },
+        {
+            "id": "0100C89017D09006",
+            "name": "Zone G"
+        },
+        {
+            "id": "0100C89017D09007",
+            "name": "Zone H"
+        },
+        {
+            "id": "0100C89017D09008",
+            "name": "Zone I"
+        },
+        {
+            "id": "0100C89017D09009",
+            "name": "Zone J"
+        },
+        {
+            "id": "0100C89017D0900A",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 0,
     "title": "Cyber Protocol Prologue"
 }

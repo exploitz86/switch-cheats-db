@@ -2,7 +2,12 @@
     "0": "20B4FAAD511AF70F",
     "131072": "2944E77BA7E3AF96",
     "65536": "519D2F52E59C9FAE",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010096000CA39001",
+            "name": "TAISHO x ALICE ALL IN ONE - English Text Mode Add-On"
+        }
+    ],
     "latest": 131072,
     "title": "TAISHO x ALICE ALL IN ONE"
 }

@@ -1,7 +1,24 @@
 {
     "0": "10E8B7911A01CCF0",
     "65536": "677AFB77B9A3EF00",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010058C017025001",
+            "name": "Dungeons 3 - A Multitude of Maps"
+        },
+        {
+            "id": "010058C017025002",
+            "name": "Dungeons 3 - An Unexpected DLC"
+        },
+        {
+            "id": "010058C017025003",
+            "name": "Dungeons 3 - Clash of Gods"
+        },
+        {
+            "id": "010058C017025004",
+            "name": "Dungeons 3 - Famous Last Words"
+        }
+    ],
     "latest": 65536,
     "title": "Dungeons 3 - Nintendo Switch\u2122 Edition"
 }

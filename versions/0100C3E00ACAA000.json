@@ -13,7 +13,52 @@
     "786432": "37FE288E4BD0EA40",
     "917504": "C4690CC11D2C464C",
     "983040": "601B246598670F46",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100C3E00ACAB004",
+            "name": "Purple Oil Pack"
+        },
+        {
+            "id": "0100C3E00ACAB005",
+            "name": "LA Power Pack"
+        },
+        {
+            "id": "0100C3E00ACAB006",
+            "name": "Brawltimore Razors"
+        },
+        {
+            "id": "0100C3E00ACAB007",
+            "name": "Sin Fransicko Forty Nightmares"
+        },
+        {
+            "id": "0100C3E00ACAB008",
+            "name": "Terror Bay Mutantneers"
+        },
+        {
+            "id": "0100C3E00ACAB009",
+            "name": "Gnashville Lycans"
+        },
+        {
+            "id": "0100C3E00ACAB00A",
+            "name": "Snuffalo Thrills"
+        },
+        {
+            "id": "0100C3E00ACAB00B",
+            "name": "Diami Krakens"
+        },
+        {
+            "id": "0100C3E00ACAB00C",
+            "name": "Brainwashington Cadavers"
+        },
+        {
+            "id": "0100C3E00ACAB00D",
+            "name": "Sinsonasty Mangles"
+        },
+        {
+            "id": "0100C3E00ACAB00E",
+            "name": "New Yuck Threats"
+        }
+    ],
     "latest": 1114112,
     "title": "Mutant Football League: Dynasty Edition"
 }

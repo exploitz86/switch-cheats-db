@@ -1,6 +1,19 @@
 {
     "0": "BC564F68D69D584F",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010028701AB4F001",
+            "name": "Boreal Tenebrae Deluxe Soundtrack"
+        },
+        {
+            "id": "010028701AB4F002",
+            "name": "Boreal Tenebrae Deluxe Artbook"
+        },
+        {
+            "id": "010028701AB4F003",
+            "name": "Colorful cards"
+        }
+    ],
     "latest": 0,
     "title": "Boreal Tenebrae Deluxe"
 }

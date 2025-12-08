@@ -5,7 +5,12 @@
     "262144": "3156570B329043D6",
     "393216": "E4C47FA966169491",
     "65536": "3D3D253B143D5759",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100EC40181AD001",
+            "name": "Glitch Busters: Boss Challenge Pack"
+        }
+    ],
     "latest": 393216,
     "title": "Glitch Busters: Stuck On You"
 }

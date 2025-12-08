@@ -6,7 +6,20 @@
     "393216": "1B4B8323A9263570",
     "524288": "33360EA29C2FBEF2",
     "65536": "2824F7BB32A8CACA",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100115012261001",
+            "name": "SWORD ART ONLINE Alicization Lycoris Premium Pass Costume"
+        },
+        {
+            "id": "0100115012261002",
+            "name": "SWORD ART ONLINE Alicization Lycoris - Blooming of Forget-me-not"
+        },
+        {
+            "id": "0100115012261003",
+            "name": "SWORD ART ONLINE Alicization Lycoris - Blooming of Matricaria"
+        }
+    ],
     "latest": 524288,
     "title": "SWORD ART ONLINE Alicization Lycoris"
 }

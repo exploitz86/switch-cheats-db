@@ -2,7 +2,20 @@
     "0": "0090CBFF9230C84F",
     "524288": "DC3890D8AEE14248",
     "589824": "6B8DCC3C3F93664E",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100DA0006F51001",
+            "name": "Extra Dungeon \"The Cave of Fangs\""
+        },
+        {
+            "id": "0100DA0006F51002",
+            "name": "Extra Dungeon \"The Inferno Hollow\""
+        },
+        {
+            "id": "0100DA0006F51003",
+            "name": "Extra Dungeon \"Friendship's Labyrinth\""
+        }
+    ],
     "latest": 589824,
     "title": "DragonFangZ - The Rose & Dungeon of Time"
 }

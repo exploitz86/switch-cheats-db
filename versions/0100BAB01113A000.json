@@ -6,7 +6,20 @@
     "393216": "48FEAF16AFB29340",
     "458752": "58027B9209AA584B",
     "65536": "1C871FE572E9F146",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100BAB01113B001",
+            "name": "Neon Abyss - The Lovable Rogues Pack"
+        },
+        {
+            "id": "0100BAB01113B002",
+            "name": "Neon Abyss - Alter Ego Pack"
+        },
+        {
+            "id": "0100BAB01113B003",
+            "name": "Neon Abyss - Chrono Trap"
+        }
+    ],
     "latest": 458752,
     "title": "Neon Abyss"
 }

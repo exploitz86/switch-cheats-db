@@ -13,7 +13,20 @@
     "786432": "C0679CF9817AEE84",
     "851968": "F93808CF52443D7B",
     "917504": "0B511D7D17F00D12",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100DCF013741001",
+            "name": "Nickelodeon All-Star Brawl - Jenny Brawler Pack"
+        },
+        {
+            "id": "0100DCF013741002",
+            "name": "Nickelodeon All-Star Brawl - Hugh Neutron Brawler Pack"
+        },
+        {
+            "id": "0100DCF013741003",
+            "name": "Nickelodeon All-Star Brawl - Rocko Brawler Pack"
+        }
+    ],
     "latest": 917504,
     "title": "Nickelodeon All-Star Brawl"
 }

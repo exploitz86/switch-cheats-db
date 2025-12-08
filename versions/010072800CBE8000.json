@@ -6,7 +6,28 @@
     "327680": "4DA11241C4BE6E4F",
     "393216": "B5D89E9B94F4104C",
     "65536": "ACD449F984F89049",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010072800CBE9001",
+            "name": "PC Building Simulator Razer Workshop"
+        },
+        {
+            "id": "010072800CBE9002",
+            "name": "PC Building Simulator Republic of Gamers Workshop"
+        },
+        {
+            "id": "010072800CBE9003",
+            "name": "PC Building Simulator NZXT Workshop"
+        },
+        {
+            "id": "010072800CBE9004",
+            "name": "PC Building Simulator Overclockers UK Workshop"
+        },
+        {
+            "id": "010072800CBE9005",
+            "name": "PC Building Simulator AORUS Workshop"
+        }
+    ],
     "latest": 393216,
     "title": "PC Building Simulator"
 }

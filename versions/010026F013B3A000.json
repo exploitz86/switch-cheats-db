@@ -7,7 +7,16 @@
     "393216": "E5C62544E457EFF2",
     "458752": "5EAF1BB0E2B89AF4",
     "65536": "BE0B77FB246E95FE",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010026F013B3B001",
+            "name": "King's Bounty II - Day One Edition Pack"
+        },
+        {
+            "id": "010026F013B3B002",
+            "name": "King's Bounty II - Lord's Edition Upgrade"
+        }
+    ],
     "latest": 458752,
     "title": "King's Bounty II"
 }

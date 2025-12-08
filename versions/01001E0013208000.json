@@ -7,7 +7,140 @@
     "458752": "2DDDB0B9FC71C2E7",
     "524288": "CDC2B3FFF0BF22D4",
     "589824": "B59B4DBA060207D1",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01001E0013209001",
+            "name": "Capcom Arcade Stadium\uff1aVULGUS"
+        },
+        {
+            "id": "01001E0013209003",
+            "name": "Capcom Arcade Stadium\uff1aPIRATE SHIP HIGEMARU"
+        },
+        {
+            "id": "01001E0013209004",
+            "name": "Capcom Arcade Stadium\uff1a1942"
+        },
+        {
+            "id": "01001E0013209006",
+            "name": "Capcom Arcade Stadium\uff1aCOMMANDO"
+        },
+        {
+            "id": "01001E0013209008",
+            "name": "Capcom Arcade Stadium\uff1aSECTION Z"
+        },
+        {
+            "id": "01001E0013209009",
+            "name": "Capcom Arcade Stadium\uff1aTatakai no Banka"
+        },
+        {
+            "id": "01001E001320900B",
+            "name": "Capcom Arcade Stadium\uff1aLEGENDARY WINGS"
+        },
+        {
+            "id": "01001E001320900E",
+            "name": "Capcom Arcade Stadium\uff1aBIONIC COMMANDO"
+        },
+        {
+            "id": "01001E0013209015",
+            "name": "Capcom Arcade Stadium\uff1aFORGOTTEN WORLDS"
+        },
+        {
+            "id": "01001E0013209016",
+            "name": "Capcom Arcade Stadium\uff1aSTRIDER"
+        },
+        {
+            "id": "01001E0013209017",
+            "name": "Capcom Arcade Stadium\uff1aDYNASTY WARS"
+        },
+        {
+            "id": "01001E0013209019",
+            "name": "Capcom Arcade Stadium\uff1aFINAL FIGHT"
+        },
+        {
+            "id": "01001E001320901A",
+            "name": "Capcom Arcade Stadium\uff1a1941 - Counter Attack -"
+        },
+        {
+            "id": "01001E001320901B",
+            "name": "Capcom Arcade Stadium\uff1aSenjo no Okami\u2161"
+        },
+        {
+            "id": "01001E001320901C",
+            "name": "Capcom Arcade Stadium\uff1aMEGA TWINS"
+        },
+        {
+            "id": "01001E001320901E",
+            "name": "Capcom Arcade Stadium\uff1aCARRIER AIR WING"
+        },
+        {
+            "id": "01001E001320901F",
+            "name": "Capcom Arcade Stadium\uff1aSTREET FIGHTER II - The World Warrior -"
+        },
+        {
+            "id": "01001E0013209022",
+            "name": "Capcom Arcade Stadium\uff1aCAPTAIN COMMANDO"
+        },
+        {
+            "id": "01001E0013209025",
+            "name": "Capcom Arcade Stadium\uff1aVARTH - Operation Thunderstorm -"
+        },
+        {
+            "id": "01001E0013209026",
+            "name": "Capcom Arcade Stadium\uff1aWARRIORS OF FATE"
+        },
+        {
+            "id": "01001E0013209027",
+            "name": "Capcom Arcade Stadium\uff1aSTREET FIGHTER II' - Hyper Fighting -"
+        },
+        {
+            "id": "01001E0013209029",
+            "name": "Capcom Arcade Stadium\uff1aSUPER STREET FIGHTER II TURBO"
+        },
+        {
+            "id": "01001E001320902A",
+            "name": "Capcom Arcade Stadium\uff1aPowered Gear - Strategic Variant Armor Equipment -"
+        },
+        {
+            "id": "01001E001320902B",
+            "name": "Capcom Arcade Stadium\uff1aCYBERBOTS - FULLMETAL MADNESS -"
+        },
+        {
+            "id": "01001E001320902C",
+            "name": "Capcom Arcade Stadium\uff1a19XX - The War Against Destiny -"
+        },
+        {
+            "id": "01001E001320902E",
+            "name": "Capcom Arcade Stadium\uff1aBattle Circuit"
+        },
+        {
+            "id": "01001E0013209030",
+            "name": "Capcom Arcade Stadium\uff1aGiga Wing"
+        },
+        {
+            "id": "01001E0013209032",
+            "name": "Capcom Arcade Stadium\uff1a1944 - The Loop Master -"
+        },
+        {
+            "id": "01001E0013209033",
+            "name": "Capcom Arcade Stadium\uff1aProgear"
+        },
+        {
+            "id": "01001E0013209035",
+            "name": "Capcom Arcade Stadium\uff1aGhosts 'n Goblins"
+        },
+        {
+            "id": "01001E0013209036",
+            "name": "Capcom Arcade Stadium\uff1aGhouls 'n Ghosts"
+        },
+        {
+            "id": "01001E00132093E9",
+            "name": "Capcom Arcade Stadium: Display Frames Set 1"
+        },
+        {
+            "id": "01001E00132093EA",
+            "name": "Capcom Arcade Stadium: Invincibility"
+        }
+    ],
     "latest": 589824,
     "title": "Capcom Arcade Stadium"
 }

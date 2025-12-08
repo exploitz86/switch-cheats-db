@@ -1,6 +1,91 @@
 {
     "0": "98B16D08730A1D4D",
     "262144": "BC2E895FFF1B754E",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01005B200725D001",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01005B200725D002",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01005B200725D003",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01005B200725D004",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01005B200725D005",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01005B200725D006",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01005B200725D007",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01005B200725D008",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01005B200725D009",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01005B200725D00A",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01005B200725D00B",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01005B200725D00C",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01005B200725D00D",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01005B200725D00E",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01005B200725D00F",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01005B200725D010",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01005B200725D012",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01005B200725D013",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01005B200725D014",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01005B200725D015",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01005B200725D016",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 262144
 }

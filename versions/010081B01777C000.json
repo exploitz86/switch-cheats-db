@@ -5,7 +5,80 @@
     "262144": "D48BE77921072CF6",
     "327680": "5CC7A76ED820CF4C",
     "65536": "51ED6BB3C93F2B40",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010081B01777D001",
+            "name": "Premium Digital Deluxe Edition Data"
+        },
+        {
+            "id": "010081B01777D002",
+            "name": "Digital Deluxe Edition Data"
+        },
+        {
+            "id": "010081B01777D003",
+            "name": "THEATRHYTHM FBL SaGa Pack"
+        },
+        {
+            "id": "010081B01777D004",
+            "name": "THEATRHYTHM FBL SaGa Pack Vol. 3"
+        },
+        {
+            "id": "010081B01777D005",
+            "name": "THEATRHYTHM FBL SaGa Pack Vol. 2"
+        },
+        {
+            "id": "010081B01777D006",
+            "name": "THEATRHYTHM FBL Mana Pack"
+        },
+        {
+            "id": "010081B01777D007",
+            "name": "THEATRHYTHM FBL Mana Pack Vol. 2"
+        },
+        {
+            "id": "010081B01777D008",
+            "name": "THEATRHYTHM FBL CHRONO Pack"
+        },
+        {
+            "id": "010081B01777D009",
+            "name": "THEATRHYTHM FBL CHRONO Pack Vol. 2"
+        },
+        {
+            "id": "010081B01777D00A",
+            "name": "THEATRHYTHM FBL The World Ends with You Pack"
+        },
+        {
+            "id": "010081B01777D00B",
+            "name": "THEATRHYTHM FBL NieR Pack Vol. 2"
+        },
+        {
+            "id": "010081B01777D00C",
+            "name": "THEATRHYTHM FBL NieR Pack"
+        },
+        {
+            "id": "010081B01777D00D",
+            "name": "THEATRHYTHM FBL OCTOPATH TRAVELER Pack"
+        },
+        {
+            "id": "010081B01777D00E",
+            "name": "THEATRHYTHM FBL LIVE A LIVE Pack"
+        },
+        {
+            "id": "010081B01777D00F",
+            "name": "THEATRHYTHM FBL Xenogears Pack"
+        },
+        {
+            "id": "010081B01777D010",
+            "name": "THEATRHYTHM FBL BRAVELY DEFAULT Pack"
+        },
+        {
+            "id": "010081B01777D011",
+            "name": "THEATRHYTHM FBL FINAL FANTASY XVI Pack"
+        },
+        {
+            "id": "010081B01777D012",
+            "name": "Warriors of Light (Musician) \u2013 set of 15 ProfiCard pictures"
+        }
+    ],
     "latest": 327680,
     "title": "THEATRHYTHM FINAL BAR LINE"
 }

@@ -3,7 +3,16 @@
     "196608": "C63C8B2F30E40C44",
     "262144": "6DBB0153D5368548",
     "65536": "D9F527B94D761F49",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100708012ECD001",
+            "name": "Salad Bar Tycoon Expansion Pack 1"
+        },
+        {
+            "id": "0100708012ECD002",
+            "name": "Salad Bar Tycoon Expansion Pack 2"
+        }
+    ],
     "latest": 262144,
     "title": "Salad Bar Tycoon"
 }

@@ -2,7 +2,12 @@
     "0": "4941292ED92AC97C",
     "196608": "A3A998AF3252D110",
     "65536": "68EDF8C8536FC43A",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100011005D9306A",
+            "name": "Telltale Batman Shadows Mode"
+        }
+    ],
     "latest": 196608,
     "title": "Batman - The Telltale Series"
 }

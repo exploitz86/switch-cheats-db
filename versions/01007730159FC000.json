@@ -2,7 +2,16 @@
     "0": "0D943D0172949DFD",
     "131072": "765DBC8B29687D4F",
     "65536": "9788D04EB94C4EB1",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01007730159FD001",
+            "name": "Pre-Order to Unlock your FREE Tanuki Token!"
+        },
+        {
+            "id": "01007730159FD002",
+            "name": "JUMANJI: Welcome to the Jungle Expansion"
+        }
+    ],
     "latest": 131072,
     "title": "JUMANJI: The Curse Returns"
 }

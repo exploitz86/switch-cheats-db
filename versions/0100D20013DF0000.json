@@ -6,7 +6,20 @@
     "393216": "3F3081F9DE49D0DF",
     "524288": "2779931C721A1CEC",
     "65536": "8BF7F8421A12EA7D",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100D20013DF1001",
+            "name": "Limited Digital Bonus - Horse Tales: Emerald Valley Ranch"
+        },
+        {
+            "id": "0100D20013DF1002",
+            "name": "Unicorn Tack Set - Horse Tales: Emerald Valley Ranch"
+        },
+        {
+            "id": "0100D20013DF1003",
+            "name": "The Arabian Horse Pack"
+        }
+    ],
     "latest": 524288,
     "title": "Horse Tales: Emerald Valley Ranch"
 }

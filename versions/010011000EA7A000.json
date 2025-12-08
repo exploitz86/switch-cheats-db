@@ -5,7 +5,16 @@
     "393216": "267AA332AAD1314C",
     "458752": "9D1578CD83E33247",
     "524288": "236C1638CCCF2440",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010011000EA7B00A",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010011000EA7B014",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 524288,
     "title": "BRIGANDINE The Legend of Runersia"
 }

@@ -3,7 +3,48 @@
     "131072": "A10395220968AFA4",
     "196608": "A10395220968AFA4",
     "65536": "AF134532A4E50784",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01001DC012E7F001",
+            "name": "Gentleman Explorer Character Pack"
+        },
+        {
+            "id": "01001DC012E7F002",
+            "name": "Texas Cowboy Character Pack"
+        },
+        {
+            "id": "01001DC012E7F003",
+            "name": "American Aviatrix Character Expansion Pack"
+        },
+        {
+            "id": "01001DC012E7F004",
+            "name": "Japanese Naval Officer Character Expansion Pack"
+        },
+        {
+            "id": "01001DC012E7F005",
+            "name": "Maharani Huntress Character Expansion Pack"
+        },
+        {
+            "id": "01001DC012E7F006",
+            "name": "Secret Service Weapons Pack"
+        },
+        {
+            "id": "01001DC012E7F007",
+            "name": "Dashing Outfits Pack"
+        },
+        {
+            "id": "01001DC012E7F008",
+            "name": "The Thrice Damned 1: Isle of the Dead"
+        },
+        {
+            "id": "01001DC012E7F009",
+            "name": "The Thrice Damned 2: The Sunken Kingdom"
+        },
+        {
+            "id": "01001DC012E7F00A",
+            "name": "The Thrice Damned 3: Great Pyramid of Bes"
+        }
+    ],
     "latest": 196608,
     "title": "Strange Brigade"
 }

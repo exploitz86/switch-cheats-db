@@ -2,7 +2,12 @@
     "0": "C11CE47806430426",
     "131072": "DF2D64FB63F1BD00",
     "65536": "5507B771E68E9DB9",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01004F401BEBF001",
+            "name": "Song of Nunu: Digital Art Book"
+        }
+    ],
     "latest": 131072,
     "title": "Song of Nunu: A League of Legends Story"
 }

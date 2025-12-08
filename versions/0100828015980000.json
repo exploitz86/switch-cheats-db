@@ -1,7 +1,12 @@
 {
     "0": "858103A026A7D0BB",
     "65536": "E0A01F52602B2430",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100828015981001",
+            "name": "A Plague Tale: Requiem - Protector Pack"
+        }
+    ],
     "latest": 65536,
     "title": "A Plague Tale: Requiem - Cloud Version"
 }

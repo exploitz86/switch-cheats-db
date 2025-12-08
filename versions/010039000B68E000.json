@@ -1,7 +1,32 @@
 {
     "0": "9F2D6B60459BEE47",
     "196608": "E6C20E29986A8B4D",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010039000B68F004",
+            "name": "MY HERO ONE'S JUSTICE Playable Character: Deku Shoot Style"
+        },
+        {
+            "id": "010039000B68F005",
+            "name": "MY HERO ONE'S JUSTICE Mission: O.F.A. Deku Shoot Style"
+        },
+        {
+            "id": "010039000B68F008",
+            "name": "MY HERO ONE'S JUSTICE Playable Character: Pro Hero Endeavor"
+        },
+        {
+            "id": "010039000B68F009",
+            "name": "MY HERO ONE'S JUSTICE Mission: Above and Beyond Endeavor"
+        },
+        {
+            "id": "010039000B68F00A",
+            "name": "MY HERO ONE'S JUSTICE Playable Character: Inasa Yoarashi"
+        },
+        {
+            "id": "010039000B68F00B",
+            "name": "MY HERO ONE'S JUSTICE Mission: Gale Inasa Yoarashi"
+        }
+    ],
     "latest": 196608,
     "title": "MY HERO ONE'S JUSTICE"
 }

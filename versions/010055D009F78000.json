@@ -5,7 +5,32 @@
     "262144": "F0142D706FD2323B",
     "327680": "89048449BA238C8C",
     "65536": "47CA26D2AA77D0BA",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010055D009F79001",
+            "name": "Side Story: Cindered Shadows"
+        },
+        {
+            "id": "010055D009F79002",
+            "name": "New Attire"
+        },
+        {
+            "id": "010055D009F79003",
+            "name": "Auxiliary Battle Maps"
+        },
+        {
+            "id": "010055D009F79004",
+            "name": "Additional Quests"
+        },
+        {
+            "id": "010055D009F79005",
+            "name": "Additional Support Items"
+        },
+        {
+            "id": "010055D009F79006",
+            "name": "Officers Academy Uniform (Byleth)"
+        }
+    ],
     "latest": 327680,
     "title": "Fire Emblem\u2122: Three Houses"
 }

@@ -33,7 +33,44 @@
     "786432": "6E8B4A63B5BA004C",
     "917504": "A2BA7952ED308C40",
     "983040": "0E1E0CB3E287D541",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010074600CC7B001",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010074600CC7B002",
+            "name": "40,000+ Downloads Milestone DLC"
+        },
+        {
+            "id": "010074600CC7B003",
+            "name": "1st OBAKEIDORO! Fest Bundle"
+        },
+        {
+            "id": "010074600CC7B004",
+            "name": "Character DLC Bundle"
+        },
+        {
+            "id": "010074600CC7B005",
+            "name": "Character DLC Bundle 2"
+        },
+        {
+            "id": "010074600CC7B006",
+            "name": "Character DLC Bundle 3"
+        },
+        {
+            "id": "010074600CC7B007",
+            "name": "Castlevania Collaboration Character DLC Bundle"
+        },
+        {
+            "id": "010074600CC7B008",
+            "name": "Character DLC Bundle 4"
+        },
+        {
+            "id": "010074600CC7B009",
+            "name": "Character DLC Bundle 5"
+        }
+    ],
     "latest": 3014656,
     "title": "OBAKEIDORO!"
 }

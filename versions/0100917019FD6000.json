@@ -1,6 +1,47 @@
 {
     "0": "3E74932C7CDD934C",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100917019FD7001",
+            "name": "Gallery Expansion 1"
+        },
+        {
+            "id": "0100917019FD7002",
+            "name": "Gallery Expansion 2"
+        },
+        {
+            "id": "0100917019FD7003",
+            "name": "Gallery Expansion 3"
+        },
+        {
+            "id": "0100917019FD7004",
+            "name": "Gallery Expansion 4"
+        },
+        {
+            "id": "0100917019FD7005",
+            "name": "Gallery Expansion 5"
+        },
+        {
+            "id": "0100917019FD7006",
+            "name": "Gallery Expansion 6"
+        },
+        {
+            "id": "0100917019FD7007",
+            "name": "Gallery Expansion 7"
+        },
+        {
+            "id": "0100917019FD7008",
+            "name": "Gallery Expansion 8"
+        },
+        {
+            "id": "0100917019FD7009",
+            "name": "Gallery Expansion 9"
+        },
+        {
+            "id": "0100917019FD700A",
+            "name": "Gallery Expansion 10"
+        }
+    ],
     "latest": 0,
     "title": "nPaint"
 }

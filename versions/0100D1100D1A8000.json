@@ -1,6 +1,55 @@
 {
     "0": "75ADD2C272C44B41",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100D1100D1A9001",
+            "name": "Extra Puzzles Pack 1"
+        },
+        {
+            "id": "0100D1100D1A9002",
+            "name": "Extra Puzzles Pack 2"
+        },
+        {
+            "id": "0100D1100D1A9003",
+            "name": "Extra Puzzles Pack 3"
+        },
+        {
+            "id": "0100D1100D1A9004",
+            "name": "Extra Puzzles Pack 4"
+        },
+        {
+            "id": "0100D1100D1A9005",
+            "name": "Extra Puzzles Pack 5"
+        },
+        {
+            "id": "0100D1100D1A9006",
+            "name": "Extra Puzzles Pack 6"
+        },
+        {
+            "id": "0100D1100D1A9007",
+            "name": "Extra Puzzles Pack 7"
+        },
+        {
+            "id": "0100D1100D1A9008",
+            "name": "Extra Puzzles Pack 8"
+        },
+        {
+            "id": "0100D1100D1A9009",
+            "name": "Extra Puzzles Pack 9"
+        },
+        {
+            "id": "0100D1100D1A900A",
+            "name": "Extra Puzzles Pack 10"
+        },
+        {
+            "id": "0100D1100D1A900B",
+            "name": "Extra Puzzles Pack 11"
+        },
+        {
+            "id": "0100D1100D1A900C",
+            "name": "Extra Puzzles Pack 12"
+        }
+    ],
     "latest": 0,
     "title": "Block-a-Pix Deluxe"
 }

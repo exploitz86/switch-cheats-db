@@ -14,7 +14,32 @@
     "851968": "276ACE1DE4B644A4",
     "917504": "C045F9036F7DA85F",
     "983040": "7973326B281801F2",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010093F011A27001",
+            "name": "DRAGON BALL: THE BREAKERS - Special Edition Pack"
+        },
+        {
+            "id": "010093F011A27002",
+            "name": "DRAGON BALL: THE BREAKERS - Pre-Order Bonus Pack"
+        },
+        {
+            "id": "010093F011A27003",
+            "name": "DRAGON BALL: THE BREAKERS - Potara Earring (Green)"
+        },
+        {
+            "id": "010093F011A27006",
+            "name": "DRAGON BALL: THE BREAKERS - Base Layer (Green)"
+        },
+        {
+            "id": "010093F011A27009",
+            "name": "DRAGON BALL: THE BREAKERS - Hoodie (Blue)"
+        },
+        {
+            "id": "010093F011A2700B",
+            "name": "DRAGON BALL: THE BREAKERS - Collared Shirt (Burgundy)"
+        }
+    ],
     "latest": 1114112,
     "title": "DRAGON BALL: THE BREAKERS"
 }

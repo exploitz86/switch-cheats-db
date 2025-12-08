@@ -2,7 +2,36 @@
     "0": "EBA4919E77E6CC4A",
     "131072": "2DEB7E6BD2623145",
     "65536": "732E81D7843FD740",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010043100F0EB001",
+            "name": "Free Pack"
+        },
+        {
+            "id": "010043100F0EB002",
+            "name": "Ocean Views"
+        },
+        {
+            "id": "010043100F0EB003",
+            "name": "Mountains Pack"
+        },
+        {
+            "id": "010043100F0EB004",
+            "name": "Special Square Pack"
+        },
+        {
+            "id": "010043100F0EB005",
+            "name": "Puzzle Book: Adventure Pack"
+        },
+        {
+            "id": "010043100F0EB006",
+            "name": "Cats Pack"
+        },
+        {
+            "id": "010043100F0EB007",
+            "name": "Puzzle Book: Foxes Pack"
+        }
+    ],
     "latest": 131072,
     "title": "Puzzle Book"
 }

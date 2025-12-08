@@ -4,7 +4,12 @@
     "196608": "079DDFF74339F3B4",
     "262144": "FF2FE832AFD41DE2",
     "65536": "C73CC7F2A1442AAD",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010032E0163ED001",
+            "name": "Deluxe Up Grade Kit"
+        }
+    ],
     "latest": 262144,
     "title": "THE Table Game"
 }

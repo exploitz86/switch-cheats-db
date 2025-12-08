@@ -1,7 +1,12 @@
 {
     "0": "57C98605E072C442",
     "65536": "1BB100B46A896E4B",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100725011797001",
+            "name": "Rogue Lords - Moonlight Skin Pack"
+        }
+    ],
     "latest": 65536,
     "title": "Rogue Lords"
 }

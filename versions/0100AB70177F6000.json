@@ -1,7 +1,12 @@
 {
     "0": "ECCEDDCA264ABE4D",
     "65536": "1C71CDB78D116F4A",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100AB70177F7001",
+            "name": "To Leave Soundtrack"
+        }
+    ],
     "latest": 65536,
     "title": "To Leave"
 }

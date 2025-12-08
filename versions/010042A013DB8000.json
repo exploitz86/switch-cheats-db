@@ -2,7 +2,12 @@
     "0": "DC43F416A9B08D2A",
     "131072": "8683E654CCD68852",
     "65536": "799BF3DEB70B21F5",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010042A013DB9001",
+            "name": "Digital Artbook \uff0b Mini-OST"
+        }
+    ],
     "latest": 131072,
     "title": "GetsuFumaDen: Undying Moon"
 }

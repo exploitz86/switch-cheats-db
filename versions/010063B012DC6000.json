@@ -1,7 +1,40 @@
 {
     "131072": "68FED4970010ACF3",
     "65536": "A6A06F3BAEFE4D75",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010063B012DC7001",
+            "name": "Safety Difficulty"
+        },
+        {
+            "id": "010063B012DC7002",
+            "name": "Mitama Dance of Wealth"
+        },
+        {
+            "id": "010063B012DC7003",
+            "name": "Mitama Dance of EXP"
+        },
+        {
+            "id": "010063B012DC7004",
+            "name": "Mitama Dance of Miracles"
+        },
+        {
+            "id": "010063B012DC7005",
+            "name": "A Goddess in Training"
+        },
+        {
+            "id": "010063B012DC7006",
+            "name": "The Rage of a Queen"
+        },
+        {
+            "id": "010063B012DC7007",
+            "name": "The Doctor's Last Wish"
+        },
+        {
+            "id": "010063B012DC7008",
+            "name": "Return of the True Demon"
+        }
+    ],
     "latest": 131072,
     "title": "Shin Megami Tensei V"
 }

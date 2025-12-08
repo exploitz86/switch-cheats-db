@@ -1,6 +1,11 @@
 {
     "0": "9F52DE8549D91CFE",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010029B018433001",
+            "name": "Ghost Trick: Phantom Detective - DLC"
+        }
+    ],
     "latest": 0,
     "title": "Ghost Trick: Phantom Detective"
 }

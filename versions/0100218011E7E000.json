@@ -2,7 +2,148 @@
     "0": "A37500883D6F584E",
     "131072": "F71991FA1B1EA607",
     "65536": "8B472C28B0B95E17",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100218011E7F001",
+            "name": "2017 Husqvarna FC 250"
+        },
+        {
+            "id": "0100218011E7F002",
+            "name": "2017 Husqvarna FC 350"
+        },
+        {
+            "id": "0100218011E7F003",
+            "name": "2017 Husqvarna FC 450"
+        },
+        {
+            "id": "0100218011E7F004",
+            "name": "2017 Kawasaki KX 250F"
+        },
+        {
+            "id": "0100218011E7F005",
+            "name": "2017 Kawasaki KX 450F"
+        },
+        {
+            "id": "0100218011E7F006",
+            "name": "2017 KTM 250 SX-F"
+        },
+        {
+            "id": "0100218011E7F007",
+            "name": "2017 KTM 350 SX-F"
+        },
+        {
+            "id": "0100218011E7F008",
+            "name": "2017 KTM 450 SX-F"
+        },
+        {
+            "id": "0100218011E7F009",
+            "name": "2017 Honda CRF 250R"
+        },
+        {
+            "id": "0100218011E7F00A",
+            "name": "2017 Honda CRF 450R"
+        },
+        {
+            "id": "0100218011E7F00B",
+            "name": "2017 Suzuki RM-Z250"
+        },
+        {
+            "id": "0100218011E7F00C",
+            "name": "2017 Suzuki RM-Z450"
+        },
+        {
+            "id": "0100218011E7F00D",
+            "name": "2017 Yamaha YZ250F"
+        },
+        {
+            "id": "0100218011E7F00E",
+            "name": "2017 Yamaha YZ450F"
+        },
+        {
+            "id": "0100218011E7F00F",
+            "name": "2011 Honda TRX450R"
+        },
+        {
+            "id": "0100218011E7F010",
+            "name": "2011 Suzuki LT-R450"
+        },
+        {
+            "id": "0100218011E7F011",
+            "name": "2017 Yamaha YFZ450R"
+        },
+        {
+            "id": "0100218011E7F012",
+            "name": "2011 Kawasaki KFX450R"
+        },
+        {
+            "id": "0100218011E7F013",
+            "name": "2017 KTM 125 SX"
+        },
+        {
+            "id": "0100218011E7F014",
+            "name": "2017 KTM 250 SX"
+        },
+        {
+            "id": "0100218011E7F015",
+            "name": "2011 KTM 450 SX"
+        },
+        {
+            "id": "0100218011E7F016",
+            "name": "2017 Husqvarna TC 125"
+        },
+        {
+            "id": "0100218011E7F017",
+            "name": "2017 Husqvarna TC 250"
+        },
+        {
+            "id": "0100218011E7F018",
+            "name": "2017 Yamaha YZ125"
+        },
+        {
+            "id": "0100218011E7F019",
+            "name": "2017 Yamaha YZ250"
+        },
+        {
+            "id": "0100218011E7F01A",
+            "name": "2018 Polaris RZR XP Turbo DYNAMIX"
+        },
+        {
+            "id": "0100218011E7F01B",
+            "name": "2017 Yamaha YXZ1000R SS"
+        },
+        {
+            "id": "0100218011E7F01C",
+            "name": "2018 Yamaha YXZ1000R SS"
+        },
+        {
+            "id": "0100218011E7F01D",
+            "name": "2017 Yamaha YXZ1000R SS SE"
+        },
+        {
+            "id": "0100218011E7F01E",
+            "name": "2018 Yamaha YXZ1000R SS SE"
+        },
+        {
+            "id": "0100218011E7F01F",
+            "name": "2018 Polaris RZR XP 1000"
+        },
+        {
+            "id": "0100218011E7F021",
+            "name": "Ricky Carmichael Farm - GOAT"
+        },
+        {
+            "id": "0100218011E7F022",
+            "name": "Slash's Snakepit"
+        },
+        {
+            "id": "0100218011E7F023",
+            "name": "Hometown MX Nationals"
+        },
+        {
+            "id": "0100218011E7F024",
+            "name": "2020 AMA Pro Motocross Championship"
+        }
+    ],
     "latest": 131072,
     "title": "MX vs ATV All Out"
 }

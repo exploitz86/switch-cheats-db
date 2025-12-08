@@ -9,7 +9,12 @@
     "786432": "397BD5555E9A4C44",
     "851968": "9E072D97284BE2F3",
     "917504": "19A9436DC75CE18A",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01000F0002BB7001",
+            "name": "Wargroove: Double Trouble"
+        }
+    ],
     "latest": 1048576,
     "title": "Wargroove"
 }

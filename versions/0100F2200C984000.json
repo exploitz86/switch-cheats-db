@@ -21,7 +21,128 @@
     "851968": "618A891E4A49D835",
     "917504": "253CE7FF39EA6DD8",
     "983040": "DBF3CF1A67412D92",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100F2200C985001",
+            "name": "Shao Kahn"
+        },
+        {
+            "id": "0100F2200C985002",
+            "name": "Frost"
+        },
+        {
+            "id": "0100F2200C985003",
+            "name": "Cangaceiro Kano"
+        },
+        {
+            "id": "0100F2200C985005",
+            "name": "Ninja Mime Johnny Cage"
+        },
+        {
+            "id": "0100F2200C985006",
+            "name": "Shang Tsung"
+        },
+        {
+            "id": "0100F2200C985007",
+            "name": "Klassic Arcade Ninja Skin Pack\u00a01"
+        },
+        {
+            "id": "0100F2200C985008",
+            "name": "Nightwolf"
+        },
+        {
+            "id": "0100F2200C985009",
+            "name": "Klassic Arcade Fighter Pack"
+        },
+        {
+            "id": "0100F2200C98500A",
+            "name": "Terminator T-800"
+        },
+        {
+            "id": "0100F2200C98500B",
+            "name": "Double Feature Skin Pack"
+        },
+        {
+            "id": "0100F2200C98500C",
+            "name": "Sindel"
+        },
+        {
+            "id": "0100F2200C98500D",
+            "name": "Gothic Horror Skin Pack"
+        },
+        {
+            "id": "0100F2200C98500E",
+            "name": "The Joker"
+        },
+        {
+            "id": "0100F2200C98500F",
+            "name": "DC Elseworlds Skin Pack"
+        },
+        {
+            "id": "0100F2200C985010",
+            "name": "Spawn"
+        },
+        {
+            "id": "0100F2200C985011",
+            "name": "Matinee Skin Pack"
+        },
+        {
+            "id": "0100F2200C985012",
+            "name": "Masquerade Skin Pack"
+        },
+        {
+            "id": "0100F2200C985013",
+            "name": "Fujin"
+        },
+        {
+            "id": "0100F2200C985014",
+            "name": "Sheeva"
+        },
+        {
+            "id": "0100F2200C985015",
+            "name": "RoboCop"
+        },
+        {
+            "id": "0100F2200C985016",
+            "name": "Mortal Kombat\u00a011: Aftermath Story"
+        },
+        {
+            "id": "0100F2200C985017",
+            "name": "Eternal Klash Skin Pack"
+        },
+        {
+            "id": "0100F2200C985018",
+            "name": "Summer Heat Skin Pack"
+        },
+        {
+            "id": "0100F2200C985019",
+            "name": "Klassic Femme Fatale Skin Pack"
+        },
+        {
+            "id": "0100F2200C98501A",
+            "name": "All Hallows' Eve Skin Pack"
+        },
+        {
+            "id": "0100F2200C98501B",
+            "name": "Time Warriors Skin Pack"
+        },
+        {
+            "id": "0100F2200C98501C",
+            "name": "Mileena"
+        },
+        {
+            "id": "0100F2200C98501D",
+            "name": "Rain"
+        },
+        {
+            "id": "0100F2200C98501E",
+            "name": "Rambo"
+        },
+        {
+            "id": "0100F2200C98501F",
+            "name": "Klassic MK Movie Skin Pack"
+        }
+    ],
     "latest": 1703936,
     "title": "Mortal Kombat\u00a011"
 }

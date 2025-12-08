@@ -2,7 +2,12 @@
     "0": "3FA2D0A085148946",
     "131072": "B77D895962BABA49",
     "65536": "3FA2D0A085148946",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100FAC00F717001",
+            "name": "Uniform Pack A"
+        }
+    ],
     "latest": 131072,
     "title": "Desktop Rugby"
 }

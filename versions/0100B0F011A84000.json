@@ -2,7 +2,12 @@
     "0": "B7D30D4EF13B9B4F",
     "131072": "5DCFD45ED6C37A46",
     "65536": "805B24D2C63E1645",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100B0F011A85001",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 131072,
     "title": "Escape Game Fort Boyard"
 }

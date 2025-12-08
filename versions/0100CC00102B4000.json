@@ -3,7 +3,20 @@
     "131072": "93A4BFB86BCA2C3D",
     "196608": "8AFCBE6A930CD42E",
     "65536": "FAE521D809A08E58",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100CC00102B5001",
+            "name": "Tony Hawk's\u2122 Pro Skater\u2122 1 + 2 - Digital Deluxe Content"
+        },
+        {
+            "id": "0100CC00102B5003",
+            "name": "Tony Hawk\u2019s\u2122 Pro Skater\u2122 1 + 2 - The United Pack"
+        },
+        {
+            "id": "0100CC00102B5004",
+            "name": "Tony Hawk\u2019s\u2122 Pro Skater\u2122 1 + 2 - The Birdman Pack"
+        }
+    ],
     "latest": 196608,
     "title": "Tony Hawk's\u2122 Pro Skater\u2122 1 + 2"
 }

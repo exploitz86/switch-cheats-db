@@ -3,7 +3,24 @@
     "131072": "0653A2A3FC140936",
     "196608": "10DC744DB6EA559D",
     "65536": "962E9AB99F2A3F1C",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100396012845001",
+            "name": "RESEARCH and DESTROY - STEINS;GATE Costume Pack"
+        },
+        {
+            "id": "0100396012845002",
+            "name": "RESEARCH and DESTROY - Danganronpa 2 Costume Pack"
+        },
+        {
+            "id": "0100396012845003",
+            "name": "RESEARCH and DESTROY - Zero Escape: Virtue's Last Reward Costume Pack"
+        },
+        {
+            "id": "0100396012845004",
+            "name": "RESEARCH and DESTROY - AI: The Somnium Files Costume Pack"
+        }
+    ],
     "latest": 196608,
     "title": "RESEARCH and DESTROY"
 }

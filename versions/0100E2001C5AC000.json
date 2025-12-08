@@ -2,7 +2,16 @@
     "0": "511DBC11195C46A3",
     "131072": "12531D4E13D3A717",
     "65536": "D85C64CE11EDF498",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100E2001C5AD001",
+            "name": "Acrylic Nails!: Winter Marble"
+        },
+        {
+            "id": "0100E2001C5AD002",
+            "name": "Acrylic Nails!: Spooky Painting"
+        }
+    ],
     "latest": 131072,
     "title": "Acrylic Nails!"
 }

@@ -2,7 +2,32 @@
     "0": "A6A61AE32DFE1F72",
     "131072": "6D9EA94F8AAC00A8",
     "65536": "6D9EA94F8AAC00A8",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01001270012B7001",
+            "name": "EPISODE SHADOW"
+        },
+        {
+            "id": "01001270012B7002",
+            "name": "SUPER SONIC"
+        },
+        {
+            "id": "01001270012B7003",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01001270012B7004",
+            "name": "SANIC T-SHIRTS"
+        },
+        {
+            "id": "01001270012B7005",
+            "name": "SHADOW COSTUME"
+        },
+        {
+            "id": "01001270012B7006",
+            "name": "SEGA/ATLUS PACK"
+        }
+    ],
     "latest": 131072,
     "title": "SONIC FORCES\u2122"
 }

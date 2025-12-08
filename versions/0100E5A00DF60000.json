@@ -1,6 +1,43 @@
 {
     "131072": "C4982F53BB208C48",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100E5A00DF61001",
+            "name": "Let's Sing - Party Classics Vol. 1 Song Pack"
+        },
+        {
+            "id": "0100E5A00DF61002",
+            "name": "Let's Sing - Best of 80's Vol. 1 Song Pack"
+        },
+        {
+            "id": "0100E5A00DF61003",
+            "name": "Let's Sing - Chart Hits Song Pack"
+        },
+        {
+            "id": "0100E5A00DF61004",
+            "name": "Let's Sing - Party Classics Vol. 2 Song Pack"
+        },
+        {
+            "id": "0100E5A00DF61005",
+            "name": "Let's Sing - Legendary Hits Song Pack"
+        },
+        {
+            "id": "0100E5A00DF61006",
+            "name": "Let's Sing - Best of 90's Vol. 1 Song Pack"
+        },
+        {
+            "id": "0100E5A00DF61007",
+            "name": "Let's Sing - Best of 80's Vol. 2 Song Pack"
+        },
+        {
+            "id": "0100E5A00DF61008",
+            "name": "Let's Sing - Best of 90's Vol. 2 Song Pack"
+        },
+        {
+            "id": "0100E5A00DF61009",
+            "name": "Let's Sing - Country Hits Song Pack"
+        }
+    ],
     "latest": 131072,
     "title": "Let's Sing Country"
 }

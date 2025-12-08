@@ -2,7 +2,16 @@
     "0": "36789F84C397E7A5",
     "131072": "908027E74D88CE5F",
     "65536": "E9FC15485F090D0A",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100A36019215001",
+            "name": "Kitten's Head Football: Halloween"
+        },
+        {
+            "id": "0100A36019215002",
+            "name": "Kitten's Head Football: Christmas"
+        }
+    ],
     "latest": 131072,
     "title": "Kitten's Head Football"
 }

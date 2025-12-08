@@ -1,7 +1,16 @@
 {
     "0": "9511CC8D27746B20",
     "65536": "D9DC131D381F012C",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100DD30191DD001",
+            "name": "She Wants Me Dead Artbook"
+        },
+        {
+            "id": "0100DD30191DD002",
+            "name": "She Wants Me Dead Soundtrack"
+        }
+    ],
     "latest": 65536,
     "title": "She Wants Me Dead"
 }

@@ -1,6 +1,19 @@
 {
     "0": "B3D64D2D3041678D",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100624018253001",
+            "name": "Experience x3 - Gale of Windoria"
+        },
+        {
+            "id": "0100624018253002",
+            "name": "No Encounters - Gale of Windoria"
+        },
+        {
+            "id": "0100624018253003",
+            "name": "Damage x2 - Gale of Windoria"
+        }
+    ],
     "latest": 0,
     "title": "Gale of Windoria"
 }

@@ -7,7 +7,28 @@
     "393216": "857E7008E849DA89",
     "458752": "B9E42653FB44EF2B",
     "65536": "AC832EC152AC13F6",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100149019461001",
+            "name": "Master Detective Archives: RAIN CODE - The Book of Death + Noise of Neon"
+        },
+        {
+            "id": "0100149019461002",
+            "name": "Ch. Desuhiko: Charisma Killed the Cat"
+        },
+        {
+            "id": "0100149019461003",
+            "name": "Ch. Fubuki: Fubuki\u2019s Luckiest Day"
+        },
+        {
+            "id": "0100149019461004",
+            "name": "Ch. Halara: Raining Cats & Dog"
+        },
+        {
+            "id": "0100149019461005",
+            "name": "Ch. Vivia: The Near-Death Detective + Ch. Yakou: Thank You, My Detective"
+        }
+    ],
     "latest": 458752,
     "title": "Master Detective Archives: RAIN CODE"
 }

@@ -17,7 +17,16 @@
     "851968": "52D66F0C20513E4E",
     "917504": "F178F5738F16894D",
     "983040": "8EDAADCBE1ED0870",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010026F0153C3001",
+            "name": "Easy Red 2: Stalingrad"
+        },
+        {
+            "id": "010026F0153C3002",
+            "name": "Easy Red 2: Normandy"
+        }
+    ],
     "latest": 1507328,
     "title": "Easy Red 2"
 }

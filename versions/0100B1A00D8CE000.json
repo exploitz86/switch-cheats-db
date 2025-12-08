@@ -13,7 +13,28 @@
     "851968": "5AF6F31EAC42DBC0",
     "917504": "B059C2C77AD834B8",
     "983040": "3AAA4D3E5A1A0F88",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100B1A00D8CF001",
+            "name": "DOOM\u00ae Eternal: Rip and Tear Pack"
+        },
+        {
+            "id": "0100B1A00D8CF002",
+            "name": "DOOM\u00ae Eternal: Deluxe Edition Content"
+        },
+        {
+            "id": "0100B1A00D8CF003",
+            "name": "DOOM\u00ae Eternal (Campaign)"
+        },
+        {
+            "id": "0100B1A00D8CF004",
+            "name": "DOOM\u00ae Eternal: The Ancient Gods - Part One"
+        },
+        {
+            "id": "0100B1A00D8CF005",
+            "name": "DOOM\u00ae Eternal: The Ancient Gods -  Part Two"
+        }
+    ],
     "latest": 983040,
     "title": "DOOM\u00ae Eternal"
 }

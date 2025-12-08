@@ -9,7 +9,16 @@
     "655360": "E711B99C30E041F7",
     "720896": "2B1C8B24F6744644",
     "786432": "F716D367A6D7F5BA",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01008CD0172D7001",
+            "name": "DREDGE - Custom Rod"
+        },
+        {
+            "id": "01008CD0172D7002",
+            "name": "DREDGE - Blackstone Key"
+        }
+    ],
     "latest": 786432,
     "title": "DREDGE"
 }

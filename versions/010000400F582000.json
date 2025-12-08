@@ -1,7 +1,16 @@
 {
     "0": "1C4DB54D61555045",
     "65536": "02F2E5C8CBF5A92F",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010000400F583001",
+            "name": "TT Isle of Man 2 Ducati 900SS TT - Mike Hailwood 1978"
+        },
+        {
+            "id": "010000400F583002",
+            "name": "TT Isle of Man 2 Pro Newcomer Pack"
+        }
+    ],
     "latest": 65536,
     "title": "TT Isle of Man Ride on the Edge 2"
 }

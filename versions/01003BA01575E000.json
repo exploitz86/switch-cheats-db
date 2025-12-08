@@ -2,7 +2,12 @@
     "0": "1D7EB821639F9BB7",
     "131072": "EF2694EA89E001DB",
     "65536": "D59CCA486C46E386",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01003BA01575F001",
+            "name": "Nickelodeon Kart Racers 3: Slime Speedway Turbo Pack"
+        }
+    ],
     "latest": 131072,
     "title": "Nickelodeon Kart Racers 3: Slime Speedway"
 }

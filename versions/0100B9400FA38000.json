@@ -5,7 +5,12 @@
     "262144": "BEECA65A9AEF3341",
     "327680": "6A9E95CC3E3E5C49",
     "65536": "66EB9B52DC430942",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100B9400FA39001",
+            "name": "Supporter Pack"
+        }
+    ],
     "latest": 327680,
     "title": "ATOM RPG"
 }

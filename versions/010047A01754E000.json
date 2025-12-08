@@ -2,7 +2,20 @@
     "0": "C0A3DE5EF6DC0340",
     "131072": "336A3CA61753714E",
     "65536": "AF10F11913E27F4D",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010047A01754F001",
+            "name": "Soundtrack DLC"
+        },
+        {
+            "id": "010047A01754F002",
+            "name": "League of Enthusiastic Losers Artbook #1"
+        },
+        {
+            "id": "010047A01754F003",
+            "name": "League of Enthusiastic Losers Artbook #2"
+        }
+    ],
     "latest": 131072,
     "title": "League of Enthusiastic Losers"
 }

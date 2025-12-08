@@ -17,7 +17,32 @@
     "786432": "EC008C061F7C1FD9",
     "851968": "1BB61A4387E01964",
     "917504": "1690BB14ED6E7C31",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010029200AB1D001",
+            "name": "Prison Architect: Escape Mode DLC"
+        },
+        {
+            "id": "010029200AB1D002",
+            "name": "Prison Architect - Island Bound"
+        },
+        {
+            "id": "010029200AB1D003",
+            "name": "Prison Architect - Going Green"
+        },
+        {
+            "id": "010029200AB1D004",
+            "name": "Prison Architect - Second Chances"
+        },
+        {
+            "id": "010029200AB1D005",
+            "name": "Prison Architect - Perfect Storm"
+        },
+        {
+            "id": "010029200AB1D006",
+            "name": "Prison Architect - Gangs"
+        }
+    ],
     "latest": 1376256,
     "title": "Prison Architect: Nintendo Switch\u2122 Edition"
 }

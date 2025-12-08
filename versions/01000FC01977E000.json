@@ -1,6 +1,11 @@
 {
     "0": "2081C9718B055B88",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01000FC01977F001",
+            "name": "Mermaid Story: Pack of Friends"
+        }
+    ],
     "latest": 0,
     "title": "Mermaid Story"
 }

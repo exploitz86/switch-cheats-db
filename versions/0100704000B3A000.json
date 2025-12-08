@@ -1,7 +1,12 @@
 {
     "0": "A3A1F9A0DCED0D44",
     "65536": "F8BD16F83B79B9DE",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100704000B3B001",
+            "name": "Snipperclips\u2122 \u2013 Cut it out, together! DLC"
+        }
+    ],
     "latest": 65536,
     "title": "Snipperclips\u2122 \u2013 Cut it out, together!"
 }

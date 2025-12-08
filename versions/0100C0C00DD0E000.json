@@ -2,7 +2,24 @@
     "0": "09B846AEBE22FE44",
     "131072": "C05B2D256198AD46",
     "65536": "EBF796C20CCBD148",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100C0C00DD0F001",
+            "name": "HP/MP Restore Speed x3 - Frane: Dragons' Odyssey"
+        },
+        {
+            "id": "0100C0C00DD0F002",
+            "name": "Experience x3 - Frane: Dragons' Odyssey"
+        },
+        {
+            "id": "0100C0C00DD0F003",
+            "name": "Damage x2 - Frane: Dragons' Odyssey"
+        },
+        {
+            "id": "0100C0C00DD0F004",
+            "name": "Damage Received x1/2 - Frane: Dragons' Odyssey"
+        }
+    ],
     "latest": 131072,
     "title": "Frane: Dragons' Odyssey"
 }

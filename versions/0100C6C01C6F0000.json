@@ -1,7 +1,20 @@
 {
     "0": "4030F616FA62AF1F",
     "65536": "C034372072DB8C77",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100C6C01C6F1001",
+            "name": "Northern Sky Map"
+        },
+        {
+            "id": "0100C6C01C6F1002",
+            "name": "Southern Sky Map"
+        },
+        {
+            "id": "0100C6C01C6F1003",
+            "name": "Solar System Map"
+        }
+    ],
     "latest": 65536,
     "title": "Cat's Cosmic Atlas"
 }

@@ -7,7 +7,28 @@
     "393216": "A760E63436851D49",
     "458752": "960BA99215F1F049",
     "65536": "28AFDF2366D3874C",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01006D00109FF001",
+            "name": "Hidden Through Time - Viking Tales"
+        },
+        {
+            "id": "01006D00109FF002",
+            "name": "Hidden Through Time - Legends of Japan"
+        },
+        {
+            "id": "01006D00109FF003",
+            "name": "Hidden Through Time : Road to Rome"
+        },
+        {
+            "id": "01006D00109FF004",
+            "name": "Hidden Through Time - Aztec Rituals"
+        },
+        {
+            "id": "01006D00109FF005",
+            "name": "Hidden Through Time - Pirate Treasures"
+        }
+    ],
     "latest": 458752,
     "title": "Hidden Through Time"
 }

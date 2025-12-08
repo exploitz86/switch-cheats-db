@@ -1,7 +1,12 @@
 {
     "0": "F091025515633A0C",
     "65536": "C236DE2664B633CB",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100A5301D2FD001",
+            "name": "Paint It: Spooky Pack"
+        }
+    ],
     "latest": 65536,
     "title": "Paint It"
 }

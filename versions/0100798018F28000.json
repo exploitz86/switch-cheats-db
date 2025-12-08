@@ -2,7 +2,20 @@
     "0": "B02BE7D57ED8FB71",
     "131072": "863D3FD5D0D11F8A",
     "65536": "14EA9B3BDEF6B103",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100798018F29001",
+            "name": "Sausage Wars: Burning Death"
+        },
+        {
+            "id": "0100798018F29002",
+            "name": "Sausage Wars: Laser Massacre"
+        },
+        {
+            "id": "0100798018F29003",
+            "name": "Sausage Wars: Trapdoor Hell"
+        }
+    ],
     "latest": 131072,
     "title": "Sausage Wars"
 }

@@ -9,7 +9,40 @@
     "720896": "6934FD79FE51E445",
     "786432": "92E493C9B276D682",
     "851968": "283095029A5AB467",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01003E800A103001",
+            "name": "Trials Rising Samurai Item Pack"
+        },
+        {
+            "id": "01003E800A103002",
+            "name": "Trials Rising Stuntman Rider Pack"
+        },
+        {
+            "id": "01003E800A103003",
+            "name": "Trials Rising Jungle Rider Pack"
+        },
+        {
+            "id": "01003E800A103004",
+            "name": "Trials Rising Wild West Rider Pack"
+        },
+        {
+            "id": "01003E800A103005",
+            "name": "Trials Rising - Sixty Six"
+        },
+        {
+            "id": "01003E800A103006",
+            "name": "Trials Rising - Crash and Sunburn"
+        },
+        {
+            "id": "01003E800A103007",
+            "name": "Trials\u00ae Rising Starter Pack #1"
+        },
+        {
+            "id": "01003E800A103008",
+            "name": "Trials\u00ae Rising Starter Pack #2"
+        }
+    ],
     "latest": 851968,
     "title": "Trials Rising Standard Edition"
 }

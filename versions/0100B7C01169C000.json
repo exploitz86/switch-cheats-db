@@ -1,7 +1,40 @@
 {
     "0": "6B8C6BD1C4C4F145",
     "65536": "F93CB2C9B6332444",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100B7C01169D001",
+            "name": "Locks of Love"
+        },
+        {
+            "id": "0100B7C01169D002",
+            "name": "Winter Princess"
+        },
+        {
+            "id": "0100B7C01169D003",
+            "name": "School Bully"
+        },
+        {
+            "id": "0100B7C01169D004",
+            "name": "Summer Child"
+        },
+        {
+            "id": "0100B7C01169D005",
+            "name": "Model Student"
+        },
+        {
+            "id": "0100B7C01169D006",
+            "name": "Local Celeb"
+        },
+        {
+            "id": "0100B7C01169D007",
+            "name": "Beach Bum"
+        },
+        {
+            "id": "0100B7C01169D008",
+            "name": "Gamer Girl"
+        }
+    ],
     "latest": 65536,
     "title": "The Coma 2: Vicious Sisters"
 }

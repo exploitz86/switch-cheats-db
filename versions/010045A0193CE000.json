@@ -1,6 +1,27 @@
 {
     "0": "F6DDDBD1D51F4B78",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010045A0193CF001",
+            "name": "Sushi Assortment Recipe and Ingredients Set"
+        },
+        {
+            "id": "010045A0193CF002",
+            "name": "Salt-Crusted Monster Meat Recipe and Ingredients Set"
+        },
+        {
+            "id": "010045A0193CF003",
+            "name": "Rainbow Jam Recipe and Ingredients Set"
+        },
+        {
+            "id": "010045A0193CF004",
+            "name": "Fruit Punch Salad Recipe and Ingredients Set"
+        },
+        {
+            "id": "010045A0193CF005",
+            "name": "Tapioca Milk Tea Recipe and Ingredients Set"
+        }
+    ],
     "latest": 0,
     "title": "Monster Menu: The Scavenger's Cookbook"
 }

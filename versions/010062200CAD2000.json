@@ -1,6 +1,35 @@
 {
     "0": "52A3B48C53F5D44C",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010062200CAD3001",
+            "name": "Party Classics Vol. 1  Song Pack"
+        },
+        {
+            "id": "010062200CAD3002",
+            "name": "Best of 80's Vol.1 Song Pack"
+        },
+        {
+            "id": "010062200CAD3003",
+            "name": "Chart Hits Song Pack"
+        },
+        {
+            "id": "010062200CAD3004",
+            "name": "Party Classics Vol. 2 Song Pack"
+        },
+        {
+            "id": "010062200CAD3005",
+            "name": "Legendary Hits Song Pack"
+        },
+        {
+            "id": "010062200CAD3006",
+            "name": "Best of 90's Song Pack"
+        },
+        {
+            "id": "010062200CAD3007",
+            "name": "Best of 80's Vol. 2 Song Pack"
+        }
+    ],
     "latest": 0,
     "title": "Let's Sing 2019"
 }

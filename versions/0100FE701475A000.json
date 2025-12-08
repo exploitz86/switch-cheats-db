@@ -9,7 +9,12 @@
     "524288": "C2AB36BA76DAA33F",
     "589824": "24E483AF4F3BED10",
     "65536": "1FFB60C2C26D3DAB",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100FE701475B001",
+            "name": "Teenage Mutant Ninja Turtles: Shredders Revenge - Dimension Shellshock"
+        }
+    ],
     "latest": 589824,
     "title": "Teenage Mutant Ninja Turtles: Shredder's Revenge - Anniversary Edition"
 }

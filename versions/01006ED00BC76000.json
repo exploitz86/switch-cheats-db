@@ -2,7 +2,76 @@
     "0": "7D0871AD3832F62E",
     "131072": "61CDD17992865CF4",
     "196608": "DBD272113FD196D5",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01006ED00BC77003",
+            "name": "Nelke's Costume \"Willbell\""
+        },
+        {
+            "id": "01006ED00BC77004",
+            "name": "GUST 25th Anniversary \"BGM pack 1\""
+        },
+        {
+            "id": "01006ED00BC77005",
+            "name": "GUST 25th Anniversary \"BGM pack 2\""
+        },
+        {
+            "id": "01006ED00BC77006",
+            "name": "Atelier 20th Anniversary Appreciation House"
+        },
+        {
+            "id": "01006ED00BC77007",
+            "name": "Mysterious Alchemist Statue"
+        },
+        {
+            "id": "01006ED00BC77008",
+            "name": "Additional\u3000resident \"Gust-chan\""
+        },
+        {
+            "id": "01006ED00BC7700D",
+            "name": "37 Costume Pack"
+        },
+        {
+            "id": "01006ED00BC7700E",
+            "name": "Facility Pack: Salburg"
+        },
+        {
+            "id": "01006ED00BC7700F",
+            "name": "Facility Pack: Gramnad"
+        },
+        {
+            "id": "01006ED00BC77010",
+            "name": "Facility Pack: Iris"
+        },
+        {
+            "id": "01006ED00BC77011",
+            "name": "Facility Pack: Mana Khemia"
+        },
+        {
+            "id": "01006ED00BC77012",
+            "name": "Facility Pack: Arland"
+        },
+        {
+            "id": "01006ED00BC77013",
+            "name": "Facility Pack: Dusk"
+        },
+        {
+            "id": "01006ED00BC77014",
+            "name": "Facility Pack: Mysterious"
+        },
+        {
+            "id": "01006ED00BC77015",
+            "name": "Extra stories"
+        },
+        {
+            "id": "01006ED00BC77016",
+            "name": "Atelier 20th Anniversary Arranged BGM Pack"
+        },
+        {
+            "id": "01006ED00BC77017",
+            "name": "Helpful Development Pack"
+        }
+    ],
     "latest": 196608,
     "title": "Nelke & the Legendary Alchemists ~Ateliers of the New World~"
 }

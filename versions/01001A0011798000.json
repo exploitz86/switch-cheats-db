@@ -2,7 +2,24 @@
     "0": "D07802E022207509",
     "131072": "66B2DEA98B5CDF65",
     "65536": "02A5C7D5DBE1A061",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01001A0011799001",
+            "name": "WRC 9 Audi Quattro A2 1984"
+        },
+        {
+            "id": "01001A0011799002",
+            "name": "WRC 9 Toyota Corolla 1999"
+        },
+        {
+            "id": "01001A0011799003",
+            "name": "WRC 9 Barcelona SSS"
+        },
+        {
+            "id": "01001A0011799004",
+            "name": "WRC 9 Career Starter Upgrades"
+        }
+    ],
     "latest": 131072,
     "title": "WRC 9 The Official Game"
 }

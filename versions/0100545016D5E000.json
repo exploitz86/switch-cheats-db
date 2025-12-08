@@ -5,7 +5,20 @@
     "262144": "E730CD3E70547C71",
     "327680": "71A1520B89DEC904",
     "65536": "CC2D4D727951A9ED",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100545016D5F001",
+            "name": "NASCAR Rivals Throwback Pack"
+        },
+        {
+            "id": "0100545016D5F002",
+            "name": "NASCAR Rivals 2022 Patriotic Pack"
+        },
+        {
+            "id": "0100545016D5F003",
+            "name": "NASCAR Rivals 2022 Playoff Pack"
+        }
+    ],
     "latest": 327680,
     "title": "NASCAR Rivals"
 }

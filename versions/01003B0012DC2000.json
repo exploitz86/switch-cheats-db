@@ -3,7 +3,24 @@
     "131072": "EBD3EFB2950F5140",
     "196608": "F8098979DBC7F34E",
     "65536": "0B3B0F3A81C13C41",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01003B0012DC3001",
+            "name": "Merciful Difficulty"
+        },
+        {
+            "id": "01003B0012DC3002",
+            "name": "Maniax Pack"
+        },
+        {
+            "id": "01003B0012DC300A",
+            "name": "Mercy and Expectation Map Pack"
+        },
+        {
+            "id": "01003B0012DC300B",
+            "name": "Shin Megami Tensei BGM Pack"
+        }
+    ],
     "latest": 196608,
     "title": "Shin Megami Tensei III Nocturne HD Remaster"
 }

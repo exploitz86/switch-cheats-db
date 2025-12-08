@@ -10,7 +10,24 @@
     "65536": "16F4915DF864674D",
     "655360": "82D187FE9EF9BE92",
     "720896": "82D187FE9EF9BE92",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010074F013263001",
+            "name": "DLC Wave 1"
+        },
+        {
+            "id": "010074F013263002",
+            "name": "DLC Wave 2"
+        },
+        {
+            "id": "010074F013263003",
+            "name": "DLC Wave 3"
+        },
+        {
+            "id": "010074F013263004",
+            "name": "DLC Wave 4"
+        }
+    ],
     "latest": 720896,
     "title": "Xenoblade Chronicles\u2122 3"
 }

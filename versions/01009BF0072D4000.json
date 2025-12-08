@@ -4,7 +4,16 @@
     "196608": "8F75C9B8B7FF69D9",
     "262144": "8F75C9B8B7FF69D9",
     "327680": "A342983A91CACF49",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01009BF0072D5001",
+            "name": "Captain Toad\u2122: Treasure Tracker \u2013 Special Episode (Shifty Shrine)"
+        },
+        {
+            "id": "01009BF0072D5002",
+            "name": "Captain Toad\u2122: Treasure Tracker - Special Episode"
+        }
+    ],
     "latest": 327680,
     "title": "Captain Toad\u2122: Treasure Tracker"
 }

@@ -2,7 +2,24 @@
     "0": "41258311A074C08D",
     "262144": "3C4387A17FCBF804",
     "65536": "BF690C7F9357773A",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010057C015C3B001",
+            "name": "Planet Quiz: DLC Oceans"
+        },
+        {
+            "id": "010057C015C3B002",
+            "name": "Planet Quiz: Mystery & Myth DLC"
+        },
+        {
+            "id": "010057C015C3B003",
+            "name": "Planet Quiz: Forest Life DLC"
+        },
+        {
+            "id": "010057C015C3B004",
+            "name": "Planet Quiz: Trivia DLC"
+        }
+    ],
     "latest": 262144,
     "title": "Planet Quiz: Learn & Discover"
 }

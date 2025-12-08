@@ -1,6 +1,11 @@
 {
     "0": "663E05AB067861EC",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010027B00E40F001",
+            "name": "Ashen: Nightstorm Isle"
+        }
+    ],
     "latest": 0,
     "title": "Ashen"
 }

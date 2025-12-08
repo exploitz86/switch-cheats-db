@@ -1,7 +1,20 @@
 {
     "0": "E8D5A386597A9C4C",
     "65536": "DFAFC311585C3244",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100361013ACD001",
+            "name": "Experience x3 - Ruinverse"
+        },
+        {
+            "id": "0100361013ACD002",
+            "name": "Damage x2 - Ruinverse"
+        },
+        {
+            "id": "0100361013ACD003",
+            "name": "No Skill Cost - Ruinverse"
+        }
+    ],
     "latest": 65536,
     "title": "Ruinverse"
 }

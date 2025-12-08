@@ -1,6 +1,15 @@
 {
     "0": "1CE9F39DDB8A1A93",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100BC300CB49001",
+            "name": "FINAL FANTASY X/X-2 HD Remaster: X-2 Pack"
+        },
+        {
+            "id": "0100BC300CB49002",
+            "name": "FINAL FANTASY X/X-2 HD Remaster: Credits & Bonus Audio Pack"
+        }
+    ],
     "latest": 0,
     "title": "FINAL FANTASY X/X-2 HD Remaster"
 }

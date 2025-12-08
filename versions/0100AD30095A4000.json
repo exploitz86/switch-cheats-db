@@ -10,7 +10,16 @@
     "589824": "E084503F265EF44C",
     "65536": "97C65B128B54734F",
     "655360": "4029EF6655AA3041",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100AD30095A5001",
+            "name": "Atomicrops: Reap What You Crow"
+        },
+        {
+            "id": "0100AD30095A5002",
+            "name": "Atomicrops: Deerly Beloved"
+        }
+    ],
     "latest": 655360,
     "title": "Atomicrops"
 }

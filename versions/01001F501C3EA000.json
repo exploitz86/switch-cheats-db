@@ -1,7 +1,28 @@
 {
     "0": "3D6C9B29555D9CD4",
     "65536": "3066EBE908C9A73F",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01001F501C3EB001",
+            "name": "Experience x3 - Alphadia I & II"
+        },
+        {
+            "id": "01001F501C3EB002",
+            "name": "ENP x3 - Alphadia I & II"
+        },
+        {
+            "id": "01001F501C3EB003",
+            "name": "Experience & ENP x2 - Alphadia I & II"
+        },
+        {
+            "id": "01001F501C3EB004",
+            "name": "Damage x2 - Alphadia I & II"
+        },
+        {
+            "id": "01001F501C3EB005",
+            "name": "Full Restore - Alphadia I & II"
+        }
+    ],
     "latest": 65536,
     "title": "Alphadia I & II"
 }

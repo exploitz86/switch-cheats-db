@@ -3,7 +3,16 @@
     "131072": "8A907C0DF542E743",
     "196608": "8FB7D3CBB69B7F47",
     "65536": "435CC4987292944F",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010013C010C5D001",
+            "name": "Banner of the Maid - Miss Elisa's Journal"
+        },
+        {
+            "id": "010013C010C5D002",
+            "name": "Banner of the Maid - The Oriental Pirate"
+        }
+    ],
     "latest": 196608,
     "title": "Banner of the Maid"
 }

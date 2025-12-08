@@ -11,7 +11,12 @@
     "720896": "0542CFB764223D15",
     "786432": "B652194137EE8CC6",
     "851968": "65AAD18F54AABEE8",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01006A30124CB001",
+            "name": "Upgrade to the full version of the game"
+        }
+    ],
     "latest": 851968,
     "title": "Chocobo GP"
 }

@@ -1,7 +1,12 @@
 {
     "0": "E0D8FB949ED755BB",
     "65536": "89075DA1DE1945C9",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100FF7010E7F001",
+            "name": "Toriko's Care Package"
+        }
+    ],
     "latest": 65536,
     "title": "void tRrLM(); //Void Terrarium"
 }

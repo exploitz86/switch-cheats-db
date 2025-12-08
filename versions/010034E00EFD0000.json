@@ -8,7 +8,12 @@
     "524288": "3C781DDC914FA64E",
     "589824": "2B4AB11EF2A91F4A",
     "655360": "563A4A42FBE7F347",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010034E00EFD1001",
+            "name": "Dr. Faust's Otherworldly Adventure"
+        }
+    ],
     "latest": 655360,
     "title": "MISTOVER"
 }

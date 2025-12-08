@@ -3,7 +3,16 @@
     "131072": "4E01B1F97D95D949",
     "196608": "3D1E1A21596BEC48",
     "327680": "31D3C924E8603344",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100691013C47001",
+            "name": "Additional Hero, Amazon"
+        },
+        {
+            "id": "0100691013C47002",
+            "name": "Additional Hero, Necroknight"
+        }
+    ],
     "latest": 327680,
     "title": "ARIA CHRONICLE"
 }

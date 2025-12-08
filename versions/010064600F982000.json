@@ -1,7 +1,16 @@
 {
     "0": "A29EDB8AA1D95547",
     "65536": "55FF5BB10B1A7A4C",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010064600F983001",
+            "name": "TIM Track Pack"
+        },
+        {
+            "id": "010064600F983002",
+            "name": "Magma Track Pack"
+        }
+    ],
     "latest": 65536,
     "title": "AVICII Invector: Encore Edition"
 }

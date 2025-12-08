@@ -2,7 +2,24 @@
     "0": "74D149EF24A140FD",
     "131072": "26AD351BEE046495",
     "65536": "A0E97BF4475FE385",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010088801B325001",
+            "name": "GUNGRAVE (2002)"
+        },
+        {
+            "id": "010088801B325002",
+            "name": "GUNGRAVE O.D (2004)"
+        },
+        {
+            "id": "010088801B325003",
+            "name": "ROCKET BILLY REDCADILLAC"
+        },
+        {
+            "id": "010088801B325004",
+            "name": "YOUNG GUN GRAVE"
+        }
+    ],
     "latest": 131072,
     "title": "Gungrave G.O.R.E Ultimate Enhanced Edition"
 }

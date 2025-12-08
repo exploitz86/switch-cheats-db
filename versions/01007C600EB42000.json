@@ -3,7 +3,20 @@
     "196608": "D79E5487AFFC36A4",
     "262144": "8F55F6F72C9E9F4E",
     "65536": "C3AF706F3F7844EA",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01007C600EB43006",
+            "name": "Special \"CAT (overseas ver)\" T-shirt"
+        },
+        {
+            "id": "01007C600EB43007",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01007C600EB43008",
+            "name": "Special \"INSERT COIN (overseas ver)\" T-shirt"
+        }
+    ],
     "latest": 262144,
     "title": "No More Heroes 3"
 }

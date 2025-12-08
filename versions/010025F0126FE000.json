@@ -11,7 +11,96 @@
     "720896": "C7249836825D1750",
     "786432": "AD82AD3876C3747B",
     "851968": "EAD19EF59A52CC14",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010025F0126FF001",
+            "name": "Potion Permit - Wooden Bear Statue"
+        },
+        {
+            "id": "010025F0126FF002",
+            "name": "Potion Permit - Decorative Cat"
+        },
+        {
+            "id": "010025F0126FF003",
+            "name": "Potion Permit - Vending Machine"
+        },
+        {
+            "id": "010025F0126FF004",
+            "name": "Potion Permit - Surfboard"
+        },
+        {
+            "id": "010025F0126FF005",
+            "name": "Potion Permit - Small Fairy Spring"
+        },
+        {
+            "id": "010025F0126FF006",
+            "name": "Potion Permit - Seashell Lighting - Wall"
+        },
+        {
+            "id": "010025F0126FF007",
+            "name": "Potion Permit - Seashell Lighting - Stand"
+        },
+        {
+            "id": "010025F0126FF008",
+            "name": "Potion Permit - Seashell Lighting - Desk Lamp"
+        },
+        {
+            "id": "010025F0126FF009",
+            "name": "Potion Permit - Potion Permit Poster (M)"
+        },
+        {
+            "id": "010025F0126FF00A",
+            "name": "Potion Permit - Potion Permit Poster (F)"
+        },
+        {
+            "id": "010025F0126FF00B",
+            "name": "Potion Permit - Pirate Ship Model"
+        },
+        {
+            "id": "010025F0126FF00C",
+            "name": "Potion Permit - Miniature Blimp"
+        },
+        {
+            "id": "010025F0126FF00E",
+            "name": "Potion Permit - Giant Noxe Plush Doll"
+        },
+        {
+            "id": "010025F0126FF00F",
+            "name": "Potion Permit - Excalibur"
+        },
+        {
+            "id": "010025F0126FF010",
+            "name": "Potion Permit - Capital Chemist Equipment"
+        },
+        {
+            "id": "010025F0126FF011",
+            "name": "Potion Permit - Capital Antique Clock"
+        },
+        {
+            "id": "010025F0126FF012",
+            "name": "Potion Permit - Aquarium"
+        },
+        {
+            "id": "010025F0126FF013",
+            "name": "Potion Permit - Animal Plushies"
+        },
+        {
+            "id": "010025F0126FF014",
+            "name": "Potion Permit - Witch's Broom"
+        },
+        {
+            "id": "010025F0126FF015",
+            "name": "Potion Permit - Spooky Ghost"
+        },
+        {
+            "id": "010025F0126FF016",
+            "name": "Potion Permit - Jack O'Lantern Light"
+        },
+        {
+            "id": "010025F0126FF017",
+            "name": "Potion Permit - Halloween Skull"
+        }
+    ],
     "latest": 851968,
     "title": "Potion Permit"
 }

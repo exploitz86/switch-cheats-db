@@ -1,7 +1,64 @@
 {
     "0": "BD0569A75ED7B7A7",
     "196608": "AB95DDDA1868D7A7",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100AE0006475001",
+            "name": "Stern Pinball Arcade: Harley-Davidson\u00ae / Third Edition"
+        },
+        {
+            "id": "0100AE0006475002",
+            "name": "Stern Pinball Arcade: AC/DC\u00ae Premium"
+        },
+        {
+            "id": "0100AE0006475003",
+            "name": "Stern Pinball Arcade: Star Trek\u2122 Vengeance Premium"
+        },
+        {
+            "id": "0100AE0006475004",
+            "name": "Stern Pinball Arcade: Mustang\u00ae Premium \"Boss\""
+        },
+        {
+            "id": "0100AE0006475005",
+            "name": "Stern Pinball Arcade: Phantom of the Opera\u2122"
+        },
+        {
+            "id": "0100AE0006475006",
+            "name": "Stern Pinball Arcade: Ghostbusters\u2122 Premium"
+        },
+        {
+            "id": "0100AE0006475007",
+            "name": "Stern Pinball Arcade: Ripley's Believe it or Not!\u00ae"
+        },
+        {
+            "id": "0100AE0006475008",
+            "name": "Stern Pinball Arcade: Starship Troopers\u2122"
+        },
+        {
+            "id": "0100AE0006475009",
+            "name": "Stern Pinball Arcade: Last Action Hero\u2122"
+        },
+        {
+            "id": "0100AE000647500A",
+            "name": "Stern Pinball Arcade: High Roller Casino\u2122"
+        },
+        {
+            "id": "0100AE000647500B",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100AE000647500C",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100AE000647500D",
+            "name": "Stern Pinball Arcade: Limited Edition Add-on Pack 1"
+        },
+        {
+            "id": "0100AE000647500E",
+            "name": "Stern Pinball Arcade: Limited Edition Add-on Pack 2"
+        }
+    ],
     "latest": 196608,
     "title": "Stern Pinball Arcade"
 }

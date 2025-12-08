@@ -7,7 +7,20 @@
     "393216": "69A5E85D6044AC05",
     "458752": "212EA96FB9918F5D",
     "65536": "A9DC5BF0B1ABF131",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100EB6018687001",
+            "name": "The Rumble Fish 2 Additional Character - Greed"
+        },
+        {
+            "id": "0100EB6018687002",
+            "name": "The Rumble Fish 2 Additional Character - Hazama"
+        },
+        {
+            "id": "0100EB6018687003",
+            "name": "The Rumble Fish 2 Additional Character - Beatrice"
+        }
+    ],
     "latest": 458752,
     "title": "The Rumble Fish 2"
 }

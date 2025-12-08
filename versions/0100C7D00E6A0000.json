@@ -1,7 +1,40 @@
 {
     "0": "3CE1D3C168583A68",
     "65536": "3873D07A0F36F124",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100C7D00E6A1001",
+            "name": "Super Powerful NG+ Package"
+        },
+        {
+            "id": "0100C7D00E6A1002",
+            "name": "Special Weapon: Beam Katana"
+        },
+        {
+            "id": "0100C7D00E6A1003",
+            "name": "Special Weapon: Superior Spear"
+        },
+        {
+            "id": "0100C7D00E6A1004",
+            "name": "Special Weapon: Histoire"
+        },
+        {
+            "id": "0100C7D00E6A1005",
+            "name": "Special Weapon: Natural White"
+        },
+        {
+            "id": "0100C7D00E6A1006",
+            "name": "Special Weapon: Beam Dagger"
+        },
+        {
+            "id": "0100C7D00E6A1007",
+            "name": "Special Weapon: Shiitake"
+        },
+        {
+            "id": "0100C7D00E6A1008",
+            "name": "Special Weapon: Dogoo Plushie"
+        }
+    ],
     "latest": 65536,
     "title": "Arc of Alchemist"
 }

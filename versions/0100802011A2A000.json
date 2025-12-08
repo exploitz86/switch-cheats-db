@@ -1,7 +1,20 @@
 {
     "0": "207BB23E41149A48",
     "65536": "F9B9F3D0D32D264E",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100802011A2B001",
+            "name": "Retrograde Arena - Supporter Pack"
+        },
+        {
+            "id": "0100802011A2B002",
+            "name": "Retrograde Arena - Arms Race Pack"
+        },
+        {
+            "id": "0100802011A2B003",
+            "name": "Retrograde Arena - Deathmatch Pack"
+        }
+    ],
     "latest": 65536,
     "title": "Retrograde Arena"
 }

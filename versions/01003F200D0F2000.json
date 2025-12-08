@@ -9,7 +9,32 @@
     "524288": "B50563206BA76F46",
     "589824": "8106D1A1B0D18940",
     "65536": "546017768A710D43",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01003F200D0F3001",
+            "name": "Moto Rush GT - Expansion Pack"
+        },
+        {
+            "id": "01003F200D0F3002",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01003F200D0F3003",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01003F200D0F3004",
+            "name": "Moto Rush GT - Full Garage"
+        },
+        {
+            "id": "01003F200D0F3005",
+            "name": "Moto Rush GT Grip Collection #1"
+        },
+        {
+            "id": "01003F200D0F3006",
+            "name": "Moto Rush GT Grip Collection #2"
+        }
+    ],
     "latest": 589824,
     "title": "Moto Rush GT"
 }

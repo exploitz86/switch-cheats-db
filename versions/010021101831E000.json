@@ -7,7 +7,12 @@
     "393216": "D010EB7E6A82BF23",
     "458752": "C4BBBD8B4A7480D6",
     "65536": "8474829A45572C66",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010021101831F001",
+            "name": "Return to Monkey Island - Horse Armor"
+        }
+    ],
     "latest": 458752,
     "title": "Return to Monkey Island"
 }

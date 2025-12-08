@@ -2,7 +2,12 @@
     "0": "8A25CB320BEDF519",
     "131072": "F62A7D41CAAC7D6D",
     "65536": "023CC158D8E47176",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010071F0143EB001",
+            "name": "Fire Emblem Warriors: Three Hopes Digital Purchase Bonus"
+        }
+    ],
     "latest": 131072,
     "title": "Fire Emblem Warriors: Three Hopes"
 }

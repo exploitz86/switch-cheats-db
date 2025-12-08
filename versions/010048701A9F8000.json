@@ -7,7 +7,12 @@
     "458752": "B6AD943B55F7833C",
     "524288": "B6AD943B55F7833C",
     "65536": "A9A56302F6BA363C",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010048701A9F9001",
+            "name": "Monster Roadtrip Hitchhiker Pack - The Color Squad"
+        }
+    ],
     "latest": 524288,
     "title": "Monster Prom 3: Monster Roadtrip XXL"
 }

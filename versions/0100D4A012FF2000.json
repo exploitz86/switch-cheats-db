@@ -19,7 +19,28 @@
     "851968": "00C9F5EB3C7A1380",
     "917504": "6C1EAB6B03445291",
     "983040": "0F4243124936A6EA",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100D4A012FF3001",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100D4A012FF3002",
+            "name": "Two Point Campus Early Adopter Bonus"
+        },
+        {
+            "id": "0100D4A012FF3003",
+            "name": "Two Point Campus: Space Academy"
+        },
+        {
+            "id": "0100D4A012FF3004",
+            "name": "Two Point Campus: School Spirits"
+        },
+        {
+            "id": "0100D4A012FF3005",
+            "name": "Two Point Campus: Medical School"
+        }
+    ],
     "latest": 1900544,
     "title": "Two Point Campus"
 }

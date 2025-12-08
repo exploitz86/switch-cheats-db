@@ -3,7 +3,16 @@
     "131072": "5784F517B668E3AB",
     "196608": "84C286A5CCF7642C",
     "262144": "D9E8E26035752B31",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010030B00C317001",
+            "name": "International Voice Pack"
+        },
+        {
+            "id": "010030B00C317002",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 262144,
     "title": "Planescape: Torment and Icewind Dale: Enhanced Editions"
 }

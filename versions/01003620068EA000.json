@@ -2,7 +2,20 @@
     "0": "32023BACF710504F",
     "262144": "670CF2A7343A9744",
     "327680": "B628EA55D8E98844",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01003620068EB001",
+            "name": "Hand of Fate 2: Outlands and Outsiders"
+        },
+        {
+            "id": "01003620068EB002",
+            "name": "Hand of Fate 2: The Servant and the Beast"
+        },
+        {
+            "id": "01003620068EB003",
+            "name": "Hand of Fate 2: A Cold Hearth"
+        }
+    ],
     "latest": 327680,
     "title": "Hand of Fate 2"
 }

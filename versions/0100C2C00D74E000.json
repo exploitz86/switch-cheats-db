@@ -4,7 +4,12 @@
     "196608": "0FC5057A68BAED43",
     "262144": "7BF314735DB37644",
     "65536": "966AFBFAA03CF14E",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100C2C00D74F002",
+            "name": "Path of the Crow"
+        }
+    ],
     "latest": 262144,
     "title": "West of Dead"
 }

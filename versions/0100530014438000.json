@@ -1,7 +1,44 @@
 {
     "0": "5F18A0D21A9282D3",
     "65536": "B1AFBB02475AD7E3",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100530014439001",
+            "name": "Spa Set"
+        },
+        {
+            "id": "0100530014439002",
+            "name": "G-Assassin Set"
+        },
+        {
+            "id": "0100530014439003",
+            "name": "Kitty Sweater Set"
+        },
+        {
+            "id": "0100530014439004",
+            "name": "JO-Singer Set"
+        },
+        {
+            "id": "0100530014439005",
+            "name": "T-Healer Set"
+        },
+        {
+            "id": "0100530014439006",
+            "name": "Magician Set"
+        },
+        {
+            "id": "0100530014439007",
+            "name": "R-Clown Set"
+        },
+        {
+            "id": "0100530014439008",
+            "name": "Grand Finale Bundle"
+        },
+        {
+            "id": "0100530014439009",
+            "name": "Pyre's Uniform (Job)"
+        }
+    ],
     "latest": 65536,
     "title": "Mary Skelter Finale"
 }

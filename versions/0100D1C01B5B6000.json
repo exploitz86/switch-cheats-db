@@ -4,7 +4,16 @@
     "196608": "177DC423E51BA7C9",
     "262144": "177DC423E51BA7C9",
     "65536": "177DC423E51BA7C9",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100D1C01B5B7001",
+            "name": "Golden Idol Mysteries: The Spider of Lanka"
+        },
+        {
+            "id": "0100D1C01B5B7002",
+            "name": "Golden Idol Mysteries: The Lemurian Vampire"
+        }
+    ],
     "latest": 262144,
     "title": "The Case of the Golden Idol"
 }

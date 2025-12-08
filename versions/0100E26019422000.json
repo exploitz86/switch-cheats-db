@@ -4,7 +4,24 @@
     "262144": "241C214671CFC9BD",
     "327680": "023D11CFD44DB1BB",
     "65536": "FB152FB431677E62",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100E26019423001",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100E26019423002",
+            "name": "ONI: Road to be the Mightiest Oni First Purchase Bonus"
+        },
+        {
+            "id": "0100E26019423003",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100E26019423004",
+            "name": "ONI: Road to be the Mightiest Oni Package Version Bonus"
+        }
+    ],
     "latest": 327680,
     "title": "ONI : Road to be the Mightiest Oni"
 }

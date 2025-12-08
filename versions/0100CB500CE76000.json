@@ -3,7 +3,16 @@
     "131072": "735C565984921C25",
     "196608": "D7327F4F49D893CC",
     "65536": "5C53462DFC4E0893",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100CB500CE77001",
+            "name": "Fishing: Barents Sea Line and Net Ships"
+        },
+        {
+            "id": "0100CB500CE77002",
+            "name": "Fishing: Barents Sea King Crab"
+        }
+    ],
     "latest": 196608,
     "title": "Fishing: Barents Sea Complete Edition"
 }

@@ -4,7 +4,36 @@
     "196608": "7287EAB5F5E50A00",
     "262144": "6B43546FE14DA3D8",
     "65536": "126D0DE908B959FE",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01002EE00DC03001",
+            "name": "Great Britain & Ireland"
+        },
+        {
+            "id": "01002EE00DC03002",
+            "name": "Germany"
+        },
+        {
+            "id": "01002EE00DC03003",
+            "name": "France"
+        },
+        {
+            "id": "01002EE00DC03004",
+            "name": "Northern Europe"
+        },
+        {
+            "id": "01002EE00DC03005",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002EE00DC03006",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002EE00DC03007",
+            "name": "Japan"
+        }
+    ],
     "latest": 262144,
     "title": "Railway Empire - Nintendo Switch\u2122 Edition"
 }

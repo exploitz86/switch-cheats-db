@@ -2,7 +2,12 @@
     "0": "C08E8542DE755D42",
     "131072": "6E6BE8185BB7E140",
     "65536": "0A79F00465234A41",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01006960155C5001",
+            "name": "Dawn of the Monsters: Arcade + Character DLC Pack"
+        }
+    ],
     "latest": 131072,
     "title": "Dawn of the Monsters"
 }

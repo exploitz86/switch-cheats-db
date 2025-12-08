@@ -1,7 +1,44 @@
 {
     "0": "40EA4396540F4C46",
     "65536": "3A0835D09F6D1544",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100F3D00B033001",
+            "name": "Additional Equipment: Forest Spear Set"
+        },
+        {
+            "id": "0100F3D00B033002",
+            "name": "Additional Equipment: Earth Axe Set"
+        },
+        {
+            "id": "0100F3D00B033003",
+            "name": "Additional Equipment: Akiba Sword Set"
+        },
+        {
+            "id": "0100F3D00B033004",
+            "name": "Additional Equipment: Momotaro's Kibi Dumpling Set"
+        },
+        {
+            "id": "0100F3D00B033005",
+            "name": "Additional Equipment: Uzume's Dancer Set"
+        },
+        {
+            "id": "0100F3D00B033006",
+            "name": "Additional Equipment: Fox Weapon Set"
+        },
+        {
+            "id": "0100F3D00B033007",
+            "name": "Additional Equipment: True Three Sacred Treasures Set"
+        },
+        {
+            "id": "0100F3D00B033008",
+            "name": "Additional Equipment: Ookami Siblings Treasure Set"
+        },
+        {
+            "id": "0100F3D00B033009",
+            "name": "Additional Equipment: Orihime's Good Fortune Set"
+        }
+    ],
     "latest": 65536,
     "title": "GOD WARS The Complete Legend"
 }

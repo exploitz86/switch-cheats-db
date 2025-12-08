@@ -5,7 +5,16 @@
     "262144": "788DD38AD97F1D12",
     "327680": "79E5950FFA85ACF6",
     "65536": "075AD583A1603F84",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100DCA0064A7001",
+            "name": "Luigi\u2019s Mansion\u2122 3 Multiplayer Pack 1"
+        },
+        {
+            "id": "0100DCA0064A7002",
+            "name": "Luigi\u2019s Mansion\u2122 3 Multiplayer Pack 2"
+        }
+    ],
     "latest": 327680,
     "title": "Luigi\u2019s Mansion\u2122 3"
 }

@@ -2,7 +2,12 @@
     "0": "9144A40CB77B5C48",
     "131072": "527A6996351DF24F",
     "196608": "5BF905CD9B365C4E",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01005A700CC3D001",
+            "name": "Mana Spark: Forgotten Crypts"
+        }
+    ],
     "latest": 196608,
     "title": "Mana Spark"
 }

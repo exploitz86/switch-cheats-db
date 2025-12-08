@@ -17,7 +17,12 @@
     "2162688": "8ACF8D236ADAB16F",
     "2293760": "682B1552A9C571C9",
     "65536": "1D9C2E1BB01CA786",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010097F018539001",
+            "name": "DAVE THE DIVER Exclusive Pre-Order Bonus : 8-Bit Deco Item pack"
+        }
+    ],
     "latest": 2293760,
     "title": "DAVE THE DIVER Nintendo Switch 2 Edition"
 }

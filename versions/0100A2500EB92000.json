@@ -2,7 +2,16 @@
     "0": "82424F9E2266012F",
     "131072": "FD2BA76430A5936F",
     "65536": "5A91ADF0181A3B52",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100A2500EB93001",
+            "name": "Swag Pack"
+        },
+        {
+            "id": "0100A2500EB93002",
+            "name": "Flex Pack"
+        }
+    ],
     "latest": 131072,
     "title": "Urban Trial Tricky"
 }

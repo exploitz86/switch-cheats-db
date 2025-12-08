@@ -4,7 +4,28 @@
     "393216": "88292BFD10CF3ECC",
     "458752": "CB248EFC0E80B579",
     "589824": "E9482A7BC02777AB",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100225000FEF001",
+            "name": "EX CHARACTER: GUNVOLT"
+        },
+        {
+            "id": "0100225000FEF002",
+            "name": "EX CHARACTER: EKORO"
+        },
+        {
+            "id": "0100225000FEF003",
+            "name": "EX CHARACTER: SHANTAE"
+        },
+        {
+            "id": "0100225000FEF004",
+            "name": "EX CHARACTER: SHOVEL KNIGHT"
+        },
+        {
+            "id": "0100225000FEF005",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 589824,
     "title": "Blaster Master Zero"
 }

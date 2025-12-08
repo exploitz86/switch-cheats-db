@@ -1,7 +1,12 @@
 {
     "0": "27901A8FE21DFF42",
     "65536": "2AE8719F2962C94E",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100D010113A9001",
+            "name": "Void Bastards: Bang Tydy"
+        }
+    ],
     "latest": 65536,
     "title": "Void Bastards"
 }

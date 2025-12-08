@@ -2,7 +2,16 @@
     "0": "DE50B82CDF502241",
     "131072": "75DB954DFE422E48",
     "65536": "106B4B06919CE146",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100BC90155D7001",
+            "name": "Experience x3 - Armed Emeth"
+        },
+        {
+            "id": "0100BC90155D7002",
+            "name": "No Encounters - Armed Emeth"
+        }
+    ],
     "latest": 131072,
     "title": "Armed Emeth"
 }

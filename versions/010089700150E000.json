@@ -13,7 +13,28 @@
     "786432": "08F146D4640EDCD9",
     "851968": "83763381CA82FD5E",
     "917504": "6E1FCDB58DDEA086",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010089700150F001",
+            "name": "Additional Quest: The Dragonblood Village"
+        },
+        {
+            "id": "010089700150F002",
+            "name": "Additional Storyline: The Dragonblood Bandit"
+        },
+        {
+            "id": "010089700150F006",
+            "name": "Additional Playable Characters: Empress & Warrior"
+        },
+        {
+            "id": "010089700150F007",
+            "name": "Additional Playable Characters: Shinobi & Witch"
+        },
+        {
+            "id": "010089700150F008",
+            "name": "DLC Equipment: Striker Gear"
+        }
+    ],
     "latest": 1572864,
     "title": "Dragon Marked for Death: Advanced Attackers"
 }

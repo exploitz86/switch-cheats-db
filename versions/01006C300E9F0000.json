@@ -3,7 +3,28 @@
     "131072": "6B54B4BE4B1771F4",
     "196608": "1719AABFA5EAE42B",
     "262144": "1719AABFA5EAE42B",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01006C300E9F1015",
+            "name": "Baby Boar Set"
+        },
+        {
+            "id": "01006C300E9F1016",
+            "name": "Trodain Set"
+        },
+        {
+            "id": "01006C300E9F1017",
+            "name": "Happy Adventurer Set"
+        },
+        {
+            "id": "01006C300E9F1018",
+            "name": "Wolf Wear"
+        },
+        {
+            "id": "01006C300E9F1019",
+            "name": "Vests of Success Set"
+        }
+    ],
     "latest": 262144,
     "title": "DRAGON QUEST\u00ae XI S: Echoes of an Elusive Age \u2013 Definitive Edition"
 }

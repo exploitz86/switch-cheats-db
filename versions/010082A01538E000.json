@@ -7,7 +7,108 @@
     "458752": "BF8FD76564319AB3",
     "524288": "4A1B406278346C2B",
     "65536": "4F49BD851B16182C",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010082A01538F0C9",
+            "name": "Sophie's Costume \"My New Look\""
+        },
+        {
+            "id": "010082A01538F0CA",
+            "name": "Atelier Series Legacy Swimsuit Set"
+        },
+        {
+            "id": "010082A01538F0CB",
+            "name": "Sophie's Costume \"Easy Breezy\""
+        },
+        {
+            "id": "010082A01538F0CC",
+            "name": "Sophie's Costume \"Comfy and Casual\""
+        },
+        {
+            "id": "010082A01538F0CD",
+            "name": "Sophie/Ramizel's Costumes \"Grandma's Outfit (Matching Set)\""
+        },
+        {
+            "id": "010082A01538F0CE",
+            "name": "Sophie's Swimsuit \"White Canvas\""
+        },
+        {
+            "id": "010082A01538F0CF",
+            "name": "Plachta's Swimsuit \"Clivia Nobilis\""
+        },
+        {
+            "id": "010082A01538F0D0",
+            "name": "Ramizel's Swimsuit \"Agapanthus Romance\""
+        },
+        {
+            "id": "010082A01538F0D1",
+            "name": "Alette's Swimsuit \"Rainmaker\""
+        },
+        {
+            "id": "010082A01538F0D2",
+            "name": "Olias's Swimsuit \"Vegetable Garden\""
+        },
+        {
+            "id": "010082A01538F0D3",
+            "name": "Diebold's Swimsuit \"Knight Commander\""
+        },
+        {
+            "id": "010082A01538F0D4",
+            "name": "Sophie/Plachta/Ramizel/Alette's Costume \"Bunny-Eared Salesgirl\""
+        },
+        {
+            "id": "010082A01538F0D5",
+            "name": "Sophie's Costume \"Alchemist of the Mysterious Journey\""
+        },
+        {
+            "id": "010082A01538F0D6",
+            "name": "Plachta's Costume \"Haute Couture\""
+        },
+        {
+            "id": "010082A01538F0D7",
+            "name": "Ramizel's Costume \"Ertona Hunter\""
+        },
+        {
+            "id": "010082A01538F12C",
+            "name": "Atelier Series Legacy BGM Pack"
+        },
+        {
+            "id": "010082A01538F12D",
+            "name": "Gust Extra BGM Pack"
+        },
+        {
+            "id": "010082A01538F190",
+            "name": "Useful Weapons Set"
+        },
+        {
+            "id": "010082A01538F191",
+            "name": "Useful Items Set"
+        },
+        {
+            "id": "010082A01538F1F4",
+            "name": "Extra Scenario/Area \"Atelier Plachta\""
+        },
+        {
+            "id": "010082A01538F258",
+            "name": "Extra Area \"Heartscape\""
+        },
+        {
+            "id": "010082A01538F2BC",
+            "name": "Recipe Expansion Pack \"The Art of Synthesis\""
+        },
+        {
+            "id": "010082A01538F2BD",
+            "name": "Recipe Expansion Pack \"The Art of Battle\""
+        },
+        {
+            "id": "010082A01538F2BE",
+            "name": "Accessory \"25 Glasses\""
+        },
+        {
+            "id": "010082A01538F2BF",
+            "name": "Accessory \"Animal Headband\""
+        }
+    ],
     "latest": 524288,
     "title": "Atelier Sophie 2: The Alchemist of the Mysterious Dream"
 }

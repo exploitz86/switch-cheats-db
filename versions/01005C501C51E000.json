@@ -1,7 +1,12 @@
 {
     "0": "562D1C27AA49B4FC",
     "65536": "7A66401E9AFD345A",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01005C501C51F001",
+            "name": "Variety Uniform Pack"
+        }
+    ],
     "latest": 65536,
     "title": "Desktop Basketball 2"
 }

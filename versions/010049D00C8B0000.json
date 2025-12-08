@@ -5,7 +5,28 @@
     "262144": "2BF63A8275199F4C",
     "393216": "53E407C365E6794E",
     "65536": "494852FECA534840",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010049D00C8B1001",
+            "name": "Swimsanity! - Unleash Pack 1"
+        },
+        {
+            "id": "010049D00C8B1002",
+            "name": "Swimsanity! - AmmoBot Unleash"
+        },
+        {
+            "id": "010049D00C8B1003",
+            "name": "Swimsanity! - Shock Drones Unleash"
+        },
+        {
+            "id": "010049D00C8B1004",
+            "name": "Swimsanity! - Sentry Unleash"
+        },
+        {
+            "id": "010049D00C8B1005",
+            "name": "Swimsanity! - Regen Unleash"
+        }
+    ],
     "latest": 393216,
     "title": "Swimsanity!"
 }

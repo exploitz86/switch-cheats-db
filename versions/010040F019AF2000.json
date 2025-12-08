@@ -1,6 +1,11 @@
 {
     "0": "4E922FA0772E9449",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010040F019AF3001",
+            "name": "Cure for Treflinka"
+        }
+    ],
     "latest": 0,
     "title": "The Treflik Family"
 }

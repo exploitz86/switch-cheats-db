@@ -2,7 +2,16 @@
     "0": "D3CA5602F3467451",
     "131072": "E8DB38F170B0149D",
     "65536": "8778D3227D806567",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010073401175F001",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010073401175F002",
+            "name": "Crash Bandicoot\u2122 4 - Totally Tubular Skins"
+        }
+    ],
     "latest": 131072,
     "title": "Crash Bandicoot\u2122 4: It\u2019s About Time"
 }

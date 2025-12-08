@@ -4,7 +4,16 @@
     "196608": "F294A4EBE966E8A9",
     "262144": "F294A4EBE966E8A9",
     "65536": "31CD8ABE8385D647",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010073C01B7FF001",
+            "name": "Corrupted Outfit - The Smurfs 2: The Prisoner of the Green Stone"
+        },
+        {
+            "id": "010073C01B7FF002",
+            "name": "Corrupted Outfit / Farmer Outfit / Adorable Outfit - The Smurfs 2: The Prisoner of the Green Stone"
+        }
+    ],
     "latest": 262144,
     "title": "The Smurfs 2 - The Prisoner of the Green Stone"
 }

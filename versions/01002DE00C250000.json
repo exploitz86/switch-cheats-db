@@ -10,7 +10,16 @@
     "589824": "FE06D69D28F8E34C",
     "65536": "592DE2F107EC8646",
     "720896": "A68A8C2A61EC474D",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01002DE00C251001",
+            "name": "Children of Morta: Paws and Claws"
+        },
+        {
+            "id": "01002DE00C251002",
+            "name": "Children of Morta: Ancient Spirits"
+        }
+    ],
     "latest": 720896,
     "title": "Children of Morta"
 }

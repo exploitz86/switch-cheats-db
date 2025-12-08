@@ -15,7 +15,88 @@
     "851968": "D5E97B31F8B83D1A",
     "917504": "D5AFACF08B6F1CCB",
     "983040": "754A72B889587EA7",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100BE300F6AB001",
+            "name": "Expansion Pack #1"
+        },
+        {
+            "id": "0100BE300F6AB002",
+            "name": "Expansion Pack #2"
+        },
+        {
+            "id": "0100BE300F6AB003",
+            "name": "Expansion Pack #3"
+        },
+        {
+            "id": "0100BE300F6AB004",
+            "name": "Digital Exclusive Expansion Pack"
+        },
+        {
+            "id": "0100BE300F6AB005",
+            "name": "Character Pack #1"
+        },
+        {
+            "id": "0100BE300F6AB006",
+            "name": "Character Pack #2"
+        },
+        {
+            "id": "0100BE300F6AB007",
+            "name": "Character Pack #3"
+        },
+        {
+            "id": "0100BE300F6AB008",
+            "name": "Character Pack #4"
+        },
+        {
+            "id": "0100BE300F6AB009",
+            "name": "Character Pack #5"
+        },
+        {
+            "id": "0100BE300F6AB00A",
+            "name": "Character Pack #6"
+        },
+        {
+            "id": "0100BE300F6AB00B",
+            "name": "Base Game: Legendary Deck"
+        },
+        {
+            "id": "0100BE300F6AB00C",
+            "name": "The Reaper: Legendary Deck"
+        },
+        {
+            "id": "0100BE300F6AB00D",
+            "name": "The Dungeon: Legendary Deck"
+        },
+        {
+            "id": "0100BE300F6AB00E",
+            "name": "The Highland: Legendary Deck"
+        },
+        {
+            "id": "0100BE300F6AB00F",
+            "name": "Character Pack #7"
+        },
+        {
+            "id": "0100BE300F6AB010",
+            "name": "Character Pack #8"
+        },
+        {
+            "id": "0100BE300F6AB011",
+            "name": "The Frostmarch Expansion: Legendary Deck"
+        },
+        {
+            "id": "0100BE300F6AB012",
+            "name": "The Sacred Pool Expansion: Legendary Deck"
+        },
+        {
+            "id": "0100BE300F6AB013",
+            "name": "The City Expansion: Legendary Deck"
+        },
+        {
+            "id": "0100BE300F6AB014",
+            "name": "The Blood Moon Expansion: Legendary Deck"
+        }
+    ],
     "latest": 1048576,
     "title": "Talisman: Digital Edition"
 }

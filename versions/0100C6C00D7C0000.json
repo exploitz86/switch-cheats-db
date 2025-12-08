@@ -4,7 +4,12 @@
     "196608": "166FA19ECAD3FA4D",
     "262144": "E2B1DC8EC9318343",
     "327680": "9033918ABD60A348",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100C6C00D7C1001",
+            "name": "Non-Bears"
+        }
+    ],
     "latest": 327680,
     "title": "Astro Bears"
 }

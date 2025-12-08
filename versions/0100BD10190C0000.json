@@ -6,7 +6,24 @@
     "393216": "03A2A26110AC6603",
     "589824": "45C15AE4450708FD",
     "65536": "6C2D4E0EE0DB2129",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100BD10190C1001",
+            "name": "AEW: Fight Forever - Matt Hardy"
+        },
+        {
+            "id": "0100BD10190C100B",
+            "name": "AEW: Fight Forever FTR: Revival Pack"
+        },
+        {
+            "id": "0100BD10190C100C",
+            "name": "AEW: Fight Forever Limitless Bunny Bundle"
+        },
+        {
+            "id": "0100BD10190C100D",
+            "name": "AEW: Fight Forever Hookhausen: Very Handsome, Very Evil Pack"
+        }
+    ],
     "latest": 589824,
     "title": "AEW: Fight Forever"
 }

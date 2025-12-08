@@ -1,6 +1,43 @@
 {
     "0": "85F5D5AB6187F602",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010044700DEB1001",
+            "name": "Assassin\u2019s Creed\u00ae Rogue"
+        },
+        {
+            "id": "010044700DEB1002",
+            "name": "Assassin's Creed\u00ae: The Rebel Collection \u2013 French Audio Pack"
+        },
+        {
+            "id": "010044700DEB1003",
+            "name": "Assassin's Creed\u00ae The Rebel Collection - Italian Audio Pack"
+        },
+        {
+            "id": "010044700DEB1004",
+            "name": "Assassin's Creed\u00ae The Rebel Collection - German Audio Pack"
+        },
+        {
+            "id": "010044700DEB1005",
+            "name": "Assassin's Creed\u00ae: The Rebel Collection \u2013 Spanish Audio Pack"
+        },
+        {
+            "id": "010044700DEB1006",
+            "name": "Assassin's Creed\u00ae The Rebel Collection - Russian Audio Pack"
+        },
+        {
+            "id": "010044700DEB1007",
+            "name": "Assassin's Creed\u00ae: The Rebel Collection \u2013 Portuguese Audio Pack"
+        },
+        {
+            "id": "010044700DEB1008",
+            "name": "Assassin's Creed\u00ae The Rebel Collection - Japanese Audio Pack"
+        },
+        {
+            "id": "010044700DEB1009",
+            "name": "Assassin's Creed\u00ae: The Rebel Collection \u2013 Extra Content"
+        }
+    ],
     "latest": 0,
     "title": "Assassin\u2019s Creed\u00ae: The Rebel Collection"
 }

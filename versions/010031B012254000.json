@@ -2,7 +2,12 @@
     "0": "B324BCC4FB573945",
     "131072": "819ACC95699FA341",
     "65536": "003C052F9A122646",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010031B012255001",
+            "name": "Everyday\u266a Today's MENU for EMIYA Family Lancer Scenario Pack"
+        }
+    ],
     "latest": 131072,
     "title": "Everyday\u266a Today's MENU for EMIYA Family"
 }

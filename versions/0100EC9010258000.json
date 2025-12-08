@@ -7,7 +7,12 @@
     "393216": "15B187E7C971F9AE",
     "458752": "8817441976E32E94",
     "65536": "20CC1E2D6502624A",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100EC9010259001",
+            "name": "Streets Of Rage 4 - Mr. X Nightmare"
+        }
+    ],
     "latest": 458752,
     "title": "Streets of Rage 4"
 }

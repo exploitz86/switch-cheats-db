@@ -4,7 +4,12 @@
     "262144": "FF30A4942954FDB6",
     "327680": "5A130EDF8DB0DA94",
     "65536": "02BF5FA1ED2819EC",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010049E00BA35001",
+            "name": "Townsmen - A Kingdom Rebuilt: The Seaside Empire"
+        }
+    ],
     "latest": 327680,
     "title": "Townsmen - A Kingdom Rebuilt"
 }

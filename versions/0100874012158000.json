@@ -1,6 +1,11 @@
 {
     "0": "68C0FD20DB2D96B8",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100874012159001",
+            "name": "#InfiniPrison"
+        }
+    ],
     "latest": 0,
     "title": "Infini"
 }

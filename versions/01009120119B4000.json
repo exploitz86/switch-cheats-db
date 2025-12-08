@@ -4,7 +4,12 @@
     "196608": "1F41954528DFD6D9",
     "262144": "C72DC7C399191E59",
     "327680": "4E144D194FE2EBB8",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01009120119B5001",
+            "name": "Additional Characters \"Gothic wa Mahou Otome\" 5 Characters Set"
+        }
+    ],
     "latest": 327680,
     "title": "Deathsmiles I\uff65II"
 }

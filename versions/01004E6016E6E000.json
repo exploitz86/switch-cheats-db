@@ -6,7 +6,12 @@
     "393216": "466FF1284FF7D64C",
     "458752": "8CB501B8EEEE0C4E",
     "65536": "658475DF5B183C43",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01004E6016E6F001",
+            "name": "The Crackpet Show: Happy Tree Friends Edition"
+        }
+    ],
     "latest": 458752,
     "title": "The Crackpet Show"
 }

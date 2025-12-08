@@ -1,6 +1,11 @@
 {
     "0": "7C94BABBDDF3D243",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100BBD00976D001",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 0,
     "title": "Project Highrise: Architect's Edition"
 }

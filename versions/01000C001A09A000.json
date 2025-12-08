@@ -2,7 +2,24 @@
     "0": "43941E4E78E1F3A7",
     "458752": "628BE46730A3B09D",
     "65536": "AE65257E27872667",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01000C001A09B066",
+            "name": "\"Model Outfit\" Pattern Set"
+        },
+        {
+            "id": "01000C001A09B068",
+            "name": "\"Cute Outfit\" Pattern Set"
+        },
+        {
+            "id": "01000C001A09B06A",
+            "name": "\"Cool Outfit\" Pattern Set"
+        },
+        {
+            "id": "01000C001A09B0C9",
+            "name": "\"Chic Outfit\" Pattern Set"
+        }
+    ],
     "latest": 458752,
     "title": "Fashion Dreamer"
 }

@@ -9,7 +9,16 @@
     "589824": "BFD65C1D52DF8457",
     "65536": "017CC25BD8DD557B",
     "655360": "B0D3F3C36D2B9061",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100A4E00F671001",
+            "name": "Myths & Outcasts"
+        },
+        {
+            "id": "0100A4E00F671002",
+            "name": "Legends & Pariahs"
+        }
+    ],
     "latest": 655360,
     "title": "Barony"
 }

@@ -3,7 +3,60 @@
     "131072": "BBFD41DF5BA37D79",
     "196608": "4EEA2970DF38ECE1",
     "65536": "BDBE785B20ADFB3B",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010007B010FCD001",
+            "name": "Sniper Elite 4 - Target F\u00fchrer"
+        },
+        {
+            "id": "010007B010FCD002",
+            "name": "Sniper Elite 4 - Deathstorm Part 1: Inception"
+        },
+        {
+            "id": "010007B010FCD003",
+            "name": "Sniper Elite 4 - Deathstorm Part 2: Infiltration"
+        },
+        {
+            "id": "010007B010FCD004",
+            "name": "Sniper Elite 4 - Deathstorm Part 3: Obliteration"
+        },
+        {
+            "id": "010007B010FCD005",
+            "name": "Sniper Elite 4 - Cold Warfare Winter Expansion Pack"
+        },
+        {
+            "id": "010007B010FCD006",
+            "name": "Sniper Elite 4 - Night Fighter Expansion Pack"
+        },
+        {
+            "id": "010007B010FCD007",
+            "name": "Sniper Elite 4 - Covert Heroes Character Pack"
+        },
+        {
+            "id": "010007B010FCD008",
+            "name": "Sniper Elite 4 - Urban Assault Expansion Pack"
+        },
+        {
+            "id": "010007B010FCD009",
+            "name": "Sniper Elite 4 - Allied Forces Rifle Pack"
+        },
+        {
+            "id": "010007B010FCD00A",
+            "name": "Sniper Elite 4 - Camouflage Rifles Skin Pack"
+        },
+        {
+            "id": "010007B010FCD00B",
+            "name": "Sniper Elite 4 - Lock and Load Weapons Pack"
+        },
+        {
+            "id": "010007B010FCD00C",
+            "name": "Sniper Elite 4 - Silent Warfare Weapons Pack"
+        },
+        {
+            "id": "010007B010FCD00D",
+            "name": "Sniper Elite 4 - Multiplayer Maps Pack"
+        }
+    ],
     "latest": 196608,
     "title": "Sniper Elite 4"
 }

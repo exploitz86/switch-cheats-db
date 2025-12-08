@@ -1,6 +1,27 @@
 {
     "0": "FEDDFC436C529560",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100B9E017F07001",
+            "name": "Extra Music Pack"
+        },
+        {
+            "id": "0100B9E017F07002",
+            "name": "Animal Pack"
+        },
+        {
+            "id": "0100B9E017F07003",
+            "name": "Zodiac Pack"
+        },
+        {
+            "id": "0100B9E017F07004",
+            "name": "Food Pack"
+        },
+        {
+            "id": "0100B9E017F07005",
+            "name": "Sea Animal Pack"
+        }
+    ],
     "latest": 0,
     "title": "ABC Search With Me"
 }

@@ -2,7 +2,24 @@
     "0": "151329C51D67D120",
     "131072": "B42C4F14AD37BC20",
     "65536": "3CE5B2D932F5B19C",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100B4101CB09001",
+            "name": "Fall Pack"
+        },
+        {
+            "id": "0100B4101CB09002",
+            "name": "Spring Pack"
+        },
+        {
+            "id": "0100B4101CB09003",
+            "name": "Summer Pack"
+        },
+        {
+            "id": "0100B4101CB09004",
+            "name": "Winter Pack"
+        }
+    ],
     "latest": 131072,
     "title": "Freaky Trip"
 }

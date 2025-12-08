@@ -7,7 +7,32 @@
     "393216": "D4DD9C50281566A0",
     "458752": "957E1E19958A93F9",
     "65536": "404DC6F491820F74",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010040E0116B9001",
+            "name": "Exclusive Player Icons"
+        },
+        {
+            "id": "010040E0116B9004",
+            "name": "Sonic Movie Boost"
+        },
+        {
+            "id": "010040E0116B9005",
+            "name": "Sonic Colors: Ultimate - Music Pack"
+        },
+        {
+            "id": "010040E0116B9006",
+            "name": "Sonic Colors: Ultimate - Ultimate Cosmetic Pack"
+        },
+        {
+            "id": "010040E0116B9007",
+            "name": "Retailer Exclusive Icons"
+        },
+        {
+            "id": "010040E0116B9008",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 458752,
     "title": "Sonic Colors: Ultimate"
 }

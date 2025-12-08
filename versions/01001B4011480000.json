@@ -12,7 +12,24 @@
     "655360": "9CFB653EC1E530AE",
     "786432": "88E9D9FD4AE613D6",
     "851968": "784302953679628F",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01001B4011481001",
+            "name": "Doom & Destiny Worlds - Survival of the Nerdiest"
+        },
+        {
+            "id": "01001B4011481002",
+            "name": "Doom & Destiny Worlds - Fantastic Quests and Where to Find Them"
+        },
+        {
+            "id": "01001B4011481003",
+            "name": "Doom & Destiny Worlds - Damsels & Dragons"
+        },
+        {
+            "id": "01001B4011481004",
+            "name": "Doom & Destiny Worlds - Deluxe Content"
+        }
+    ],
     "latest": 851968,
     "title": "Doom & Destiny Worlds"
 }

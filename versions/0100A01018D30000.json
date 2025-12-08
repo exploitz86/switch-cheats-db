@@ -1,6 +1,11 @@
 {
     "0": "88BF3D5C78EF92CE",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100A01018D31001",
+            "name": "Car Racing Highway- DLC Pack"
+        }
+    ],
     "latest": 0,
     "title": "Car Racing Highway Driving Simulator, real parking driver sim speed traffic deluxe 2022"
 }

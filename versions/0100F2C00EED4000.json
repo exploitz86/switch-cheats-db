@@ -1,6 +1,19 @@
 {
     "0": "33A17693807D9D47",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100F2C00EED5001",
+            "name": "More favors (Onedari): Inori Hanamiya"
+        },
+        {
+            "id": "0100F2C00EED5002",
+            "name": "More favors (Onedari): Satou Airi"
+        },
+        {
+            "id": "0100F2C00EED5003",
+            "name": "More favors (Onedari): Uno Yui"
+        }
+    ],
     "latest": 0,
     "title": "Please Teach Me Onedari Shogi"
 }

@@ -7,7 +7,12 @@
     "524288": "03FE981064A8E44F",
     "589824": "D02CD50295124A48",
     "655360": "D02CD50295124A48",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100A5C00D163001",
+            "name": "Cuphead - The Delicious Last Course"
+        }
+    ],
     "latest": 655360,
     "title": "Cuphead"
 }

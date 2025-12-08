@@ -2,7 +2,28 @@
     "131072": "6BFE3AB84EE53B5E",
     "196608": "65DD0A8AC9E58CEB",
     "65536": "EA01CBB8F9F6454C",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100375019B2F001",
+            "name": "The Mageseeker: Lost Silverwing"
+        },
+        {
+            "id": "0100375019B2F002",
+            "name": "The Mageseeker: Silverwing Supply Station"
+        },
+        {
+            "id": "0100375019B2F003",
+            "name": "The Mageseeker: Home Sweet Cave Pack"
+        },
+        {
+            "id": "0100375019B2F004",
+            "name": "The Mageseeker: Hijacked Spells Pack"
+        },
+        {
+            "id": "0100375019B2F005",
+            "name": "The Mageseeker: Unchained Skins Pack"
+        }
+    ],
     "latest": 196608,
     "title": "The Mageseeker: A League of Legends Story\u2122"
 }

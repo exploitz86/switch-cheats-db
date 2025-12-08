@@ -17,7 +17,12 @@
     "786432": "B13E71D23C23C744",
     "851968": "A0FA9F543C0BB842",
     "917504": "B6E843FBCC63D942",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010081A00EE63001",
+            "name": "Boomerang Fu - Fresh Flavors Pack"
+        }
+    ],
     "latest": 1441792,
     "title": "Boomerang Fu"
 }

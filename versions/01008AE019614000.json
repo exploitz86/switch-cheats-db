@@ -3,7 +3,24 @@
     "131072": "FC6784FF89273889",
     "196608": "E09C87E98AF48442",
     "65536": "D3B7F184686BAB01",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01008AE019615001",
+            "name": "Long Cat"
+        },
+        {
+            "id": "01008AE019615002",
+            "name": "Icon Themes"
+        },
+        {
+            "id": "01008AE019615003",
+            "name": "Screensaver Clock"
+        },
+        {
+            "id": "01008AE019615004",
+            "name": "Sudoku"
+        }
+    ],
     "latest": 196608,
     "title": "nOS new Operating System"
 }

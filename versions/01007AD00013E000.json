@@ -1,7 +1,20 @@
 {
     "0": "146EAADFE847C841",
     "720896": "A0A745DA9AE25946",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01007AD00013F001",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01007AD00013F003",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01007AD00013F004",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 720896,
     "title": "Super Bomberman R"
 }

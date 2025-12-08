@@ -4,7 +4,16 @@
     "262144": "E4B047B48A857442",
     "327680": "32A5E6074671F14F",
     "393216": "E2475739344DEE4C",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100C3D00923B001",
+            "name": "Toricity"
+        },
+        {
+            "id": "0100C3D00923B002",
+            "name": "MV Expo"
+        }
+    ],
     "latest": 393216,
     "title": "Old School Musical"
 }

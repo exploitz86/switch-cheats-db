@@ -2,7 +2,32 @@
     "0": "F2B6431107A63F30",
     "131072": "738CB3CC06582440",
     "65536": "9B7248979829F881",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010097F010FE7001",
+            "name": "Here's to the Birthday Boy!: Minato"
+        },
+        {
+            "id": "010097F010FE7002",
+            "name": "Here's to the Birthday Boy! Kaoru"
+        },
+        {
+            "id": "010097F010FE7003",
+            "name": "Here's to the Birthday Boy!: Shusei"
+        },
+        {
+            "id": "010097F010FE7004",
+            "name": "Here's to the Birthday Boy!: Akiyoshi"
+        },
+        {
+            "id": "010097F010FE7005",
+            "name": "Don't Tell Him I'm Popular!: Minato"
+        },
+        {
+            "id": "010097F010FE7006",
+            "name": "After the Crisis: Minato"
+        }
+    ],
     "latest": 131072,
     "title": "Our Two Bedroom Story"
 }

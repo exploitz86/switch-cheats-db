@@ -3,7 +3,24 @@
     "131072": "83BB99AF0EED1F70",
     "196608": "34E4F46E6F8A04CF",
     "65536": "8A4208E3ECB9DED8",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100CBA018B57002",
+            "name": "Halloween"
+        },
+        {
+            "id": "0100CBA018B57003",
+            "name": "Sushi"
+        },
+        {
+            "id": "0100CBA018B57004",
+            "name": "Christmas"
+        },
+        {
+            "id": "0100CBA018B57005",
+            "name": "Easter"
+        }
+    ],
     "latest": 196608,
     "title": "Mojito the Cat"
 }

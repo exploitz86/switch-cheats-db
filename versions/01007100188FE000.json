@@ -2,7 +2,24 @@
     "0": "BCFCC6865B0BE521",
     "131072": "6EA37952E5D98B38",
     "65536": "D64750453059180E",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01007100188FF001",
+            "name": "Puzzle Galaxy: Space & Steam - 28 new puzzles"
+        },
+        {
+            "id": "01007100188FF002",
+            "name": "Puzzle Galaxy: Cuteness Overload - 22 new puzzles"
+        },
+        {
+            "id": "01007100188FF003",
+            "name": "Puzzle Galaxy: Animal Album - 54 new puzzles"
+        },
+        {
+            "id": "01007100188FF004",
+            "name": "Puzzle Galaxy: Beautiful Views - 36 new puzzles"
+        }
+    ],
     "latest": 131072,
     "title": "Puzzle Galaxy"
 }

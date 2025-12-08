@@ -3,7 +3,16 @@
     "131072": "C848E81CC0719B4F",
     "196608": "59FDEC2DF3DFFE4A",
     "65536": "6A3E02D91948EC42",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010043B013C5D001",
+            "name": "Legendary Threads Set"
+        },
+        {
+            "id": "010043B013C5D002",
+            "name": "Reapers' Game Survival Set"
+        }
+    ],
     "latest": 196608,
     "title": "NEO: The World Ends with You"
 }

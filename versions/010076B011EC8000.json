@@ -1,7 +1,28 @@
 {
     "0": "3B88D3AC44353D47",
     "65536": "6FECB69EAE95384A",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010076B011EC9001",
+            "name": "Baila Latino Bonus Pack"
+        },
+        {
+            "id": "010076B011EC9002",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010076B011EC9003",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010076B011EC9004",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010076B011EC9005",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 65536,
     "title": "Baila Latino"
 }

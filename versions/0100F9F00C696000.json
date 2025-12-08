@@ -11,7 +11,40 @@
     "851968": "DFCFAFF44673EF2B",
     "917504": "47E60871471F1CE9",
     "983040": "1C68951840693051",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100F9F00C697001",
+            "name": "Crash\u2122 Team Racing Nitro-Fueled - Nitros Oxide Edition Content"
+        },
+        {
+            "id": "0100F9F00C697002",
+            "name": "Crash\u2122 Team Racing Nitro-Fueled - Electron Skins Pack"
+        },
+        {
+            "id": "0100F9F00C697003",
+            "name": "Crash\u2122 Team Racing Nitro-Fueled - The Firehawk Kart"
+        },
+        {
+            "id": "0100F9F00C697004",
+            "name": "Crash\u2122 Team Racing Nitro-Fueled - Cove Cruiser Kart Body & Tropic Swirl Decal"
+        },
+        {
+            "id": "0100F9F00C697005",
+            "name": "Crash\u2122 Team Racing Nitro-Fueled - Gummy Grinder Wheels"
+        },
+        {
+            "id": "0100F9F00C697006",
+            "name": "Crash\u2122 Team Racing Nitro-Fueled - Mint Burst Paint Job"
+        },
+        {
+            "id": "0100F9F00C697007",
+            "name": "Crash\u2122 Team Racing Nitro-Fueled - Sour Patch Kids Sticker Pack"
+        },
+        {
+            "id": "0100F9F00C697008",
+            "name": "Crash\u2122 Team Racing Nitro-Fueled - Xfinity Flash Kart"
+        }
+    ],
     "latest": 983040,
     "title": "Crash\u2122 Team Racing Nitro-Fueled"
 }

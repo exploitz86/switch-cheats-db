@@ -7,7 +7,24 @@
     "393216": "7179A4BD112B6C65",
     "458752": "095B8BF19189F1A0",
     "65536": "58D659D1017E8350",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01000B900D8B1001",
+            "name": "Cadence of Hyrule Character Pack"
+        },
+        {
+            "id": "01000B900D8B1002",
+            "name": "Cadence of Hyrule Melody Pack"
+        },
+        {
+            "id": "01000B900D8B1003",
+            "name": "Cadence of Hyrule Symphony of the Mask"
+        },
+        {
+            "id": "01000B900D8B1004",
+            "name": "Season Pass Bonus Items"
+        }
+    ],
     "latest": 458752,
     "title": "Cadence of Hyrule: Crypt of the NecroDancer featuring The Legend of Zelda"
 }

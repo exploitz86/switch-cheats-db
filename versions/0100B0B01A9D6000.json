@@ -1,6 +1,11 @@
 {
     "0": "96EC517C098CF48C",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100B0B01A9D7001",
+            "name": "LOUD: My Trip to Japan"
+        }
+    ],
     "latest": 0,
     "title": "LOUD: My Road to Fame"
 }

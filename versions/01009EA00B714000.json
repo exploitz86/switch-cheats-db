@@ -14,7 +14,20 @@
     "786432": "E807E56DB799DA40",
     "851968": "FC03E9C290B99944",
     "983040": "C4155F1414558E45",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01009EA00B7152BD",
+            "name": "Horizon Chase Turbo - Summer Vibes"
+        },
+        {
+            "id": "01009EA00B7152BE",
+            "name": "Horizon Chase Turbo - Rookie Series"
+        },
+        {
+            "id": "01009EA00B7152BF",
+            "name": "Horizon Chase Turbo - Senna Forever  (DIGITAL VERSION)"
+        }
+    ],
     "latest": 1572864,
     "title": "Horizon Chase Turbo"
 }

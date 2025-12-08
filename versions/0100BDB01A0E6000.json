@@ -5,7 +5,52 @@
     "262144": "58636D33E56B931B",
     "327680": "9C33602289E55F7A",
     "65536": "6B6D4D60E3187FFC",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100BDB01A0E7002",
+            "name": "EA SPORTS FC\u2122 24 In-Game Commentary - Arabic"
+        },
+        {
+            "id": "0100BDB01A0E7003",
+            "name": "EA SPORTS FC\u2122 24 In-Game Commentary - Simplified Chinese"
+        },
+        {
+            "id": "0100BDB01A0E7004",
+            "name": "EA SPORTS FC\u2122 24 In-Game Commentary - Dutch"
+        },
+        {
+            "id": "0100BDB01A0E7005",
+            "name": "EA SPORTS FC\u2122 24 In-Game Commentary - German"
+        },
+        {
+            "id": "0100BDB01A0E7006",
+            "name": "EA SPORTS FC\u2122 24 In-Game Commentary - Italian"
+        },
+        {
+            "id": "0100BDB01A0E7007",
+            "name": "EA SPORTS FC\u2122 24 In-Game Commentary - Japanese"
+        },
+        {
+            "id": "0100BDB01A0E7008",
+            "name": "EA SPORTS FC\u2122 24 In-Game Commentary - Polish"
+        },
+        {
+            "id": "0100BDB01A0E7009",
+            "name": "EA SPORTS FC\u2122 24 In-Game Commentary - Brazilian Portuguese"
+        },
+        {
+            "id": "0100BDB01A0E700A",
+            "name": "EA SPORTS FC\u2122 24 In-Game Commentary - Russian"
+        },
+        {
+            "id": "0100BDB01A0E700B",
+            "name": "EA SPORTS FC\u2122 24 In-Game Commentary - Spanish"
+        },
+        {
+            "id": "0100BDB01A0E700C",
+            "name": "EA SPORTS FC\u2122 24 In-Game Commentary - Latin American Spanish"
+        }
+    ],
     "latest": 1572864,
     "title": "EA SPORTS FC\u2122 24"
 }

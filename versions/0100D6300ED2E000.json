@@ -3,7 +3,12 @@
     "131072": "6E0CB43354D0C21D",
     "196608": "002C89CAF2670B66",
     "65536": "C36B2AB2037D9378",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100D6300ED2F001",
+            "name": "Gleaner Heights: Season 2"
+        }
+    ],
     "latest": 196608,
     "title": "Gleaner Heights"
 }

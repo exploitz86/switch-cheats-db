@@ -1,7 +1,20 @@
 {
     "0": "85BE710C076DF4C5",
     "131072": "15A7F8C05037EBE9",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010006F01B909001",
+            "name": "Cleaning Yui"
+        },
+        {
+            "id": "010006F01B909002",
+            "name": "Waiting Shirayuki"
+        },
+        {
+            "id": "010006F01B909003",
+            "name": "Playful Etsuko"
+        }
+    ],
     "latest": 131072,
     "title": "Hentai Girls"
 }

@@ -4,7 +4,24 @@
     "196608": "7EA2F0B9D24E4212",
     "262144": "BE19192AEE3D84D9",
     "720896": "4BC0DBD6EF14ECF5",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010046B00DE63001",
+            "name": "Skullgirls: Annie"
+        },
+        {
+            "id": "010046B00DE63002",
+            "name": "Season 1 Pass Extras"
+        },
+        {
+            "id": "010046B00DE63003",
+            "name": "Skullgirls: Umbrella"
+        },
+        {
+            "id": "010046B00DE63004",
+            "name": "Skullgirls: Black Dahlia"
+        }
+    ],
     "latest": 720896,
     "title": "Skullgirls 2nd Encore"
 }

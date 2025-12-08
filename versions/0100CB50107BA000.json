@@ -8,7 +8,28 @@
     "458752": "C26E85D964319540",
     "524288": "8D94D7CA2A09FF5D",
     "65536": "1012F8CA262F3B41",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100CB50107BB001",
+            "name": "Truck Driver - Hidden Places & Damage System DLC"
+        },
+        {
+            "id": "0100CB50107BB002",
+            "name": "Truck Driver - USA Paint Jobs DLC"
+        },
+        {
+            "id": "0100CB50107BB003",
+            "name": "Truck Driver - French Paint Jobs DLC"
+        },
+        {
+            "id": "0100CB50107BB004",
+            "name": "Truck Driver - German Paint Jobs DLC"
+        },
+        {
+            "id": "0100CB50107BB005",
+            "name": "Truck Driver - UK Paint Jobs DLC"
+        }
+    ],
     "latest": 524288,
     "title": "Truck Driver"
 }

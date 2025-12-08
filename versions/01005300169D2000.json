@@ -8,7 +8,12 @@
     "589824": "935B1CFCB92EEC4D",
     "65536": "C579E3E758338E47",
     "655360": "021122772D4EB04D",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01005300169D3001",
+            "name": "Castle Morihisa: New Class - Miko"
+        }
+    ],
     "latest": 655360,
     "title": "Castle Morihisa"
 }

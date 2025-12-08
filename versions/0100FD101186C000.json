@@ -1,7 +1,12 @@
 {
     "0": "B0B75A7E0B7C50DD",
     "65536": "BF0088C59D7E97C0",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100FD101186D004",
+            "name": "Arcadia Bay Patches and Mascot Bundle"
+        }
+    ],
     "latest": 65536,
     "title": "Life is Strange 2"
 }

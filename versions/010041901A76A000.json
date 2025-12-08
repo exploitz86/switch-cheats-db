@@ -3,7 +3,28 @@
     "131072": "E1C45E18662B1552",
     "196608": "D5E8B168A3F2B4E6",
     "65536": "B7DCB6CBB530C1C4",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010041901A76B001",
+            "name": "Commemorative Launch Pack"
+        },
+        {
+            "id": "010041901A76B002",
+            "name": "Sky Day! Variety Pack"
+        },
+        {
+            "id": "010041901A76B003",
+            "name": "High Difficulty Pack"
+        },
+        {
+            "id": "010041901A76B004",
+            "name": "Short Scenario Pack"
+        },
+        {
+            "id": "010041901A76B005",
+            "name": "Special Mission Pack"
+        }
+    ],
     "latest": 196608,
     "title": "I am an Air Traffic Controller - AIRPORT HERO HANEDA"
 }

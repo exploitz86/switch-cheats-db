@@ -1,6 +1,11 @@
 {
     "0": "6D863B684DB5BD73",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010031D00A605001",
+            "name": "Songbringer: The Trial Of Ren"
+        }
+    ],
     "latest": 0,
     "title": "Songbringer"
 }

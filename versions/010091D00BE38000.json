@@ -1,7 +1,12 @@
 {
     "0": "EE9AD3931696DB04",
     "65536": "4A78D2BCEAC0EA03",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010091D00BE39001",
+            "name": "The Binding of Isaac Pack"
+        }
+    ],
     "latest": 65536,
     "title": "Rock of Ages 2: Bigger & Boulder\u2122"
 }

@@ -3,7 +3,12 @@
     "131072": "D93B71774AF877C0",
     "196608": "B8ECCFB09884E0DC",
     "65536": "EFA4381E49D67DDC",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01006FF017867001",
+            "name": "Serial Cleaners - Dino Park"
+        }
+    ],
     "latest": 196608,
     "title": "Serial Cleaners"
 }

@@ -8,7 +8,16 @@
     "524288": "F6AEAD8E7B967342",
     "655360": "E137EF110988444F",
     "720896": "0764284443A86245",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100CAE00EB03001",
+            "name": "House Flipper: Garden DLC"
+        },
+        {
+            "id": "0100CAE00EB03002",
+            "name": "House Flipper: Pets DLC"
+        }
+    ],
     "latest": 720896,
     "title": "House Flipper"
 }

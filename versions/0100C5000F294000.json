@@ -13,7 +13,44 @@
     "720896": "6B72A6C2232DC221",
     "786432": "6AF54B31D95CA513",
     "851968": "E0FFEC4F78A1F7AF",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100C5000F295001",
+            "name": "Blazing Deserts"
+        },
+        {
+            "id": "0100C5000F295002",
+            "name": "Support the Developers - Southern Banner"
+        },
+        {
+            "id": "0100C5000F295003",
+            "name": "Beasts & Exploration"
+        },
+        {
+            "id": "0100C5000F295004",
+            "name": "Support the Developers - Kraken Banner"
+        },
+        {
+            "id": "0100C5000F295005",
+            "name": "Warriors of the North"
+        },
+        {
+            "id": "0100C5000F295006",
+            "name": "Support the Developers - Nordic Banner"
+        },
+        {
+            "id": "0100C5000F295007",
+            "name": "Lindwurm"
+        },
+        {
+            "id": "0100C5000F295008",
+            "name": "Support the Developers - Fangshire Helm"
+        },
+        {
+            "id": "0100C5000F295009",
+            "name": "Of Flesh and Faith"
+        }
+    ],
     "latest": 851968,
     "title": "Battle Brothers \u2013 A Turn Based Tactical RPG"
 }

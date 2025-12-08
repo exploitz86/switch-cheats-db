@@ -16,7 +16,12 @@
     "851968": "4C30D9416ADDF740",
     "917504": "E777AFB4084D1546",
     "983040": "1D62A5B2692A3540",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100A3E010E57001",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 1048576,
     "title": "A-Train: All Aboard! Tourism Nintendo Switch 2 Edition"
 }

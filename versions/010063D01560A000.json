@@ -1,7 +1,32 @@
 {
     "0": "D6000138D9555C49",
     "65536": "D6000138D9555C49",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010063D01560B001",
+            "name": "Super Chow"
+        },
+        {
+            "id": "010063D01560B002",
+            "name": "Old Friend R"
+        },
+        {
+            "id": "010063D01560B004",
+            "name": "NS Spark Gun"
+        },
+        {
+            "id": "010063D01560B005",
+            "name": "Amazon Typhoon"
+        },
+        {
+            "id": "010063D01560B006",
+            "name": "Pochi Gun: Shrimp Flavor"
+        },
+        {
+            "id": "010063D01560B007",
+            "name": "Gatling Fang"
+        }
+    ],
     "latest": 65536,
     "title": "METAL MAX Xeno Reborn"
 }

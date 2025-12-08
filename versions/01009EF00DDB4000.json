@@ -7,7 +7,16 @@
     "393216": "510C3C0DAA01416E",
     "458752": "138C3FEDE064B509",
     "65536": "A860762D90D75858",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01009EF00DDB5001",
+            "name": "Knockout City\u2122 Standard Edition"
+        },
+        {
+            "id": "01009EF00DDB5002",
+            "name": "Knockout City\u2122 Deluxe Upgrade"
+        }
+    ],
     "latest": 458752,
     "title": "Knockout City\u2122"
 }

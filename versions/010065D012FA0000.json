@@ -1,7 +1,32 @@
 {
     "0": "F7DF08344ECA8B61",
     "65536": "C403B87FCDAD7604",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010065D012FA1001",
+            "name": "Shiranui's Prized Goods Release Sale"
+        },
+        {
+            "id": "010065D012FA1002",
+            "name": "Operation EXP Boost"
+        },
+        {
+            "id": "010065D012FA1003",
+            "name": "Neptune (Swimsuit)"
+        },
+        {
+            "id": "010065D012FA1007",
+            "name": "Roon Episode"
+        },
+        {
+            "id": "010065D012FA1008",
+            "name": "Le Malin Episode"
+        },
+        {
+            "id": "010065D012FA1009",
+            "name": "Sirius Episode"
+        }
+    ],
     "latest": 65536,
     "title": "Azur Lane: Crosswave"
 }

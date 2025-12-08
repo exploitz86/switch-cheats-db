@@ -3,7 +3,28 @@
     "131072": "4F1607935E4D427F",
     "196608": "A01F00459079D11E",
     "65536": "4F1607935E4D427F",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010046C01A75B001",
+            "name": "Sayuri"
+        },
+        {
+            "id": "010046C01A75B002",
+            "name": "Chiyo"
+        },
+        {
+            "id": "010046C01A75B003",
+            "name": "Kitty Rose"
+        },
+        {
+            "id": "010046C01A75B004",
+            "name": "Puppy Nanami"
+        },
+        {
+            "id": "010046C01A75B005",
+            "name": "Foxy Akane"
+        }
+    ],
     "latest": 196608,
     "title": "Hentai World"
 }

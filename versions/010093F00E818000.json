@@ -9,7 +9,20 @@
     "524288": "20C15B325C2B134E",
     "589824": "4EB72DF6FCA10346",
     "655360": "85CF77C5510B344F",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010093F00E819001",
+            "name": "Tools Up! Garden Party - Episode 1: The Tree House"
+        },
+        {
+            "id": "010093F00E819002",
+            "name": "Tools Up! Garden Party - Episode 2: Tunnel Vision"
+        },
+        {
+            "id": "010093F00E819003",
+            "name": "Tools Up! Garden Party - Episode 3: Home Sweet Home"
+        }
+    ],
     "latest": 655360,
     "title": "Tools Up!"
 }

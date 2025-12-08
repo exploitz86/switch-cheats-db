@@ -2,7 +2,16 @@
     "0": "E55DF731925B7591",
     "131072": "E0E9D0429A2458E1",
     "65536": "D57C41787DD101E8",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010051B0131F1001",
+            "name": "Inverse Truck Pack"
+        },
+        {
+            "id": "010051B0131F1002",
+            "name": "Inverse Higher Education"
+        }
+    ],
     "latest": 131072,
     "title": "Monster Jam Steel Titans 2"
 }

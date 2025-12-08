@@ -7,7 +7,16 @@
     "393216": "B11B58ABC9FD5C4F",
     "458752": "E78902E11BF1FA47",
     "65536": "53DC008753316644",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010023901191D001",
+            "name": "The Dungeon of Naheulbeuk: The Amulet of Chaos - Chicken Edition DLC: Splat Jaypak's Arenas"
+        },
+        {
+            "id": "010023901191D002",
+            "name": "The Dungeon of Naheulbeuk: The Amulet of Chaos - Back to the futon"
+        }
+    ],
     "latest": 458752,
     "title": "The Dungeon of Naheulbeuk: The Amulet of Chaos - Chicken Edition"
 }

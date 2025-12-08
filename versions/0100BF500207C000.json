@@ -13,7 +13,12 @@
     "720896": "12E0B62494B22F62",
     "786432": "E380EB35262B4F9C",
     "851968": "461B14E505AB9555",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100BF500207D001",
+            "name": "Bloodstained: Iga's Back Pack"
+        }
+    ],
     "latest": 851968,
     "title": "Bloodstained: Ritual of the Night"
 }

@@ -4,7 +4,12 @@
     "327680": "1D9E9C72A6106523",
     "393216": "79EFBECB5E81943A",
     "458752": "F1162EBD37C8F56A",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100B1900F0B7001",
+            "name": "Add Day Stage"
+        }
+    ],
     "latest": 458752,
     "title": "The Legend of Dark Witch"
 }

@@ -1,5 +1,46 @@
 {
     "65536": "25E2A9F5DE6AA847",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100C39012E2B001",
+            "name": "Voice of Cards: The Forsaken Maiden 2B Avatar"
+        },
+        {
+            "id": "0100C39012E2B002",
+            "name": "Voice of Cards: The Forsaken Maiden YoRHa Emblem"
+        },
+        {
+            "id": "0100C39012E2B003",
+            "name": "Voice of Cards: The Forsaken Maiden The Copied City Board"
+        },
+        {
+            "id": "0100C39012E2B004",
+            "name": "Voice of Cards: The Forsaken Maiden Machine Lifeform Table"
+        },
+        {
+            "id": "0100C39012E2B005",
+            "name": "Voice of Cards: The Forsaken Maiden Puppets' Costume"
+        },
+        {
+            "id": "0100C39012E2B006",
+            "name": "Voice of Cards: The Forsaken Maiden Pixel Art Set"
+        },
+        {
+            "id": "0100C39012E2B007",
+            "name": "Voice of Cards: The Forsaken Maiden Automata Dice"
+        },
+        {
+            "id": "0100C39012E2B008",
+            "name": "Voice of Cards: The Forsaken Maiden Resistance Jukebox"
+        },
+        {
+            "id": "0100C39012E2B00A",
+            "name": "Voice of Cards: The Forsaken Maiden Ocean Tile Table"
+        },
+        {
+            "id": "0100C39012E2B00B",
+            "name": "Voice of Cards: The Forsaken Maiden Whale of Fortune Pattern"
+        }
+    ],
     "latest": 65536
 }

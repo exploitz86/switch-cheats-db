@@ -1,7 +1,16 @@
 {
     "0": "4DDDF05AD1F48363",
     "65536": "C03C9F6A862543F9",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010051D00E3A5001",
+            "name": "Another Episode Pack"
+        },
+        {
+            "id": "010051D00E3A500D",
+            "name": "Swimsuit Day"
+        }
+    ],
     "latest": 65536,
     "title": "Rune Factory 4 Special"
 }

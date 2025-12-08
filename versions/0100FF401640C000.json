@@ -6,7 +6,12 @@
     "327680": "0AEA330D4DA7938F",
     "393216": "1895BF45EF8A5661",
     "65536": "8607EE7363BC53E4",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100FF401640D001",
+            "name": "Gerda: A Flame in Winter - Liva's Story"
+        }
+    ],
     "latest": 393216,
     "title": "Gerda: A Flame in Winter"
 }

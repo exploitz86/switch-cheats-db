@@ -2,7 +2,20 @@
     "0": "C2885CB8822FA66E",
     "131072": "C4F08EE1024F4CF9",
     "65536": "0910E6003A48DFF2",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010027B01B997001",
+            "name": "Aquapark io: Sweet and Spooky DLC"
+        },
+        {
+            "id": "010027B01B997002",
+            "name": "Aquapark io: Movie Stars DLC"
+        },
+        {
+            "id": "010027B01B997003",
+            "name": "Aquapark io: Animals DLC"
+        }
+    ],
     "latest": 131072,
     "title": "Aquapark io"
 }

@@ -2,7 +2,16 @@
     "0": "91A185977872841B",
     "131072": "23DE09333E8A3EE2",
     "65536": "D79B733E95470DE5",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01002FC00412D001",
+            "name": "Little Nightmares - Fox Mask"
+        },
+        {
+            "id": "01002FC00412D002",
+            "name": "Little Nightmares - Tengu Mask"
+        }
+    ],
     "latest": 131072,
     "title": "Little Nightmares Complete Edition"
 }

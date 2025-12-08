@@ -11,7 +11,20 @@
     "65536": "29CCA88A99029547",
     "655360": "EC2B596B53150444",
     "720896": "14961BC5E710BD48",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100C67015077001",
+            "name": "Legend of Keepers: Return of the Goddess"
+        },
+        {
+            "id": "0100C67015077002",
+            "name": "Legend of Keepers: Feed the Troll"
+        },
+        {
+            "id": "0100C67015077003",
+            "name": "Legend of Keepers: Soul Smugglers"
+        }
+    ],
     "latest": 720896,
     "title": "Legend of Keepers: Career of a Dungeon Manager"
 }

@@ -4,7 +4,20 @@
     "196608": "477552E7DB5B7BBF",
     "327680": "6C95960EABAC75CB",
     "65536": "ED6E289266FFC354",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100EB10108EB001",
+            "name": "Battle Gear: G.I. Joe & Cobra Weapons Pack"
+        },
+        {
+            "id": "0100EB10108EB002",
+            "name": "Classic Duke & Classic Cobra Commander Character Pack"
+        },
+        {
+            "id": "0100EB10108EB003",
+            "name": "Digital Art Book & Soundtrack"
+        }
+    ],
     "latest": 327680,
     "title": "G.I. Joe: Operation Blackout"
 }

@@ -1,6 +1,11 @@
 {
     "65536": "448C08A9533F3CAD",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100DFC00E473001",
+            "name": "Earthfall\u2122 Hazmat Pack"
+        }
+    ],
     "latest": 65536,
     "title": "Earthfall: Alien Horde"
 }

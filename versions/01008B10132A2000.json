@@ -3,7 +3,12 @@
     "131072": "273444FF436F6F4F",
     "196608": "D29E87925037C647",
     "65536": "304F56EBB5C9DB4C",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01008B10132A3001",
+            "name": "Taiko No Tatsujin Collaboration Collection"
+        }
+    ],
     "latest": 196608,
     "title": "DEEMO -Reborn-"
 }

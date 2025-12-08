@@ -1,7 +1,88 @@
 {
     "0": "018D38B51526AB2E",
     "65536": "ABB6D79D34F721BC",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010020700E2A300B",
+            "name": "Disaster Report 4 - Ninja Costume"
+        },
+        {
+            "id": "010020700E2A300C",
+            "name": "Disaster Report 4 - Police Uniform"
+        },
+        {
+            "id": "010020700E2A300D",
+            "name": "Disaster Report 4 - Video Rental Shop Staff Uniform"
+        },
+        {
+            "id": "010020700E2A300E",
+            "name": "Disaster Report 4 - School Uniform"
+        },
+        {
+            "id": "010020700E2A300F",
+            "name": "Disaster Report 4 - Disaster Curry T-shirt and Cap"
+        },
+        {
+            "id": "010020700E2A3010",
+            "name": "Disaster Report 4 - Hero Costume"
+        },
+        {
+            "id": "010020700E2A3011",
+            "name": "Disaster Report 4 - Samurai & Town Maiden Costume"
+        },
+        {
+            "id": "010020700E2A3012",
+            "name": "Disaster Report 4 - Cowboy Costume"
+        },
+        {
+            "id": "010020700E2A3013",
+            "name": "Disaster Report 4 - Swimsuit Outfit"
+        },
+        {
+            "id": "010020700E2A3014",
+            "name": "Disaster Report 4 - Baseball Uniform"
+        },
+        {
+            "id": "010020700E2A3015",
+            "name": "Disaster Report 4 - Maid Costume"
+        },
+        {
+            "id": "010020700E2A3016",
+            "name": "Disaster Report 4 - Disaster Report 4 T-shirt"
+        },
+        {
+            "id": "010020700E2A3017",
+            "name": "Disaster Report 4 - Leotard Outfit"
+        },
+        {
+            "id": "010020700E2A3018",
+            "name": "Disaster Report 4 - Santa Costume"
+        },
+        {
+            "id": "010020700E2A3019",
+            "name": "Disaster Report 4 - Space Fighter Pilot Suit"
+        },
+        {
+            "id": "010020700E2A301A",
+            "name": "Disaster Report 4 - Fishmonger Costume"
+        },
+        {
+            "id": "010020700E2A301B",
+            "name": "Disaster Report 4 - Hunting Cap and Jacket"
+        },
+        {
+            "id": "010020700E2A301C",
+            "name": "Disaster Report 4 - Judo Black Belt Outfit"
+        },
+        {
+            "id": "010020700E2A301D",
+            "name": "Disaster Report 4 - Competitive Swimsuit"
+        },
+        {
+            "id": "010020700E2A301E",
+            "name": "Disaster Report 4 - Embroidered Dragon Satin Jacket"
+        }
+    ],
     "latest": 65536,
     "title": "Disaster Report 4: Summer Memories"
 }

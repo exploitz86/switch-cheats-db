@@ -4,7 +4,12 @@
     "196608": "89047273AD666FC2",
     "262144": "89047273AD666FC2",
     "65536": "75A833C821E22079",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100AA0019CA5001",
+            "name": "Variety Uniform Pack"
+        }
+    ],
     "latest": 262144,
     "title": "Desktop Soccer 2"
 }

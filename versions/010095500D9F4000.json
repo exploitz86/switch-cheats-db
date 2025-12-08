@@ -14,7 +14,12 @@
     "786432": "F39EE9F52882FE7E",
     "917504": "DD1D27C28F7F4CF2",
     "983040": "E78428428F118D66",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010095500D9F5001",
+            "name": "Quest Hunter - Strangewood"
+        }
+    ],
     "latest": 983040,
     "title": "Quest Hunter"
 }

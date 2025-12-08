@@ -5,7 +5,80 @@
     "262144": "896E8234A3961B45",
     "327680": "243D8A7B7E83FF43",
     "393216": "66B179679A41454A",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100073011383001",
+            "name": "Fitness Boxing 2: Rhythm & Exercise No Mercy intensity: Lin"
+        },
+        {
+            "id": "0100073011383002",
+            "name": "Fitness Boxing 2: Rhythm & Exercise No Mercy intensity: Sophie"
+        },
+        {
+            "id": "0100073011383003",
+            "name": "Fitness Boxing 2: Rhythm & Exercise No Mercy intensity: Martina"
+        },
+        {
+            "id": "0100073011383004",
+            "name": "Fitness Boxing 2: Rhythm & Exercise No Mercy intensity: Laura"
+        },
+        {
+            "id": "0100073011383005",
+            "name": "Fitness Boxing 2: Rhythm & Exercise No Mercy intensity: Bernardo"
+        },
+        {
+            "id": "0100073011383006",
+            "name": "Fitness Boxing 2: Rhythm & Exercise No Mercy intensity: Evan"
+        },
+        {
+            "id": "0100073011383007",
+            "name": "Fitness Boxing 2: Rhythm & Exercise No Mercy intensity: Karen"
+        },
+        {
+            "id": "0100073011383008",
+            "name": "Fitness Boxing 2: Rhythm & Exercise No Mercy intensity: Janice"
+        },
+        {
+            "id": "0100073011383009",
+            "name": "Fitness Boxing 2: Rhythm & Exercise No Mercy intensity: Hiro"
+        },
+        {
+            "id": "010007301138300F",
+            "name": "Fitness Boxing 2: Musical Journey"
+        },
+        {
+            "id": "0100073011383010",
+            "name": "Fitness Boxing 2: Instructor Tunes"
+        },
+        {
+            "id": "0100073011383011",
+            "name": "Fitness Boxing 2: EDM Workout"
+        },
+        {
+            "id": "0100073011383012",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100073011383013",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100073011383014",
+            "name": "Fitness Boxing 2: Rock Workout"
+        },
+        {
+            "id": "0100073011383015",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100073011383016",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100073011383020",
+            "name": "Fitness Boxing 2: Nature Stages"
+        }
+    ],
     "latest": 393216,
     "title": "Fitness Boxing 2: Rhythm & Exercise"
 }

@@ -3,7 +3,12 @@
     "196608": "8E545D7ED6B12444",
     "262144": "15DDF34267EB69EA",
     "65536": "8E545D7ED6B12444",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010034800FB61001",
+            "name": "Spaceland: New Adventures"
+        }
+    ],
     "latest": 262144,
     "title": "Spaceland"
 }

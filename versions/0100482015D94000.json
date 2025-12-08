@@ -15,7 +15,32 @@
     "786432": "9A182385D3082347",
     "917504": "9ADFBABE07342C26",
     "983040": "A784FC36305B067C",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100482015D95001",
+            "name": "Concordia: Digital Edition - Salsa"
+        },
+        {
+            "id": "0100482015D95002",
+            "name": "Concordia: Digital Edition - Britannia & Germania"
+        },
+        {
+            "id": "0100482015D95003",
+            "name": "Concordia: Digital Edition - Corsica & Gallia"
+        },
+        {
+            "id": "0100482015D95004",
+            "name": "Concordia: Digital Edition - Aegyptus & Creta"
+        },
+        {
+            "id": "0100482015D95005",
+            "name": "Concordia: Digital Edition - Venus"
+        },
+        {
+            "id": "0100482015D95006",
+            "name": "Concordia: Digital Edition - Fish Market"
+        }
+    ],
     "latest": 1048576,
     "title": "Concordia: Digital Edition"
 }

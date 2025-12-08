@@ -13,7 +13,12 @@
     "655360": "67D2A7669D3C7FE6",
     "786432": "2E0A27D157E85FAB",
     "851968": "C8E9F6129997A1CC",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010057C01330B001",
+            "name": "Bonfire Peaks Lost Memories"
+        }
+    ],
     "latest": 1179648,
     "title": "Bonfire Peaks"
 }

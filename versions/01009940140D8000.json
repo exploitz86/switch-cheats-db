@@ -4,7 +4,16 @@
     "196608": "4D2E79BB971AE654",
     "262144": "644C94A65443621C",
     "65536": "4D2E79BB971AE654",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01009940140D9001",
+            "name": "Mail Mole: Mystery Mansion"
+        },
+        {
+            "id": "01009940140D9002",
+            "name": "Mail Mole: The Lost Presents"
+        }
+    ],
     "latest": 262144,
     "title": "Mail Mole + 'Xpress Deliveries"
 }

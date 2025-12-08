@@ -1,7 +1,32 @@
 {
     "0": "A404B0BB73FC39D9",
     "196608": "A72CF2391C0B7D78",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010009000AC2B001",
+            "name": "Additional scenario 1"
+        },
+        {
+            "id": "010009000AC2B002",
+            "name": "Additional scenario 2"
+        },
+        {
+            "id": "010009000AC2B003",
+            "name": "Additional scenario 3"
+        },
+        {
+            "id": "010009000AC2B004",
+            "name": "Additional scenario 4"
+        },
+        {
+            "id": "010009000AC2B005",
+            "name": "Additional scenario 5"
+        },
+        {
+            "id": "010009000AC2B006",
+            "name": "Additional scenario 6"
+        }
+    ],
     "latest": 196608,
     "title": "Pure / Electric Love \"Look at my eyes!\" - Moe Yamauchi -"
 }

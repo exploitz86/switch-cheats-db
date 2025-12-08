@@ -1,7 +1,28 @@
 {
     "0": "286C120485E9294E",
     "65536": "A6A7A25999E60B14",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100B7F015BF3001",
+            "name": "Experience x3 - Asdivine Saga"
+        },
+        {
+            "id": "0100B7F015BF3002",
+            "name": "SP x3 - Asdivine Saga"
+        },
+        {
+            "id": "0100B7F015BF3003",
+            "name": "Experience & SP x2 - Asdivine Saga"
+        },
+        {
+            "id": "0100B7F015BF3004",
+            "name": "Damage x2 - Asdivine Saga"
+        },
+        {
+            "id": "0100B7F015BF3005",
+            "name": "Full Restore - Asdivine Saga"
+        }
+    ],
     "latest": 65536,
     "title": "Asdivine Saga"
 }

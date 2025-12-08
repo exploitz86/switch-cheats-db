@@ -2,7 +2,16 @@
     "0": "40D68B62A39E4B9C",
     "131072": "7ABA2AE9797D086C",
     "65536": "DDFA8E3505CF47BA",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100BA501AD8B001",
+            "name": "Mystical Mixing: Wand and frog"
+        },
+        {
+            "id": "0100BA501AD8B002",
+            "name": "Mystical Mixing: Arcane ingredients"
+        }
+    ],
     "latest": 131072,
     "title": "Mystical Mixing"
 }

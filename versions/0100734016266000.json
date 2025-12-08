@@ -2,7 +2,28 @@
     "0": "5F349251584C483C",
     "131072": "DA93E82DBB8374FE",
     "196608": "0B81857A129ED830",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100734016267001",
+            "name": "Custom PET Pack Vol.2"
+        },
+        {
+            "id": "0100734016267002",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100734016267003",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100734016267004",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100734016267005",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 196608,
     "title": "Mega Man Battle Network Legacy Collection Vol. 2"
 }

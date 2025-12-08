@@ -7,7 +7,12 @@
     "458752": "D32733EC810E6042",
     "524288": "AB67AF56A9D98348",
     "65536": "382C13C67356D348",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100698009C6F001",
+            "name": "Blasphemous - The Golden Burden"
+        }
+    ],
     "latest": 524288,
     "title": "Blasphemous"
 }

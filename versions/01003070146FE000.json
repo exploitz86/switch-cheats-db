@@ -6,7 +6,12 @@
     "327680": "3614F40345BDBDAA",
     "393216": "2A4E4A1D261AE00C",
     "65536": "9A318D7FC3DD902F",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01003070146FF001",
+            "name": "Astria Ascending - Cosmetic Weapon Set"
+        }
+    ],
     "latest": 393216,
     "title": "Astria Ascending"
 }

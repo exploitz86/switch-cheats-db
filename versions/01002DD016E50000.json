@@ -5,7 +5,12 @@
     "262144": "EB37AB08EC440D13",
     "327680": "D7E1B0EB354A82DF",
     "65536": "1FF8B9516C232386",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01002DD016E51001",
+            "name": "Exclusive new illustrations & music remixes"
+        }
+    ],
     "latest": 327680,
     "title": "Capcom Fighting Collection"
 }

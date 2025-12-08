@@ -5,7 +5,56 @@
     "393216": "0345ED582A7C2C51",
     "458752": "A84EE77C0ADE71C4",
     "524288": "D59D81C06F923846",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100437004171001",
+            "name": "Portal Knights - Portal Pioneer Pack"
+        },
+        {
+            "id": "0100437004171002",
+            "name": "Portal Knights - Gold Throne Pack"
+        },
+        {
+            "id": "0100437004171003",
+            "name": "Portal Knights - Bibot Box"
+        },
+        {
+            "id": "0100437004171004",
+            "name": "Portal Knights -Lobot Box"
+        },
+        {
+            "id": "0100437004171005",
+            "name": "Portal Knights -Emoji Box"
+        },
+        {
+            "id": "0100437004171006",
+            "name": "Portal Knights - Forest Animals Box"
+        },
+        {
+            "id": "0100437004171007",
+            "name": "Portal Knights -Box of Fantastic Headwear"
+        },
+        {
+            "id": "0100437004171008",
+            "name": "Portal Knights - Box of Joyful Rings"
+        },
+        {
+            "id": "0100437004171009",
+            "name": "Portal Knights - Box of Grumpy Rings"
+        },
+        {
+            "id": "010043700417100A",
+            "name": "Portal Knights - Elves, Rogues, and Rifts"
+        },
+        {
+            "id": "010043700417100B",
+            "name": "Portal Knights - Weddings and Galas"
+        },
+        {
+            "id": "010043700417100C",
+            "name": "Portal Knights - Druids, Furfolk, and Relic Defense"
+        }
+    ],
     "latest": 524288,
     "title": "Portal Knights"
 }

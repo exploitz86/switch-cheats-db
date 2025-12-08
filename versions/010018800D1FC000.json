@@ -1,7 +1,12 @@
 {
     "0": "77A24A3F689218A3",
     "196608": "62D494ABC3E7A4B1",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010018800D1FD001",
+            "name": "Truck Racing - Indianapolis Motor Speedway"
+        }
+    ],
     "latest": 196608,
     "title": "Truck Racing Championship"
 }

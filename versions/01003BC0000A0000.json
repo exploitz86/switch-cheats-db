@@ -14,7 +14,28 @@
     "3211264": "1729DD426870976B",
     "3276800": "03DCAD95E1AC6430",
     "3342336": "592C7051A4E62056",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01003BC0000A1001",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01003BC0000A1002",
+            "name": "My Nintendo Gear Set"
+        },
+        {
+            "id": "01003BC0000A1005",
+            "name": "Splatoon\u2122 2  - Nintendo Switch Online Special Gear"
+        },
+        {
+            "id": "01003BC0000A1064",
+            "name": "Bonus Octo-themed Gear"
+        },
+        {
+            "id": "01003BC0000A1065",
+            "name": "Splatoon\u2122 2: Octo Expansion"
+        }
+    ],
     "latest": 3342336,
     "title": "Splatoon\u2122 2 + Nintendo Switch Online Individual Membership (12 Months)"
 }

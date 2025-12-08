@@ -8,7 +8,24 @@
     "524288": "6CCB45D573F99A42",
     "589824": "5D2E2D044B203A41",
     "655360": "DFEF66B1FAE25F4C",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100B110109F9001",
+            "name": "Urban Flow - Expansion Pack"
+        },
+        {
+            "id": "0100B110109F9002",
+            "name": "Urban Flow - Winter Expansion Pack"
+        },
+        {
+            "id": "0100B110109F9003",
+            "name": "Urban Flow - London Rules"
+        },
+        {
+            "id": "0100B110109F9004",
+            "name": "Urban Flow - Streets Supplement"
+        }
+    ],
     "latest": 655360,
     "title": "Urban Flow"
 }

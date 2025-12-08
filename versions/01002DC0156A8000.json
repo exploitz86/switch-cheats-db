@@ -4,7 +4,16 @@
     "196608": "2C27F0527A890A4A",
     "262144": "983BAB4A34B5AE48",
     "327680": "4AD12EFF1951AD45",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01002DC0156A9001",
+            "name": "Heavy Metal DLC"
+        },
+        {
+            "id": "01002DC0156A9002",
+            "name": "Legacy Skins DLC"
+        }
+    ],
     "latest": 327680,
     "title": "Red Wings: American Aces"
 }

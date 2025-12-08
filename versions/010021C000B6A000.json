@@ -6,7 +6,12 @@
     "393216": "ADF7B9B88A1E69D2",
     "458752": "40506B6C03196447",
     "524288": "B6E5BDB9DC12E1D1",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010021C000B6B001",
+            "name": "The Binding of Isaac: Repentance"
+        }
+    ],
     "latest": 524288,
     "title": "The Binding of Isaac: Afterbirth+"
 }

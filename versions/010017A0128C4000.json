@@ -12,7 +12,52 @@
     "720896": "E3DFE7D54F6B2F7F",
     "851968": "22E326EB1FD4729E",
     "917504": "186CF28C14765AB5",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010017A0128C5001",
+            "name": "JoJo's Bizarre Adventure: All-Star Battle R The Animation Special Event Color Set"
+        },
+        {
+            "id": "010017A0128C5002",
+            "name": "JoJo's Bizarre Adventure: All-Star Battle R Jolyne Cujoh Prisoner Uniform Costume"
+        },
+        {
+            "id": "010017A0128C5003",
+            "name": "JoJo's Bizarre Adventure: All-Star Battle R Rohan Kishibe First Appearance Costume"
+        },
+        {
+            "id": "010017A0128C5004",
+            "name": "JoJo's Bizarre Adventure: All-Star Battle R Mohammed Avdol's Father? Costume"
+        },
+        {
+            "id": "010017A0128C5005",
+            "name": "JoJo's Bizarre Adventure: All-Star Battle R - Risotto Nero DLC"
+        },
+        {
+            "id": "010017A0128C5006",
+            "name": "JoJo's Bizarre Adventure: All-Star Battle R - Rudol von Stroheim DLC"
+        },
+        {
+            "id": "010017A0128C5007",
+            "name": "JoJo's Bizarre Adventure: All-Star Battle R - Keicho Nijimura DLC"
+        },
+        {
+            "id": "010017A0128C5008",
+            "name": "JoJo's Bizarre Adventure: All-Star Battle R - Alternate World Diego DLC"
+        },
+        {
+            "id": "010017A0128C5009",
+            "name": "JoJo's Bizarre Adventure: All-Star Battle R - Leone Abbacchio"
+        },
+        {
+            "id": "010017A0128C500A",
+            "name": "JoJo's Bizarre Adventure: All-Star Battle R - Yuya Fungami"
+        },
+        {
+            "id": "010017A0128C500C",
+            "name": "JoJo's Bizarre Adventure: All-Star Battle R - Giorno Giovanna Haruno Shiobana Costume"
+        }
+    ],
     "latest": 1048576,
     "title": "JoJo's Bizarre Adventure: All-Star Battle R"
 }

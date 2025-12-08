@@ -1,7 +1,16 @@
 {
     "0": "7546A496EBC6DCBC",
     "65536": "C145C4BBF67713DE",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100A7A015E4D004",
+            "name": "Added Partners \"Lotus Friends\""
+        },
+        {
+            "id": "0100A7A015E4D005",
+            "name": "Added Partners \"Wily Beast and Weakest Creature Friends\""
+        }
+    ],
     "latest": 65536,
     "title": "Touhou Genso Wanderer -Lotus Labyrinth R-"
 }

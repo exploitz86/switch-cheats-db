@@ -2,7 +2,28 @@
     "0": "9080CB391B13A842",
     "131072": "9D49650F1039D940",
     "196608": "2EA82707855D7B49",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100016007155001",
+            "name": "Experience Value Crystal"
+        },
+        {
+            "id": "0100016007155002",
+            "name": "SP Crystal"
+        },
+        {
+            "id": "0100016007155003",
+            "name": "Skill Level Crystal"
+        },
+        {
+            "id": "0100016007155004",
+            "name": "Boost Bead Set"
+        },
+        {
+            "id": "0100016007155005",
+            "name": "Battle Encounter Bead"
+        }
+    ],
     "latest": 196608,
     "title": "Antiquia Lost"
 }

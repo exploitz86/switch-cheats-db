@@ -2,7 +2,24 @@
     "0": "731EA9CECD4AB381",
     "131072": "CF20D92342B828F6",
     "65536": "C58E5664D94F9204",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01003F0014F33001",
+            "name": "Experience x3 - Chroma Quaternion"
+        },
+        {
+            "id": "01003F0014F33002",
+            "name": "RP x3 - Chroma Quaternion"
+        },
+        {
+            "id": "01003F0014F33003",
+            "name": "Experience & RP x2 - Chroma Quaternion"
+        },
+        {
+            "id": "01003F0014F33004",
+            "name": "Damage x2 - Chroma Quaternion"
+        }
+    ],
     "latest": 131072,
     "title": "Chroma Quaternion"
 }

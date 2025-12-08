@@ -1,7 +1,12 @@
 {
     "0": "41D32BAE56486C24",
     "65536": "D89FFAA2062E373D",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100AD10102B3001",
+            "name": "BioShock Remastered"
+        }
+    ],
     "latest": 65536,
     "title": "BioShock: The Collection"
 }

@@ -3,7 +3,16 @@
     "131072": "522CB29FDF77322B",
     "196608": "E2829FD7245EDAFC",
     "262144": "746F0D697EEEE2DD",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010056E00853B001",
+            "name": "Seal the Deal"
+        },
+        {
+            "id": "010056E00853B002",
+            "name": "Nyakuza Metro"
+        }
+    ],
     "latest": 262144,
     "title": "A Hat in Time"
 }

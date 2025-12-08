@@ -3,7 +3,12 @@
     "131072": "4E1AF3B11A41F81C",
     "196608": "4E1AF3B11A41F81C",
     "262144": "8F4533F98DE53AA7",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100B18001D8F001",
+            "name": "Little Inferno: Ho Ho Holiday"
+        }
+    ],
     "latest": 262144,
     "title": "Little Inferno"
 }

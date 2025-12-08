@@ -6,7 +6,12 @@
     "327680": "DCBF8673C1FE6197",
     "393216": "476108482C12E6FE",
     "65536": "5D1CE19BD77EC31F",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100C18016897001",
+            "name": "Hidden Gems Preorder Pack"
+        }
+    ],
     "latest": 393216,
     "title": "Marble It Up! Ultra"
 }

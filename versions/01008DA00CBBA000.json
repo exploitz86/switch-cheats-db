@@ -9,7 +9,12 @@
     "524288": "F8272F0639DE6F65",
     "589824": "E3F0E08F0FB1CD22",
     "65536": "B9C78E63023A0354",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01008DA00CBBB001",
+            "name": "Snooker 19 Challenge Pack"
+        }
+    ],
     "latest": 589824,
     "title": "Snooker 19"
 }

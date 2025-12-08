@@ -14,7 +14,16 @@
     "720896": "D79E37217F36B041",
     "851968": "E1520CFE44D3D84E",
     "983040": "1EFC7F9B36ABF042",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01000CA004DCB001",
+            "name": "Steam"
+        },
+        {
+            "id": "01000CA004DCB002",
+            "name": "Ice"
+        }
+    ],
     "latest": 1441792,
     "title": "Human: Fall Flat"
 }

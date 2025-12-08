@@ -36,7 +36,12 @@
     "851968": "6E99FD469EB9DA98",
     "917504": "259A57048516CA45",
     "983040": "10CE35159F14DF2B",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01002AB012C0D001",
+            "name": "Project Winter - Blackout"
+        }
+    ],
     "latest": 2752512,
     "title": "Project Winter"
 }

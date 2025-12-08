@@ -2,7 +2,12 @@
     "0": "3705886906FDA74A",
     "131072": "F97E0015472E4A70",
     "65536": "15479DC01FB63B4E",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01007EF00399D001",
+            "name": "Conga Master: The New Challengers"
+        }
+    ],
     "latest": 131072,
     "title": "Conga Master Party!"
 }

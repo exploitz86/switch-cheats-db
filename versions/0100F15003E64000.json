@@ -1,7 +1,28 @@
 {
     "0": "43FC559A975DD485",
     "327680": "1953770037ACC52A",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100F15003E65001",
+            "name": "Lucina's Bridal Costume"
+        },
+        {
+            "id": "0100F15003E65002",
+            "name": "Fire Emblem Fates DLC Pack"
+        },
+        {
+            "id": "0100F15003E65003",
+            "name": "Fire Emblem: Shadow Dragon DLC Pack"
+        },
+        {
+            "id": "0100F15003E65004",
+            "name": "Fire Emblem Awakening DLC Pack"
+        },
+        {
+            "id": "0100F15003E65005",
+            "name": "Japanese-Voice Pack"
+        }
+    ],
     "latest": 327680,
     "title": "Fire Emblem Warriors"
 }

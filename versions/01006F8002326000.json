@@ -30,7 +30,20 @@
     "851968": "0209750A17F48CB8",
     "917504": "A210C7E78216E42B",
     "983040": "36EEBA0C26F14216",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01006F800232712C",
+            "name": "Animal Crossing: New Horizons Special Order Ticket (Animal Crossing: Pocket Camp Crossover Event)"
+        },
+        {
+            "id": "01006F800232712D",
+            "name": "Animal Crossing\u2122: New Horizons Nintendo Switch Online - Member-Exclusive Items"
+        },
+        {
+            "id": "01006F80023273E8",
+            "name": "Animal Crossing\u2122: New Horizons - Happy Home Paradise"
+        }
+    ],
     "latest": 1966080,
     "title": "Animal Crossing\u2122: New Horizons"
 }

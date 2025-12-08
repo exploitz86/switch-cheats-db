@@ -4,7 +4,12 @@
     "196608": "AD8FA9F610DB1015",
     "262144": "6A28EE5E39F76B6A",
     "65536": "A164C9DAB8988B11",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100EF3013F61001",
+            "name": "Crimson Knight DLC"
+        }
+    ],
     "latest": 262144,
     "title": "Tails Of Iron"
 }

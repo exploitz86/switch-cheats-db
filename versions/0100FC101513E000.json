@@ -1,7 +1,16 @@
 {
     "0": "878CC9DC11E8548A",
     "65536": "A9CE4E0196706EC8",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100FC101513F001",
+            "name": "Train Life - Supporter Pack"
+        },
+        {
+            "id": "0100FC101513F002",
+            "name": "Train Life - 1920's Orient-Express Train"
+        }
+    ],
     "latest": 65536,
     "title": "Train Life: A Railway Simulator"
 }

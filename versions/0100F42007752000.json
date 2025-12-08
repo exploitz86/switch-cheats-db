@@ -4,7 +4,24 @@
     "262144": "929CD8FCB7CB3730",
     "327680": "13D637B8622373CD",
     "65536": "F57E5BF141E015F0",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100F42007753001",
+            "name": "Touhou Sky Arena Playable Character \"Toyosatomimi no Miko\""
+        },
+        {
+            "id": "0100F42007753002",
+            "name": "Touhou Sky Arena Playable Character \"Yukari Yakumo\""
+        },
+        {
+            "id": "0100F42007753003",
+            "name": "Touhou Sky Arena Playable Character \" Yuyuko Saigyouji\""
+        },
+        {
+            "id": "0100F42007753005",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 327680,
     "title": "TOUHOU SKY ARENA -MATSURI-CLIMAX"
 }

@@ -7,7 +7,16 @@
     "393216": "DBDDD13845ACD2BD",
     "458752": "A16802625E7826BF",
     "65536": "BDD027F80FAB4EF4",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01008DB008C2D001",
+            "name": "The Isle of Armor"
+        },
+        {
+            "id": "01008DB008C2D002",
+            "name": "The Crown Tundra"
+        }
+    ],
     "latest": 458752,
     "title": "Pok\u00e9mon Shield + Pok\u00e9mon Shield Expansion Pass"
 }

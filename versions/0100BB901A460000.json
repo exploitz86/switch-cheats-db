@@ -2,7 +2,20 @@
     "0": "AB44A5B03DA96183",
     "131072": "DA5039D7A9C81939",
     "65536": "F84305ED34B8C67B",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100BB901A461001",
+            "name": "Colour Palette 1"
+        },
+        {
+            "id": "0100BB901A461002",
+            "name": "Colour Palette 2"
+        },
+        {
+            "id": "0100BB901A461003",
+            "name": "Colour Palette 3"
+        }
+    ],
     "latest": 131072,
     "title": "For a Vast Future"
 }

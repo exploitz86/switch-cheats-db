@@ -9,7 +9,52 @@
     "589824": "728825986F1B57F6",
     "655360": "09400AB598C6A818",
     "720896": "3B5ED879A8695D64",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100AE500E76B001",
+            "name": "AeternoBlade II: Director's Rewind - Sparkling Ruby"
+        },
+        {
+            "id": "0100AE500E76B002",
+            "name": "AeternoBlade II: Director's Rewind - Sea Breeze"
+        },
+        {
+            "id": "0100AE500E76B003",
+            "name": "AeternoBlade II: Director's Rewind - Ultimate Freyja"
+        },
+        {
+            "id": "0100AE500E76B004",
+            "name": "AeternoBlade II: Director's Rewind - Fuzzy Grizzly"
+        },
+        {
+            "id": "0100AE500E76B005",
+            "name": "AeternoBlade II: Director's Rewind - Summer Blossom"
+        },
+        {
+            "id": "0100AE500E76B006",
+            "name": "AeternoBlade II: Director's Rewind - Pineapple Royale"
+        },
+        {
+            "id": "0100AE500E76B007",
+            "name": "AeternoBlade II: Director's Rewind - Lemon Mimosa"
+        },
+        {
+            "id": "0100AE500E76B008",
+            "name": "AeternoBlade II: Director's Rewind - Dual Gear [ Arena Mode ]"
+        },
+        {
+            "id": "0100AE500E76B009",
+            "name": "AeternoBlade II: Director's Rewind - Flaming Cognac"
+        },
+        {
+            "id": "0100AE500E76B00A",
+            "name": "AeternoBlade II: Director's Rewind - Ocean Spritzer"
+        },
+        {
+            "id": "0100AE500E76B00B",
+            "name": "AeternoBlade II: Director's Rewind - Blue Hawaiian"
+        }
+    ],
     "latest": 720896,
     "title": "AeternoBlade II: Infinity"
 }

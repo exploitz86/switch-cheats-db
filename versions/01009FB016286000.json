@@ -5,7 +5,24 @@
     "327680": "7C682079AF2D0D1B",
     "393216": "F57DB1FA410FD9DD",
     "65536": "BC6146A36AE559C0",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01009FB016287001",
+            "name": "Sonic Origins: Start Dash Pack"
+        },
+        {
+            "id": "01009FB016287002",
+            "name": "Sonic Origins: Premium Fun Pack"
+        },
+        {
+            "id": "01009FB016287003",
+            "name": "Sonic Origins: Classic Music Pack"
+        },
+        {
+            "id": "01009FB016287004",
+            "name": "Sonic Origins: Plus Content Pack"
+        }
+    ],
     "latest": 393216,
     "title": "Sonic Origins Plus"
 }

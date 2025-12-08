@@ -9,7 +9,12 @@
     "589824": "230786D1319FA0B8",
     "65536": "FFC7A539852F3D77",
     "655360": "AADD70AB54C96A8B",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100B080184BD001",
+            "name": "Cowboys and Critters DLC"
+        }
+    ],
     "latest": 655360,
     "title": "The Oregon Trail"
 }

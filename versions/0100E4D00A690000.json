@@ -1,7 +1,20 @@
 {
     "0": "9C0A5D191E097E40",
     "196608": "4B171B8F549B7948",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100E4D00A691001",
+            "name": "PixelJunk\u2122 Monsters 2 Encore Pack"
+        },
+        {
+            "id": "0100E4D00A691002",
+            "name": "PixelJunk\u2122 Monsters 2 Danganronpa Pack"
+        },
+        {
+            "id": "0100E4D00A691003",
+            "name": "PixelJunk\u2122 Monsters 2 Golden Outfits Pack"
+        }
+    ],
     "latest": 196608,
     "title": "PixelJunk\u2122 Monsters 2"
 }

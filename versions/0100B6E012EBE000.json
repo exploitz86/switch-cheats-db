@@ -16,7 +16,40 @@
     "851968": "48B0BBD41D45EE2A",
     "917504": "E3CDD8A4863A44E1",
     "983040": "DE793124FFED46AC",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100B6E012EBF001",
+            "name": "UNO\u00ae Rayman Theme"
+        },
+        {
+            "id": "0100B6E012EBF003",
+            "name": "UNO\u00ae Just Dance Theme"
+        },
+        {
+            "id": "0100B6E012EBF004",
+            "name": "UNO\u00ae Winter Theme"
+        },
+        {
+            "id": "0100B6E012EBF005",
+            "name": "UNO FLIP!"
+        },
+        {
+            "id": "0100B6E012EBF006",
+            "name": "UNO\u00ae Fenyx's Quest"
+        },
+        {
+            "id": "0100B6E012EBF007",
+            "name": "UNO\u00ae 50th Anniversary DLC"
+        },
+        {
+            "id": "0100B6E012EBF008",
+            "name": "UNO\u00ae The Call of Yara DLC"
+        },
+        {
+            "id": "0100B6E012EBF009",
+            "name": "UNO\u00ae Valhalla DLC"
+        }
+    ],
     "latest": 1114112,
     "title": "UNO\u00ae"
 }

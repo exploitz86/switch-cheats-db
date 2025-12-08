@@ -1,7 +1,12 @@
 {
     "0": "964109F24C2DC34A",
     "65536": "0280CD9A3B21A34B",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010016D0159D7001",
+            "name": "Lumberhill - Powerful People Pack"
+        }
+    ],
     "latest": 65536,
     "title": "Lumberhill"
 }

@@ -6,7 +6,16 @@
     "327680": "80956FBCB7665847",
     "393216": "96CEBB241EF67849",
     "65536": "F4AD41287676764C",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010031E00EA25001",
+            "name": "Jade Sea"
+        },
+        {
+            "id": "010031E00EA25002",
+            "name": "Pirate City"
+        }
+    ],
     "latest": 393216,
     "title": "Under the Jolly Roger"
 }

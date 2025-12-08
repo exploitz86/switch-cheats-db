@@ -2,7 +2,16 @@
     "0": "7BBE6B8AB0A27C1E",
     "327680": "060DD6789A1CE93F",
     "393216": "8FADC54E0AC4F538",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100FFA0093E9001",
+            "name": "Russian In-Game Commentary"
+        },
+        {
+            "id": "0100FFA0093E9002",
+            "name": "Polish In-Game Commentary"
+        }
+    ],
     "latest": 393216,
     "title": "FIFA 19"
 }

@@ -1,6 +1,27 @@
 {
     "0": "4C6E892A93E13BD6",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010085301ADD3001",
+            "name": "Passion"
+        },
+        {
+            "id": "010085301ADD3002",
+            "name": "Party"
+        },
+        {
+            "id": "010085301ADD3003",
+            "name": "XD"
+        },
+        {
+            "id": "010085301ADD3004",
+            "name": "Health"
+        },
+        {
+            "id": "010085301ADD3005",
+            "name": "Ocean"
+        }
+    ],
     "latest": 0,
     "title": "Pixel Paint 2"
 }

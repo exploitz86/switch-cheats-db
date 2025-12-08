@@ -20,7 +20,12 @@
     "851968": "F2FE2CE726B97741",
     "917504": "EE34F51DF6BDAB4D",
     "983040": "ECF8FB4A974FA44D",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100C8B012DEB001",
+            "name": "Temtem Deluxe Cosmetics"
+        }
+    ],
     "latest": 1703936,
     "title": "Temtem"
 }

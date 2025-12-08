@@ -1,6 +1,27 @@
 {
     "0": "2E5134A7901F5DCD",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010055600516D001",
+            "name": "Farmer's Dynasty Borne Special 281"
+        },
+        {
+            "id": "010055600516D002",
+            "name": "Farmer's Dynasty Lindner Lintrac 90"
+        },
+        {
+            "id": "010055600516D003",
+            "name": "Farmer's Dynasty Krampe Big Body 900"
+        },
+        {
+            "id": "010055600516D004",
+            "name": "Farmer's Dynasty Fliegl DK 110-88"
+        },
+        {
+            "id": "010055600516D005",
+            "name": "Farmer's Dynasty Amazone D9 6000"
+        }
+    ],
     "latest": 0,
     "title": "Farmer's Dynasty"
 }

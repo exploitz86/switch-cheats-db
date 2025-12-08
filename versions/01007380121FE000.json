@@ -9,7 +9,12 @@
     "524288": "2A6E030514B0D145",
     "589824": "20E25FACA848994E",
     "65536": "DD5C2E4BBADCD64D",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01007380121FF001",
+            "name": "SUPER BOMBERMAN R ONLINE Premium Pack"
+        }
+    ],
     "latest": 589824,
     "title": "SUPER BOMBERMAN R ONLINE"
 }

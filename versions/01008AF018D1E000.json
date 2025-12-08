@@ -2,7 +2,20 @@
     "0": "0FFEA6169E6929FD",
     "131072": "27053017B4A3F164",
     "65536": "1B18B113CB9F3B70",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01008AF018D1F001",
+            "name": "Experience x3 - Fairy Elements"
+        },
+        {
+            "id": "01008AF018D1F002",
+            "name": "Damage x2 - Fairy Elements"
+        },
+        {
+            "id": "01008AF018D1F003",
+            "name": "Full Restore - Fairy Elements"
+        }
+    ],
     "latest": 131072,
     "title": "Fairy Elements"
 }

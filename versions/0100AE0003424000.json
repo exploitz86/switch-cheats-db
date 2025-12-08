@@ -1,7 +1,20 @@
 {
     "0": "E0551154AB7AB947",
     "327680": "B1A687EE102974E5",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100AE0003425001",
+            "name": "Shantae: Pirate Queen's Quest"
+        },
+        {
+            "id": "0100AE0003425002",
+            "name": "Shantae: Friends to the End"
+        },
+        {
+            "id": "0100AE0003425003",
+            "name": "Shantae: Costume Pack"
+        }
+    ],
     "latest": 327680,
     "title": "Shantae: Half-Genie Hero"
 }

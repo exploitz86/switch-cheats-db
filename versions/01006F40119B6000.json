@@ -1,6 +1,11 @@
 {
     "0": "AD5C87A48757584B",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01006F40119B7001",
+            "name": "The EXILE DLC"
+        }
+    ],
     "latest": 0,
     "title": "Cultist Simulator: Initiate Edition"
 }

@@ -1,6 +1,11 @@
 {
     "0": "7F21DB3331855B04",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100CCF01A885001",
+            "name": "Color Set"
+        }
+    ],
     "latest": 0,
     "title": "Catgotchi: Virtual Pet"
 }

@@ -5,7 +5,16 @@
     "262144": "624637160754C874",
     "524288": "FC8D0840F3556041",
     "65536": "D07C167F67CADDC0",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010057D017B0B001",
+            "name": "Headbangers - Ex-Coo-Sive Pigeon Hat"
+        },
+        {
+            "id": "010057D017B0B002",
+            "name": "Headbangers - Flock and Roll"
+        }
+    ],
     "latest": 524288,
     "title": "Headbangers: Rhythm Royale"
 }

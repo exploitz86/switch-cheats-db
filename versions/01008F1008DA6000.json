@@ -2,7 +2,24 @@
     "0": "0D07C2465FB869FD",
     "262144": "4B104B8145CC9402",
     "327680": "BEDBA708383FD7EB",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01008F1008DA7001",
+            "name": "Darkest Dungeon\u00ae: The Crimson Court"
+        },
+        {
+            "id": "01008F1008DA7002",
+            "name": "Darkest Dungeon\u00ae: The Shieldbreaker"
+        },
+        {
+            "id": "01008F1008DA7003",
+            "name": "Darkest Dungeon\u00ae: The Musketeer"
+        },
+        {
+            "id": "01008F1008DA7004",
+            "name": "Darkest Dungeon\u00ae: The Color of Madness"
+        }
+    ],
     "latest": 327680,
     "title": "Darkest Dungeon"
 }

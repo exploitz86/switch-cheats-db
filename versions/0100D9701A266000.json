@@ -1,7 +1,12 @@
 {
     "0": "902C6F8BFCB2E06F",
     "65536": "F25ACF8D0B8276B8",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100D9701A267001",
+            "name": "NASCAR Arcade Rush Project-X Pack"
+        }
+    ],
     "latest": 65536,
     "title": "NASCAR Arcade Rush"
 }

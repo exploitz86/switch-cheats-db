@@ -14,7 +14,20 @@
     "851968": "D859F014F0E24AE7",
     "917504": "C2B76E12872CD459",
     "983040": "9E2EE6F9AB500023",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100D29019BE5001",
+            "name": "Sixtar Gate: STARTRAIL - Flower & Destiny Pack"
+        },
+        {
+            "id": "0100D29019BE5002",
+            "name": "Sixtar Gate: STARTRAIL - Touhou Project Pack 01"
+        },
+        {
+            "id": "0100D29019BE5064",
+            "name": "Sixtar Gate: STARTRAIL - Sixtartales"
+        }
+    ],
     "latest": 1048576,
     "title": "Sixtar Gate: STARTRAIL"
 }

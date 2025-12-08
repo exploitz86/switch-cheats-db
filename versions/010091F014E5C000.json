@@ -1,7 +1,16 @@
 {
     "0": "EA6AA4D862265741",
     "65536": "3B8E6A71891E1B42",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010091F014E5D001",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010091F014E5D002",
+            "name": "WitchSpring3 Re:Fine Outfit Pack"
+        }
+    ],
     "latest": 65536,
     "title": "WitchSpring3 [Re:Fine] - The Story of Eirudy"
 }

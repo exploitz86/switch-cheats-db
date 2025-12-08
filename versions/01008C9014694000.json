@@ -3,7 +3,12 @@
     "196608": "846A0CA7E4E9E1CA",
     "262144": "F5B4925D514B5AAF",
     "65536": "C432ABB3C487D08E",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01008C9014695001",
+            "name": "My Friend Peppa Pig: Pirate Adventures"
+        }
+    ],
     "latest": 262144,
     "title": "My Friend Peppa Pig - Complete Edition"
 }

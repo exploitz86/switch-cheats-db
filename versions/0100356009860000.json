@@ -3,7 +3,28 @@
     "131072": "386062914ADFBB4E",
     "196608": "38AC25425DCEAE49",
     "262144": "743F33CF4AFF344D",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100356009861001",
+            "name": "Experience Scroll"
+        },
+        {
+            "id": "0100356009861002",
+            "name": "Job Points Scroll"
+        },
+        {
+            "id": "0100356009861003",
+            "name": "Boost Scroll"
+        },
+        {
+            "id": "0100356009861004",
+            "name": "Full Recovery Scroll"
+        },
+        {
+            "id": "0100356009861005",
+            "name": "Encounter Scroll"
+        }
+    ],
     "latest": 262144,
     "title": "Dragon Sinker"
 }

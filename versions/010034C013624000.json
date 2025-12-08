@@ -2,7 +2,12 @@
     "0": "4AF0110AABA8DE48",
     "131072": "D02F505851993FED",
     "65536": "5653B8CA4C17EDEB",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010034C013625001",
+            "name": "Fast & Furious: Spy Racers Rise of SH1FT3R - Arctic Challenge"
+        }
+    ],
     "latest": 131072,
     "title": "Fast & Furious: Spy Racers Rise of SH1FT3R"
 }

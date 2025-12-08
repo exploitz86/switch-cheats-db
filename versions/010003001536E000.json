@@ -1,7 +1,12 @@
 {
     "0": "5E5784DAEBAF9F46",
     "65536": "FE63A7A6C36CFC48",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010003001536F001",
+            "name": "Christmas Tina DLC"
+        }
+    ],
     "latest": 65536,
     "title": "Christmas Tina"
 }

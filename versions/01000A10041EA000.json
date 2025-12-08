@@ -4,7 +4,32 @@
     "262144": "771BDFB65F8D0AF7",
     "327680": "4F7995092FAA5DC0",
     "65536": "F924779598832227",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01000A10041EB001",
+            "name": "The Elder Scrolls V: Skyrim German Language Pack"
+        },
+        {
+            "id": "01000A10041EB003",
+            "name": "The Elder Scrolls V: Skyrim Spanish Language Pack"
+        },
+        {
+            "id": "01000A10041EB004",
+            "name": "The Elder Scrolls V: Skyrim French Language Pack"
+        },
+        {
+            "id": "01000A10041EB005",
+            "name": "The Elder Scrolls V: Skyrim Italian Language Pack"
+        },
+        {
+            "id": "01000A10041EB008",
+            "name": "The Elder Scrolls V: Skyrim Russian Language Pack"
+        },
+        {
+            "id": "01000A10041EB009",
+            "name": "The Elder Scrolls V: Skyrim Anniversary Upgrade"
+        }
+    ],
     "latest": 327680,
     "title": "The Elder Scrolls V: Skyrim"
 }

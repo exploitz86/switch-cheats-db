@@ -14,7 +14,16 @@
     "851968": "CC42D241E138434E",
     "917504": "6AADCB65BD690E47",
     "983040": "A8D7C7E5291C9AEC",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100944003821001",
+            "name": "Fantasy Strike Core Pack"
+        },
+        {
+            "id": "0100944003821002",
+            "name": "Fantasy Strike Collector's Pack"
+        }
+    ],
     "latest": 983040,
     "title": "Fantasy Strike"
 }

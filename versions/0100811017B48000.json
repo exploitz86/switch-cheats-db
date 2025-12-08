@@ -1,6 +1,23 @@
 {
     "0": "D9D0B9F20004244F",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100811017B49002",
+            "name": "Labyrinth of Zangetsu - Adventure Academia: The Fractured Continent Collab - Additional Characters Pack"
+        },
+        {
+            "id": "0100811017B49003",
+            "name": "Labyrinth of Zangetsu - AKIBA'S BEAT Collaboration - Additional Characters Pack"
+        },
+        {
+            "id": "0100811017B49004",
+            "name": "Labyrinth of Zangetsu - AKIBA'S TRIP Collaboration - Additional Characters Pack"
+        },
+        {
+            "id": "0100811017B49005",
+            "name": "Labyrinth of Zangetsu - MIND=.0 Collaboration - Additional Characters Pack"
+        }
+    ],
     "latest": 0,
     "title": "Labyrinth of Zangetsu"
 }

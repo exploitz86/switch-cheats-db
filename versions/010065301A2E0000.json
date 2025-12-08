@@ -2,7 +2,28 @@
     "0": "F2993582074B5FA5",
     "196608": "D214BA64D902AEDA",
     "65536": "3F8DB95C54C9B11C",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010065301A2E1001",
+            "name": "Pangalactic Federation Longsword"
+        },
+        {
+            "id": "010065301A2E1002",
+            "name": "Forest Knuckles"
+        },
+        {
+            "id": "010065301A2E1003",
+            "name": "Set of recovery items"
+        },
+        {
+            "id": "010065301A2E1004",
+            "name": "Sunrise Ring"
+        },
+        {
+            "id": "010065301A2E1005",
+            "name": "Prism Badge"
+        }
+    ],
     "latest": 196608,
     "title": "STAR OCEAN THE SECOND STORY R"
 }

@@ -2,7 +2,40 @@
     "0": "BBF8EA4CA985DE4E",
     "131072": "DB7E474BEFABB6A0",
     "65536": "ED5D2490D18A4BE3",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01006FA018D413F2",
+            "name": "Infinity Strash: DRAGON QUEST The Adventure of Dai - Legendary Hero Outfit"
+        },
+        {
+            "id": "01006FA018D413FC",
+            "name": "Infinity Strash: DRAGON QUEST The Adventure of Dai - Legendary Mage Outfit"
+        },
+        {
+            "id": "01006FA018D41406",
+            "name": "Infinity Strash: DRAGON QUEST The Adventure of Dai - Legendary Priest Outfit"
+        },
+        {
+            "id": "01006FA018D41407",
+            "name": "Infinity Strash: DRAGON QUEST The Adventure of Dai - Legendary Martial Artist Outfit"
+        },
+        {
+            "id": "01006FA018D41410",
+            "name": "Infinity Strash: DRAGON QUEST The Adventure of Dai - Legendary Swordsman Outfit"
+        },
+        {
+            "id": "01006FA018D41411",
+            "name": "Infinity Strash: DRAGON QUEST The Adventure of Dai - Legendary Warrior Outfit"
+        },
+        {
+            "id": "01006FA018D4144C",
+            "name": "Infinity Strash: DRAGON QUEST The Adventure of Dai - The Hero's Tutor"
+        },
+        {
+            "id": "01006FA018D414B0",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 131072,
     "title": "Infinity Strash: DRAGON QUEST The Adventure of Dai"
 }

@@ -2,7 +2,12 @@
     "0": "AE1DFFBD382A8790",
     "196608": "5F601DFE02960E00",
     "65536": "CB5CE97648030780",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100152012BB1001",
+            "name": "Year of the Spider"
+        }
+    ],
     "latest": 196608,
     "title": "Kill It With Fire"
 }

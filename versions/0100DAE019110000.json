@@ -3,7 +3,24 @@
     "131072": "11F71B210C237F47",
     "196608": "0248DC99035AD28A",
     "65536": "0318B8AC0526D3BC",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100DAE019111001",
+            "name": "FATAL FRAME: Mask of the Lunar Eclipse Digital Artbook"
+        },
+        {
+            "id": "0100DAE019111002",
+            "name": "Rogetsu Isle Dinner Party Costume Set"
+        },
+        {
+            "id": "0100DAE019111003",
+            "name": "Ruka Exclusive Costume \"Marie Rose Outfit\""
+        },
+        {
+            "id": "0100DAE019111004",
+            "name": "Ruka/Misaki/Choshiro-Exclusive Accessory (Spirit Stone Flashlight Hat & Fox Mask)"
+        }
+    ],
     "latest": 196608,
     "title": "FATAL FRAME: Mask of the Lunar Eclipse"
 }

@@ -13,7 +13,12 @@
     "786432": "B61EFCA35451CEA2",
     "851968": "5C264D8FC55CB732",
     "917504": "21958679773A212A",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100B1B015ABB001",
+            "name": "The Good Life - Behind the secret of Rainy Woods"
+        }
+    ],
     "latest": 917504,
     "title": "The Good Life"
 }

@@ -1,6 +1,23 @@
 {
     "131072": "C4EB81E9259F8C4A",
     "65536": "DE4F62307F9E524A",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100E7400FF1B001",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100E7400FF1B002",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100E7400FF1B003",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100E7400FF1B006",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 131072
 }

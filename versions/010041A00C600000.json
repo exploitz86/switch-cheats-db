@@ -2,6 +2,15 @@
     "0": "2278B065B0FCA50C",
     "262144": "BEEEF2A3D2C70583",
     "327680": "4A7988C216CC2EAB",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010041A00C601002",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010041A00C601003",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 327680
 }

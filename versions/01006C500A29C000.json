@@ -1,6 +1,27 @@
 {
     "0": "32DC0EEA9DEAF940",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01006C500A29D001",
+            "name": "Homestars Founder Pack"
+        },
+        {
+            "id": "01006C500A29D002",
+            "name": "Cosmic Founder Pack"
+        },
+        {
+            "id": "01006C500A29D003",
+            "name": "Warrior Founder Pack"
+        },
+        {
+            "id": "01006C500A29D004",
+            "name": "Celebration Pack 1"
+        },
+        {
+            "id": "01006C500A29D005",
+            "name": "Celebration Pack 2"
+        }
+    ],
     "latest": 0,
     "title": "HyperBrawl Tournament"
 }

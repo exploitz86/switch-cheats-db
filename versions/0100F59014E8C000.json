@@ -9,7 +9,76 @@
     "589824": "E646952685CB01EF",
     "65536": "28975AFA9ED4C94E",
     "655360": "D45CA32F2E14D5A8",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100F59014E8D001",
+            "name": "Stella"
+        },
+        {
+            "id": "0100F59014E8D002",
+            "name": "Animo"
+        },
+        {
+            "id": "0100F59014E8D003",
+            "name": "Iter"
+        },
+        {
+            "id": "0100F59014E8D004",
+            "name": "Clavis"
+        },
+        {
+            "id": "0100F59014E8D005",
+            "name": "Cessabit"
+        },
+        {
+            "id": "0100F59014E8D006",
+            "name": "Inventa"
+        },
+        {
+            "id": "0100F59014E8D007",
+            "name": "Exsupero"
+        },
+        {
+            "id": "0100F59014E8D008",
+            "name": "Progressum"
+        },
+        {
+            "id": "0100F59014E8D009",
+            "name": "Illumina"
+        },
+        {
+            "id": "0100F59014E8D00A",
+            "name": "Casus"
+        },
+        {
+            "id": "0100F59014E8D00B",
+            "name": "Effugium"
+        },
+        {
+            "id": "0100F59014E8D00C",
+            "name": "Rimor"
+        },
+        {
+            "id": "0100F59014E8D00D",
+            "name": "Incipiam"
+        },
+        {
+            "id": "0100F59014E8D00E",
+            "name": "Insulam"
+        },
+        {
+            "id": "0100F59014E8D00F",
+            "name": "Cogitare"
+        },
+        {
+            "id": "0100F59014E8D010",
+            "name": "Novus"
+        },
+        {
+            "id": "0100F59014E8D011",
+            "name": "Paenultima"
+        }
+    ],
     "latest": 655360,
     "title": "hexceed"
 }

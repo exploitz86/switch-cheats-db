@@ -2,7 +2,12 @@
     "0": "5A1C6505B244F6CF",
     "262144": "24F308D160726BF4",
     "65536": "5BEF665CD2684381",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010025901A269001",
+            "name": "DreamWorks Trolls Remix Rescue Deluxe Character Pack"
+        }
+    ],
     "latest": 262144,
     "title": "DreamWorks Trolls Remix Rescue"
 }

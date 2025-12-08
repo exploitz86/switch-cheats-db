@@ -1,6 +1,11 @@
 {
     "0": "E19678E5F9E6D466",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010082301754D001",
+            "name": "Inukari - Chase of Deception Soundtrack"
+        }
+    ],
     "latest": 0,
     "title": "Inukari - Chase of Deception"
 }

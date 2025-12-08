@@ -9,7 +9,16 @@
     "720896": "BFDBFA2587BC6D30",
     "786432": "F29C8909171C07C0",
     "851968": "3DD295E7254DC7CC",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100EC8004763001",
+            "name": "EBINA / KORG gadget additional gadget"
+        },
+        {
+            "id": "0100EC8004763002",
+            "name": "OTORII / KORG gadget additional gadget"
+        }
+    ],
     "latest": 851968,
     "title": "KORG Gadget for Nintendo Switch"
 }

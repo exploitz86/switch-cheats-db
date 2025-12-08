@@ -1,7 +1,20 @@
 {
     "0": "4C1D271B7B598D41",
     "131072": "5409424624EF954A",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01007E900DFB7001",
+            "name": "Experience x3 - Legend of the Tetrarchs"
+        },
+        {
+            "id": "01007E900DFB7002",
+            "name": "No Encounters - Legend of the Tetrarchs"
+        },
+        {
+            "id": "01007E900DFB7003",
+            "name": "Damage x2 - Legend of the Tetrarchs"
+        }
+    ],
     "latest": 131072,
     "title": "Legend of the Tetrarchs"
 }

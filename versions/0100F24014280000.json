@@ -4,7 +4,16 @@
     "196608": "5421F21D982F9379",
     "327680": "CB098B1BD77BDD1A",
     "65536": "D78CB38060C34B48",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100F24014281001",
+            "name": "Chef Life - BON APP\u00c9TIT PACK"
+        },
+        {
+            "id": "0100F24014281002",
+            "name": "Chef Life - AL FORNO PACK"
+        }
+    ],
     "latest": 327680,
     "title": "Chef Life:  A Restaurant Simulator"
 }

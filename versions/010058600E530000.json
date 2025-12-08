@@ -9,7 +9,28 @@
     "589824": "A6C0AA925BB8E34F",
     "65536": "E4D80D998303CC45",
     "655360": "BD5F1ED30FDBA245",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010058600E531001",
+            "name": "Empire of Sin - The Good Son Pack"
+        },
+        {
+            "id": "010058600E531002",
+            "name": "Empire of Sin - Deluxe Pack"
+        },
+        {
+            "id": "010058600E531003",
+            "name": "Empire of Sin - Al Capone's Fur Coat"
+        },
+        {
+            "id": "010058600E531004",
+            "name": "Empire of Sin - Make It Count"
+        },
+        {
+            "id": "010058600E531005",
+            "name": "Empire of Sin - Hunt For Aurora"
+        }
+    ],
     "latest": 655360,
     "title": "Empire of Sin"
 }

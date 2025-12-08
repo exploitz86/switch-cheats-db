@@ -1,6 +1,11 @@
 {
     "0": "12780533D57CC348",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01006D900EE59001",
+            "name": "Party Pack"
+        }
+    ],
     "latest": 0,
     "title": "Our Flick Erasers"
 }

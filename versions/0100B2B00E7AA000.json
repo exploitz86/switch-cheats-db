@@ -4,7 +4,24 @@
     "327680": "2D31515A27C3ECEC",
     "393216": "FAD1AF4EDC6DB267",
     "65536": "2D05E2FC4BED8CF5",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100B2B00E7AB005",
+            "name": "Dusk Diver - Angel in white uniform"
+        },
+        {
+            "id": "0100B2B00E7AB006",
+            "name": "Dusk Diver - News anchor costume"
+        },
+        {
+            "id": "0100B2B00E7AB007",
+            "name": "Dusk Diver - Welcome Summer! Swimsuits"
+        },
+        {
+            "id": "0100B2B00E7AB008",
+            "name": "Dusk Diver - Stage Costumes"
+        }
+    ],
     "latest": 393216,
     "title": "Dusk Diver"
 }

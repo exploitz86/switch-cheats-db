@@ -1,7 +1,20 @@
 {
     "0": "DC21619C9456324C",
     "65536": "832A11FDA4450642",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010075D0101FB001",
+            "name": "Experience x3 - Seek Hearts"
+        },
+        {
+            "id": "010075D0101FB002",
+            "name": "Damage x2 - Seek Hearts"
+        },
+        {
+            "id": "010075D0101FB003",
+            "name": "No Skill Cost - Seek Hearts"
+        }
+    ],
     "latest": 65536,
     "title": "Seek Hearts"
 }

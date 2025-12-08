@@ -3,7 +3,12 @@
     "131072": "D59692C9BB1D9F6F",
     "262144": "BBBBB9891F01415E",
     "65536": "C9A028A285951691",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010040A01407F001",
+            "name": "The Smurfs - Mission Vileaf - \"Vilesmurfs\" costumes"
+        }
+    ],
     "latest": 262144,
     "title": "The Smurfs - Mission Vileaf"
 }

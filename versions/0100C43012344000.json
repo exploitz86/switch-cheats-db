@@ -3,7 +3,16 @@
     "131072": "21BA267A5839692F",
     "196608": "5ADDED39080841BF",
     "65536": "81A5CC038F998C75",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100C43012345001",
+            "name": "Hot Wheels\u2122 Booster Pack"
+        },
+        {
+            "id": "0100C43012345002",
+            "name": "Oddball Car Pack"
+        }
+    ],
     "latest": 196608,
     "title": "Beach Buggy Racing 2: Island Adventure"
 }

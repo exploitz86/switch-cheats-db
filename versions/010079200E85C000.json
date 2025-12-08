@@ -4,7 +4,160 @@
     "196608": "B62F5E6984D69E47",
     "262144": "E50048278D47174F",
     "65536": "4CD08D3EDAEF044C",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010079200E85D001",
+            "name": "Pacifier Sword"
+        },
+        {
+            "id": "010079200E85D002",
+            "name": "Queen's Whip"
+        },
+        {
+            "id": "010079200E85D003",
+            "name": "Vox Brysteleif"
+        },
+        {
+            "id": "010079200E85D004",
+            "name": "Vox Tituceus"
+        },
+        {
+            "id": "010079200E85D005",
+            "name": "Vox Breasickle"
+        },
+        {
+            "id": "010079200E85D006",
+            "name": "Vox Mastilteinn"
+        },
+        {
+            "id": "010079200E85D007",
+            "name": "Vox Munechika"
+        },
+        {
+            "id": "010079200E85D008",
+            "name": "Vox Bluriades"
+        },
+        {
+            "id": "010079200E85D009",
+            "name": "Vox Ecstalispear"
+        },
+        {
+            "id": "010079200E85D065",
+            "name": "Drool Shield"
+        },
+        {
+            "id": "010079200E85D066",
+            "name": "Bondage Shield"
+        },
+        {
+            "id": "010079200E85D1F5",
+            "name": "Additional Dungeon: Flower Fantasia"
+        },
+        {
+            "id": "010079200E85D1F6",
+            "name": "Additional Dungeon: Mystic Omega Spot"
+        },
+        {
+            "id": "010079200E85D1F7",
+            "name": "Additional Dungeon: Whetstone Caverns"
+        },
+        {
+            "id": "010079200E85D3E9",
+            "name": "Maiden Costume \"Swimsuit\" Set of 7"
+        },
+        {
+            "id": "010079200E85D3EA",
+            "name": "Costume: Berune (Swimsuit)"
+        },
+        {
+            "id": "010079200E85D3EB",
+            "name": "Costume: Mei (Swimsuit)"
+        },
+        {
+            "id": "010079200E85D3EC",
+            "name": "Costume: Mio (Swimsuit)"
+        },
+        {
+            "id": "010079200E85D3ED",
+            "name": "Costume: Nanami (Swimsuit)"
+        },
+        {
+            "id": "010079200E85D3EE",
+            "name": "Costume: Juri (Swimsuit)"
+        },
+        {
+            "id": "010079200E85D3EF",
+            "name": "Costume: Yurika (Swimsuit)"
+        },
+        {
+            "id": "010079200E85D44D",
+            "name": "Maiden Costume \"Animal\" Set of 7"
+        },
+        {
+            "id": "010079200E85D44E",
+            "name": "Costume: Berune (Animal)"
+        },
+        {
+            "id": "010079200E85D44F",
+            "name": "Costume: Mei (Animal)"
+        },
+        {
+            "id": "010079200E85D450",
+            "name": "Costume: Mio (Animal)"
+        },
+        {
+            "id": "010079200E85D451",
+            "name": "Costume: Nanami (Animal)"
+        },
+        {
+            "id": "010079200E85D452",
+            "name": "Costume: Juri (Animal)"
+        },
+        {
+            "id": "010079200E85D453",
+            "name": "Costume: Yurika (Animal)"
+        },
+        {
+            "id": "010079200E85D6A5",
+            "name": "Character Songs \"Belles Fleurs\" Set of 9"
+        },
+        {
+            "id": "010079200E85D6A6",
+            "name": "Character Song: Berune"
+        },
+        {
+            "id": "010079200E85D6A7",
+            "name": "Character Song: Mei"
+        },
+        {
+            "id": "010079200E85D6A8",
+            "name": "Character Song: Mio"
+        },
+        {
+            "id": "010079200E85D6A9",
+            "name": "Character Song: Nanami"
+        },
+        {
+            "id": "010079200E85D6AA",
+            "name": "Character Song: Juri"
+        },
+        {
+            "id": "010079200E85D6AB",
+            "name": "Character Song: Yurika"
+        },
+        {
+            "id": "010079200E85D6AC",
+            "name": "Character Song: Nem"
+        },
+        {
+            "id": "010079200E85D6AD",
+            "name": "Character Song: Pai"
+        },
+        {
+            "id": "010079200E85D70C",
+            "name": "Character Songs \"Anberyl\" Set of 15"
+        }
+    ],
     "latest": 262144,
     "title": "Omega Labyrinth Life"
 }

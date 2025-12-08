@@ -27,7 +27,1068 @@
     "786432": "B8B5FF35383ACF57",
     "917504": "06E8C0D56C46D968",
     "983040": "520F95F17AE5F7D6",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100B0401174300C",
+            "name": "Monster Hunter Rise Deluxe Kit"
+        },
+        {
+            "id": "0100B0401174300D",
+            "name": "\"Great Baggi Crest\" hairstyle"
+        },
+        {
+            "id": "0100B0401174300E",
+            "name": "\"Airy Short Bob\" hairstyle"
+        },
+        {
+            "id": "0100B0401174300F",
+            "name": "\"Beachy Waves\" hairstyle"
+        },
+        {
+            "id": "0100B04011743010",
+            "name": "Hunter Voice: Master Utsushi"
+        },
+        {
+            "id": "0100B04011743011",
+            "name": "Hunter Voice: Hinoa the Quest Maiden"
+        },
+        {
+            "id": "0100B04011743012",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100B04011743013",
+            "name": "\"Spread Wings\" makeup"
+        },
+        {
+            "id": "0100B04011743014",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100B04011743015",
+            "name": "\"Hero\" face paint"
+        },
+        {
+            "id": "0100B04011743016",
+            "name": "\"Eye Shadow\" makeup"
+        },
+        {
+            "id": "0100B04011743017",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100B04011743018",
+            "name": "\"Attack\" pose set"
+        },
+        {
+            "id": "0100B04011743019",
+            "name": "\"Hurt\" pose set"
+        },
+        {
+            "id": "0100B0401174301A",
+            "name": "\"Fluffy Hood\" Cohoot outfit"
+        },
+        {
+            "id": "0100B0401174301B",
+            "name": "\"Wind-up Cohoot\" Cohoot outfit"
+        },
+        {
+            "id": "0100B0401174301C",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100B0401174301D",
+            "name": "MONSTER HUNTER RISE Pre-order bonus Add-on Content"
+        },
+        {
+            "id": "0100B0401174301E",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100B0401174301F",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100B04011743020",
+            "name": "\"Nine Tails\" Palico layered armor set"
+        },
+        {
+            "id": "0100B04011743021",
+            "name": "\"Long Coat Costume\" Palamute layered armor set"
+        },
+        {
+            "id": "0100B04011743022",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100B04011743023",
+            "name": "\"High Five\" gesture"
+        },
+        {
+            "id": "0100B04011743024",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100B04011743025",
+            "name": "\"Wyverian Earrings\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B04011743026",
+            "name": "\"Fox Mask\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B04011743027",
+            "name": "\"Theater Wig\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B04011743028",
+            "name": "One Character Edit Voucher"
+        },
+        {
+            "id": "0100B04011743029",
+            "name": "Two Character Edit Vouchers"
+        },
+        {
+            "id": "0100B0401174302A",
+            "name": "Three Character Edit Vouchers"
+        },
+        {
+            "id": "0100B0401174302B",
+            "name": "One Character Edit Voucher (Free)"
+        },
+        {
+            "id": "0100B0401174302C",
+            "name": "BGM \"Yukumo Village\""
+        },
+        {
+            "id": "0100B0401174302D",
+            "name": "BGM \"Kamura Village (Piano version)\""
+        },
+        {
+            "id": "0100B0401174302E",
+            "name": "\"Samurai\" hairstyle"
+        },
+        {
+            "id": "0100B0401174302F",
+            "name": "\"Twin Ponytails\" hairstyle"
+        },
+        {
+            "id": "0100B04011743030",
+            "name": "Hunter Voice: Fugen"
+        },
+        {
+            "id": "0100B04011743031",
+            "name": "Hunter Voice: Minoto"
+        },
+        {
+            "id": "0100B04011743032",
+            "name": "\"Tear\" face paint"
+        },
+        {
+            "id": "0100B04011743033",
+            "name": "\"Petit Face\" makeup"
+        },
+        {
+            "id": "0100B04011743034",
+            "name": "\"Idol\" Pose Set"
+        },
+        {
+            "id": "0100B04011743035",
+            "name": "\"Ace Pilot\" Cohoot outfit"
+        },
+        {
+            "id": "0100B04011743036",
+            "name": "\"Menacing Macaw\" Cohoot outfit"
+        },
+        {
+            "id": "0100B04011743037",
+            "name": "\"Special Stickers 1\" Sticker Set"
+        },
+        {
+            "id": "0100B04011743038",
+            "name": "\"Bell Collar\" Palico layered armor"
+        },
+        {
+            "id": "0100B04011743039",
+            "name": "\"Heart Collar\" Palico layered armor"
+        },
+        {
+            "id": "0100B0401174303A",
+            "name": "\"Spiked Collar\" Palico layered armor"
+        },
+        {
+            "id": "0100B0401174303B",
+            "name": "\"Bow Collar\" Palico layered armor"
+        },
+        {
+            "id": "0100B0401174303C",
+            "name": "\"Bone Collar\" Palamute layered armor"
+        },
+        {
+            "id": "0100B0401174303D",
+            "name": "\"Heart Collar\" Palamute layered armor"
+        },
+        {
+            "id": "0100B0401174303E",
+            "name": "\"Spiked Collar\" Palamute layered armor"
+        },
+        {
+            "id": "0100B0401174303F",
+            "name": "\"Bow Collar\" Palamute layered armor"
+        },
+        {
+            "id": "0100B04011743040",
+            "name": "\"Delightful Dance\" Gesture Set"
+        },
+        {
+            "id": "0100B04011743041",
+            "name": "\"Swallow Shirt\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B04011743042",
+            "name": "\"Swallow Gloves\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B04011743043",
+            "name": "\"Swallow Boots\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B04011743044",
+            "name": "\"Special Stickers 2\" Sticker Set"
+        },
+        {
+            "id": "0100B04011743045",
+            "name": "\"Monster Hunter Series Bases\" BGM"
+        },
+        {
+            "id": "0100B04011743046",
+            "name": "\"Monster Music: Dance Version\" BGM"
+        },
+        {
+            "id": "0100B04011743047",
+            "name": "\"Noble Short\" hairstyle"
+        },
+        {
+            "id": "0100B04011743048",
+            "name": "\"Delicate Beauty\" hairstyle"
+        },
+        {
+            "id": "0100B04011743049",
+            "name": "Hunter Voice: Buddy Handler Iori"
+        },
+        {
+            "id": "0100B0401174304A",
+            "name": "Hunter Voice: Yomogi the Chef"
+        },
+        {
+            "id": "0100B0401174304B",
+            "name": "\"Cheek Tusk\" face paint"
+        },
+        {
+            "id": "0100B0401174304C",
+            "name": "\"Stitches\" face paint"
+        },
+        {
+            "id": "0100B0401174304D",
+            "name": "Hide Pose Set"
+        },
+        {
+            "id": "0100B0401174304E",
+            "name": "Using the Wall Pose Set"
+        },
+        {
+            "id": "0100B0401174304F",
+            "name": "\"Out on the Hunt\" Cohoot outfit"
+        },
+        {
+            "id": "0100B04011743050",
+            "name": "\"Li'l Wingdrake\" Cohoot outfit"
+        },
+        {
+            "id": "0100B04011743051",
+            "name": "\"Canyne Mask\" Palico layered armor piece"
+        },
+        {
+            "id": "0100B04011743052",
+            "name": "\"Felyne Mask\" Palamute layered armor piece"
+        },
+        {
+            "id": "0100B04011743053",
+            "name": "\"Felyne Tail\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B04011743054",
+            "name": "\"Canyne Mask\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B04011743055",
+            "name": "\"Felyne Ears\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B04011743056",
+            "name": "\"Canyne Tail\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B04011743057",
+            "name": "\"Special Stickers 3\" sticker set"
+        },
+        {
+            "id": "0100B04011743058",
+            "name": "\"Kamura Village: Summer Remix\" BGM"
+        },
+        {
+            "id": "0100B04011743059",
+            "name": "\"Bob with Hairband\" hairstyle"
+        },
+        {
+            "id": "0100B0401174305A",
+            "name": "\"Royal Dreads\" hairstyle"
+        },
+        {
+            "id": "0100B0401174305B",
+            "name": "Hunter Voice: Kagero the Merchant"
+        },
+        {
+            "id": "0100B0401174305C",
+            "name": "Hunter Voice: Rondine the Trader"
+        },
+        {
+            "id": "0100B0401174305D",
+            "name": "\"Third Eye\" face paint"
+        },
+        {
+            "id": "0100B0401174305E",
+            "name": "\"Cursed Flame\" face paint"
+        },
+        {
+            "id": "0100B0401174305F",
+            "name": "\"Summery Sailor\" Cohoot outfit"
+        },
+        {
+            "id": "0100B04011743060",
+            "name": "\"Puffy Penguin\" Cohoot outfit"
+        },
+        {
+            "id": "0100B04011743061",
+            "name": "\"F Floral Yukata\" Palico layered armor piece"
+        },
+        {
+            "id": "0100B04011743062",
+            "name": "\"C Floral Yukata\" Palamute layered armor piece"
+        },
+        {
+            "id": "0100B04011743063",
+            "name": "\"Traditional Dance\" gesture set"
+        },
+        {
+            "id": "0100B04011743064",
+            "name": "\"Floral Yukata\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B04011743065",
+            "name": "\"Floral Sleeves\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B04011743066",
+            "name": "\"Floral Zori\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B04011743067",
+            "name": "\"Floral Mask\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B04011743068",
+            "name": "\"Special Stickers 4\" sticker set"
+        },
+        {
+            "id": "0100B04011743069",
+            "name": "\"Special Stickers 5\" sticker set"
+        },
+        {
+            "id": "0100B0401174306A",
+            "name": "\"Special Stickers 6\" sticker set"
+        },
+        {
+            "id": "0100B0401174306B",
+            "name": "\"Bombadgy Mask\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B0401174306C",
+            "name": "\"Utsushi Cut\" hairstyle"
+        },
+        {
+            "id": "0100B0401174306D",
+            "name": "Hunter Voice: Big Bro"
+        },
+        {
+            "id": "0100B0401174306E",
+            "name": "Hunter Voice: Cool Girl"
+        },
+        {
+            "id": "0100B0401174306F",
+            "name": "\"DLC 15\" hairstyle"
+        },
+        {
+            "id": "0100B04011743070",
+            "name": "\"DLC 16\" hairstyle"
+        },
+        {
+            "id": "0100B04011743071",
+            "name": "\"DLC 17\" hairstyle"
+        },
+        {
+            "id": "0100B04011743072",
+            "name": "\"Gorgeous Earrings\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B04011743073",
+            "name": "\"Spiribird Earrings\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B04011743074",
+            "name": "\"Woofpurr Earrings\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B04011743075",
+            "name": "\"Bunny Dango Earrings\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B04011743076",
+            "name": "\"Kunai Earrings\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B04011743077",
+            "name": "\"Reindeer Party\" Cohoot outfit"
+        },
+        {
+            "id": "0100B04011743078",
+            "name": "\"Special Stickers 7\" sticker set"
+        },
+        {
+            "id": "0100B04011743079",
+            "name": "\"Hinoa Long\" hairstyle"
+        },
+        {
+            "id": "0100B0401174307A",
+            "name": "\"Minoto Long\" hairstyle"
+        },
+        {
+            "id": "0100B0401174307B",
+            "name": "\"Reverent Wrap\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B0401174307C",
+            "name": "\"Bow Necklace\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B0401174307D",
+            "name": "\"Leather Choker\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B0401174307E",
+            "name": "\"Benevolent Bandage\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B0401174307F",
+            "name": "\"Frilled Choker\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B04011743080",
+            "name": "\"Monster Music: Rock Version\" BGM"
+        },
+        {
+            "id": "0100B04011743081",
+            "name": "\"Felyne Stealth Hood\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B04011743082",
+            "name": "\"Pretty Present\" Cohoot outfit"
+        },
+        {
+            "id": "0100B04011743083",
+            "name": "\"Special Stickers 8\" sticker set"
+        },
+        {
+            "id": "0100B04011743084",
+            "name": "\"Kamura Cloak Garb\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B04011743085",
+            "name": "\"Kamura Cloak Braces\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B04011743086",
+            "name": "\"Topknot Soul\" hairstyle"
+        },
+        {
+            "id": "0100B04011743087",
+            "name": "Hunter Voice: Royal Pain"
+        },
+        {
+            "id": "0100B04011743088",
+            "name": "Hunter Voice: Mood Swings"
+        },
+        {
+            "id": "0100B04011743089",
+            "name": "Monster Hunter Rise: Sunbreak"
+        },
+        {
+            "id": "0100B0401174308A",
+            "name": "Monster Hunter Rise: Sunbreak Deluxe Kit"
+        },
+        {
+            "id": "0100B0401174308B",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100B0401174308C",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100B0401174308D",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100B0401174308E",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100B0401174308F",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100B04011743090",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100B04011743091",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100B04011743092",
+            "name": "MONSTER HUNTER RISE: SUNBREAK Bonus Add-on Content"
+        },
+        {
+            "id": "0100B04011743093",
+            "name": "\"Relunea Glasses\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B04011743094",
+            "name": "\"Relunea Jacket\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B04011743095",
+            "name": "\"Relunea Bottoms\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B04011743096",
+            "name": "\"F Academic\" Palico layered armor set"
+        },
+        {
+            "id": "0100B04011743097",
+            "name": "\"C Academic\" Palamute layered armor set"
+        },
+        {
+            "id": "0100B04011743098",
+            "name": "\"Graceful Dance\" gesture set"
+        },
+        {
+            "id": "0100B04011743099",
+            "name": "Chase pose set"
+        },
+        {
+            "id": "0100B0401174309A",
+            "name": "\"Wild Pompadour\" hairstyle"
+        },
+        {
+            "id": "0100B0401174309B",
+            "name": "\"Braided\" hairstyle"
+        },
+        {
+            "id": "0100B0401174309C",
+            "name": "\"Fierce Eyes\" face paint"
+        },
+        {
+            "id": "0100B0401174309D",
+            "name": "\"Pawprint\" face paint"
+        },
+        {
+            "id": "0100B0401174309E",
+            "name": "\"Special Stickers 9\" sticker set"
+        },
+        {
+            "id": "0100B0401174309F",
+            "name": "One Character Edit Voucher (Batch 2)"
+        },
+        {
+            "id": "0100B040117430A0",
+            "name": "Two Character Edit Vouchers (Batch 2)"
+        },
+        {
+            "id": "0100B040117430A1",
+            "name": "Three Character Edit Vouchers (Batch 2)"
+        },
+        {
+            "id": "0100B040117430BA",
+            "name": "\"Special Stickers 10\" sticker set"
+        },
+        {
+            "id": "0100B040117430BB",
+            "name": "\"For the Fans\" gesture set"
+        },
+        {
+            "id": "0100B040117430BC",
+            "name": "MC Pose Set"
+        },
+        {
+            "id": "0100B040117430BD",
+            "name": "\"Spiribird Edge\" hairstyle"
+        },
+        {
+            "id": "0100B040117430BE",
+            "name": "\"Fiorayne Short\" hairstyle"
+        },
+        {
+            "id": "0100B040117430BF",
+            "name": "\"Malzeno Menace\" face paint"
+        },
+        {
+            "id": "0100B040117430C0",
+            "name": "\"Single Stroke Cheek\" face paint"
+        },
+        {
+            "id": "0100B040117430C1",
+            "name": "\"Summer Hat\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B040117430C2",
+            "name": "\"Summer Top\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B040117430C3",
+            "name": "\"Summer Bracelets\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B040117430C4",
+            "name": "\"Summer Belt\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B040117430C5",
+            "name": "\"Summer Pants\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B040117430C6",
+            "name": "\"F Summer\" Palico layered armor set"
+        },
+        {
+            "id": "0100B040117430C7",
+            "name": "\"C Summer\" Palamute layered armor set"
+        },
+        {
+            "id": "0100B040117430C8",
+            "name": "Hunter Voice: Fiorayne"
+        },
+        {
+            "id": "0100B040117430C9",
+            "name": "Hunter Voice: Galleus"
+        },
+        {
+            "id": "0100B040117430CA",
+            "name": "\"Monster & Title Music: Piano Version\" BGM"
+        },
+        {
+            "id": "0100B040117430CB",
+            "name": "\"Monster Hunter Series Bases Pt. 2\" BGM"
+        },
+        {
+            "id": "0100B040117430CC",
+            "name": "\"Fiorayne\" Hunter layered armor set"
+        },
+        {
+            "id": "0100B040117430CD",
+            "name": "\"Utsushi\" Hunter layered armor set"
+        },
+        {
+            "id": "0100B040117430CE",
+            "name": "\"Special Stickers 11\" sticker set"
+        },
+        {
+            "id": "0100B040117430CF",
+            "name": "\"Acrobat\" gesture set"
+        },
+        {
+            "id": "0100B040117430D0",
+            "name": "\"Unique\" Pose Set"
+        },
+        {
+            "id": "0100B040117430D1",
+            "name": "\"Arlow Dreads\" hairstyle"
+        },
+        {
+            "id": "0100B040117430D2",
+            "name": "\"Fluffy Long\" hairstyle"
+        },
+        {
+            "id": "0100B040117430D3",
+            "name": "\"Ghost\" face paint"
+        },
+        {
+            "id": "0100B040117430D4",
+            "name": "\"Wide Eyeline\" makeup"
+        },
+        {
+            "id": "0100B040117430D5",
+            "name": "\"Fall Scarf\" Hunter layered Armor Piece"
+        },
+        {
+            "id": "0100B040117430D6",
+            "name": "\"Fall Jacket\" Hunter layered Armor Piece"
+        },
+        {
+            "id": "0100B040117430D7",
+            "name": "\"Fall Sleeves\" Hunter layered Armor Piece"
+        },
+        {
+            "id": "0100B040117430D8",
+            "name": "\"Fall Waist\" Hunter layered Armor Piece"
+        },
+        {
+            "id": "0100B040117430D9",
+            "name": "\"Fall Pants\" Hunter layered Armor Piece"
+        },
+        {
+            "id": "0100B040117430DA",
+            "name": "\"Felyne Fall\" Palico Layered Armor Set"
+        },
+        {
+            "id": "0100B040117430DB",
+            "name": "\"Canyne Fall\" Palamute Layered Armor Set"
+        },
+        {
+            "id": "0100B040117430DC",
+            "name": "Hunter Voice: Luchika"
+        },
+        {
+            "id": "0100B040117430DD",
+            "name": "Hunter Voice: Arlow"
+        },
+        {
+            "id": "0100B040117430DE",
+            "name": "\"Monster & Elgado Music: Jazz Version\" BGM"
+        },
+        {
+            "id": "0100B040117430DF",
+            "name": "\"Arlow\" Hunter layered armor set"
+        },
+        {
+            "id": "0100B040117430E0",
+            "name": "\"Lost Code: Asca\" Hunter layered weapon (Great Sword)"
+        },
+        {
+            "id": "0100B040117430E1",
+            "name": "\"Lost Code: Kiri\" Hunter layered weapon (Long Sword)"
+        },
+        {
+            "id": "0100B040117430E2",
+            "name": "\"Lost Code: Carnhan\" Hunter layered weapon (Sword & Shield)"
+        },
+        {
+            "id": "0100B040117430E3",
+            "name": "\"Lost Code: Rah\" Hunter layered weapon (Dual Blades)"
+        },
+        {
+            "id": "0100B040117430E4",
+            "name": "\"Lost Code: Mjo\" Hunter layered weapon (Hammer)"
+        },
+        {
+            "id": "0100B040117430E5",
+            "name": "\"Lost Code: Alos\" Hunter layered weapon (Hunting Horn)"
+        },
+        {
+            "id": "0100B040117430E6",
+            "name": "\"Lost Code: Mia\" Hunter layered weapon (Lance)"
+        },
+        {
+            "id": "0100B040117430E7",
+            "name": "\"Lost Code: Nir\" Hunter layered weapon (Gunlance)"
+        },
+        {
+            "id": "0100B040117430E8",
+            "name": "\"Lost Code: Sara\" Hunter layered weapon (Charge Blade)"
+        },
+        {
+            "id": "0100B040117430E9",
+            "name": "\"Lost Code: Labr\" Hunter layered weapon (Switch Axe)"
+        },
+        {
+            "id": "0100B040117430EA",
+            "name": "\"Lost Code: Telth\" Hunter layered weapon (Insect Glaive)"
+        },
+        {
+            "id": "0100B040117430EB",
+            "name": "\"Lost Code: Kera\" Hunter layered weapon (Light Bowgun)"
+        },
+        {
+            "id": "0100B040117430EC",
+            "name": "\"Lost Code: Jura\" Hunter layered weapon (Heavy Bowgun)"
+        },
+        {
+            "id": "0100B040117430ED",
+            "name": "\"Lost Code: Iru\" Hunter layered weapon (Bow)"
+        },
+        {
+            "id": "0100B040117430EE",
+            "name": "\"Special Stickers 12\" sticker set"
+        },
+        {
+            "id": "0100B040117430EF",
+            "name": "\"Wild & Elegant\" gesture set"
+        },
+        {
+            "id": "0100B040117430F0",
+            "name": "\"Attack\" Pose Set 2"
+        },
+        {
+            "id": "0100B040117430F1",
+            "name": "\"Princely Tail\" hairstyle"
+        },
+        {
+            "id": "0100B040117430F2",
+            "name": "\"Princess Curls\" hairstyle"
+        },
+        {
+            "id": "0100B040117430F3",
+            "name": "\"High-brows\" makeup"
+        },
+        {
+            "id": "0100B040117430F4",
+            "name": "\"Mizutsune\" face paint"
+        },
+        {
+            "id": "0100B040117430F5",
+            "name": "\"Fluffy Fur Hat\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B040117430F6",
+            "name": "\"Fluffy Fur Robe\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B040117430F7",
+            "name": "\"Fluffy Fur Gloves\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B040117430F8",
+            "name": "\"Fluffy Fur Belt\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B040117430F9",
+            "name": "\"Fluffy Fur Boots\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B040117430FA",
+            "name": "\"Felyne Fluffy Fur\" Palico layered armor set"
+        },
+        {
+            "id": "0100B040117430FB",
+            "name": "\"Canyne Fluffy Fur\" Palamute layered armor set"
+        },
+        {
+            "id": "0100B040117430FC",
+            "name": "Hunter Voice: Chichae"
+        },
+        {
+            "id": "0100B040117430FD",
+            "name": "Hunter Voice: Bahari"
+        },
+        {
+            "id": "0100B040117430FE",
+            "name": "Hunter Voice: Kagami"
+        },
+        {
+            "id": "0100B040117430FF",
+            "name": "\"Proof of a Hero & Monster Music: Various Arrangements\" BGM"
+        },
+        {
+            "id": "0100B04011743100",
+            "name": "\"Hinoa\" Hunter layered armor set"
+        },
+        {
+            "id": "0100B04011743101",
+            "name": "\"Stuffed Rathalos\" Hunter layered weapon (Great Sword)"
+        },
+        {
+            "id": "0100B04011743102",
+            "name": "\"Stuffed Nargacuga\" Hunter layered weapon (Long Sword)"
+        },
+        {
+            "id": "0100B04011743103",
+            "name": "\"Stuffed Zinogre\" Hunter layered weapon (Sword & Shield)"
+        },
+        {
+            "id": "0100B04011743104",
+            "name": "\"Stuffed Goss Harag\" Hunter layered weapon (Dual Blades)"
+        },
+        {
+            "id": "0100B04011743105",
+            "name": "\"Stuffed Diablos\" Hunter layered weapon (Hammer)"
+        },
+        {
+            "id": "0100B04011743106",
+            "name": "\"Stuffed Tigrex\" Hunter layered weapon (Hunting Horn)"
+        },
+        {
+            "id": "0100B04011743107",
+            "name": "\"Stuffed Malzeno\" Hunter layered weapon (Lance)"
+        },
+        {
+            "id": "0100B04011743108",
+            "name": "\"Stuffed Magnamalo\" Hunter layered weapon (Gunlance)"
+        },
+        {
+            "id": "0100B04011743109",
+            "name": "\"Stuffed Garangolm\" Hunter layered weapon (Charge Blade)"
+        },
+        {
+            "id": "0100B0401174310A",
+            "name": "\"Stuffed Lunagaron\" Hunter layered weapon (Switch Axe)"
+        },
+        {
+            "id": "0100B0401174310B",
+            "name": "\"Stuffed Rakna-Kadaki\" Hunter layered weapon (Insect Glaive)"
+        },
+        {
+            "id": "0100B0401174310C",
+            "name": "\"Stuffed Khezu\" Hunter layered weapon (Light Bowgun)"
+        },
+        {
+            "id": "0100B0401174310D",
+            "name": "\"Stuffed Mizutsune\" Hunter layered weapon (Heavy Bowgun)"
+        },
+        {
+            "id": "0100B0401174310E",
+            "name": "\"Stuffed Rajang\" Hunter layered weapon (Bow)"
+        },
+        {
+            "id": "0100B0401174310F",
+            "name": "\"Special Stickers 13\" sticker set"
+        },
+        {
+            "id": "0100B04011743110",
+            "name": "\"Model Walk\" gesture set"
+        },
+        {
+            "id": "0100B04011743111",
+            "name": "Musical Pose Set"
+        },
+        {
+            "id": "0100B04011743112",
+            "name": "\"Jae Cut\" hairstyle"
+        },
+        {
+            "id": "0100B04011743113",
+            "name": "\"Elegant\" hairstyle"
+        },
+        {
+            "id": "0100B04011743114",
+            "name": "\"Palico\" makeup"
+        },
+        {
+            "id": "0100B04011743115",
+            "name": "\"Cohoot\" face paint"
+        },
+        {
+            "id": "0100B04011743116",
+            "name": "\"Lance Gunn\" Hunter layered armor set"
+        },
+        {
+            "id": "0100B04011743117",
+            "name": "\"Ran Page\" Hunter layered armor set"
+        },
+        {
+            "id": "0100B04011743118",
+            "name": "\"Kit T.\" Palico layered armor set"
+        },
+        {
+            "id": "0100B04011743119",
+            "name": "\"Pup R.\" Palamute layered armor set"
+        },
+        {
+            "id": "0100B0401174311A",
+            "name": "\"Velkhana Costume\" Palamute layered armor set"
+        },
+        {
+            "id": "0100B0401174311B",
+            "name": "Hunter Voice: Minayle"
+        },
+        {
+            "id": "0100B0401174311C",
+            "name": "Hunter Voice: Tadori"
+        },
+        {
+            "id": "0100B0401174311D",
+            "name": "\"Monster & Stage Music: Chiptune Version\" BGM"
+        },
+        {
+            "id": "0100B0401174311E",
+            "name": "\"Minoto\" Hunter layered armor set"
+        },
+        {
+            "id": "0100B0401174311F",
+            "name": "\"Special Stickers 14\" sticker set"
+        },
+        {
+            "id": "0100B04011743120",
+            "name": "\"Bahari Locks\" hairstyle"
+        },
+        {
+            "id": "0100B04011743121",
+            "name": "\"Asymmetric Cut\" hairstyle"
+        },
+        {
+            "id": "0100B04011743122",
+            "name": "\"Mechanical\" face paint"
+        },
+        {
+            "id": "0100B04011743123",
+            "name": "\"Risen\" face paint"
+        },
+        {
+            "id": "0100B04011743124",
+            "name": "\"Wild Head\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B04011743125",
+            "name": "\"Wild Body\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B04011743126",
+            "name": "\"Wild Arms\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B04011743127",
+            "name": "\"Wild Waist\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B04011743128",
+            "name": "\"Wild Legs\" Hunter layered armor piece"
+        },
+        {
+            "id": "0100B04011743129",
+            "name": "Hunter Voice: Oboro"
+        },
+        {
+            "id": "0100B0401174312A",
+            "name": "Hunter Voice: Jae"
+        },
+        {
+            "id": "0100B0401174312B",
+            "name": "\"Stage & Title Music: Chill Version\" BGM"
+        },
+        {
+            "id": "0100B0401174312C",
+            "name": "\"Rondine\" Hunter layered armor set"
+        }
+    ],
     "latest": 2228224,
     "title": "Monster Hunter Rise"
 }

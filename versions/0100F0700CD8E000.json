@@ -2,7 +2,20 @@
     "0": "47F64E0A2EBFF34C",
     "131072": "C653D64808CB1643",
     "65536": "C7A8C42D385B2B4E",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100F0700CD8F001",
+            "name": "Experience Master Orb"
+        },
+        {
+            "id": "0100F0700CD8F002",
+            "name": "Encounter Master Orb"
+        },
+        {
+            "id": "0100F0700CD8F003",
+            "name": "Damage Master Orb"
+        }
+    ],
     "latest": 131072,
     "title": "Alvastia Chronicles"
 }

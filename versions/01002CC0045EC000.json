@@ -1,7 +1,36 @@
 {
     "0": "0B00FE5795B411A3",
     "65536": "CBC9DF0991BAA09F",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01002CC0045ED001",
+            "name": "Kane Recruitment Ticket"
+        },
+        {
+            "id": "01002CC0045ED002",
+            "name": "Laisa Recruitment Ticket"
+        },
+        {
+            "id": "01002CC0045ED003",
+            "name": "Cindy Recruitment Ticket"
+        },
+        {
+            "id": "01002CC0045ED006",
+            "name": "Fast Growth Pack"
+        },
+        {
+            "id": "01002CC0045ED007",
+            "name": "Premium Item Pack"
+        },
+        {
+            "id": "01002CC0045ED008",
+            "name": "Stat Boost Pack"
+        },
+        {
+            "id": "01002CC0045ED009",
+            "name": "Starter Pack"
+        }
+    ],
     "latest": 65536,
     "title": "Game of Dragons"
 }

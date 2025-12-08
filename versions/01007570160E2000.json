@@ -2,7 +2,36 @@
     "0": "CE5D6E8257D33186",
     "131072": "82A0AD97533408F5",
     "65536": "82A0AD97533408F5",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01007570160E3001",
+            "name": "Gotta Protectors: Cart of Darkness DLC Pack 1: Mega Blastin' Trax + Bonus Scenario A"
+        },
+        {
+            "id": "01007570160E3002",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01007570160E3003",
+            "name": "Gotta Protectors: Cart of Darkness DLC Pack 2: Pocket Power Trax + Bonus Scenario B"
+        },
+        {
+            "id": "01007570160E3004",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01007570160E3005",
+            "name": "Gotta Protectors: Cart of Darkness DLC Pack 3: Japanicom Trax + Bonus Scenario C"
+        },
+        {
+            "id": "01007570160E3006",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01007570160E3007",
+            "name": "Gotta Protectors: Cart of Darkness DLC Pack 4: Super Wavetable Trax + Bonus Scenario D"
+        }
+    ],
     "latest": 131072,
     "title": "Gotta Protectors: Cart of Darkness"
 }

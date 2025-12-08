@@ -6,7 +6,20 @@
     "393216": "581E4496C17015A8",
     "458752": "E143C47085467172",
     "589824": "3956116C594CFD92",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010060801843B002",
+            "name": "Rubber Bandits: Supporter Pack"
+        },
+        {
+            "id": "010060801843B003",
+            "name": "Rubber Bandits: Go Wild Pack"
+        },
+        {
+            "id": "010060801843B004",
+            "name": "Rubber Bandits: Fur Party Pack"
+        }
+    ],
     "latest": 589824,
     "title": "Rubber Bandits"
 }

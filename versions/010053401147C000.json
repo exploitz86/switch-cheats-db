@@ -9,7 +9,16 @@
     "524288": "FB22F3908566634E",
     "589824": "799F10E230D20943",
     "65536": "8793499520537347",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010053401147D001",
+            "name": "2K / adidas CodeChaos MyPLAYER Pack"
+        },
+        {
+            "id": "010053401147D002",
+            "name": "Golden Touch Pack"
+        }
+    ],
     "latest": 589824,
     "title": "PGA TOUR 2K21"
 }

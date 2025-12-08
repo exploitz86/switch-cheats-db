@@ -23,7 +23,112 @@
     "720896": "3F7C6DFED0AC9604",
     "851968": "58752013BAE07FB9",
     "917504": "0C8511B5474A248D",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01001E30126A1005",
+            "name": "DLC: Arcueid Round Announcements"
+        },
+        {
+            "id": "01001E30126A1006",
+            "name": "DLC: Ciel Round Announcements"
+        },
+        {
+            "id": "01001E30126A1007",
+            "name": "DLC: Akiha Tohno Round Announcements"
+        },
+        {
+            "id": "01001E30126A1008",
+            "name": "DLC: Hisui Round Announcements"
+        },
+        {
+            "id": "01001E30126A1009",
+            "name": "DLC: Kohaku Round Announcements"
+        },
+        {
+            "id": "01001E30126A100A",
+            "name": "DLC: Shiki Tohno Round Announcements"
+        },
+        {
+            "id": "01001E30126A100B",
+            "name": "DLC: Kouma Kishima Round Announcements"
+        },
+        {
+            "id": "01001E30126A100C",
+            "name": "DLC: Noel Round Announcements"
+        },
+        {
+            "id": "01001E30126A100D",
+            "name": "DLC: Vlov Round Announcements"
+        },
+        {
+            "id": "01001E30126A100E",
+            "name": "DLC: Roa Round Announcements"
+        },
+        {
+            "id": "01001E30126A100F",
+            "name": "DLC: Miyako Arima Round Announcements"
+        },
+        {
+            "id": "01001E30126A1010",
+            "name": "DLC: Red Arcueid Round Announcements"
+        },
+        {
+            "id": "01001E30126A1011",
+            "name": "DLC: Saber Round Announcements"
+        },
+        {
+            "id": "01001E30126A1012",
+            "name": "DLC: Round Announcements - 13 Character Set"
+        },
+        {
+            "id": "01001E30126A1013",
+            "name": "DLC: Playable Character - Dead Apostle Noel"
+        },
+        {
+            "id": "01001E30126A1014",
+            "name": "DLC: Playable Character - Aoko Aozaki"
+        },
+        {
+            "id": "01001E30126A1015",
+            "name": "DLC: Dead Apostle Noel Round Announcements"
+        },
+        {
+            "id": "01001E30126A1016",
+            "name": "DLC: Aoko Aozaki Round Announcements"
+        },
+        {
+            "id": "01001E30126A1017",
+            "name": "DLC: Playable Character - Powered Ciel"
+        },
+        {
+            "id": "01001E30126A1018",
+            "name": "DLC: Playable Character - Mario"
+        },
+        {
+            "id": "01001E30126A1019",
+            "name": "DLC: Powered Ciel Round Announcements"
+        },
+        {
+            "id": "01001E30126A101A",
+            "name": "DLC: Mario Round Announcements"
+        },
+        {
+            "id": "01001E30126A1038",
+            "name": "DLC: Neco-Arc Round Announcements"
+        },
+        {
+            "id": "01001E30126A1039",
+            "name": "DLC: Mash Round Announcements"
+        },
+        {
+            "id": "01001E30126A103A",
+            "name": "DLC: Ushiwakamaru Round Announcements"
+        },
+        {
+            "id": "01001E30126A103B",
+            "name": "DLC: The Count of Monte Cristo Round Announcements"
+        }
+    ],
     "latest": 1966080,
     "title": "MELTY BLOOD: TYPE LUMINA - Deluxe Edition"
 }

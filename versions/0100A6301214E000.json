@@ -4,7 +4,16 @@
     "262144": "B98244D9F41763D6",
     "327680": "8C08B9719E085F91",
     "65536": "A21373DFC58390C9",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100A6301214F001",
+            "name": "DLC Wave 1"
+        },
+        {
+            "id": "0100A6301214F002",
+            "name": "Order of Heroes Item Set"
+        }
+    ],
     "latest": 327680,
     "title": "Fire Emblem\u2122 Engage"
 }

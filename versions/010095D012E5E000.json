@@ -1,7 +1,112 @@
 {
     "0": "5159E46B78F73070",
     "65536": "929D9160BA57A570",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010095D012E5F001",
+            "name": "Season Pass Bonus"
+        },
+        {
+            "id": "010095D012E5F002",
+            "name": "Additional Military Unit/Scenario/Gems/Ancient Officers Set"
+        },
+        {
+            "id": "010095D012E5F003",
+            "name": "Male Custom Zhao Yun Set"
+        },
+        {
+            "id": "010095D012E5F004",
+            "name": "Male Custom Guo Jia Set"
+        },
+        {
+            "id": "010095D012E5F005",
+            "name": "Male Custom Lu Xun Set"
+        },
+        {
+            "id": "010095D012E5F006",
+            "name": "Female Custom Xin Xianying Set"
+        },
+        {
+            "id": "010095D012E5F007",
+            "name": "Female Custom Lu Lingqi Set"
+        },
+        {
+            "id": "010095D012E5F009",
+            "name": "Unisex Custom Azure Dragon Armor Set"
+        },
+        {
+            "id": "010095D012E5F00A",
+            "name": "Unisex Custom White Tiger Armor Set"
+        },
+        {
+            "id": "010095D012E5F00B",
+            "name": "Unisex Custom Vermilion Bird Armor Set"
+        },
+        {
+            "id": "010095D012E5F00C",
+            "name": "Unisex Custom Black Tortoise Armor Set"
+        },
+        {
+            "id": "010095D012E5F00D",
+            "name": "Unisex Custom Fox Costume Set"
+        },
+        {
+            "id": "010095D012E5F00E",
+            "name": "Unisex Custom Panda Costume Set"
+        },
+        {
+            "id": "010095D012E5F00F",
+            "name": "Unisex Custom Angelic Armor Set"
+        },
+        {
+            "id": "010095D012E5F010",
+            "name": "Unisex Custom Demonic Armor Set"
+        },
+        {
+            "id": "010095D012E5F011",
+            "name": "Male Custom Ogre God Set & Female Custom Fu Hao Set"
+        },
+        {
+            "id": "010095D012E5F012",
+            "name": "Male Custom Regal Set & Female Custom Empress Dowager Set"
+        },
+        {
+            "id": "010095D012E5F013",
+            "name": "Unisex Custom Cunning Concealment Set"
+        },
+        {
+            "id": "010095D012E5F014",
+            "name": "Male Custom Heretic Set & Female Custom Sage Set"
+        },
+        {
+            "id": "010095D012E5F015",
+            "name": "Unisex Custom Steel Set"
+        },
+        {
+            "id": "010095D012E5F016",
+            "name": "Unisex Custom Dragoon Set"
+        },
+        {
+            "id": "010095D012E5F017",
+            "name": "Far Eastern Palace"
+        },
+        {
+            "id": "010095D012E5F018",
+            "name": "Panda Palace"
+        },
+        {
+            "id": "010095D012E5F019",
+            "name": "Dream Fortress"
+        },
+        {
+            "id": "010095D012E5F01A",
+            "name": "School Gymnasium"
+        },
+        {
+            "id": "010095D012E5F01B",
+            "name": "Idol Stage"
+        }
+    ],
     "latest": 65536,
     "title": "Dynasty Warriors 9 Empires"
 }

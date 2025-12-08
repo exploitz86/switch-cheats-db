@@ -1,6 +1,11 @@
 {
     "0": "A58A99E2C23EA765",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100229018A5D001",
+            "name": "World of Deadliest Catch - DLC Pack"
+        }
+    ],
     "latest": 0,
     "title": "Deadliest Catch - Ocean Boat Driving & Fishing 2022 Simulator"
 }

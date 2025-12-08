@@ -6,7 +6,64 @@
     "327680": "FB0CC21443D82AC5",
     "393216": "E7DC95E1EB28A338",
     "65536": "814ED94F122CAC4C",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100A7000BD29001",
+            "name": "Basic Chapter - 36 new drawings (Cats, Ocean, Farm, Girls Room, Construction Site and Dinosaurs)"
+        },
+        {
+            "id": "0100A7000BD29002",
+            "name": "Om Nom Chapter - 13 new drawings (Labo, Nommies, Supernom)"
+        },
+        {
+            "id": "0100A7000BD29003",
+            "name": "Whiteboards - 17 more whiteboards!"
+        },
+        {
+            "id": "0100A7000BD29004",
+            "name": "Coloring Book: Adventure Chapter - 29 drawings"
+        },
+        {
+            "id": "0100A7000BD29005",
+            "name": "Coloring Book: Classic Tales - 29 new drawings"
+        },
+        {
+            "id": "0100A7000BD29006",
+            "name": "Coloring Book: Treasure Adventure - 29 drawings"
+        },
+        {
+            "id": "0100A7000BD29007",
+            "name": "Coloring Book: Ocean Animals - 29 new drawings"
+        },
+        {
+            "id": "0100A7000BD29008",
+            "name": "Coloring Book: Farm Life - 29 new drawings"
+        },
+        {
+            "id": "0100A7000BD29009",
+            "name": "Coloring Book: Cosmos Fun - 29 new drawings"
+        },
+        {
+            "id": "0100A7000BD2900A",
+            "name": "Coloring Book: Sweet Princesses - 29 new drawings"
+        },
+        {
+            "id": "0100A7000BD2900B",
+            "name": "Coloring Book: Silly Animals - 29 new drawings"
+        },
+        {
+            "id": "0100A7000BD2900C",
+            "name": "Coloring Book: Family & Home"
+        },
+        {
+            "id": "0100A7000BD2900D",
+            "name": "Coloring Book: Vehicles"
+        },
+        {
+            "id": "0100A7000BD2900E",
+            "name": "Coloring Book: Costume Party"
+        }
+    ],
     "latest": 393216,
     "title": "Coloring Book"
 }

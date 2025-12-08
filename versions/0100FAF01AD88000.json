@@ -1,7 +1,16 @@
 {
     "0": "6F289E6E41263F0E",
     "65536": "E2FBA695C67481B2",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100FAF01AD89001",
+            "name": "Dessert DIY: Nasty ingredients"
+        },
+        {
+            "id": "0100FAF01AD89002",
+            "name": "Dessert DIY: Premium ingredients"
+        }
+    ],
     "latest": 65536,
     "title": "Dessert DIY"
 }

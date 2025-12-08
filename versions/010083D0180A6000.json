@@ -1,7 +1,36 @@
 {
     "0": "B3D5A56CAD74EC0A",
     "131072": "19A54951C2995A8A",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010083D0180A7001",
+            "name": "Aliens: Fireteam Elite - Pathogen"
+        },
+        {
+            "id": "010083D0180A7002",
+            "name": "Aliens: Fireteam Elite - Hardened Marine Pack"
+        },
+        {
+            "id": "010083D0180A7003",
+            "name": "Aliens: Fireteam Elite - Endeavor Veteran Pack"
+        },
+        {
+            "id": "010083D0180A7004",
+            "name": "Aliens: Fireteam Elite - Wey-Yu Armoury"
+        },
+        {
+            "id": "010083D0180A7005",
+            "name": "Aliens: Fireteam Elite - Nostromo Salvage"
+        },
+        {
+            "id": "010083D0180A7006",
+            "name": "Aliens: Fireteam Elite - UACM Frontline"
+        },
+        {
+            "id": "010083D0180A7007",
+            "name": "Aliens: Fireteam Elite - Frontier Freelancer"
+        }
+    ],
     "latest": 131072,
     "title": "Aliens: Fireteam Elite"
 }

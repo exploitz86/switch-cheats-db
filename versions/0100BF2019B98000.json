@@ -2,7 +2,20 @@
     "0": "3018FC6E68390097",
     "131072": "0D7A9980C2715454",
     "196608": "CB7327022A41C1A3",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100BF2019B993E8",
+            "name": "Kizuna AI - Touch the Beat! DLC Costume 1: hello, world 2020"
+        },
+        {
+            "id": "0100BF2019B993E9",
+            "name": "Kizuna AI - Touch the Beat! DLC Costume 2: A.I. Party! 2018"
+        },
+        {
+            "id": "0100BF2019B993EA",
+            "name": "Kizuna AI - Touch the Beat! DLC Model (Costume) \"#kzn\" + Additional Song \"DOGS \u2318HYNOME feat. #kzn\""
+        }
+    ],
     "latest": 196608,
     "title": "Kizuna AI - Touch the Beat!"
 }

@@ -12,7 +12,12 @@
     "655360": "BACEFD326FD85D20",
     "720896": "3772F0D87D987EC4",
     "786432": "506E009E09F089EA",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100C06015FF9001",
+            "name": "Winkeltje - Cat Companion"
+        }
+    ],
     "latest": 786432,
     "title": "Winkeltje: The Little Shop"
 }

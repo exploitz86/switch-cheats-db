@@ -2,7 +2,20 @@
     "0": "F778336CA893CFA4",
     "196608": "7DE67C4490F337D9",
     "262144": "12A0001E88E6E2EA",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100ADA00AD2F001",
+            "name": "Pandemic: On the Brink - Virulent Strain"
+        },
+        {
+            "id": "0100ADA00AD2F002",
+            "name": "Pandemic: On the Brink - Roles & Events"
+        },
+        {
+            "id": "0100ADA00AD2F003",
+            "name": "Pandemic: On the Brink - Mutation"
+        }
+    ],
     "latest": 262144,
     "title": "Pandemic"
 }

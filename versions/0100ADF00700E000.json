@@ -2,7 +2,28 @@
     "0": "ABFC7BBDCC89AA49",
     "131072": "C3EBE178B8D5204F",
     "65536": "358DC43A0308C847",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100ADF00700F001",
+            "name": "Satura's Space Adventure"
+        },
+        {
+            "id": "0100ADF00700F002",
+            "name": "Anime Pack"
+        },
+        {
+            "id": "0100ADF00700F003",
+            "name": "Professionals Pack"
+        },
+        {
+            "id": "0100ADF00700F004",
+            "name": "Steampunk Pack"
+        },
+        {
+            "id": "0100ADF00700F005",
+            "name": "Winter Pack"
+        }
+    ],
     "latest": 131072,
     "title": "Runbow"
 }

@@ -2,7 +2,28 @@
     "0": "192A2CA0EBEB9845",
     "131072": "77CFC4236645D44F",
     "65536": "505A98444C62B14A",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01006E800B7F3001",
+            "name": "Experience High-Orb"
+        },
+        {
+            "id": "01006E800B7F3002",
+            "name": "Skill Point High-Orb"
+        },
+        {
+            "id": "01006E800B7F3003",
+            "name": "Skill Level High-Orb"
+        },
+        {
+            "id": "01006E800B7F3004",
+            "name": "Boost Orb Set"
+        },
+        {
+            "id": "01006E800B7F3005",
+            "name": "Damage Orb"
+        }
+    ],
     "latest": 131072,
     "title": "Fernz Gate"
 }

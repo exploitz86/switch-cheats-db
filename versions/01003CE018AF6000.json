@@ -8,7 +8,84 @@
     "458752": "3DB39009F53C805D",
     "589824": "A70D347CF6AAACF3",
     "65536": "D10A6C1119B1063C",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01003CE018AF7065",
+            "name": "Tsumugi's Costume: Uniform (Cool)"
+        },
+        {
+            "id": "01003CE018AF7066",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01003CE018AF7067",
+            "name": "Iyo's Costume: Oda Clan Outfit (White)"
+        },
+        {
+            "id": "01003CE018AF7068",
+            "name": "Hagane's Costume: Shogunate Outfit (White & Red)"
+        },
+        {
+            "id": "01003CE018AF7069",
+            "name": "Komimi's Costume: Onmyoji Dress (Purple)"
+        },
+        {
+            "id": "01003CE018AF70C8",
+            "name": "Tsumugi's Costume: Victory Swimsuit 4-Color Set"
+        },
+        {
+            "id": "01003CE018AF70D2",
+            "name": "Iyo's Costume: Victory Swimsuit 4-Color Set"
+        },
+        {
+            "id": "01003CE018AF70DC",
+            "name": "Hagane's Costume: Victory Swimsuit 4-Color Set"
+        },
+        {
+            "id": "01003CE018AF70E6",
+            "name": "Komimi's Costume: Victory Swimsuit 4-Color Set"
+        },
+        {
+            "id": "01003CE018AF712C",
+            "name": "Tsumugi's Costume: Sengoku Samurai Girl 4-Color Set"
+        },
+        {
+            "id": "01003CE018AF7190",
+            "name": "Iyo's Costume: Matching Uniform 4-Color Set"
+        },
+        {
+            "id": "01003CE018AF719A",
+            "name": "Hagane's Costume: Matching Uniform 4-Color Set"
+        },
+        {
+            "id": "01003CE018AF71A4",
+            "name": "Komimi's Costume: Matching Uniform 4-Color Set"
+        },
+        {
+            "id": "01003CE018AF71F5",
+            "name": "Tsumugi's Weapon: Luminous Eliminator"
+        },
+        {
+            "id": "01003CE018AF7259",
+            "name": "Extra BGM: Kotonohanisaku (Tsumugi Ver.)"
+        },
+        {
+            "id": "01003CE018AF725A",
+            "name": "Extra BGM: Kotonohanisaku (Iyo Ver.)"
+        },
+        {
+            "id": "01003CE018AF725B",
+            "name": "Extra BGM: Kotonohanisaku (Hagane Ver.)"
+        },
+        {
+            "id": "01003CE018AF725C",
+            "name": "Extra BGM: Kotonohanisaku (Komimi Ver.)"
+        },
+        {
+            "id": "01003CE018AF72BD",
+            "name": "Extra BGM: Bullet Girls Special Sound Pack"
+        }
+    ],
     "latest": 589824,
     "title": "SAMURAI MAIDEN"
 }

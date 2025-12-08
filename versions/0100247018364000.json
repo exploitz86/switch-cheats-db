@@ -2,7 +2,12 @@
     "0": "E67942D877ACC444",
     "131072": "DBD5D4D25151E942",
     "65536": "87D102CDA5F88F4B",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100247018365001",
+            "name": "Puzzle Collection: New Pieces"
+        }
+    ],
     "latest": 131072,
     "title": "Puzzle Collection"
 }

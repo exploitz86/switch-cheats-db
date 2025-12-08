@@ -1,7 +1,32 @@
 {
     "0": "C8E422B0FBFAA89D",
     "196608": "E7D8B870B7F798CB",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01007B900A509001",
+            "name": "Additional scenario 1"
+        },
+        {
+            "id": "01007B900A509002",
+            "name": "Additional Scenario 2"
+        },
+        {
+            "id": "01007B900A509003",
+            "name": "Additional Scenario 3"
+        },
+        {
+            "id": "01007B900A509004",
+            "name": "Additional Scenario 4"
+        },
+        {
+            "id": "01007B900A509005",
+            "name": "Additional Scenario 5"
+        },
+        {
+            "id": "01007B900A509006",
+            "name": "Additional Scenario 6"
+        }
+    ],
     "latest": 196608,
     "title": "Pure / Electric Love \"What do you want?\" - Eri Kitami -"
 }

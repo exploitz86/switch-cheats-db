@@ -1,7 +1,20 @@
 {
     "0": "667C4894D226D6DB",
     "65536": "D381E1D9DB787F3D",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01003CE01B40B001",
+            "name": "Eroblast: 24 HOT WAIFUS"
+        },
+        {
+            "id": "01003CE01B40B002",
+            "name": "Eroblast: Spicy Pack"
+        },
+        {
+            "id": "01003CE01B40B003",
+            "name": "Eroblast: Passion Pack"
+        }
+    ],
     "latest": 65536,
     "title": "Eroblast: Waifu Dating Sim"
 }

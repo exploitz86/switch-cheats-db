@@ -1,7 +1,80 @@
 {
     "0": "09DCA7DCB1357B2E",
     "65536": "501AC89610199626",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01004950197B3065",
+            "name": "Extra Episode: Cyan"
+        },
+        {
+            "id": "01004950197B3066",
+            "name": "Extra Episode: Elise"
+        },
+        {
+            "id": "01004950197B3067",
+            "name": "Extra Episode: Zantis"
+        },
+        {
+            "id": "01004950197B3068",
+            "name": "Extra Episode: Violet"
+        },
+        {
+            "id": "01004950197B30C9",
+            "name": "Azure Dragon Sword (Cyan)"
+        },
+        {
+            "id": "01004950197B30CA",
+            "name": "Crimson Lotus Bow (Elise)"
+        },
+        {
+            "id": "01004950197B30CB",
+            "name": "White Tiger Axe (Zantis)"
+        },
+        {
+            "id": "01004950197B312D",
+            "name": "Crystal Set"
+        },
+        {
+            "id": "01004950197B312E",
+            "name": "Pill Set"
+        },
+        {
+            "id": "01004950197B312F",
+            "name": "Novice Scavenger Set"
+        },
+        {
+            "id": "01004950197B3130",
+            "name": "Expert Scavenger Set"
+        },
+        {
+            "id": "01004950197B3131",
+            "name": "Novice Crafting Set"
+        },
+        {
+            "id": "01004950197B3132",
+            "name": "Intermediate Crafting Set"
+        },
+        {
+            "id": "01004950197B3133",
+            "name": "Advanced Crafting Set"
+        },
+        {
+            "id": "01004950197B3134",
+            "name": "Purchase Permit: Mega Potion"
+        },
+        {
+            "id": "01004950197B3135",
+            "name": "Booster Item Set 1"
+        },
+        {
+            "id": "01004950197B3136",
+            "name": "Booster Item Set 2"
+        },
+        {
+            "id": "01004950197B31F6",
+            "name": "Dad's Keepsakes"
+        }
+    ],
     "latest": 65536,
     "title": "Trinity Trigger"
 }

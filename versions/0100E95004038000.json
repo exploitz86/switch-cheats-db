@@ -2,7 +2,36 @@
     "0": "5087AF2917D85858",
     "917504": "D007651BC7C6A51E",
     "983040": "F77F1559371C0EC6",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100E95004039001",
+            "name": "Xenoblade Chronicles 2: Torna ~ The Golden Country"
+        },
+        {
+            "id": "0100E95004039002",
+            "name": "New Quests Pack"
+        },
+        {
+            "id": "0100E95004039003",
+            "name": "New Rare Blade Pack"
+        },
+        {
+            "id": "0100E95004039004",
+            "name": "New Challenge Mode Pack"
+        },
+        {
+            "id": "0100E95004039005",
+            "name": "Helpful Items Pack"
+        },
+        {
+            "id": "0100E95004039006",
+            "name": "Xenoblade Chronicles 2 \u2013 My Nintendo Bonus Items"
+        },
+        {
+            "id": "0100E95004039063",
+            "name": "Japanese-Voice Pack"
+        }
+    ],
     "latest": 983040,
     "title": "Xenoblade Chronicles\u2122 2"
 }

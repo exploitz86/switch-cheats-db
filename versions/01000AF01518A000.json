@@ -20,7 +20,24 @@
     "851968": "75179BE7AC21C288",
     "917504": "EF949E6D9BA6662D",
     "983040": "F8BD1EC7CE442F30",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01000AF01518B001",
+            "name": "The Clockwork Expansion"
+        },
+        {
+            "id": "01000AF01518B002",
+            "name": "The Riverfolk Expansion"
+        },
+        {
+            "id": "01000AF01518B003",
+            "name": "Exiles & Partisans & Vagabonds"
+        },
+        {
+            "id": "01000AF01518B004",
+            "name": "The Underworld Expansion"
+        }
+    ],
     "latest": 1376256,
     "title": "Root"
 }

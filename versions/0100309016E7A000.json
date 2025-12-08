@@ -9,7 +9,48 @@
     "524288": "083096496C84976C",
     "589824": "14C878ECCA9D7CB5",
     "65536": "8BB6740672F4BEB2",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100309016E7B001",
+            "name": "Character Unlock Key (Kimetsu Academy Tanjiro Kamado)"
+        },
+        {
+            "id": "0100309016E7B002",
+            "name": "Character Unlock Key (Kimetsu Academy Nezuko Kamado, Kimetsu Academy Zenitsu Agatsuma, Kimetsu Academy Inosuke Hashibira)"
+        },
+        {
+            "id": "0100309016E7B003",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100309016E7B005",
+            "name": "Tengen Uzui Character Pack"
+        },
+        {
+            "id": "0100309016E7B006",
+            "name": "Nezuko Kamado (Advanced Demon Form) Character Pack"
+        },
+        {
+            "id": "0100309016E7B007",
+            "name": "Tanjiro Kamado (Entertainment District) Character Pack"
+        },
+        {
+            "id": "0100309016E7B008",
+            "name": "Zenitsu Agatsuma (Entertainment District) Character Pack"
+        },
+        {
+            "id": "0100309016E7B009",
+            "name": "Inosuke Hashibira (Entertainment District) Character Pack"
+        },
+        {
+            "id": "0100309016E7B00A",
+            "name": "Daki Character Pack"
+        },
+        {
+            "id": "0100309016E7B00B",
+            "name": "Gyutaro Character Pack"
+        }
+    ],
     "latest": 589824,
     "title": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles"
 }

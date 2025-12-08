@@ -2,7 +2,24 @@
     "0": "D0560C177D2A5A4F",
     "131072": "744301D94DFE9B4A",
     "458752": "19B62EA84F8E5C47",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01007A9015621001",
+            "name": "Ruined Ziggs Skin"
+        },
+        {
+            "id": "01007A9015621002",
+            "name": "BOOMBOX 1: POP/STARZ"
+        },
+        {
+            "id": "01007A9015621003",
+            "name": "BOOMBOX 2: ZEGENDS NEVER DIE"
+        },
+        {
+            "id": "01007A9015621004",
+            "name": "BOOMBOX 3: GET ZINXED"
+        }
+    ],
     "latest": 458752,
     "title": "Hextech Mayhem: A League of Legends Story\u2122"
 }

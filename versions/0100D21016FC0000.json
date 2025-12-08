@@ -3,7 +3,20 @@
     "131072": "8B35C93A2A467595",
     "196608": "8996415BD8678443",
     "65536": "8B35C93A2A467595",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100D21016FC1001",
+            "name": "Swords & Bones Valor Skin"
+        },
+        {
+            "id": "0100D21016FC1002",
+            "name": "Swords & Bones Brave Skin"
+        },
+        {
+            "id": "0100D21016FC1003",
+            "name": "Swords & Bones Spooky Skin"
+        }
+    ],
     "latest": 196608,
     "title": "Swords & Bones"
 }

@@ -1,7 +1,76 @@
 {
     "0": "96D1BDC227C0B35C",
     "131072": "7BB4504CF7A0B48E",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100CC30149B9001",
+            "name": "Let's Sing 2022 Party Classics Vol. 1  Song Pack"
+        },
+        {
+            "id": "0100CC30149B9002",
+            "name": "Let's Sing 2022 Best of 80's Vol. 1 Song Pack"
+        },
+        {
+            "id": "0100CC30149B9003",
+            "name": "Let's Sing 2022 Chart Hits Song Pack"
+        },
+        {
+            "id": "0100CC30149B9004",
+            "name": "Let's Sing 2022 Party Classics Vol. 2 Song Pack"
+        },
+        {
+            "id": "0100CC30149B9005",
+            "name": "Let's Sing 2022 Legendary Hits Vol. 1 Song Pack"
+        },
+        {
+            "id": "0100CC30149B9006",
+            "name": "Let's Sing 2022 Best of 90's Vol. 1 Song Pack"
+        },
+        {
+            "id": "0100CC30149B9007",
+            "name": "Let's Sing 2022 Best of 80's Vol. 2 Song Pack"
+        },
+        {
+            "id": "0100CC30149B9008",
+            "name": "Let's Sing 2022 Best of 90's Vol. 2 Song Pack"
+        },
+        {
+            "id": "0100CC30149B9009",
+            "name": "Let's Sing 2022 Country Hits Song Pack"
+        },
+        {
+            "id": "0100CC30149B900A",
+            "name": "Let's Sing 2022 Best of 80's Vol. 3 Song Pack"
+        },
+        {
+            "id": "0100CC30149B900B",
+            "name": "Let's Sing 2022 Classic Rock Song Pack"
+        },
+        {
+            "id": "0100CC30149B900C",
+            "name": "Let's Sing 2022 International Songs"
+        },
+        {
+            "id": "0100CC30149B900D",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100CC30149B900E",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100CC30149B900F",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100CC30149B9010",
+            "name": "Let's Sing 2022 Legendary Hits Vol. 2 Song Pack"
+        },
+        {
+            "id": "0100CC30149B9011",
+            "name": "Let's Sing 2022 Best of 90's Vol. 3 Song Pack"
+        }
+    ],
     "latest": 131072,
     "title": "Let's Sing 2022"
 }

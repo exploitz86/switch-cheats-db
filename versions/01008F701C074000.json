@@ -2,7 +2,32 @@
     "0": "1946E89F1DE5D84A",
     "131072": "E0E9890EC746DBD1",
     "327680": "F1BB173FC40702F6",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01008F701C075001",
+            "name": "LEGO\u00ae Sonic Skin"
+        },
+        {
+            "id": "01008F701C075002",
+            "name": "LEGO\u00ae Fun Pack"
+        },
+        {
+            "id": "01008F701C075006",
+            "name": "Extra Content Pack"
+        },
+        {
+            "id": "01008F701C075007",
+            "name": "Modern Amy Costume"
+        },
+        {
+            "id": "01008F701C075009",
+            "name": "Comic Style Character Skins"
+        },
+        {
+            "id": "01008F701C075032",
+            "name": "LEGO\u00ae Eggman Boss Skin - Pre-order"
+        }
+    ],
     "latest": 327680,
     "title": "SONIC SUPERSTARS"
 }

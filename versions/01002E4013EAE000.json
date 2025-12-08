@@ -7,7 +7,12 @@
     "393216": "E3ABB51389C95DEC",
     "458752": "B7A31DCE1816EB84",
     "65536": "25516EEDC496ABC3",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01002E4013EAF001",
+            "name": "Dice Legacy: Corrupted Fates"
+        }
+    ],
     "latest": 458752,
     "title": "Dice Legacy"
 }

@@ -5,7 +5,16 @@
     "262144": "CEB6447D840B8542",
     "393216": "CB3172ED0C3BC646",
     "65536": "6D057C6721D83A4D",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100C4C00E73F001",
+            "name": "Moving Out - The Employees of the Month Pack"
+        },
+        {
+            "id": "0100C4C00E73F002",
+            "name": "Moving Out - Movers in Paradise"
+        }
+    ],
     "latest": 393216,
     "title": "Moving Out"
 }

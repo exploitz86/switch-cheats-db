@@ -86,7 +86,104 @@
     "7536640": "C972338E074D8362",
     "7602176": "A5453B081F88B95D",
     "7667712": "E539D7394AB5099D",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01005EE0036ED001",
+            "name": "Rocket League\u00ae - Aftershock"
+        },
+        {
+            "id": "01005EE0036ED002",
+            "name": "Rocket League\u00ae - Hot Wheels\u00ae Bone Shaker\u2122"
+        },
+        {
+            "id": "01005EE0036ED003",
+            "name": "Rocket League\u00ae - Triton"
+        },
+        {
+            "id": "01005EE0036ED004",
+            "name": "Rocket League\u00ae - The Fate of the Furious\u2122 Ice Charger"
+        },
+        {
+            "id": "01005EE0036ED005",
+            "name": "Rocket League\u00ae - Vulcan"
+        },
+        {
+            "id": "01005EE0036ED006",
+            "name": "Rocket League\u00ae - Marauder"
+        },
+        {
+            "id": "01005EE0036ED007",
+            "name": "Rocket League\u00ae - Esper"
+        },
+        {
+            "id": "01005EE0036ED008",
+            "name": "Rocket League\u00ae - Masamune"
+        },
+        {
+            "id": "01005EE0036ED009",
+            "name": "Rocket League\u00ae - Proteus"
+        },
+        {
+            "id": "01005EE0036ED00A",
+            "name": "Rocket League\u00ae - Hot Wheels\u00ae Twin Mill\u2122 III"
+        },
+        {
+            "id": "01005EE0036ED00B",
+            "name": "Rocket League\u00ae - Batman v Superman: Dawn of Justice Car Pack"
+        },
+        {
+            "id": "01005EE0036ED00C",
+            "name": "Rocket League\u00ae - Back to the Future\u2122 Car Pack"
+        },
+        {
+            "id": "01005EE0036ED00D",
+            "name": "Rocket League\u00ae - Revenge of the Battle-Cars DLC Pack"
+        },
+        {
+            "id": "01005EE0036ED00E",
+            "name": "Rocket League\u00ae - Supersonic Fury DLC Pack"
+        },
+        {
+            "id": "01005EE0036ED00F",
+            "name": "Rocket League\u00ae - Chaos Run DLC Pack"
+        },
+        {
+            "id": "01005EE0036ED010",
+            "name": "Rocket League\u00ae \u2013 Fast & Furious\u2122 '70 Dodge\u00ae Charger R/T"
+        },
+        {
+            "id": "01005EE0036ED011",
+            "name": "Rocket League\u00ae \u2013 Fast & Furious\u2122 '99 Nissan Skyline GT-R R34"
+        },
+        {
+            "id": "01005EE0036ED012",
+            "name": "Rocket League\u00ae - DC Super Heroes DLC Pack"
+        },
+        {
+            "id": "01005EE0036ED013",
+            "name": "Rocket League\u00ae - Jurassic World\u2122 Car Pack"
+        },
+        {
+            "id": "01005EE0036ED014",
+            "name": "Rocket League\u00ae - Hot Wheels\u00ae Triple Threat DLC Pack"
+        },
+        {
+            "id": "01005EE0036ED015",
+            "name": "Rocket League\u00ae - McLaren 570S Car Pack"
+        },
+        {
+            "id": "01005EE0036ED016",
+            "name": "Rocket League\u00ae - MLB Fan Pack"
+        },
+        {
+            "id": "01005EE0036ED017",
+            "name": "Rocket League\u00ae - Ghostbusters\u2122 Ecto-1 Car Pack"
+        },
+        {
+            "id": "01005EE0036ED018",
+            "name": "Rocket League\u00ae - Knight Rider Car Pack"
+        }
+    ],
     "latest": 7667712,
     "title": "Rocket League\u00ae"
 }

@@ -1,6 +1,15 @@
 {
     "65536": "6C2E85A41EB3FB4A",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01000F700DECF001",
+            "name": "Into the Dead 2: George A. Romero\u2019s Night of the Living Dead Add On"
+        },
+        {
+            "id": "01000F700DECF002",
+            "name": "Into the Dead 2: Ghostbusters Add On"
+        }
+    ],
     "latest": 65536,
     "title": "Into the Dead 2"
 }

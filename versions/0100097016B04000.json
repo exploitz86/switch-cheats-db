@@ -12,7 +12,152 @@
     "720896": "55F8E0AE1795C7EE",
     "786432": "D3971009236D83F3",
     "851968": "9E30A3B4B1F06153",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100097016B05001",
+            "name": "Character Sleeve Set 01"
+        },
+        {
+            "id": "0100097016B05002",
+            "name": "Character Sleeve Set 02"
+        },
+        {
+            "id": "0100097016B05003",
+            "name": "SD Sleeve Set 01"
+        },
+        {
+            "id": "0100097016B05004",
+            "name": "SD Sleeve Set 02"
+        },
+        {
+            "id": "0100097016B05005",
+            "name": "Character Set 01: Aichi Sendou"
+        },
+        {
+            "id": "0100097016B05006",
+            "name": "Character Set 02: Toshiki Kai"
+        },
+        {
+            "id": "0100097016B05007",
+            "name": "Character Set 03: Ren Suzugamori"
+        },
+        {
+            "id": "0100097016B05008",
+            "name": "Rare Card Set 01 [D-BT01]: Genesis of the Five Greats"
+        },
+        {
+            "id": "0100097016B05009",
+            "name": "Rare Card Set 02 [D-BT02]: A Brush with the Legends"
+        },
+        {
+            "id": "0100097016B0500A",
+            "name": "Rare Card Set 03 [D-BT03]: Advance of Intertwined Stars"
+        },
+        {
+            "id": "0100097016B0500B",
+            "name": "Rare Card Set 04 [D-BT04]: Awakening of Chakrabarthi"
+        },
+        {
+            "id": "0100097016B0500C",
+            "name": "Rare Card Set 05 [D-BT05]: Triumphant Return of the Brave Heroes"
+        },
+        {
+            "id": "0100097016B0500D",
+            "name": "Rare Card Set 06 [D-LBT01]: Lyrical Melody"
+        },
+        {
+            "id": "0100097016B0500E",
+            "name": "Rare Card Set 07 [D-LBT02]: Lyrical Monasterio ~It\u2019s a New School Term!~"
+        },
+        {
+            "id": "0100097016B0500F",
+            "name": "Rare Card Set 08 [D-SS01]: Festival Collection 2021"
+        },
+        {
+            "id": "0100097016B05010",
+            "name": "Rare Card Set 09 [D-SS02]: Festival Collection 2022"
+        },
+        {
+            "id": "0100097016B05011",
+            "name": "Additional Deck [D-TD01]: Urara Haneyama -Bandmaster of Blossoming Bonds-"
+        },
+        {
+            "id": "0100097016B05012",
+            "name": "Additional Deck [D-TD02]: Michiru Hazama -Demonic Jewel Dragon of the Four Flames-"
+        },
+        {
+            "id": "0100097016B05013",
+            "name": "Additional Deck [D-TD03]: Raika Koshiba -Skyfall Executors-"
+        },
+        {
+            "id": "0100097016B05014",
+            "name": "Additional Card Set Vol.1 [D-BT06]: Blazing Dragon Reborn"
+        },
+        {
+            "id": "0100097016B05015",
+            "name": "Rare Card Set 10 [D-BT06]: Blazing Dragon Reborn"
+        },
+        {
+            "id": "0100097016B05016",
+            "name": "Character Set 04: Urara Haneyama"
+        },
+        {
+            "id": "0100097016B05017",
+            "name": "Character Set 05: Raika Koshiba"
+        },
+        {
+            "id": "0100097016B05018",
+            "name": "Additional Card Set Vol.2 [D-LBT03]: Lyrical Monasterio ~Summertime Memories!~"
+        },
+        {
+            "id": "0100097016B05019",
+            "name": "Rare Card Set 11 [D-LBT03]:Lyrical Monasterio ~Summertime Memories!~"
+        },
+        {
+            "id": "0100097016B0501B",
+            "name": "Additional Card Set Vol.3 [D-BT07]: Raging Flames Against Emerald Storm"
+        },
+        {
+            "id": "0100097016B0501C",
+            "name": "Additional Card Set Vol.4 [D-SS03]: Stride Deckset -Chronojet-"
+        },
+        {
+            "id": "0100097016B0501D",
+            "name": "Rare Card Set 12 [D-BT07]: Raging Flames Against Emerald Storm"
+        },
+        {
+            "id": "0100097016B0501E",
+            "name": "Character Set 07: CHRONO SHINDOU"
+        },
+        {
+            "id": "0100097016B0501F",
+            "name": "Character Set 06: TAIZO KIYOKURA"
+        },
+        {
+            "id": "0100097016B05020",
+            "name": "Additional Card Set Vol.5 [D-BT08]: Minerva Rising"
+        },
+        {
+            "id": "0100097016B05021",
+            "name": "Rare Card Set 13 [D-BT08]: Minerva Rising"
+        },
+        {
+            "id": "0100097016B05023",
+            "name": "Rare Card Set 14 [D-BT09]: Dragontree Invasion"
+        },
+        {
+            "id": "0100097016B05024",
+            "name": "Character Set 08: JINKI MUKAE"
+        },
+        {
+            "id": "0100097016B05025",
+            "name": "Character Set 09: SOPHIE BELLE"
+        },
+        {
+            "id": "0100097016B05026",
+            "name": "Character Set 10: SAMUEL FREDSON"
+        }
+    ],
     "latest": 1245184,
     "title": "Cardfight!! Vanguard Dear Days"
 }

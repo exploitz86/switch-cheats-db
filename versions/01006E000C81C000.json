@@ -1,7 +1,196 @@
 {
     "0": "CA4E02BB6E7DA02E",
     "131072": "1B89CB8BCBA32151",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01006E000C81D002",
+            "name": "Burning Bikini"
+        },
+        {
+            "id": "01006E000C81D004",
+            "name": "Beach Flower"
+        },
+        {
+            "id": "01006E000C81D006",
+            "name": "Wild Swim"
+        },
+        {
+            "id": "01006E000C81D007",
+            "name": "Beach Bloody Demoness"
+        },
+        {
+            "id": "01006E000C81D008",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006E000C81D009",
+            "name": "Masque du Gorgon"
+        },
+        {
+            "id": "01006E000C81D00B",
+            "name": "Cool & Sporty"
+        },
+        {
+            "id": "01006E000C81D00D",
+            "name": "Alteria (Pre-Purchase Bonus)"
+        },
+        {
+            "id": "01006E000C81D00E",
+            "name": "Summer Battle Clothes"
+        },
+        {
+            "id": "01006E000C81D00F",
+            "name": "Captain's Glorious Summer Vacation"
+        },
+        {
+            "id": "01006E000C81D010",
+            "name": "Fleeting Glory Edition DLC"
+        },
+        {
+            "id": "01006E000C81D011",
+            "name": "Beach Crisis"
+        },
+        {
+            "id": "01006E000C81D013",
+            "name": "Sparkling Frills"
+        },
+        {
+            "id": "01006E000C81D016",
+            "name": "Emperor in Villager\u2019s Clothing"
+        },
+        {
+            "id": "01006E000C81D017",
+            "name": "Magical Tamamo"
+        },
+        {
+            "id": "01006E000C81D018",
+            "name": "Planetary Arabian"
+        },
+        {
+            "id": "01006E000C81D019",
+            "name": "Kilenc Hunter Outfit"
+        },
+        {
+            "id": "01006E000C81D01A",
+            "name": "Adventurous & Educated Gentleman"
+        },
+        {
+            "id": "01006E000C81D01B",
+            "name": "Afterglow of the Old Days"
+        },
+        {
+            "id": "01006E000C81D01C",
+            "name": "Generous Bartender"
+        },
+        {
+            "id": "01006E000C81D01D",
+            "name": "Perfectly Flawless Special Ops"
+        },
+        {
+            "id": "01006E000C81D01E",
+            "name": "Blue Diver"
+        },
+        {
+            "id": "01006E000C81D01F",
+            "name": "Sun Set Sun"
+        },
+        {
+            "id": "01006E000C81D020",
+            "name": "Divine Spear's Combat Outfit"
+        },
+        {
+            "id": "01006E000C81D021",
+            "name": "Pegasus Warrior Dress"
+        },
+        {
+            "id": "01006E000C81D022",
+            "name": "Conqueror of Turbulent Times"
+        },
+        {
+            "id": "01006E000C81D023",
+            "name": "Macedonian Rider Armor"
+        },
+        {
+            "id": "01006E000C81D024",
+            "name": "Black Elegance"
+        },
+        {
+            "id": "01006E000C81D025",
+            "name": "Sky Blue Dress"
+        },
+        {
+            "id": "01006E000C81D026",
+            "name": "Robin, the Forest Ninja"
+        },
+        {
+            "id": "01006E000C81D027",
+            "name": "Wild Western"
+        },
+        {
+            "id": "01006E000C81D028",
+            "name": "Dark Elf Armor"
+        },
+        {
+            "id": "01006E000C81D029",
+            "name": "Brave King's Surf Shorts"
+        },
+        {
+            "id": "01006E000C81D02A",
+            "name": "Rune Priestess Garb"
+        },
+        {
+            "id": "01006E000C81D02B",
+            "name": "Shiva Bathing Suit"
+        },
+        {
+            "id": "01006E000C81D02C",
+            "name": "Candy Pink"
+        },
+        {
+            "id": "01006E000C81D02D",
+            "name": "Heretic Acolyte Garb"
+        },
+        {
+            "id": "01006E000C81D02E",
+            "name": "Achaemenes Bone Armor Shell"
+        },
+        {
+            "id": "01006E000C81D02F",
+            "name": "The Hero"
+        },
+        {
+            "id": "01006E000C81D033",
+            "name": "Li'l Eliza"
+        },
+        {
+            "id": "01006E000C81D034",
+            "name": "Li'l Nameless"
+        },
+        {
+            "id": "01006E000C81D035",
+            "name": "Li'l Gil"
+        },
+        {
+            "id": "01006E000C81D036",
+            "name": "Li'l Jeanne"
+        },
+        {
+            "id": "01006E000C81D037",
+            "name": "Li'l Artoria"
+        },
+        {
+            "id": "01006E000C81D038",
+            "name": "Li'l Charlie"
+        },
+        {
+            "id": "01006E000C81D039",
+            "name": "Li'l Scathach"
+        },
+        {
+            "id": "01006E000C81D051",
+            "name": "Young Altera"
+        }
+    ],
     "latest": 131072,
     "title": "Fate/EXTELLA LINK"
 }

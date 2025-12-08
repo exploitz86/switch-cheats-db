@@ -8,7 +8,16 @@
     "655360": "7B0F863344256E42",
     "720896": "70880BDAF47C574A",
     "851968": "DD68547E36C28C43",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100CA400B6D1001",
+            "name": "1st DLC \"Samurai Era\""
+        },
+        {
+            "id": "0100CA400B6D1002",
+            "name": "2nd DLC \"Cyber Century\""
+        }
+    ],
     "latest": 851968,
     "title": "BQM -BlockQuest Maker-"
 }

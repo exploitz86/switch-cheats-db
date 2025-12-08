@@ -2,7 +2,36 @@
     "0": "40E9866D26170441",
     "131072": "4F0F49E2051B074B",
     "65536": "F7A495AC0E8A601B",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100F08018841001",
+            "name": "\u3010Board Skin\u3011\u300eWorking Zombies\u300f"
+        },
+        {
+            "id": "0100F08018841002",
+            "name": "\u3010UZBOROSS Skin\u3011\u300eWorking Zombies\u300f"
+        },
+        {
+            "id": "0100F08018841003",
+            "name": "\u3010UZBOROSS Skin\u3011\u300eGiraffe\u300f"
+        },
+        {
+            "id": "0100F08018841004",
+            "name": "\u3010UZBOROSS Skin\u3011\u300eZebra\u300f"
+        },
+        {
+            "id": "0100F08018841005",
+            "name": "\u3010Picbit Skin\u3011\u300eCat\u300f"
+        },
+        {
+            "id": "0100F08018841006",
+            "name": "\u3010Picbit Skin\u3011\u300ePanda\u300f"
+        },
+        {
+            "id": "0100F08018841007",
+            "name": "\u3010Picbit Skin\u3011\u300ePenguin\u300f"
+        }
+    ],
     "latest": 131072,
     "title": "PICROSS X : PICBITS VS UZBOROSS"
 }

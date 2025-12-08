@@ -1,6 +1,27 @@
 {
     "0": "ECD9584223DA3445",
     "65536": "F179331465218748",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01006A500420F001",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006A500420F002",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006A500420F003",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006A500420F004",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006A500420F005",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 65536
 }

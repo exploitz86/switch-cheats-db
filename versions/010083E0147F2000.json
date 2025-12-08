@@ -4,7 +4,12 @@
     "262144": "58585F427B91BE2B",
     "393216": "EAA92D913F77EA75",
     "65536": "73777C7EE39F6BD1",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010083E0147F3001",
+            "name": "Urban Cards: Christmas Faction"
+        }
+    ],
     "latest": 393216,
     "title": "Urban Cards"
 }

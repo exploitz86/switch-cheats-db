@@ -3,7 +3,20 @@
     "131072": "84E7D74AED24AE5E",
     "196608": "BFF1D280F6D05723",
     "262144": "118AA7B71E824B3B",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100500012AB500F",
+            "name": "Life is Strange: Wavelengths"
+        },
+        {
+            "id": "0100500012AB5010",
+            "name": "Life is Strange: True Colors - Alex Outfit Pack"
+        },
+        {
+            "id": "0100500012AB5011",
+            "name": "Life is Strange: True Colors - Life is Strange Hero Outfit Pack"
+        }
+    ],
     "latest": 262144,
     "title": "Life is Strange: True Colors\u2122"
 }

@@ -3,7 +3,28 @@
     "131072": "EE03D977BB0B4C43",
     "196608": "EE03D977BB0B4C43",
     "65536": "AF989E9170DF844C",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100D6F012AE7001",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100D6F012AE7002",
+            "name": "SUKEROKU PACK"
+        },
+        {
+            "id": "0100D6F012AE7003",
+            "name": "Desert island in summer"
+        },
+        {
+            "id": "0100D6F012AE7004",
+            "name": "Autumn landscape pack"
+        },
+        {
+            "id": "0100D6F012AE7005",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 196608,
     "title": "Tales of Djungarian Hamster"
 }

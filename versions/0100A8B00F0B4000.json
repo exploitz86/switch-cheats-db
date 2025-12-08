@@ -5,7 +5,16 @@
     "262144": "B7B75B2D98885556",
     "327680": "92511355705EA8C5",
     "65536": "7F8D58D870AEF31F",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100A8B00F0B5001",
+            "name": "HYPERCHARGE: Unboxed Supporter Pack"
+        },
+        {
+            "id": "0100A8B00F0B5002",
+            "name": "HYPERCHARGE: Unboxed Breaker & Mightus Pack"
+        }
+    ],
     "latest": 327680,
     "title": "HYPERCHARGE Unboxed"
 }

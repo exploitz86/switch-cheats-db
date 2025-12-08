@@ -1,7 +1,16 @@
 {
     "0": "52E6B80019E6EF48",
     "131072": "2B039C01B7596146",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01007900080B7001",
+            "name": "Bomber Crew: Secret Weapons"
+        },
+        {
+            "id": "01007900080B7002",
+            "name": "Bomber Crew: U.S. Army Air Forces"
+        }
+    ],
     "latest": 131072,
     "title": "Bomber Crew"
 }

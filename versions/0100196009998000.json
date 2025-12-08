@@ -5,7 +5,16 @@
     "393216": "F8016A7B9832BC40",
     "458752": "B0ADFF06322D4940",
     "524288": "0A9525A180E19F4A",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100196009999001",
+            "name": "Super Kickers League: Goths and Vampires!"
+        },
+        {
+            "id": "0100196009999002",
+            "name": "Super Kickers League: Vikings and Valkyries!"
+        }
+    ],
     "latest": 524288,
     "title": "Super Kickers League Ultimate"
 }

@@ -3,7 +3,32 @@
     "131072": "02AB7053833EED65",
     "196608": "4B713267A882DA35",
     "65536": "DB1938300241EF67",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01001C8016B4F001",
+            "name": "EA SPORTS\u2122 FIFA 23 Nintendo Switch\u2122 Legacy Edition"
+        },
+        {
+            "id": "01001C8016B4F002",
+            "name": "EA SPORTS\u2122 FIFA 23 In-Game Commentary \u2013 Russian"
+        },
+        {
+            "id": "01001C8016B4F003",
+            "name": "EA SPORTS\u2122 FIFA 23 In-Game Commentary \u2013 Polish"
+        },
+        {
+            "id": "01001C8016B4F004",
+            "name": "EA SPORTS\u2122 FIFA 23 In-Game Commentary \u2013 Dutch"
+        },
+        {
+            "id": "01001C8016B4F005",
+            "name": "EA SPORTS\u2122 FIFA 23 In-Game Commentary \u2013 Arabic"
+        },
+        {
+            "id": "01001C8016B4F006",
+            "name": "EA SPORTS\u2122 FIFA 23 In-Game Commentary \u2013 Portuguese (Brazil)"
+        }
+    ],
     "latest": 196608,
     "title": "EA SPORTS FIFA 23 Nintendo Switch\u2122 Legacy Edition"
 }

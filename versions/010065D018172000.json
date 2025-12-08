@@ -4,7 +4,12 @@
     "262144": "9B24D80EADD244A0",
     "327680": "C552B6464E7348A7",
     "65536": "9B01F243231D768B",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010065D018173001",
+            "name": "Moving Out 2 - F.A.R.Tastic Four"
+        }
+    ],
     "latest": 327680,
     "title": "Moving Out 2"
 }

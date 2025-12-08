@@ -1,7 +1,12 @@
 {
     "0": "93FB5223AD37635D",
     "262144": "0747D49FE9779843",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010033601B175001",
+            "name": "Subway Simulator - New Color Train Pack"
+        }
+    ],
     "latest": 262144,
     "title": "Subway Simulator - Underground Train Ride Station Ultimate Driving Games"
 }

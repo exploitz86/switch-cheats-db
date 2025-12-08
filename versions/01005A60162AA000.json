@@ -2,7 +2,28 @@
     "0": "0C944B97A6748C9D",
     "131072": "CAAF594F5C8ECFDA",
     "196608": "261E14997B747717",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01005A60162AB001",
+            "name": "NHRA Championship Drag Racing: Speed for All \u2013 John Force Racing Pack"
+        },
+        {
+            "id": "01005A60162AB002",
+            "name": "NHRA Championship Drag Racing: Speed for All - Nitro Fire Pack"
+        },
+        {
+            "id": "01005A60162AB003",
+            "name": "NHRA Championship Drag Racing: Speed for All \u2013 Moonshot Pack"
+        },
+        {
+            "id": "01005A60162AB004",
+            "name": "NHRA Championship Drag Racing: Speed for All - Battle Ready Pack"
+        },
+        {
+            "id": "01005A60162AB005",
+            "name": "NHRA Championship Drag Racing: Speed for All - Electro Blitz Pack"
+        }
+    ],
     "latest": 196608,
     "title": "NHRA Championship Drag Racing: Speed for All"
 }

@@ -2,7 +2,112 @@
     "0": "BDDCDA1760494F35",
     "262144": "4D266D1AD3E90E74",
     "327680": "96AA5068253C2BB0",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010009900947B001",
+            "name": "Atelier Lydie & Suelle: Marie & Elie Dress Up Costumes"
+        },
+        {
+            "id": "010009900947B002",
+            "name": "Atelier Lydie & Suelle: Selected Item Set"
+        },
+        {
+            "id": "010009900947B004",
+            "name": "Atelier Lydie & Suelle: Atelier Series BGM Pack"
+        },
+        {
+            "id": "010009900947B005",
+            "name": "Atelier Lydie & Suelle: GUST Titles BGM Pack"
+        },
+        {
+            "id": "010009900947B006",
+            "name": "Atelier Lydie & Suelle: Arranged Battle BGM"
+        },
+        {
+            "id": "010009900947B007",
+            "name": "Secret Synthesis Research Journal"
+        },
+        {
+            "id": "010009900947B008",
+            "name": "Adventurers' Tales"
+        },
+        {
+            "id": "010009900947B009",
+            "name": "New Area \"Lotus Blossom Pond\""
+        },
+        {
+            "id": "010009900947B00A",
+            "name": "Nights of Azure 2 Tribute Area \"Nightless Ruined City\""
+        },
+        {
+            "id": "010009900947B00B",
+            "name": "\"Nights of Azure 2: Bride of the New Moon\" BGM Pack"
+        },
+        {
+            "id": "010009900947B00C",
+            "name": "Atelier Lydie & Suelle: New Quest \"Loads of Exp Quest\""
+        },
+        {
+            "id": "010009900947B00D",
+            "name": "Atelier Lydie & Suelle: New Quest \"Piles of Coll Quest\""
+        },
+        {
+            "id": "010009900947B00E",
+            "name": "Atelier Lydie & Suelle: Additional Character \"Lucia\""
+        },
+        {
+            "id": "010009900947B00F",
+            "name": "Atelier Lydie & Suelle: New Area \"Ventus Mines\""
+        },
+        {
+            "id": "010009900947B010",
+            "name": "Atelier Lydie & Suelle: BLUE REFLECTION Tribute Area \"Blue Sentiment Land\""
+        },
+        {
+            "id": "010009900947B011",
+            "name": "Atelier Lydie & Suelle: New Outfit for Lydie \"Smart & Sweet\""
+        },
+        {
+            "id": "010009900947B012",
+            "name": "Atelier Lydie & Suelle: New Outfit for Suelle \"Active\u2606Lovely\""
+        },
+        {
+            "id": "010009900947B013",
+            "name": "Atelier Lydie & Suelle: \"BLUE REFLECTION\" BGM Pack"
+        },
+        {
+            "id": "010009900947B014",
+            "name": "Atelier Lydie & Suelle: Battle Mix Secret Teachings"
+        },
+        {
+            "id": "010009900947B015",
+            "name": "Atelier Lydie & Suelle: Additional Character \"Ilmeria\""
+        },
+        {
+            "id": "010009900947B016",
+            "name": "Atelier Lydie & Suelle: New Area \"Claudel Prairie\""
+        },
+        {
+            "id": "010009900947B017",
+            "name": "Atelier Lydie & Suelle: New Outfit for Firis \"Teacher's Favorite\""
+        },
+        {
+            "id": "010009900947B018",
+            "name": "Atelier Lydie & Suelle: New Outfit for Sophie \"Best Partner\""
+        },
+        {
+            "id": "010009900947B019",
+            "name": "Atelier Lydie & Suelle: New Outfit for Ilmeria \"Cormeria?\""
+        },
+        {
+            "id": "010009900947B01A",
+            "name": "Atelier Lydie & Suelle: New Outfit for Lucia \"Bunny Tail\""
+        },
+        {
+            "id": "010009900947B01B",
+            "name": "Atelier Lydie & Suelle: Delicacies and Rarities Pack"
+        }
+    ],
     "latest": 327680,
     "title": "Atelier Lydie & Suelle ~The Alchemists and the Mysterious Paintings~"
 }

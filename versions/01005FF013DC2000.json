@@ -5,7 +5,12 @@
     "262144": "72A2B32C0A57E719",
     "327680": "78B532D348D69BD5",
     "65536": "B5A3BA85F73E8714",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01005FF013DC3001",
+            "name": "MONOPOLY\u00ae MADNESS DINO CITY DLC"
+        }
+    ],
     "latest": 327680,
     "title": "MONOPOLY\u00ae Madness"
 }

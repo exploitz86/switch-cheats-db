@@ -1,7 +1,20 @@
 {
     "0": "F7D30BAB180C4280",
     "65536": "B0D911BC4C9A3760",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100DF100B97D001",
+            "name": "X-Morph: Defense European Assault"
+        },
+        {
+            "id": "0100DF100B97D002",
+            "name": "X-Morph: Defense Survival Of The Fittest"
+        },
+        {
+            "id": "0100DF100B97D003",
+            "name": "X-Morph: Defense Last Bastion"
+        }
+    ],
     "latest": 65536,
     "title": "X-Morph: Defense"
 }

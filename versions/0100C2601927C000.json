@@ -6,7 +6,16 @@
     "327680": "C9ED7A25E32876A8",
     "393216": "072EE78DE9C792E0",
     "65536": "4BB47CB9518B44E3",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100C2601927D001",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100C2601927D002",
+            "name": "LogiKing LEVEL2"
+        }
+    ],
     "latest": 393216,
     "title": "LogiKing"
 }

@@ -5,7 +5,16 @@
     "262144": "C772F5790E201256",
     "327680": "03840C116AAD67BA",
     "655360": "96C3649FD053BFC7",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "0100380017D3F001",
+            "name": "DNF Duel - DLC 1: Spectre"
+        },
+        {
+            "id": "0100380017D3F002",
+            "name": "DNF Duel - DLC 2: Brawler"
+        }
+    ],
     "latest": 655360,
     "title": "DNF Duel: Who's Next"
 }

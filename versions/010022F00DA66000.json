@@ -4,7 +4,12 @@
     "196608": "238BFDCD9E05014A",
     "262144": "8432CEC51F882448",
     "65536": "CB788AA9E4E02D49",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "010022F00DA67001",
+            "name": "Yooka-Laylee and the Impossible Lair - Trowzer's Top Tonic Pack"
+        }
+    ],
     "latest": 262144,
     "title": "Yooka-Laylee and the Impossible Lair"
 }

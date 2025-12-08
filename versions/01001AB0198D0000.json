@@ -1,6 +1,27 @@
 {
     "0": "97491B5C5F83EB4D",
-    "dlc": [],
+    "dlc": [
+        {
+            "id": "01001AB0198D1001",
+            "name": "Life On The Farm"
+        },
+        {
+            "id": "01001AB0198D1002",
+            "name": "Love < 3"
+        },
+        {
+            "id": "01001AB0198D1003",
+            "name": "Beautiful Ponies"
+        },
+        {
+            "id": "01001AB0198D1004",
+            "name": "Space Adventure"
+        },
+        {
+            "id": "01001AB0198D1005",
+            "name": "Under The Water"
+        }
+    ],
     "latest": 0,
     "title": "Pixel Paint"
 }
