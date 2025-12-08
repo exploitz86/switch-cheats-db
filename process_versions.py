@@ -41,6 +41,8 @@ class ProcessVersions:
                     self.versions_dict[tid_base]["title"] = self.title_dict[tid_base]
                 except KeyError:
                     pass
+                # Initialize DLC list for this base game
+                self.versions_dict[tid_base]["dlc"] = []
 
             latest_ver = 0
             for ver in self.data[tid]:
@@ -52,6 +54,42 @@ class ProcessVersions:
                     pass
                 latest_ver = max(latest_ver, int(ver))
             self.versions_dict[tid_base]["latest"] = latest_ver
+        
+        self.add_dlc_info()
+
+    def add_dlc_info(self):
+        """Add DLC information to base games"""
+        for tid in self.data:
+            tid_upper = tid.upper()
+            is_dlc = False
+            for ver in self.data[tid]:
+                try:
+                    title_type = self.data[tid][ver].get("titleType")
+                    if title_type == 130:
+                        is_dlc = True
+                        break
+                except:
+                    pass
+            
+            if is_dlc:
+                tid_base = tid_upper[:13] + "000"
+                
+                if tid_base in self.versions_dict:
+                    dlc_info = {
+                        "id": tid_upper,
+                    }
+                    
+                    if tid_upper in self.title_dict:
+                        dlc_info["name"] = self.title_dict[tid_upper]
+                    else:
+                        dlc_info["name"] = "Unknown DLC"
+                    
+                    if dlc_info not in self.versions_dict[tid_base]["dlc"]:
+                        self.versions_dict[tid_base]["dlc"].append(dlc_info)
+        
+        for tid_base in self.versions_dict:
+            if "dlc" in self.versions_dict[tid_base]:
+                self.versions_dict[tid_base]["dlc"].sort(key=lambda x: x["id"])
 
     def check_for_changes(self):
         try:
