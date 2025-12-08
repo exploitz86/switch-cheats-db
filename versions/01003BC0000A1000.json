@@ -1,3 +1,25 @@
 {
+    "dlc": [
+        {
+            "id": "01003BC0000A1001",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01003BC0000A1002",
+            "name": "My Nintendo Gear Set"
+        },
+        {
+            "id": "01003BC0000A1005",
+            "name": "Splatoon\u2122 2  - Nintendo Switch Online Special Gear"
+        },
+        {
+            "id": "01003BC0000A1064",
+            "name": "Bonus Octo-themed Gear"
+        },
+        {
+            "id": "01003BC0000A1065",
+            "name": "Splatoon\u2122 2: Octo Expansion"
+        }
+    ],
     "latest": 65536
 }

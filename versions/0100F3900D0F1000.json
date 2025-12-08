@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "0100F3900D0F1001",
+            "name": "Food Truck Tycoon Expansion Pack"
+        },
+        {
+            "id": "0100F3900D0F1002",
+            "name": "Food Truck Tycoon Expansion Pack #2"
+        },
+        {
+            "id": "0100F3900D0F1003",
+            "name": "Food Truck Tycoon Multiplayer Mode"
+        }
+    ],
     "latest": 0
 }

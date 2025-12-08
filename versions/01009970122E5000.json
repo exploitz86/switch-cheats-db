@@ -1,3 +1,57 @@
 {
+    "dlc": [
+        {
+            "id": "01009970122E5002",
+            "name": "Borderlands 3: Moxxi's Heist of the Handsome Jackpot"
+        },
+        {
+            "id": "01009970122E5003",
+            "name": "Borderlands 3: Guns, Love, and Tentacles"
+        },
+        {
+            "id": "01009970122E5004",
+            "name": "Borderlands 3: Bounty of Blood"
+        },
+        {
+            "id": "01009970122E5005",
+            "name": "Borderlands 3: Psycho Krieg and the Fantastic Fustercluck"
+        },
+        {
+            "id": "01009970122E500B",
+            "name": "Borderlands 3: Designer's Cut"
+        },
+        {
+            "id": "01009970122E500C",
+            "name": "Borderlands 3: Director's Cut"
+        },
+        {
+            "id": "01009970122E5013",
+            "name": "Borderlands 3: Additional Voiceover Languages"
+        },
+        {
+            "id": "01009970122E5014",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01009970122E5015",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01009970122E5016",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01009970122E5017",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01009970122E5018",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01009970122E5019",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 0
 }

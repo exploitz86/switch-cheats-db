@@ -1,3 +1,25 @@
 {
+    "dlc": [
+        {
+            "id": "0100647012F63001",
+            "name": "Ultraman Cosmetic Pack"
+        },
+        {
+            "id": "0100647012F63002",
+            "name": "Override 2 Ultraman - Ultraman - Fighter DLC"
+        },
+        {
+            "id": "0100647012F63003",
+            "name": "Override 2 Ultraman - Bemular - Fighter DLC"
+        },
+        {
+            "id": "0100647012F63004",
+            "name": "Override 2 Ultraman - Dan Moroboshi - Fighter DLC"
+        },
+        {
+            "id": "0100647012F63005",
+            "name": "Override 2 Ultraman - Black King - Fighter DLC"
+        }
+    ],
     "latest": 0
 }

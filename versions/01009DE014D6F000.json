@@ -1,3 +1,33 @@
 {
+    "dlc": [
+        {
+            "id": "01009DE014D6F001",
+            "name": "METALLIC CHILD x Sakuna: Of Rice and Ruin Crossover \"Of Rice and Cores\""
+        },
+        {
+            "id": "01009DE014D6F002",
+            "name": "METALLIC CHILD Chip Pack 500"
+        },
+        {
+            "id": "01009DE014D6F003",
+            "name": "METALLIC CHILD Chip Pack 2000"
+        },
+        {
+            "id": "01009DE014D6F004",
+            "name": "METALLIC CHILD Chip Pack 4000"
+        },
+        {
+            "id": "01009DE014D6F005",
+            "name": "METALLIC CHILD x Sakuna: Of Rice and Ruin Crossover Custom 'Kokorowa'"
+        },
+        {
+            "id": "01009DE014D6F006",
+            "name": "METALLIC CHILD Chip Pack 200"
+        },
+        {
+            "id": "01009DE014D6F007",
+            "name": "METALLIC CHILD Chip Pack 1000"
+        }
+    ],
     "latest": 0
 }

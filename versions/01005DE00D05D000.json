@@ -1,3 +1,29 @@
 {
+    "dlc": [
+        {
+            "id": "01005DE00D05D001",
+            "name": "Russian In-Game Commentary"
+        },
+        {
+            "id": "01005DE00D05D002",
+            "name": "Polish In-Game Commentary"
+        },
+        {
+            "id": "01005DE00D05D003",
+            "name": "Dutch In-Game Commentary"
+        },
+        {
+            "id": "01005DE00D05D004",
+            "name": "Arabic In-Game Commentary"
+        },
+        {
+            "id": "01005DE00D05D005",
+            "name": "Italian In-Game Commentary"
+        },
+        {
+            "id": "01005DE00D05D006",
+            "name": "Portuguese (Brazil) In-Game Commentary"
+        }
+    ],
     "latest": 0
 }

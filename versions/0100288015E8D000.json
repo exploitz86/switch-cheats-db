@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "0100288015E8D002",
+            "name": "KLONOA Phantasy Reverie Series: Moo Costume Set"
+        },
+        {
+            "id": "0100288015E8D003",
+            "name": "KLONOA Phantasy Reverie Series: Joka & Tat Mask Set"
+        },
+        {
+            "id": "0100288015E8D008",
+            "name": "KLONOA Phantasy Reverie Series: Bandai Namco Collaboration Outfit Set"
+        }
+    ],
     "latest": 0
 }

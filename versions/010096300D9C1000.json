@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "010096300D9C1001",
+            "name": "Sushi Time! Expansion Pack #1"
+        },
+        {
+            "id": "010096300D9C1002",
+            "name": "Sushi Time! Expansion Pack #2"
+        }
+    ],
     "latest": 131072
 }

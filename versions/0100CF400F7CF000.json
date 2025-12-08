@@ -1,3 +1,25 @@
 {
+    "dlc": [
+        {
+            "id": "0100CF400F7CF001",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100CF400F7CF002",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100CF400F7CF003",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100CF400F7CF004",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100CF400F7CF005",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 0
 }

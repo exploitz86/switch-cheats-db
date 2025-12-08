@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "0100016018865001",
+            "name": "Pathfinder: Wrath of the Righteous - Inevitable Excess"
+        },
+        {
+            "id": "0100016018865002",
+            "name": "Pathfinder: Wrath of the Righteous - Through the Ashes"
+        },
+        {
+            "id": "0100016018865003",
+            "name": "Pathfinder: Wrath of the Righteous - The Treasure of the Midnight Isles"
+        },
+        {
+            "id": "0100016018865004",
+            "name": "Pathfinder: Wrath of the Righteous - The Last Sarkorians"
+        }
+    ],
     "latest": 0
 }

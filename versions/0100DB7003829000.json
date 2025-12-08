@@ -1,3 +1,89 @@
 {
+    "dlc": [
+        {
+            "id": "0100DB7003829001",
+            "name": "Pinball FX3 - Portal\u00a0\u00ae Pinball"
+        },
+        {
+            "id": "0100DB7003829002",
+            "name": "Pinball FX3 - The Walking Dead Pinball"
+        },
+        {
+            "id": "0100DB7003829003",
+            "name": "Pinball FX3 - Balls of Glory Pinball"
+        },
+        {
+            "id": "0100DB7003829004",
+            "name": "Pinball FX3 - Aliens vs. Pinball"
+        },
+        {
+            "id": "0100DB7003829005",
+            "name": "Pinball FX3 - Universal Classics\u2122 Pinball"
+        },
+        {
+            "id": "0100DB7003829006",
+            "name": "Pinball FX3 - Iron & Steel Pack"
+        },
+        {
+            "id": "0100DB7003829007",
+            "name": "Pinball FX3 - Medieval Pack"
+        },
+        {
+            "id": "0100DB7003829008",
+            "name": "Pinball FX3 - Sci-Fi Pack"
+        },
+        {
+            "id": "0100DB7003829009",
+            "name": "Pinball FX3 - Core Collection"
+        },
+        {
+            "id": "0100DB700382900A",
+            "name": "Pinball FX3 - Zen Classics"
+        },
+        {
+            "id": "0100DB700382900B",
+            "name": "Pinball FX3 - Carnivals and Legends"
+        },
+        {
+            "id": "0100DB700382900C",
+            "name": "Pinball FX3 - Jurassic World\u2122 Pinball"
+        },
+        {
+            "id": "0100DB700382900D",
+            "name": "Pinball FX3 - Bethesda\u00ae Pinball"
+        },
+        {
+            "id": "0100DB700382900E",
+            "name": "Pinball FX3 - Williams\u2122 Pinball: Volume 1"
+        },
+        {
+            "id": "0100DB700382900F",
+            "name": "Pinball FX3 - Williams\u2122 Pinball: Volume 2"
+        },
+        {
+            "id": "0100DB7003829010",
+            "name": "Pinball FX3 - Williams\u2122 Pinball: Volume 3"
+        },
+        {
+            "id": "0100DB7003829011",
+            "name": "Pinball FX3 - Williams\u2122 Pinball: Volume 4"
+        },
+        {
+            "id": "0100DB7003829012",
+            "name": "Pinball FX3 - Williams\u2122 Pinball: Universal Monsters Pack"
+        },
+        {
+            "id": "0100DB7003829013",
+            "name": "Pinball FX3 - Williams\u2122 Pinball: Volume 5"
+        },
+        {
+            "id": "0100DB7003829014",
+            "name": "Pinball FX3 - Williams\u2122 Pinball: Volume 6"
+        },
+        {
+            "id": "0100DB7003829015",
+            "name": "Pinball FX3 - Indiana Jones\u2122\ufe0f: The Pinball Adventure"
+        }
+    ],
     "latest": 65536
 }

@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "0100001017217002",
+            "name": "Labyrinth of Galleria: The Moon Society \u2013 Special Soul Pact Quest"
+        },
+        {
+            "id": "0100001017217003",
+            "name": "Labyrinth of Galleria: The Moon Society \u2013 Great Hat Quest"
+        },
+        {
+            "id": "0100001017217004",
+            "name": "Labyrinth of Galleria: The Moon Society \u2013 Great Boots Quest"
+        }
+    ],
     "latest": 0
 }

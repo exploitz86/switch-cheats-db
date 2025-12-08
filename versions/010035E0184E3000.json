@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "010035E0184E3001",
+            "name": "Gloomhaven - Jaws of the Lion"
+        },
+        {
+            "id": "010035E0184E3002",
+            "name": "Gloomhaven - Solo Scenarios: Mercenary Challenges"
+        },
+        {
+            "id": "010035E0184E3003",
+            "name": "Gloomhaven - Pre-order skins"
+        }
+    ],
     "latest": 0
 }

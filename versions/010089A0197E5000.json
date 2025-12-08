@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "010089A0197E5001",
+            "name": "Vampire Survivors: Legacy of the Moonspell"
+        },
+        {
+            "id": "010089A0197E5002",
+            "name": "Vampire Survivors: Tides of the Foscari"
+        }
+    ],
     "latest": 196608
 }

@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100C4C00E73F001",
+            "name": "Moving Out - The Employees of the Month Pack"
+        },
+        {
+            "id": "0100C4C00E73F002",
+            "name": "Moving Out - Movers in Paradise"
+        }
+    ],
     "latest": 0
 }

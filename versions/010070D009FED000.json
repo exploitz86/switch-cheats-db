@@ -1,3 +1,45 @@
 {
+    "dlc": [
+        {
+            "id": "010070D009FED001",
+            "name": "LEGO\u00ae DC TV Series Super Heroes Character Pack"
+        },
+        {
+            "id": "010070D009FED002",
+            "name": "LEGO\u00ae DC TV Series Super-Villains Character Pack"
+        },
+        {
+            "id": "010070D009FED003",
+            "name": "LEGO\u00ae DC Super-Villains Justice League Dark"
+        },
+        {
+            "id": "010070D009FED004",
+            "name": "LEGO\u00ae Aquaman Movie Level\u00a0Pack\u00a01"
+        },
+        {
+            "id": "010070D009FED005",
+            "name": "LEGO\u00ae DC Super-Villains Aquaman Pack\u00a02"
+        },
+        {
+            "id": "010070D009FED006",
+            "name": "LEGO\u00ae DC Super-Villains DC Movies Character Pack"
+        },
+        {
+            "id": "010070D009FED007",
+            "name": "LEGO\u00ae DC Super-Villains Young Justice Level Pack"
+        },
+        {
+            "id": "010070D009FED008",
+            "name": "LEGO\u00ae DC Super-Villains Shazam! Movie Level Pack\u00a01"
+        },
+        {
+            "id": "010070D009FED009",
+            "name": "LEGO\u00ae DC Super-Villains Shazam! Movie Level\u00a0Pack\u00a02"
+        },
+        {
+            "id": "010070D009FED00A",
+            "name": "LEGO\u00ae DC Super-Villains Batman: The Animated Series Level Pack"
+        }
+    ],
     "latest": 65536
 }

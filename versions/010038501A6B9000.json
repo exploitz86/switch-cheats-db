@@ -1,3 +1,29 @@
 {
+    "dlc": [
+        {
+            "id": "010038501A6B9001",
+            "name": "Song Pack 1"
+        },
+        {
+            "id": "010038501A6B9002",
+            "name": "Song Pack 2"
+        },
+        {
+            "id": "010038501A6B9004",
+            "name": "Song Pack 4"
+        },
+        {
+            "id": "010038501A6B9005",
+            "name": "Song Pack 5"
+        },
+        {
+            "id": "010038501A6B9006",
+            "name": "Song Pack 6"
+        },
+        {
+            "id": "010038501A6B9007",
+            "name": "Song Pack 7"
+        }
+    ],
     "latest": 65536
 }

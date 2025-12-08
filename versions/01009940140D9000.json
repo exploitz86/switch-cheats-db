@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "01009940140D9001",
+            "name": "Mail Mole: Mystery Mansion"
+        },
+        {
+            "id": "01009940140D9002",
+            "name": "Mail Mole: The Lost Presents"
+        }
+    ],
     "latest": 65536
 }

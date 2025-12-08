@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "0100FF401640D001",
+            "name": "Gerda: A Flame in Winter - Liva's Story"
+        }
+    ],
     "latest": 65536
 }

@@ -1,3 +1,41 @@
 {
+    "dlc": [
+        {
+            "id": "0100F8600E21F002",
+            "name": "Castilian Spanish Language Pack"
+        },
+        {
+            "id": "0100F8600E21F003",
+            "name": "Latin American Spanish Language Pack"
+        },
+        {
+            "id": "0100F8600E21F004",
+            "name": "Italian Language Pack"
+        },
+        {
+            "id": "0100F8600E21F005",
+            "name": "Russian Language Pack"
+        },
+        {
+            "id": "0100F8600E21F007",
+            "name": "French Language Pack"
+        },
+        {
+            "id": "0100F8600E21F008",
+            "name": "German Language Pack"
+        },
+        {
+            "id": "0100F8600E21F009",
+            "name": "Brazilian Portuguese Language Pack"
+        },
+        {
+            "id": "0100F8600E21F00A",
+            "name": "Korean Language Pack"
+        },
+        {
+            "id": "0100F8600E21F00D",
+            "name": "Japanese Language Pack"
+        }
+    ],
     "latest": 196608
 }

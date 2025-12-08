@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "010031E00EA25001",
+            "name": "Jade Sea"
+        },
+        {
+            "id": "010031E00EA25002",
+            "name": "Pirate City"
+        }
+    ],
     "latest": 0
 }

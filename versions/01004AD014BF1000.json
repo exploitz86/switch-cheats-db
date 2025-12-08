@@ -1,3 +1,25 @@
 {
+    "dlc": [
+        {
+            "id": "01004AD014BF1001",
+            "name": "Adventurer's Treasure Box"
+        },
+        {
+            "id": "01004AD014BF1002",
+            "name": "Explorer's Treasure Box"
+        },
+        {
+            "id": "01004AD014BF1003",
+            "name": "Sonic Frontiers: Monster Hunter Collaboration Pack"
+        },
+        {
+            "id": "01004AD014BF1008",
+            "name": "Sonic Frontiers: Sonic Adventure 2 Shoes"
+        },
+        {
+            "id": "01004AD014BF1009",
+            "name": "Sonic Frontiers: Holiday Cheer Suit"
+        }
+    ],
     "latest": 0
 }

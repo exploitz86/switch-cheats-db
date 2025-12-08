@@ -1,3 +1,33 @@
 {
+    "dlc": [
+        {
+            "id": "01008C801292103F",
+            "name": "Portuguese Language Pack"
+        },
+        {
+            "id": "01008C8012921040",
+            "name": "German Language Pack"
+        },
+        {
+            "id": "01008C8012921041",
+            "name": "Latam Spanish Language Pack"
+        },
+        {
+            "id": "01008C8012921042",
+            "name": "Spanish Language Pack"
+        },
+        {
+            "id": "01008C8012921043",
+            "name": "French Language Pack"
+        },
+        {
+            "id": "01008C8012921044",
+            "name": "Italian Language Pack"
+        },
+        {
+            "id": "01008C8012921045",
+            "name": "Polish Language Pack"
+        }
+    ],
     "latest": 0
 }

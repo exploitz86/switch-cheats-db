@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "0100D74019A0F002",
+            "name": "Rui Fumizuki's Outfit"
+        },
+        {
+            "id": "0100D74019A0F003",
+            "name": "Sena Kitada's Outfit"
+        },
+        {
+            "id": "0100D74019A0F004",
+            "name": "Mana Kitada's Outfit"
+        },
+        {
+            "id": "0100D74019A0F005",
+            "name": "Sara's Outfit"
+        }
+    ],
     "latest": 0
 }

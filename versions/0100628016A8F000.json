@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "0100628016A8F001",
+            "name": "American Aces DLC"
+        }
+    ],
     "latest": 0
 }

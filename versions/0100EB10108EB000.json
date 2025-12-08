@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "0100EB10108EB001",
+            "name": "Battle Gear: G.I. Joe & Cobra Weapons Pack"
+        },
+        {
+            "id": "0100EB10108EB002",
+            "name": "Classic Duke & Classic Cobra Commander Character Pack"
+        },
+        {
+            "id": "0100EB10108EB003",
+            "name": "Digital Art Book & Soundtrack"
+        }
+    ],
     "latest": 0
 }

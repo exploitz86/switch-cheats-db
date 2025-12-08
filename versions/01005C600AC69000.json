@@ -1,3 +1,53 @@
 {
+    "dlc": [
+        {
+            "id": "01005C600AC69001",
+            "name": "A United Front with Squad 7"
+        },
+        {
+            "id": "01005C600AC69002",
+            "name": "Squad E, to the Beach!"
+        },
+        {
+            "id": "01005C600AC69003",
+            "name": "A Captainless Squad"
+        },
+        {
+            "id": "01005C600AC69004",
+            "name": "Expert Level Skirmishes"
+        },
+        {
+            "id": "01005C600AC69005",
+            "name": "The Two Valkyria"
+        },
+        {
+            "id": "01005C600AC69006",
+            "name": "Edy's Advance Ops"
+        },
+        {
+            "id": "01005C600AC69007",
+            "name": "Valkyria Chronicles 4: Japanese Voice Pack"
+        },
+        {
+            "id": "01005C600AC69065",
+            "name": "Tank Decal - Gallian Crest"
+        },
+        {
+            "id": "01005C600AC69066",
+            "name": "Tank Decal - Cherub"
+        },
+        {
+            "id": "01005C600AC69067",
+            "name": "Tank Decal - Bakery"
+        },
+        {
+            "id": "01005C600AC69068",
+            "name": "Tank Decal - Cygnus"
+        },
+        {
+            "id": "01005C600AC69069",
+            "name": "Tank Decal - Royal Flush"
+        }
+    ],
     "latest": 0
 }

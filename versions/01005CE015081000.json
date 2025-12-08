@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "01005CE015081001",
+            "name": "Experience x3 - Alphadia Genesis 2"
+        },
+        {
+            "id": "01005CE015081002",
+            "name": "Damage x2 - Alphadia Genesis 2"
+        },
+        {
+            "id": "01005CE015081003",
+            "name": "Full Restore - Alphadia Genesis 2"
+        }
+    ],
     "latest": 0
 }

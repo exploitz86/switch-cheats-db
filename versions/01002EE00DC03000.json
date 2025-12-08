@@ -1,3 +1,33 @@
 {
+    "dlc": [
+        {
+            "id": "01002EE00DC03001",
+            "name": "Great Britain & Ireland"
+        },
+        {
+            "id": "01002EE00DC03002",
+            "name": "Germany"
+        },
+        {
+            "id": "01002EE00DC03003",
+            "name": "France"
+        },
+        {
+            "id": "01002EE00DC03004",
+            "name": "Northern Europe"
+        },
+        {
+            "id": "01002EE00DC03005",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002EE00DC03006",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002EE00DC03007",
+            "name": "Japan"
+        }
+    ],
     "latest": 0
 }

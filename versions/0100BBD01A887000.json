@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "0100BBD01A887001",
+            "name": "Color Set"
+        }
+    ],
     "latest": 0
 }

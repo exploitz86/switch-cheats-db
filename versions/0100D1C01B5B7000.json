@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100D1C01B5B7001",
+            "name": "Golden Idol Mysteries: The Spider of Lanka"
+        },
+        {
+            "id": "0100D1C01B5B7002",
+            "name": "Golden Idol Mysteries: The Lemurian Vampire"
+        }
+    ],
     "latest": 0
 }

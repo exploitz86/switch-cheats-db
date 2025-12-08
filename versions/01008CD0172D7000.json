@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "01008CD0172D7001",
+            "name": "DREDGE - Custom Rod"
+        },
+        {
+            "id": "01008CD0172D7002",
+            "name": "DREDGE - Blackstone Key"
+        }
+    ],
     "latest": 0
 }

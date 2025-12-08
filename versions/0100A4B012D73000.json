@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "0100A4B012D73001",
+            "name": "Roguebook - Heroes Skins Pack"
+        },
+        {
+            "id": "0100A4B012D73002",
+            "name": "Roguebook - Alternate Art Pack"
+        },
+        {
+            "id": "0100A4B012D73003",
+            "name": "Roguebook - Fugoro, Merchant of Wonders"
+        }
+    ],
     "latest": 0
 }

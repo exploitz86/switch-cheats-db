@@ -1,3 +1,141 @@
 {
+    "dlc": [
+        {
+            "id": "0100DC60167B5005",
+            "name": "Capcom Arcade 2nd Stadium: Savage Bees"
+        },
+        {
+            "id": "0100DC60167B5007",
+            "name": "Capcom Arcade 2nd Stadium: Gan Sumoku"
+        },
+        {
+            "id": "0100DC60167B500A",
+            "name": "Capcom Arcade 2nd Stadium: The Speed Rumbler"
+        },
+        {
+            "id": "0100DC60167B500C",
+            "name": "Capcom Arcade 2nd Stadium: Hyper Dyne Side Arms"
+        },
+        {
+            "id": "0100DC60167B500D",
+            "name": "Capcom Arcade 2nd Stadium: Hissatsu Buraiken"
+        },
+        {
+            "id": "0100DC60167B5010",
+            "name": "Capcom Arcade 2nd Stadium: Black Tiger"
+        },
+        {
+            "id": "0100DC60167B5011",
+            "name": "Capcom Arcade 2nd Stadium: Street Fighter"
+        },
+        {
+            "id": "0100DC60167B5012",
+            "name": "Capcom Arcade 2nd Stadium: Tiger Road"
+        },
+        {
+            "id": "0100DC60167B5013",
+            "name": "Capcom Arcade 2nd Stadium: 1943 Kai - Midway Kaisen -"
+        },
+        {
+            "id": "0100DC60167B5014",
+            "name": "Capcom Arcade 2nd Stadium: Last Duel"
+        },
+        {
+            "id": "0100DC60167B501D",
+            "name": "Capcom Arcade 2nd Stadium: A.K.A Magic Sword"
+        },
+        {
+            "id": "0100DC60167B5020",
+            "name": "Capcom Arcade 2nd Stadium: A.K.A The King of Dragons"
+        },
+        {
+            "id": "0100DC60167B5021",
+            "name": "Capcom Arcade 2nd Stadium: A.K.A Block Block"
+        },
+        {
+            "id": "0100DC60167B5023",
+            "name": "Capcom Arcade 2nd Stadium: A.K.A Knights of the Round"
+        },
+        {
+            "id": "0100DC60167B502F",
+            "name": "Capcom Arcade 2nd Stadium: Capcom Sports Club"
+        },
+        {
+            "id": "0100DC60167B5034",
+            "name": "Capcom Arcade 2nd Stadium: Hyper Street Fighter II: The Anniversary Edition"
+        },
+        {
+            "id": "0100DC60167B5037",
+            "name": "Capcom Arcade 2nd Stadium: Three Wonders"
+        },
+        {
+            "id": "0100DC60167B5038",
+            "name": "Capcom Arcade 2nd Stadium: Saturday Night Slam Masters"
+        },
+        {
+            "id": "0100DC60167B5039",
+            "name": "Capcom Arcade 2nd Stadium: Eco Fighters"
+        },
+        {
+            "id": "0100DC60167B503A",
+            "name": "Capcom Arcade 2nd Stadium: Night Warriors: Darkstalkers' Revenge"
+        },
+        {
+            "id": "0100DC60167B503B",
+            "name": "Capcom Arcade 2nd Stadium: Super Puzzle Fighter II Turbo"
+        },
+        {
+            "id": "0100DC60167B503C",
+            "name": "Capcom Arcade 2nd Stadium: Mega Man 2: The Power Fighters"
+        },
+        {
+            "id": "0100DC60167B503D",
+            "name": "Capcom Arcade 2nd Stadium: Super Gem Fighter Mini Mix"
+        },
+        {
+            "id": "0100DC60167B503E",
+            "name": "Capcom Arcade 2nd Stadium: Street Fighter Alpha 3"
+        },
+        {
+            "id": "0100DC60167B5040",
+            "name": "Capcom Arcade 2nd Stadium: Darkstalkers: The Night Warriors"
+        },
+        {
+            "id": "0100DC60167B5041",
+            "name": "Capcom Arcade 2nd Stadium: Street Fighter Alpha: Warriors' Dreams"
+        },
+        {
+            "id": "0100DC60167B5042",
+            "name": "Capcom Arcade 2nd Stadium: Mega Man: The Power Battle"
+        },
+        {
+            "id": "0100DC60167B5043",
+            "name": "Capcom Arcade 2nd Stadium: Street Fighter Alpha 2"
+        },
+        {
+            "id": "0100DC60167B5044",
+            "name": "Capcom Arcade 2nd Stadium: A.K.A Vampire Savior: The Lord of Vampire"
+        },
+        {
+            "id": "0100DC60167B5045",
+            "name": "Capcom Arcade 2nd Stadium: Rally 2011 LED Storm"
+        },
+        {
+            "id": "0100DC60167B5046",
+            "name": "Capcom Arcade 2nd Stadium: Pnickies"
+        },
+        {
+            "id": "0100DC60167B53EB",
+            "name": "Capcom Arcade 2nd Stadium: Display Frames Set 1"
+        },
+        {
+            "id": "0100DC60167B53EC",
+            "name": "Capcom Arcade 2nd Stadium: Invincibility"
+        },
+        {
+            "id": "0100DC60167B53ED",
+            "name": "Capcom Arcade 2nd Stadium: Special Display Frames Set"
+        }
+    ],
     "latest": 0
 }

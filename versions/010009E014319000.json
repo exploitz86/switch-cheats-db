@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "010009E014319001",
+            "name": "Monster Camp Character Pack - New Blood"
+        },
+        {
+            "id": "010009E014319002",
+            "name": "Monster Camp Character Pack - Zoe"
+        }
+    ],
     "latest": 0
 }

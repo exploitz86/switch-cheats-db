@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "01002BD00CB87001",
+            "name": "DokiDoki Pants set A"
+        },
+        {
+            "id": "01002BD00CB87002",
+            "name": "DokiDoki Pants set B"
+        }
+    ],
     "latest": 262144
 }

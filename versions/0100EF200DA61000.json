@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "0100EF200DA61001",
+            "name": "The Survivalists - Monkey Business Pack"
+        }
+    ],
     "latest": 65536
 }

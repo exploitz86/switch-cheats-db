@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "01003BD00CAAF001",
+            "name": "Wolfenstein\u00ae: Youngblood\u2122 Trial Edition"
+        },
+        {
+            "id": "01003BD00CAAF002",
+            "name": "Wolfenstein\u00ae: Youngblood\u2122 Standard Edition"
+        },
+        {
+            "id": "01003BD00CAAF003",
+            "name": "Wolfenstein\u00ae: Youngblood\u2122  Deluxe Edition"
+        },
+        {
+            "id": "01003BD00CAAF004",
+            "name": "Wolfenstein\u00ae: Youngblood\u2122 Legacy Pack Pre-order Incentive"
+        }
+    ],
     "latest": 0
 }

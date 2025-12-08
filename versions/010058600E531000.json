@@ -1,3 +1,25 @@
 {
+    "dlc": [
+        {
+            "id": "010058600E531001",
+            "name": "Empire of Sin - The Good Son Pack"
+        },
+        {
+            "id": "010058600E531002",
+            "name": "Empire of Sin - Deluxe Pack"
+        },
+        {
+            "id": "010058600E531003",
+            "name": "Empire of Sin - Al Capone's Fur Coat"
+        },
+        {
+            "id": "010058600E531004",
+            "name": "Empire of Sin - Make It Count"
+        },
+        {
+            "id": "010058600E531005",
+            "name": "Empire of Sin - Hunt For Aurora"
+        }
+    ],
     "latest": 0
 }

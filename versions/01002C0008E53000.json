@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "01002C0008E53001",
+            "name": "Tales of Vesperia\u2122: Definitive Edition Adventurer Starter Pack"
+        },
+        {
+            "id": "01002C0008E53002",
+            "name": "Tales of Vesperia\u2122: Definitive Edition Costume Pack"
+        }
+    ],
     "latest": 0
 }

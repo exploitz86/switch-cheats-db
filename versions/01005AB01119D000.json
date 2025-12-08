@@ -1,3 +1,45 @@
 {
+    "dlc": [
+        {
+            "id": "01005AB01119D001",
+            "name": "[Challenge mode] \u548c ~ NAGOMI ~ Pack release key"
+        },
+        {
+            "id": "01005AB01119D002",
+            "name": "[Challenge Mode] \u821e ~ MAI ~ Pack Release Key"
+        },
+        {
+            "id": "01005AB01119D003",
+            "name": "[Challenge Mode] \u796d ~ MATSURI ~ Pack Release Key"
+        },
+        {
+            "id": "01005AB01119D004",
+            "name": "[Challenge Mode] \u83ef ~ HANA ~ Pack Release Key"
+        },
+        {
+            "id": "01005AB01119D005",
+            "name": "[Challenge Mode] \u5f69 ~ IRODORI ~ Pack Release Key"
+        },
+        {
+            "id": "01005AB01119D006",
+            "name": "[Challenge Mode] \u8475 ~ AOI ~ Pack Release Key"
+        },
+        {
+            "id": "01005AB01119D007",
+            "name": "[Challenge Mode] \u5bb4 ~ UTAGE ~ Pack Release Key"
+        },
+        {
+            "id": "01005AB01119D008",
+            "name": "[Challenge Mode] \u96c5 ~ MIYABI ~ Pack Release Key"
+        },
+        {
+            "id": "01005AB01119D009",
+            "name": "[Challenge Mode] \u5320 ~TAKUMI ~ Pack Release Key"
+        },
+        {
+            "id": "01005AB01119D00A",
+            "name": "[Challenge Mode] \u6975 ~ KIWAMI ~ Pack Release Key"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "010024D016DC1001",
+            "name": "Art Book: Monsters"
+        },
+        {
+            "id": "010024D016DC1002",
+            "name": "Syndrome Soundtrack"
+        }
+    ],
     "latest": 0
 }

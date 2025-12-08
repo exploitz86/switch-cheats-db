@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "0100B0C0086B1001",
+            "name": "Wily Numbers: Instrumental Stage Tracks"
+        }
+    ],
     "latest": 65536
 }

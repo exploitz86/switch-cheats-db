@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "010057C01330B001",
+            "name": "Bonfire Peaks Lost Memories"
+        }
+    ],
     "latest": 65536
 }

@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "010004B01C3E9001",
+            "name": "Experience x3 - Isekai Rondo"
+        },
+        {
+            "id": "010004B01C3E9002",
+            "name": "Damage x2 - Isekai Rondo"
+        },
+        {
+            "id": "010004B01C3E9003",
+            "name": "No Skill Cost - Isekai Rondo"
+        }
+    ],
     "latest": 0
 }

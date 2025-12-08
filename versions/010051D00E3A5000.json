@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "010051D00E3A5001",
+            "name": "Another Episode Pack"
+        },
+        {
+            "id": "010051D00E3A500D",
+            "name": "Swimsuit Day"
+        }
+    ],
     "latest": 0
 }

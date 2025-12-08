@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "0100664016D5D001",
+            "name": "Redout 2 - Veloce Livery"
+        },
+        {
+            "id": "0100664016D5D003",
+            "name": "Redout 2 - Summer Pack"
+        },
+        {
+            "id": "0100664016D5D004",
+            "name": "Redout 2 - Winter Pack"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "01002D0015BFB001",
+            "name": "Experience x3 - Legend of Ixtona"
+        },
+        {
+            "id": "01002D0015BFB002",
+            "name": "CP x3 - Legend of Ixtona"
+        },
+        {
+            "id": "01002D0015BFB003",
+            "name": "Experience & CP x2 - Legend of Ixtona"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100E2001C5AD001",
+            "name": "Acrylic Nails!: Winter Marble"
+        },
+        {
+            "id": "0100E2001C5AD002",
+            "name": "Acrylic Nails!: Spooky Painting"
+        }
+    ],
     "latest": 0
 }

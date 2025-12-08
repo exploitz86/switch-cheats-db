@@ -1,3 +1,69 @@
 {
+    "dlc": [
+        {
+            "id": "0100DA70186D5001",
+            "name": "Pinball FX - Star Wars\u2122 Pinball: Thrill of the Hunt"
+        },
+        {
+            "id": "0100DA70186D5002",
+            "name": "Pinball FX - Williams Pinball: World Cup Soccer"
+        },
+        {
+            "id": "0100DA70186D5003",
+            "name": "Pinball FX - Williams Pinball: The Addams Family\u2122"
+        },
+        {
+            "id": "0100DA70186D5004",
+            "name": "Pinball FX - Williams Pinball: Twilight Zone"
+        },
+        {
+            "id": "0100DA70186D5005",
+            "name": "Pinball FX - DreamWorks Pinball"
+        },
+        {
+            "id": "0100DA70186D5006",
+            "name": "Pinball FX - World War Z Pinball"
+        },
+        {
+            "id": "0100DA70186D5007",
+            "name": "Pinball FX - Garfield Pinball"
+        },
+        {
+            "id": "0100DA70186D5008",
+            "name": "Pinball FX - MY LITTLE PONY Pinball"
+        },
+        {
+            "id": "0100DA70186D5009",
+            "name": "Pinball FX - Peanuts' Snoopy Pinball"
+        },
+        {
+            "id": "0100DA70186D500A",
+            "name": "Pinball FX - Gearbox\u00ae Pinball"
+        },
+        {
+            "id": "0100DA70186D500B",
+            "name": "Pinball FX - Godzilla vs. Kong Pinball Pack"
+        },
+        {
+            "id": "0100DA70186D500C",
+            "name": "Pinball FX - Crypt of the NecroDancer Pinball"
+        },
+        {
+            "id": "0100DA70186D500D",
+            "name": "Pinball FX - Honor and Legacy Pack"
+        },
+        {
+            "id": "0100DA70186D500E",
+            "name": "Pinball FX - Marvel Pinball Collection 1"
+        },
+        {
+            "id": "0100DA70186D500F",
+            "name": "Pinball FX - Williams\u2122 Pinball: Star Trek\u2122: The Next Generation"
+        },
+        {
+            "id": "0100DA70186D5010",
+            "name": "Pinball FX - South Park Pinball"
+        }
+    ],
     "latest": 65536
 }

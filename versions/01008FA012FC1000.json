@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "01008FA012FC1001",
+            "name": "Experience x3 - Crystal Ortha"
+        },
+        {
+            "id": "01008FA012FC1002",
+            "name": "Magic Pancho - Crystal Ortha"
+        },
+        {
+            "id": "01008FA012FC1003",
+            "name": "Damage x2 - Crystal Ortha"
+        }
+    ],
     "latest": 0
 }

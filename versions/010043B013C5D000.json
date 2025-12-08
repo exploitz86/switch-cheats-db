@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "010043B013C5D001",
+            "name": "Legendary Threads Set"
+        },
+        {
+            "id": "010043B013C5D002",
+            "name": "Reapers' Game Survival Set"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "0100CFA0111C9001",
+            "name": "Gods Will Fall - Hunter's Head Gear"
+        },
+        {
+            "id": "0100CFA0111C9002",
+            "name": "Gods Will Fall - DLC Part 1"
+        },
+        {
+            "id": "0100CFA0111C9003",
+            "name": "Gods Will Fall - DLC Part 2"
+        },
+        {
+            "id": "0100CFA0111C9004",
+            "name": "Gods Will Fall - DLC Part 3"
+        }
+    ],
     "latest": 65536
 }

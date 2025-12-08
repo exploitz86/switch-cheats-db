@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "010001000EB0D001",
+            "name": "Top Gear Time Attack - Free DLC included with purchase"
+        },
+        {
+            "id": "010001000EB0D002",
+            "name": "Top Gear: The Stig Challenge"
+        }
+    ],
     "latest": 0
 }

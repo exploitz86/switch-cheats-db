@@ -1,3 +1,45 @@
 {
+    "dlc": [
+        {
+            "id": "010016A010397001",
+            "name": "Worms Rumble - Legends Pack"
+        },
+        {
+            "id": "010016A010397002",
+            "name": "Worms Rumble - Action All-Stars Pack"
+        },
+        {
+            "id": "010016A010397003",
+            "name": "Worms Rumble - Armageddon Weapon Skin Pack"
+        },
+        {
+            "id": "010016A010397004",
+            "name": "Worms Rumble - Emote Pack"
+        },
+        {
+            "id": "010016A010397005",
+            "name": "Worms Rumble - Captain & Shark Double Pack"
+        },
+        {
+            "id": "010016A010397006",
+            "name": "Worms Rumble - Cats & Dogs Double Pack"
+        },
+        {
+            "id": "010016A010397007",
+            "name": "Worms Rumble - Honor & Death Pack"
+        },
+        {
+            "id": "010016A010397008",
+            "name": "Worms Rumble - Bank Heist Double Pack"
+        },
+        {
+            "id": "010016A010397009",
+            "name": "Worms Rumble - Spaceworm and Alien Double Pack"
+        },
+        {
+            "id": "010016A01039700A",
+            "name": "Worms Rumble - Patchwork Bear"
+        }
+    ],
     "latest": 0
 }

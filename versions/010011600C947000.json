@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "010011600C947001",
+            "name": "Travis Strikes Again: No More Heroes - DLC #1 Black Dandelion"
+        },
+        {
+            "id": "010011600C947002",
+            "name": "Travis Strikes Again: No More Heroes - DLC #2 - Bubblegum Fatale"
+        }
+    ],
     "latest": 131072
 }

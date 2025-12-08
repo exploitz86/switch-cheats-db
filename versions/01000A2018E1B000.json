@@ -1,3 +1,25 @@
 {
+    "dlc": [
+        {
+            "id": "01000A2018E1B001",
+            "name": "Summer Outfit Set"
+        },
+        {
+            "id": "01000A2018E1B002",
+            "name": "Casual Outfit Set"
+        },
+        {
+            "id": "01000A2018E1B003",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01000A2018E1B004",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01000A2018E1B005",
+            "name": "Sporty Mix"
+        }
+    ],
     "latest": 0
 }

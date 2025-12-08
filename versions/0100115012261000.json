@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "0100115012261001",
+            "name": "SWORD ART ONLINE Alicization Lycoris Premium Pass Costume"
+        },
+        {
+            "id": "0100115012261002",
+            "name": "SWORD ART ONLINE Alicization Lycoris - Blooming of Forget-me-not"
+        },
+        {
+            "id": "0100115012261003",
+            "name": "SWORD ART ONLINE Alicization Lycoris - Blooming of Matricaria"
+        }
+    ],
     "latest": 0
 }

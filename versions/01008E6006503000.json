@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "01008E6006503001",
+            "name": "All Skins Bundle"
+        },
+        {
+            "id": "01008E6006503002",
+            "name": "Barista Clu Skin + Egg Kobo Skin"
+        },
+        {
+            "id": "01008E6006503003",
+            "name": "Foodie Item Skins"
+        },
+        {
+            "id": "01008E6006503004",
+            "name": "Kickstarter Turret Skin"
+        }
+    ],
     "latest": 0
 }

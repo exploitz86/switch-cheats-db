@@ -1,3 +1,49 @@
 {
+    "dlc": [
+        {
+            "id": "0100E2C00B415003",
+            "name": "RPG Maker MV Starter Set"
+        },
+        {
+            "id": "0100E2C00B415004",
+            "name": "RPG Maker MV: DS Character Set"
+        },
+        {
+            "id": "0100E2C00B415005",
+            "name": "RPG Maker MV: DS Monster Set"
+        },
+        {
+            "id": "0100E2C00B415006",
+            "name": "RPG Maker MV: DS Set 1"
+        },
+        {
+            "id": "0100E2C00B415007",
+            "name": "RPG Maker MV: DS Set 2"
+        },
+        {
+            "id": "0100E2C00B415008",
+            "name": "RPG Maker MV: VX Set 1"
+        },
+        {
+            "id": "0100E2C00B415009",
+            "name": "RPG Maker MV: DS Set 3"
+        },
+        {
+            "id": "0100E2C00B41500A",
+            "name": "RPG Maker MV: Fes Monster Set"
+        },
+        {
+            "id": "0100E2C00B41500B",
+            "name": "RPG Maker MV: Fes Map & BG Set"
+        },
+        {
+            "id": "0100E2C00B41500C",
+            "name": "RPG Maker MV: VX Set 2"
+        },
+        {
+            "id": "0100E2C00B41500D",
+            "name": "RPG Maker MV: XP Set 1"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "0100C2C00D74F002",
+            "name": "Path of the Crow"
+        }
+    ],
     "latest": 0
 }

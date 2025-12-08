@@ -1,3 +1,129 @@
 {
+    "dlc": [
+        {
+            "id": "0100FBD013AB7001",
+            "name": "SnowRunner - Derry Longhorn 4520 Sabertooth Livery"
+        },
+        {
+            "id": "0100FBD013AB7002",
+            "name": "SnowRunner - Navistar 5000-MV Tractor"
+        },
+        {
+            "id": "0100FBD013AB7003",
+            "name": "SnowRunner - High Roller Pack"
+        },
+        {
+            "id": "0100FBD013AB7004",
+            "name": "SnowRunner - Loaded Dice Vinyl Wrap"
+        },
+        {
+            "id": "0100FBD013AB7005",
+            "name": "SnowRunner - Scorched Vinyl Wrap"
+        },
+        {
+            "id": "0100FBD013AB7006",
+            "name": "SnowRunner - True Colors Vinyl Wrap"
+        },
+        {
+            "id": "0100FBD013AB7007",
+            "name": "SnowRunner - Season 1: Search & Recover"
+        },
+        {
+            "id": "0100FBD013AB7008",
+            "name": "SnowRunner - Season 2: Explore & Expand"
+        },
+        {
+            "id": "0100FBD013AB7009",
+            "name": "SnowRunner - Season 3: Locate & Deliver"
+        },
+        {
+            "id": "0100FBD013AB700A",
+            "name": "SnowRunner - Season 4: New Frontiers"
+        },
+        {
+            "id": "0100FBD013AB700B",
+            "name": "SnowRunner - Western Star 49X"
+        },
+        {
+            "id": "0100FBD013AB700C",
+            "name": "SnowRunner - Clasico Pack"
+        },
+        {
+            "id": "0100FBD013AB700D",
+            "name": "SnowRunner - Anniversary DLC"
+        },
+        {
+            "id": "0100FBD013AB700E",
+            "name": "SnowRunner - Tatra Dual Pack"
+        },
+        {
+            "id": "0100FBD013AB700F",
+            "name": "SnowRunner - Season 5: Build & Dispatch"
+        },
+        {
+            "id": "0100FBD013AB7010",
+            "name": "SnowRunner - Season 6: Haul & Hustle"
+        },
+        {
+            "id": "0100FBD013AB7011",
+            "name": "SnowRunner - Season 7: Compete & Conquer"
+        },
+        {
+            "id": "0100FBD013AB7012",
+            "name": "SnowRunner - Season 8: Grand Harvest"
+        },
+        {
+            "id": "0100FBD013AB7013",
+            "name": "SnowRunner - GMC Brigadier"
+        },
+        {
+            "id": "0100FBD013AB7014",
+            "name": "SnowRunner - Jeep Dual Pack"
+        },
+        {
+            "id": "0100FBD013AB7015",
+            "name": "SnowRunner - Burning Bright Vinyl Wrap Pack"
+        },
+        {
+            "id": "0100FBD013AB7016",
+            "name": "SnowRunner - Land Rover Dual Pack"
+        },
+        {
+            "id": "0100FBD013AB7017",
+            "name": "SnowRunner - Crocodile Pack"
+        },
+        {
+            "id": "0100FBD013AB7018",
+            "name": "SnowRunner - Rezvani Hercules"
+        },
+        {
+            "id": "0100FBD013AB7019",
+            "name": "SnowRunner - Western Star Wolf Pack"
+        },
+        {
+            "id": "0100FBD013AB701A",
+            "name": "SnowRunner - Save the Day Vinyl Wrap Pack"
+        },
+        {
+            "id": "0100FBD013AB701B",
+            "name": "SnowRunner - Season 9: Renew & Rebuild"
+        },
+        {
+            "id": "0100FBD013AB701C",
+            "name": "SnowRunner - Season 10: Fix & Connect"
+        },
+        {
+            "id": "0100FBD013AB701D",
+            "name": "SnowRunner - Season 11: Lights & Cameras"
+        },
+        {
+            "id": "0100FBD013AB701E",
+            "name": "SnowRunner - Season 12: Public Energy"
+        },
+        {
+            "id": "0100FBD013AB701F",
+            "name": "SnowRunner - The Mastodon"
+        }
+    ],
     "latest": 0
 }

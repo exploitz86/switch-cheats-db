@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "01000F4015BF7001",
+            "name": "Experience x3 - Justice Chronicles"
+        },
+        {
+            "id": "01000F4015BF7002",
+            "name": "Magic Meteorite Growth x3 - Justice Chronicles"
+        },
+        {
+            "id": "01000F4015BF7003",
+            "name": "Damage x2 - Justice Chronicles"
+        }
+    ],
     "latest": 0
 }

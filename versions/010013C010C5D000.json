@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "010013C010C5D001",
+            "name": "Banner of the Maid - Miss Elisa's Journal"
+        },
+        {
+            "id": "010013C010C5D002",
+            "name": "Banner of the Maid - The Oriental Pirate"
+        }
+    ],
     "latest": 0
 }

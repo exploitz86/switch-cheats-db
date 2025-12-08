@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100196009999001",
+            "name": "Super Kickers League: Goths and Vampires!"
+        },
+        {
+            "id": "0100196009999002",
+            "name": "Super Kickers League: Vikings and Valkyries!"
+        }
+    ],
     "latest": 0
 }

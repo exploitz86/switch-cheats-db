@@ -1,3 +1,113 @@
 {
+    "dlc": [
+        {
+            "id": "0100EAE010561001",
+            "name": "Captain Tsubasa: RoNC Shutetsu Uniform"
+        },
+        {
+            "id": "0100EAE010561002",
+            "name": "Captain Tsubasa: RoNC Meiwa FC Uniform + Challenge Ball Set"
+        },
+        {
+            "id": "0100EAE010561003",
+            "name": "Captain Tsubasa: RoNC Acrobatic/Closeup Goal Performances"
+        },
+        {
+            "id": "0100EAE010561004",
+            "name": "Captain Tsubasa: RoNC All-Japan Junior Youth Uniform"
+        },
+        {
+            "id": "0100EAE010561005",
+            "name": "Captain Tsubasa: RoNC New Champions Uniform Set"
+        },
+        {
+            "id": "0100EAE010561006",
+            "name": "Captain Tsubasa: RoNC Open Sky Uniform Set"
+        },
+        {
+            "id": "0100EAE010561007",
+            "name": "Captain Tsubasa: RoNC BANDAI NAMCO Entertainment Uniform Set"
+        },
+        {
+            "id": "0100EAE010561008",
+            "name": "Captain Tsubasa: RoNC Hawk Uniform Set"
+        },
+        {
+            "id": "0100EAE010561009",
+            "name": "Captain Tsubasa: RoNC V Jump Collaboration Uniform Set"
+        },
+        {
+            "id": "0100EAE010561010",
+            "name": "Captain Tsubasa: Rise of New Champions - Stefan Levin"
+        },
+        {
+            "id": "0100EAE010561011",
+            "name": "Captain Tsubasa: Rise of New Champions - Singprasert Bunnaak"
+        },
+        {
+            "id": "0100EAE010561012",
+            "name": "Captain Tsubasa: Rise of New Champions - Ricardo Espadas"
+        },
+        {
+            "id": "0100EAE010561013",
+            "name": "Captain Tsubasa: Rise of New Champions - Mark Owairan"
+        },
+        {
+            "id": "0100EAE010561014",
+            "name": "Captain Tsubasa: Rise of New Champions - Ryoma Hino"
+        },
+        {
+            "id": "0100EAE010561015",
+            "name": "Captain Tsubasa: Rise of New Champions - Shingo Aoi"
+        },
+        {
+            "id": "0100EAE010561016",
+            "name": "Captain Tsubasa: Rise of New Champions - Xiao Junguang"
+        },
+        {
+            "id": "0100EAE010561017",
+            "name": "Captain Tsubasa: Rise of New Champions - Pepe"
+        },
+        {
+            "id": "0100EAE010561018",
+            "name": "Captain Tsubasa: Rise of New Champions - Taichi Nakanishi"
+        },
+        {
+            "id": "0100EAE010561019",
+            "name": "Captain Tsubasa: Rise of New Champions Taro Misaki Mission"
+        },
+        {
+            "id": "0100EAE01056101A",
+            "name": "Captain Tsubasa: Rise of New Champions Hikaru Matsuyama Mission"
+        },
+        {
+            "id": "0100EAE01056101B",
+            "name": "Captain Tsubasa: Rise of New Champions Karl Heinz Schneider Mission"
+        },
+        {
+            "id": "0100EAE01056101C",
+            "name": "Captain Tsubasa: Rise of New Champions Tsubasa Ozora Mission"
+        },
+        {
+            "id": "0100EAE01056101D",
+            "name": "Captain Tsubasa: Rise of New Champions Tachibana Brothers Mission"
+        },
+        {
+            "id": "0100EAE01056101E",
+            "name": "Captain Tsubasa: Rise of New Champions Juan Diaz Mission"
+        },
+        {
+            "id": "0100EAE01056101F",
+            "name": "Captain Tsubasa: Rise of New Champions Kojiro Hyuga Mission"
+        },
+        {
+            "id": "0100EAE010561020",
+            "name": "Captain Tsubasa: Rise of New Champions Jun Misugi Mission"
+        },
+        {
+            "id": "0100EAE010561021",
+            "name": "Captain Tsubasa: Rise of New Champions Carlos Bara Mission"
+        }
+    ],
     "latest": 65536
 }

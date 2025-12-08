@@ -1,3 +1,57 @@
 {
+    "dlc": [
+        {
+            "id": "0100E5E00C4653E9",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100E5E00C4653EB",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100E5E00C4653EC",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100E5E00C4653ED",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100E5E00C4653EE",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100E5E00C4653EF",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100E5E00C4653F0",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100E5E00C4653F1",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100E5E00C4653F2",
+            "name": "SUPER DRAGON BALL HEROES WORLD MISSION: Power-Up Pack"
+        },
+        {
+            "id": "0100E5E00C465407",
+            "name": "SUPER DRAGON BALL HEROES WORLD MISSION - Language Pack (Brazilian Portuguese)"
+        },
+        {
+            "id": "0100E5E00C465408",
+            "name": "SUPER DRAGON BALL HEROES WORLD MISSION - Language Pack (Neutral Spanish)"
+        },
+        {
+            "id": "0100E5E00C465409",
+            "name": "SUPER DRAGON BALL HEROES WORLD MISSION - Anime Music Pack 1"
+        },
+        {
+            "id": "0100E5E00C46540A",
+            "name": "SUPER DRAGON BALL HEROES WORLD MISSION - Anime Music Pack 2"
+        }
+    ],
     "latest": 0
 }

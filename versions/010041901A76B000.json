@@ -1,3 +1,25 @@
 {
+    "dlc": [
+        {
+            "id": "010041901A76B001",
+            "name": "Commemorative Launch Pack"
+        },
+        {
+            "id": "010041901A76B002",
+            "name": "Sky Day! Variety Pack"
+        },
+        {
+            "id": "010041901A76B003",
+            "name": "High Difficulty Pack"
+        },
+        {
+            "id": "010041901A76B004",
+            "name": "Short Scenario Pack"
+        },
+        {
+            "id": "010041901A76B005",
+            "name": "Special Mission Pack"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,29 @@
 {
+    "dlc": [
+        {
+            "id": "0100D0A012D0F001",
+            "name": "Nerf Legends - Alpha Pack"
+        },
+        {
+            "id": "0100D0A012D0F002",
+            "name": "NERF Legends - Tricera-Blast Pack"
+        },
+        {
+            "id": "0100D0A012D0F003",
+            "name": "NERF Legends - Stego-Smash Pack"
+        },
+        {
+            "id": "0100D0A012D0F004",
+            "name": "NERF Legends - Rex-Rampage Pack"
+        },
+        {
+            "id": "0100D0A012D0F005",
+            "name": "NERF Legends - Elite Blaster Combo Pack"
+        },
+        {
+            "id": "0100D0A012D0F006",
+            "name": "NERF Legends - Mega Thunderhawk Blaster"
+        }
+    ],
     "latest": 0
 }

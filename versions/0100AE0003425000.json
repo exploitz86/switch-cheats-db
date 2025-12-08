@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "0100AE0003425001",
+            "name": "Shantae: Pirate Queen's Quest"
+        },
+        {
+            "id": "0100AE0003425002",
+            "name": "Shantae: Friends to the End"
+        },
+        {
+            "id": "0100AE0003425003",
+            "name": "Shantae: Costume Pack"
+        }
+    ],
     "latest": 0
 }

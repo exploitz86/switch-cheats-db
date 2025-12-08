@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100DC0014269001",
+            "name": "Tribes of Midgard Deluxe Content"
+        },
+        {
+            "id": "0100DC0014269002",
+            "name": "Tribes of Midgard Eira Cosmetics"
+        }
+    ],
     "latest": 0
 }

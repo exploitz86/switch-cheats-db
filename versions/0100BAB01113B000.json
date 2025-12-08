@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "0100BAB01113B001",
+            "name": "Neon Abyss - The Lovable Rogues Pack"
+        },
+        {
+            "id": "0100BAB01113B002",
+            "name": "Neon Abyss - Alter Ego Pack"
+        },
+        {
+            "id": "0100BAB01113B003",
+            "name": "Neon Abyss - Chrono Trap"
+        }
+    ],
     "latest": 0
 }

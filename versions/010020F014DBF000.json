@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "010020F014DBF001",
+            "name": "Costume Pack"
+        },
+        {
+            "id": "010020F014DBF002",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010020F014DBF003",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,37 @@
 {
+    "dlc": [
+        {
+            "id": "01009E700DB2F002",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01009E700DB2F005",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01009E700DB2F006",
+            "name": "Bee Simulator Pack de Langue - Fran\u00e7ais"
+        },
+        {
+            "id": "01009E700DB2F007",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01009E700DB2F008",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01009E700DB2F00B",
+            "name": "Bee Simulator Pacote de Vozes - Portugu\u00eas Brasileiro"
+        },
+        {
+            "id": "01009E700DB2F00C",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01009E700DB2F00D",
+            "name": "Bee Simulator Pack de voces - Espa\u00f1ol"
+        }
+    ],
     "latest": 0
 }

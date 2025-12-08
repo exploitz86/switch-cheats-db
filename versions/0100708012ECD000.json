@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100708012ECD001",
+            "name": "Salad Bar Tycoon Expansion Pack 1"
+        },
+        {
+            "id": "0100708012ECD002",
+            "name": "Salad Bar Tycoon Expansion Pack 2"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100AE301AD87001",
+            "name": "Dig Deep: Chunky Pets"
+        },
+        {
+            "id": "0100AE301AD87002",
+            "name": "Dig Deep: Premium Pets"
+        }
+    ],
     "latest": 0
 }

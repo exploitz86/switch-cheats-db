@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "010090400D367001",
+            "name": "Yapper"
+        },
+        {
+            "id": "010090400D367002",
+            "name": "Polish Language Pack"
+        }
+    ],
     "latest": 0
 }

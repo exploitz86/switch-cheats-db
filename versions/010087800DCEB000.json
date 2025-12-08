@@ -1,3 +1,25 @@
 {
+    "dlc": [
+        {
+            "id": "010087800DCEB001",
+            "name": "WRC 8 - RWD Legends"
+        },
+        {
+            "id": "010087800DCEB002",
+            "name": "WRC 8 - Alpine A110 (1973)"
+        },
+        {
+            "id": "010087800DCEB003",
+            "name": "WRC 8 - Ford Escort MkII 1800 (1979)"
+        },
+        {
+            "id": "010087800DCEB004",
+            "name": "WRC 8 - Lancia Delta HF Integrale Evoluzione (1992)"
+        },
+        {
+            "id": "010087800DCEB005",
+            "name": "WRC 8 - Senior Staff Members Unlock"
+        }
+    ],
     "latest": 0
 }

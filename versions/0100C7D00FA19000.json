@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "0100C7D00FA19001",
+            "name": "Spooky Party"
+        }
+    ],
     "latest": 65536
 }

@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "0100F2B0123AF001",
+            "name": "THE QUEEN PACK DLC"
+        }
+    ],
     "latest": 65536
 }

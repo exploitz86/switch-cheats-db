@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100D3200AF75001",
+            "name": "Doodle God Evolution - Doodle Mafia Pack"
+        },
+        {
+            "id": "0100D3200AF75002",
+            "name": "Doodle Devil Pack"
+        }
+    ],
     "latest": 0
 }

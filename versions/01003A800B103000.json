@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "01003A800B103001",
+            "name": "One Strike: Rise of Dragons"
+        }
+    ],
     "latest": 65536
 }

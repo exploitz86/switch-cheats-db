@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "0100BAB00E8C1004",
+            "name": "Langrisser I & II - Legacy BGM Pack"
+        },
+        {
+            "id": "0100BAB00E8C1005",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100BAB00E8C1006",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100BAB00E8C1007",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 0
 }

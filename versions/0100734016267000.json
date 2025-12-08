@@ -1,3 +1,25 @@
 {
+    "dlc": [
+        {
+            "id": "0100734016267001",
+            "name": "Custom PET Pack Vol.2"
+        },
+        {
+            "id": "0100734016267002",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100734016267003",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100734016267004",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100734016267005",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 0
 }

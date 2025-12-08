@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100FFA0093E9001",
+            "name": "Russian In-Game Commentary"
+        },
+        {
+            "id": "0100FFA0093E9002",
+            "name": "Polish In-Game Commentary"
+        }
+    ],
     "latest": 0
 }

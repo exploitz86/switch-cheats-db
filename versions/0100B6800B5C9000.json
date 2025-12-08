@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "0100B6800B5C9001",
+            "name": "Breaking Dead"
+        },
+        {
+            "id": "0100B6800B5C9002",
+            "name": "Stranger Sins"
+        },
+        {
+            "id": "0100B6800B5C9003",
+            "name": "Game of Crone"
+        }
+    ],
     "latest": 0
 }

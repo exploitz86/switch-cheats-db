@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100F9800EDFB001",
+            "name": "Five Famous Swords Set DLC"
+        },
+        {
+            "id": "0100F9800EDFB002",
+            "name": "Wanderer Set DLC"
+        }
+    ],
     "latest": 0
 }

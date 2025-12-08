@@ -1,3 +1,37 @@
 {
+    "dlc": [
+        {
+            "id": "0100DF9010207001",
+            "name": "Cooking Tycoons: 3 in 1 Bundle - Pizza Bar Tycoon New Levels #1"
+        },
+        {
+            "id": "0100DF9010207002",
+            "name": "Cooking Tycoons: 3 in 1 Bundle - Pizza Bar Tycoon New Levels #2"
+        },
+        {
+            "id": "0100DF9010207003",
+            "name": "Cooking Tycoons: 3 in 1 Bundle - Pizza Bar Tycoon Multiplayer Mode"
+        },
+        {
+            "id": "0100DF9010207004",
+            "name": "Cooking Tycoons: 3 in 1 Bundle - Food Truck Tycoon New Levels #1"
+        },
+        {
+            "id": "0100DF9010207005",
+            "name": "Cooking Tycoons: 3 in 1 Bundle - Food Truck Tycoon Multiplayer Mode"
+        },
+        {
+            "id": "0100DF9010207006",
+            "name": "Cooking Tycoons: 3 in 1 Bundle - Burger Chef Tycoon New Levels #1"
+        },
+        {
+            "id": "0100DF9010207007",
+            "name": "Cooking Tycoons: 3 in 1 Bundle - Burger Chef Tycoon New Levels #2"
+        },
+        {
+            "id": "0100DF9010207008",
+            "name": "Cooking Tycoons: 3 in 1 Bundle - Burger Chef Tycoon Multiplayer Mode"
+        }
+    ],
     "latest": 0
 }

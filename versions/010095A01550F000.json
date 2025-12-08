@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "010095A01550F001",
+            "name": "Manic Mechanics - Banshee Bay"
+        }
+    ],
     "latest": 65536
 }

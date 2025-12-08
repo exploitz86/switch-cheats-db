@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100B5D018F71001",
+            "name": "Fashion Friends: Extra Levels!"
+        },
+        {
+            "id": "0100B5D018F71002",
+            "name": "Fashion Friends: Special Levels"
+        }
+    ],
     "latest": 0
 }

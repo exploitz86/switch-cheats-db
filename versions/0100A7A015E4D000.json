@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100A7A015E4D004",
+            "name": "Added Partners \"Lotus Friends\""
+        },
+        {
+            "id": "0100A7A015E4D005",
+            "name": "Added Partners \"Wily Beast and Weakest Creature Friends\""
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "01009AA000FAB001",
+            "name": "Encore DLC"
+        }
+    ],
     "latest": 0
 }

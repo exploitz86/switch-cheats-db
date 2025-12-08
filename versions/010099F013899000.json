@@ -1,3 +1,37 @@
 {
+    "dlc": [
+        {
+            "id": "010099F013899001",
+            "name": "World War Z - Lobo Weapon Pack"
+        },
+        {
+            "id": "010099F013899002",
+            "name": "World War Z - Biohazard Weapon Pack"
+        },
+        {
+            "id": "010099F013899003",
+            "name": "World War Z - Special Operations Forces Pack"
+        },
+        {
+            "id": "010099F013899004",
+            "name": "World War Z - The Professionals Pack"
+        },
+        {
+            "id": "010099F013899005",
+            "name": "World War Z - War Heroes Pack"
+        },
+        {
+            "id": "010099F013899006",
+            "name": "World War Z - Last Aid Pack"
+        },
+        {
+            "id": "010099F013899008",
+            "name": "World War Z - Signature Weapons Pack"
+        },
+        {
+            "id": "010099F0138990C8",
+            "name": "World War Z - PvPvZ Update"
+        }
+    ],
     "latest": 0
 }

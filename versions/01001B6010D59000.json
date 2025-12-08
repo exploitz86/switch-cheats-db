@@ -1,3 +1,121 @@
 {
+    "dlc": [
+        {
+            "id": "01001B6010D59001",
+            "name": "Meditation Music Pack 1"
+        },
+        {
+            "id": "01001B6010D59002",
+            "name": "Dreams Fantasy Pack 1"
+        },
+        {
+            "id": "01001B6010D59003",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01001B6010D59004",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01001B6010D59005",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01001B6010D59006",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01001B6010D59007",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01001B6010D59008",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01001B6010D59009",
+            "name": "Magic Atmosphere Pack 1"
+        },
+        {
+            "id": "01001B6010D5900A",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01001B6010D5900B",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01001B6010D5900C",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01001B6010D5900D",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01001B6010D5900E",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01001B6010D5900F",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01001B6010D59010",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01001B6010D59011",
+            "name": "Meditation Studio"
+        },
+        {
+            "id": "01001B6010D59012",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01001B6010D59013",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01001B6010D59014",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01001B6010D59015",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01001B6010D59016",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01001B6010D59017",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01001B6010D59018",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01001B6010D59019",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01001B6010D5901A",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01001B6010D5901B",
+            "name": "Celestial Harmonies"
+        },
+        {
+            "id": "01001B6010D5901C",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01001B6010D5901D",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 0
 }

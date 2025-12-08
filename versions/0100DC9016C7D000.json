@@ -1,3 +1,109 @@
 {
+    "dlc": [
+        {
+            "id": "0100DC9016C7D001",
+            "name": "Uchiban Outfit \"Mikazuki Munechika\""
+        },
+        {
+            "id": "0100DC9016C7D002",
+            "name": "Uchiban Outfit \"Sengo Muramasa\""
+        },
+        {
+            "id": "0100DC9016C7D003",
+            "name": "Uchiban Outfit \"Tonbokiri\""
+        },
+        {
+            "id": "0100DC9016C7D004",
+            "name": "Uchiban Outfit \"Kasen Kanesada\""
+        },
+        {
+            "id": "0100DC9016C7D005",
+            "name": "Uchiban Outfit \"Ichigo Hitofuri\""
+        },
+        {
+            "id": "0100DC9016C7D006",
+            "name": "Uchiban Outfit \"Namazuo Toushiro\""
+        },
+        {
+            "id": "0100DC9016C7D007",
+            "name": "Uchiban Outfit \"Hyuga Masamune\""
+        },
+        {
+            "id": "0100DC9016C7D008",
+            "name": "Uchiban Outfit \"Heshikiri Hasebe\""
+        },
+        {
+            "id": "0100DC9016C7D009",
+            "name": "Uchiban Outfit \"Yagen Toushiro\""
+        },
+        {
+            "id": "0100DC9016C7D00A",
+            "name": "Uchiban Outfit \"Tomoegata Naginata\""
+        },
+        {
+            "id": "0100DC9016C7D00B",
+            "name": "Uchiban Outfit \"Tsurumaru Kuninaga\""
+        },
+        {
+            "id": "0100DC9016C7D00C",
+            "name": "Uchiban Outfit \"Shokudaikiri Mitsutada\""
+        },
+        {
+            "id": "0100DC9016C7D00D",
+            "name": "Uchiban Outfit \"Okurikara\""
+        },
+        {
+            "id": "0100DC9016C7D00E",
+            "name": "Uchiban Outfit \"Yamanbagiri Kunihiro\""
+        },
+        {
+            "id": "0100DC9016C7D00F",
+            "name": "Uchiban Outfit \"Yamanbagiri Chougi\""
+        },
+        {
+            "id": "0100DC9016C7D010",
+            "name": "Uchiban Outfit \"Omokage\""
+        },
+        {
+            "id": "0100DC9016C7D041",
+            "name": "Honmaru Backdrop \"Sakura Viewing\""
+        },
+        {
+            "id": "0100DC9016C7D042",
+            "name": "Honmaru Backdrop \"Sakura Viewing - Nighttime\""
+        },
+        {
+            "id": "0100DC9016C7D043",
+            "name": "Honmaru Backdrop \"Rainy Season\""
+        },
+        {
+            "id": "0100DC9016C7D044",
+            "name": "Honmaru Backdrop \"Autumn Leaves\""
+        },
+        {
+            "id": "0100DC9016C7D045",
+            "name": "Honmaru Backdrop \"Snow Viewing\""
+        },
+        {
+            "id": "0100DC9016C7D061",
+            "name": "Additional Music \"Battle - Touken Ranbu Warriors\""
+        },
+        {
+            "id": "0100DC9016C7D062",
+            "name": "Additional Music \"Memories of Aonohara - Touken Ranbu Warriors\""
+        },
+        {
+            "id": "0100DC9016C7D063",
+            "name": "Additional Music \"Osaka Winter Campaign - Touken Ranbu Warriors\""
+        },
+        {
+            "id": "0100DC9016C7D064",
+            "name": "Additional Music \"Honmaru - Touken Ranbu Warriors\""
+        },
+        {
+            "id": "0100DC9016C7D065",
+            "name": "Additional Music \"Uchiban - Touken Ranbu Warriors\""
+        }
+    ],
     "latest": 0
 }

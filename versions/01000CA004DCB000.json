@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "01000CA004DCB001",
+            "name": "Steam"
+        },
+        {
+            "id": "01000CA004DCB002",
+            "name": "Ice"
+        }
+    ],
     "latest": 0
 }

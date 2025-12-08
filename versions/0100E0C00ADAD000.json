@@ -1,3 +1,89 @@
 {
+    "dlc": [
+        {
+            "id": "0100E0C00ADAD001",
+            "name": "Yumi Reflexions Course"
+        },
+        {
+            "id": "0100E0C00ADAD002",
+            "name": "New Outfit Set"
+        },
+        {
+            "id": "0100E0C00ADAD003",
+            "name": "New Accessory Set"
+        },
+        {
+            "id": "0100E0C00ADAD004",
+            "name": "New Diorama Pose Set 1"
+        },
+        {
+            "id": "0100E0C00ADAD005",
+            "name": "Newlyweds Outfit Set"
+        },
+        {
+            "id": "0100E0C00ADAD006",
+            "name": "Yumi Outfit Set 2"
+        },
+        {
+            "id": "0100E0C00ADAD007",
+            "name": "Yumi Outfit Set 1"
+        },
+        {
+            "id": "0100E0C00ADAD008",
+            "name": "30 Accessory Set"
+        },
+        {
+            "id": "0100E0C00ADAD009",
+            "name": "Murasaki Reflexions Course"
+        },
+        {
+            "id": "0100E0C00ADAD00A",
+            "name": "Murasaki Outfit Set 1"
+        },
+        {
+            "id": "0100E0C00ADAD00B",
+            "name": "Murasaki Outfit Set 2"
+        },
+        {
+            "id": "0100E0C00ADAD00C",
+            "name": "Hairstyle Set"
+        },
+        {
+            "id": "0100E0C00ADAD00D",
+            "name": "New Diorama Pose Set 2"
+        },
+        {
+            "id": "0100E0C00ADAD00E",
+            "name": "Ry\u014dna Reflexions Course"
+        },
+        {
+            "id": "0100E0C00ADAD00F",
+            "name": "Ry\u014dna Outfit Set 1"
+        },
+        {
+            "id": "0100E0C00ADAD010",
+            "name": "Ry\u014dna Outfit Set 2"
+        },
+        {
+            "id": "0100E0C00ADAD011",
+            "name": "Gym Uniform Outfit Set"
+        },
+        {
+            "id": "0100E0C00ADAD012",
+            "name": "Yomi Reflexions Course"
+        },
+        {
+            "id": "0100E0C00ADAD013",
+            "name": "Yomi Outfit Set 1"
+        },
+        {
+            "id": "0100E0C00ADAD014",
+            "name": "Yomi Outfit Set 2"
+        },
+        {
+            "id": "0100E0C00ADAD015",
+            "name": "Glorious Reflexology \u2014 Set of Three"
+        }
+    ],
     "latest": 0
 }

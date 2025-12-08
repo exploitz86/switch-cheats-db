@@ -1,3 +1,33 @@
 {
+    "dlc": [
+        {
+            "id": "010007001A09D001",
+            "name": "Party Harder Pack"
+        },
+        {
+            "id": "010007001A09D002",
+            "name": "Party Fever Pack"
+        },
+        {
+            "id": "010007001A09D003",
+            "name": "Party Even Harder Pack"
+        },
+        {
+            "id": "010007001A09D004",
+            "name": "Character Skin Pack"
+        },
+        {
+            "id": "010007001A09D005",
+            "name": "Excitement Pack"
+        },
+        {
+            "id": "010007001A09D006",
+            "name": "Character Skin Pack 2"
+        },
+        {
+            "id": "010007001A09D007",
+            "name": "Happy Happy Pack"
+        }
+    ],
     "latest": 0
 }

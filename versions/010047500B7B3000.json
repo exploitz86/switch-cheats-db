@@ -1,3 +1,29 @@
 {
+    "dlc": [
+        {
+            "id": "010047500B7B3001",
+            "name": "Digimon Survive Month 1 Bonus Pack"
+        },
+        {
+            "id": "010047500B7B3002",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010047500B7B3003",
+            "name": "Digimon Survive Extra Support Equipment Pack"
+        },
+        {
+            "id": "010047500B7B3004",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010047500B7B3005",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010047500B7B3006",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 0
 }

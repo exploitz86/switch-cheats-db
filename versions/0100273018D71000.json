@@ -1,3 +1,25 @@
 {
+    "dlc": [
+        {
+            "id": "0100273018D71001",
+            "name": "PAW Patrol World - Aqua Pups - Costume Pack"
+        },
+        {
+            "id": "0100273018D71002",
+            "name": "PAW Patrol World - Halloween - Costume Pack"
+        },
+        {
+            "id": "0100273018D71003",
+            "name": "PAW Patrol World - The Mighty Movie - Costume Pack"
+        },
+        {
+            "id": "0100273018D71004",
+            "name": "PAW Patrol World - Rescue Knights - Costume Pack"
+        },
+        {
+            "id": "0100273018D71005",
+            "name": "PAW Patrol World - Ultimate Rescue - Costume Pack"
+        }
+    ],
     "latest": 0
 }

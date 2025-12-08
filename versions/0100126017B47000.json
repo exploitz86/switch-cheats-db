@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "0100126017B47001",
+            "name": "Weapon of Choice"
+        }
+    ],
     "latest": 0
 }

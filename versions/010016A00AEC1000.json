@@ -1,3 +1,301 @@
 {
+    "dlc": [
+        {
+            "id": "010016A00AEC1001",
+            "name": "Bonus Costumes for \"Xu Shu\", \"Mitsunari Ishida\", and \"Da Ji\""
+        },
+        {
+            "id": "010016A00AEC1002",
+            "name": "Bonus Costume for \"Wang Yuanji\""
+        },
+        {
+            "id": "010016A00AEC1003",
+            "name": "Bonus Costume for \"Wang Yi\""
+        },
+        {
+            "id": "010016A00AEC1004",
+            "name": "Bonus Costume for \"Lady Hayakawa\""
+        },
+        {
+            "id": "010016A00AEC1005",
+            "name": "Bonus Costume for \"Xingcai\""
+        },
+        {
+            "id": "010016A00AEC1006",
+            "name": "Bonus Costume for \"Guo Jia\""
+        },
+        {
+            "id": "010016A00AEC1007",
+            "name": "Bonus Costume for \"Yoshitsugu Otani\""
+        },
+        {
+            "id": "010016A00AEC1008",
+            "name": "Bonus Costume for \"Takatora Todo\""
+        },
+        {
+            "id": "010016A00AEC1013",
+            "name": "Legendary Costumes Wei Pack 1"
+        },
+        {
+            "id": "010016A00AEC1014",
+            "name": "Legendary Costumes Wei Pack 2"
+        },
+        {
+            "id": "010016A00AEC1015",
+            "name": "Legendary Costumes Wu Pack 1"
+        },
+        {
+            "id": "010016A00AEC1016",
+            "name": "Legendary Costumes Wu Pack 2"
+        },
+        {
+            "id": "010016A00AEC1017",
+            "name": "Legendary Costumes Shu Pack 1"
+        },
+        {
+            "id": "010016A00AEC1018",
+            "name": "Legendary Costumes Shu Pack 2"
+        },
+        {
+            "id": "010016A00AEC1019",
+            "name": "Legendary Costumes Jin Pack"
+        },
+        {
+            "id": "010016A00AEC101A",
+            "name": "Legendary Costumes Others Pack"
+        },
+        {
+            "id": "010016A00AEC101B",
+            "name": "Legendary Costumes Samurai Warriors Pack 1"
+        },
+        {
+            "id": "010016A00AEC101C",
+            "name": "Legendary Costumes Samurai Warriors Pack 2"
+        },
+        {
+            "id": "010016A00AEC101D",
+            "name": "Legendary Costumes Samurai Warriors Pack 3"
+        },
+        {
+            "id": "010016A00AEC101E",
+            "name": "Legendary Costumes Samurai Warriors Pack 4"
+        },
+        {
+            "id": "010016A00AEC101F",
+            "name": "Legendary Costumes Samurai Warriors Pack 5"
+        },
+        {
+            "id": "010016A00AEC1020",
+            "name": "Legendary Costumes OROCHI Pack 1"
+        },
+        {
+            "id": "010016A00AEC1021",
+            "name": "Legendary Costumes OROCHI Pack 2"
+        },
+        {
+            "id": "010016A00AEC1022",
+            "name": "Legendary Costumes OROCHI Pack 3"
+        },
+        {
+            "id": "010016A00AEC1023",
+            "name": "Bonus Costume for \"Xu Shu\""
+        },
+        {
+            "id": "010016A00AEC1024",
+            "name": "Bonus Costume for \"Mitsunari Ishida\""
+        },
+        {
+            "id": "010016A00AEC1025",
+            "name": "Bonus Costumes for \"Da Ji\""
+        },
+        {
+            "id": "010016A00AEC1026",
+            "name": "Special Costumes Pack 1"
+        },
+        {
+            "id": "010016A00AEC1027",
+            "name": "Special Costumes Pack 2"
+        },
+        {
+            "id": "010016A00AEC1028",
+            "name": "Bonus Costume for Gaia"
+        },
+        {
+            "id": "010016A00AEC1029",
+            "name": "Bonus Costume for Ryu Hayabusa"
+        },
+        {
+            "id": "010016A00AEC102A",
+            "name": "Legendary Costumes OROCHI Pack 4"
+        },
+        {
+            "id": "010016A00AEC102B",
+            "name": "Special Costume for Hades"
+        },
+        {
+            "id": "010016A00AEC102C",
+            "name": "Special Costume for Yang Jian"
+        },
+        {
+            "id": "010016A00AEC10C1",
+            "name": "Bonus Mount \"Pegasus\""
+        },
+        {
+            "id": "010016A00AEC10C2",
+            "name": "Bonus Mount \"Unicorn\""
+        },
+        {
+            "id": "010016A00AEC10C8",
+            "name": "Legendary Mounts Pack"
+        },
+        {
+            "id": "010016A00AEC10C9",
+            "name": "Special Mounts Pack 1"
+        },
+        {
+            "id": "010016A00AEC10CA",
+            "name": "Special Mounts Pack 2"
+        },
+        {
+            "id": "010016A00AEC10CB",
+            "name": "Bonus Mount `Infernal Black`"
+        },
+        {
+            "id": "010016A00AEC10F0",
+            "name": "Legendary Weapons Wei Pack 1"
+        },
+        {
+            "id": "010016A00AEC10F1",
+            "name": "Legendary Weapons Wei Pack 2"
+        },
+        {
+            "id": "010016A00AEC10F2",
+            "name": "Legendary Weapons Wu Pack 1"
+        },
+        {
+            "id": "010016A00AEC10F3",
+            "name": "Legendary Weapons Wu Pack 2"
+        },
+        {
+            "id": "010016A00AEC10F4",
+            "name": "Legendary Weapons Shu Pack 1"
+        },
+        {
+            "id": "010016A00AEC10F5",
+            "name": "Legendary Weapons Shu Pack 2"
+        },
+        {
+            "id": "010016A00AEC10F6",
+            "name": "Legendary Weapons Jin Pack"
+        },
+        {
+            "id": "010016A00AEC10F7",
+            "name": "Legendary Weapons Others Pack"
+        },
+        {
+            "id": "010016A00AEC10F8",
+            "name": "Legendary Weapons Samurai Warriors Pack 1"
+        },
+        {
+            "id": "010016A00AEC10F9",
+            "name": "Legendary Weapons Samurai Warriors Pack 2"
+        },
+        {
+            "id": "010016A00AEC10FA",
+            "name": "Legendary Weapons Samurai Warriors Pack 3"
+        },
+        {
+            "id": "010016A00AEC10FB",
+            "name": "Legendary Weapons Samurai Warriors Pack 4"
+        },
+        {
+            "id": "010016A00AEC10FC",
+            "name": "Legendary Weapons Samurai Warriors Pack 5"
+        },
+        {
+            "id": "010016A00AEC10FD",
+            "name": "Legendary Weapons Orochi Pack 1"
+        },
+        {
+            "id": "010016A00AEC10FE",
+            "name": "Legendary Weapons Orochi Pack 2"
+        },
+        {
+            "id": "010016A00AEC10FF",
+            "name": "Legendary Weapons Orochi Pack 3"
+        },
+        {
+            "id": "010016A00AEC1102",
+            "name": "Legendary Weapons OROCHI Pack 4"
+        },
+        {
+            "id": "010016A00AEC1103",
+            "name": "Weapon `Feline Paws`"
+        },
+        {
+            "id": "010016A00AEC1104",
+            "name": "Weapon `Traffic Signal`"
+        },
+        {
+            "id": "010016A00AEC1105",
+            "name": "Weapon `Fork`"
+        },
+        {
+            "id": "010016A00AEC11AF",
+            "name": "Sacred Treasures Pack 1"
+        },
+        {
+            "id": "010016A00AEC11B0",
+            "name": "Sacred Treasures Pack 2"
+        },
+        {
+            "id": "010016A00AEC11B1",
+            "name": "Sacred Treasure `Garm`"
+        },
+        {
+            "id": "010016A00AEC11B2",
+            "name": "Sacred Treasure `World Tree Bident`"
+        },
+        {
+            "id": "010016A00AEC1219",
+            "name": "Scenario Pack 1"
+        },
+        {
+            "id": "010016A00AEC121A",
+            "name": "Scenario Pack 2"
+        },
+        {
+            "id": "010016A00AEC1274",
+            "name": "\u03c9-Force 20th Anniversary Concert BGM Pack"
+        },
+        {
+            "id": "010016A00AEC1275",
+            "name": "BGM Pack 1"
+        },
+        {
+            "id": "010016A00AEC1276",
+            "name": "BGM Pack 2"
+        },
+        {
+            "id": "010016A00AEC1281",
+            "name": "Series BGM Pack"
+        },
+        {
+            "id": "010016A00AEC12A6",
+            "name": "Challenge Modes"
+        },
+        {
+            "id": "010016A00AEC12C8",
+            "name": "Deluxe Edition Bonus Pack"
+        },
+        {
+            "id": "010016A00AEC12CB",
+            "name": "Deluxe Edition Bonuses"
+        },
+        {
+            "id": "010016A00AEC12D5",
+            "name": "WARRIORS OROCHI 4: The Ultimate Upgrade Pack"
+        }
+    ],
     "latest": 0
 }

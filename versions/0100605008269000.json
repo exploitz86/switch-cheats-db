@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100605008269001",
+            "name": "Titan Quest: Ragnar\u00f6k"
+        },
+        {
+            "id": "0100605008269002",
+            "name": "Titan Quest: Atlantis"
+        }
+    ],
     "latest": 0
 }

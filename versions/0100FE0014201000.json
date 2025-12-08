@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "0100FE0014201001",
+            "name": "Forest Puzzle"
+        },
+        {
+            "id": "0100FE0014201002",
+            "name": "Garden Puzzle"
+        },
+        {
+            "id": "0100FE0014201003",
+            "name": "Pond Puzzle"
+        }
+    ],
     "latest": 0
 }

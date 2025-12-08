@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "0100C7D012FB9001",
+            "name": "Fantasy General II: Onslaught"
+        },
+        {
+            "id": "0100C7D012FB9002",
+            "name": "Fantasy General II: Empire Aflame"
+        },
+        {
+            "id": "0100C7D012FB9003",
+            "name": "Fantasy General II: Evolution"
+        }
+    ],
     "latest": 0
 }

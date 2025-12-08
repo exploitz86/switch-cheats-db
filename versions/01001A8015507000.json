@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "01001A8015507001",
+            "name": "SCOUT"
+        },
+        {
+            "id": "01001A8015507002",
+            "name": "NINE TILES"
+        },
+        {
+            "id": "01001A8015507003",
+            "name": "Make the Difference"
+        },
+        {
+            "id": "01001A8015507004",
+            "name": "Kobayakawa"
+        }
+    ],
     "latest": 0
 }

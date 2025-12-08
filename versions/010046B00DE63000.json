@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "010046B00DE63001",
+            "name": "Skullgirls: Annie"
+        },
+        {
+            "id": "010046B00DE63002",
+            "name": "Season 1 Pass Extras"
+        },
+        {
+            "id": "010046B00DE63003",
+            "name": "Skullgirls: Umbrella"
+        },
+        {
+            "id": "010046B00DE63004",
+            "name": "Skullgirls: Black Dahlia"
+        }
+    ],
     "latest": 0
 }

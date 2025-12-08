@@ -1,3 +1,89 @@
 {
+    "dlc": [
+        {
+            "id": "0100CDB00C797001",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100CDB00C797002",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100CDB00C797003",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100CDB00C797004",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100CDB00C797005",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100CDB00C797006",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100CDB00C797007",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100CDB00C797008",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100CDB00C797009",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100CDB00C79700A",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100CDB00C79700B",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100CDB00C79700C",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100CDB00C79700D",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100CDB00C79700E",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100CDB00C79700F",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100CDB00C797010",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100CDB00C797011",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100CDB00C797012",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100CDB00C797013",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100CDB00C797014",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100CDB00C797015",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 0
 }

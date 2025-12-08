@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "01007C600EB43006",
+            "name": "Special \"CAT (overseas ver)\" T-shirt"
+        },
+        {
+            "id": "01007C600EB43007",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01007C600EB43008",
+            "name": "Special \"INSERT COIN (overseas ver)\" T-shirt"
+        }
+    ],
     "latest": 0
 }

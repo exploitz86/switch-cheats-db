@@ -1,3 +1,69 @@
 {
+    "dlc": [
+        {
+            "id": "010095E0189450C9",
+            "name": "Ryza Special Costume \"Marine Look of Kurken Shore\""
+        },
+        {
+            "id": "010095E0189450CA",
+            "name": "\"Another Look\" Costume Set"
+        },
+        {
+            "id": "010095E0189450CB",
+            "name": "\"Back to Summer\" Costume Set"
+        },
+        {
+            "id": "010095E0189450CC",
+            "name": "\"Summer Look\" Costume Set"
+        },
+        {
+            "id": "010095E0189450CD",
+            "name": "\"GUST Collaboration\" Costume Set"
+        },
+        {
+            "id": "010095E0189450CF",
+            "name": "\"Endless Summer Splash!\" Costume Set"
+        },
+        {
+            "id": "010095E0189450D0",
+            "name": "\"Far East Travelers\" Costume Set"
+        },
+        {
+            "id": "010095E01894512C",
+            "name": "Atelier Series Legacy BGM Pack"
+        },
+        {
+            "id": "010095E01894512D",
+            "name": "Gust Extra BGM Pack"
+        },
+        {
+            "id": "010095E018945190",
+            "name": "Gem Pack"
+        },
+        {
+            "id": "010095E018945191",
+            "name": "Key Pack"
+        },
+        {
+            "id": "010095E018945258",
+            "name": "Additional Area \"Rosca Island\""
+        },
+        {
+            "id": "010095E018945259",
+            "name": "Additional Area \"Ashra-am Baird Outlying Areas\""
+        },
+        {
+            "id": "010095E0189452BC",
+            "name": "Pre-order Bonus"
+        },
+        {
+            "id": "010095E0189452BD",
+            "name": "Recipe Expansion Pack \"Alchemy Mysteries\""
+        },
+        {
+            "id": "010095E0189452BF",
+            "name": "Recipe Expansion Pack \"Art of Adventure\""
+        }
+    ],
     "latest": 0
 }

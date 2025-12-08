@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "010091D01597D001",
+            "name": "LIMITED EDITION PACK - TAITO LEGACY"
+        },
+        {
+            "id": "010091D01597D002",
+            "name": "SPACE SCOUT PACK"
+        }
+    ],
     "latest": 65536
 }

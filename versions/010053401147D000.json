@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "010053401147D001",
+            "name": "2K / adidas CodeChaos MyPLAYER Pack"
+        },
+        {
+            "id": "010053401147D002",
+            "name": "Golden Touch Pack"
+        }
+    ],
     "latest": 0
 }

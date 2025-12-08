@@ -1,3 +1,33 @@
 {
+    "dlc": [
+        {
+            "id": "01005E500E529001",
+            "name": "TRANSFORMERS: BATTLEGROUNDS \u2013 Gold Autobot Skin Pack"
+        },
+        {
+            "id": "01005E500E529002",
+            "name": "TRANSFORMERS: BATTLEGROUNDS \u2013 Battle Autobot Skin Pack"
+        },
+        {
+            "id": "01005E500E529003",
+            "name": "TRANSFORMERS: BATTLEGROUNDS \u2013 Energon Autobot Skin Pack"
+        },
+        {
+            "id": "01005E500E529004",
+            "name": "TRANSFORMERS: BATTLEGROUNDS \u2013 Nemesis Prime & Goldfire Bumblebee Skin Pack"
+        },
+        {
+            "id": "01005E500E529005",
+            "name": "TRANSFORMERS: BATTLEGROUNDS \u2013 Neon Autobot Skin Pack"
+        },
+        {
+            "id": "01005E500E529006",
+            "name": "TRANSFORMERS: BATTLEGROUNDS \u2013 CUBE Game - Arcade Add-on"
+        },
+        {
+            "id": "01005E500E529007",
+            "name": "TRANSFORMERS: BATTLEGROUNDS \u2013 SHATTERED SPACEBRIDGE"
+        }
+    ],
     "latest": 65536
 }

@@ -1,3 +1,25 @@
 {
+    "dlc": [
+        {
+            "id": "0100D1E018F27001",
+            "name": "Experience x3 - Silver Nornir"
+        },
+        {
+            "id": "0100D1E018F27002",
+            "name": "EP x3 - Silver Nornir"
+        },
+        {
+            "id": "0100D1E018F27003",
+            "name": "Experience & EP x2 - Silver Nornir"
+        },
+        {
+            "id": "0100D1E018F27004",
+            "name": "No Encounters - Silver Nornir"
+        },
+        {
+            "id": "0100D1E018F27005",
+            "name": "No Skill Cost - Silver Nornir"
+        }
+    ],
     "latest": 0
 }

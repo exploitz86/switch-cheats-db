@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100A4400BE75001",
+            "name": "The LEGO Movie\u00a02 Videogame: Prophecy\u00a0Pack"
+        },
+        {
+            "id": "0100A4400BE75002",
+            "name": "Galactic Adventures Character & Level Pack"
+        }
+    ],
     "latest": 0
 }

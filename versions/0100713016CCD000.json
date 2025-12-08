@@ -1,3 +1,25 @@
 {
+    "dlc": [
+        {
+            "id": "0100713016CCD001",
+            "name": "AI: THE SOMNIUM FILES - nirvanA Initiative DLC Bundle"
+        },
+        {
+            "id": "0100713016CCD002",
+            "name": "AI: THE SOMNIUM FILES - nirvanA Initiative DLC Monochrome Set"
+        },
+        {
+            "id": "0100713016CCD003",
+            "name": "AI: THE SOMNIUM FILES - nirvanA Initiative DLC Hot Dog Costume Set"
+        },
+        {
+            "id": "0100713016CCD004",
+            "name": "AI: THE SOMNIUM FILES - nirvanA Initiative DLC 3 Pattern T-Shirt Set"
+        },
+        {
+            "id": "0100713016CCD005",
+            "name": "AI: THE SOMNIUM FILES - nirvanA Initiative DLC B-Horror Movie Set"
+        }
+    ],
     "latest": 0
 }

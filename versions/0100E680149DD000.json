@@ -1,3 +1,37 @@
 {
+    "dlc": [
+        {
+            "id": "0100E680149DD001",
+            "name": "Arcaea x Groove Coaster: Wai Wai Party!!!! Collaboration Pack"
+        },
+        {
+            "id": "0100E680149DD002",
+            "name": "Ephemeral Page Pack"
+        },
+        {
+            "id": "0100E680149DD003",
+            "name": "Esoteric Order Pack"
+        },
+        {
+            "id": "0100E680149DD004",
+            "name": "Light of Salvation"
+        },
+        {
+            "id": "0100E680149DD005",
+            "name": "Arcaea x Muse Dash"
+        },
+        {
+            "id": "0100E680149DD006",
+            "name": "Shared Time + Memory Archive Bundle"
+        },
+        {
+            "id": "0100E680149DD007",
+            "name": "Arcaea x Lanota"
+        },
+        {
+            "id": "0100E680149DD008",
+            "name": "Arcaea x WACCA"
+        }
+    ],
     "latest": 0
 }

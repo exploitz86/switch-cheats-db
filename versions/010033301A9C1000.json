@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "010033301A9C1001",
+            "name": "METAL GEAR SOLID - Master Collection Version Japanese Language Pack"
+        },
+        {
+            "id": "010033301A9C1002",
+            "name": "METAL GEAR SOLID - Master Collection Version European Pack"
+        }
+    ],
     "latest": 0
 }

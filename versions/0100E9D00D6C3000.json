@@ -1,3 +1,181 @@
 {
+    "dlc": [
+        {
+            "id": "0100E9D00D6C3001",
+            "name": "Special Song Pack Vol. 1"
+        },
+        {
+            "id": "0100E9D00D6C3002",
+            "name": "Scarlet Devil Land Song Pack"
+        },
+        {
+            "id": "0100E9D00D6C3003",
+            "name": "Shinra-Bansho Music Pack"
+        },
+        {
+            "id": "0100E9D00D6C3004",
+            "name": "Side Story Pack Cirno Arc"
+        },
+        {
+            "id": "0100E9D00D6C3005",
+            "name": "#Gensokyo Holoism Pack"
+        },
+        {
+            "id": "0100E9D00D6C3006",
+            "name": "Special Music Pack Vol. 2"
+        },
+        {
+            "id": "0100E9D00D6C3007",
+            "name": "Yuuhei Satellite Music Pack"
+        },
+        {
+            "id": "0100E9D00D6C3008",
+            "name": "Side Story Pack Sanae Arc"
+        },
+        {
+            "id": "0100E9D00D6C3009",
+            "name": "Touhou Youyoumu Arrangements Pack"
+        },
+        {
+            "id": "0100E9D00D6C300A",
+            "name": "Special Music Pack Vol. 3"
+        },
+        {
+            "id": "0100E9D00D6C300B",
+            "name": "Side Story Pack Yukari Arc"
+        },
+        {
+            "id": "0100E9D00D6C300C",
+            "name": "Touhou Eiyashou Arrangements Pack"
+        },
+        {
+            "id": "0100E9D00D6C300D",
+            "name": "Special Music Pack Vol. 4"
+        },
+        {
+            "id": "0100E9D00D6C300E",
+            "name": "Touhou Eurobeat Pack"
+        },
+        {
+            "id": "0100E9D00D6C300F",
+            "name": "Touhou Fujinroku Arrangements Pack"
+        },
+        {
+            "id": "0100E9D00D6C3010",
+            "name": "Touhou Collaborations Pack"
+        },
+        {
+            "id": "0100E9D00D6C3011",
+            "name": "Akatsuki Records Song Pack"
+        },
+        {
+            "id": "0100E9D00D6C3012",
+            "name": "Special Music Pack Vol. 5"
+        },
+        {
+            "id": "0100E9D00D6C3013",
+            "name": "Diao ye zong Song Pack"
+        },
+        {
+            "id": "0100E9D00D6C3014",
+            "name": "Touhou Chireiden Arrangements Pack"
+        },
+        {
+            "id": "0100E9D00D6C3015",
+            "name": "TamaOnSen Song Pack"
+        },
+        {
+            "id": "0100E9D00D6C3016",
+            "name": "Character Pack Suwako Moriya"
+        },
+        {
+            "id": "0100E9D00D6C3017",
+            "name": "Touhou Eurobeat Pack Vol.2"
+        },
+        {
+            "id": "0100E9D00D6C3018",
+            "name": "Liz Triangle Song Pack"
+        },
+        {
+            "id": "0100E9D00D6C3019",
+            "name": "Rhythm Game Song Pack"
+        },
+        {
+            "id": "0100E9D00D6C301A",
+            "name": "Scarlet Devil Land Arrange Pack Vol.2"
+        },
+        {
+            "id": "0100E9D00D6C301B",
+            "name": "Character Pack Kogasa Tatara"
+        },
+        {
+            "id": "0100E9D00D6C301C",
+            "name": "Touhou Seirensen Arrange Pack"
+        },
+        {
+            "id": "0100E9D00D6C301D",
+            "name": "Character Pack Hata no Kokoro"
+        },
+        {
+            "id": "0100E9D00D6C301E",
+            "name": "Character Pack Seija Kijin"
+        },
+        {
+            "id": "0100E9D00D6C301F",
+            "name": "SOUND HOLIC Song Pack"
+        },
+        {
+            "id": "0100E9D00D6C3020",
+            "name": "Character Pack Tomosatomimi no Miko"
+        },
+        {
+            "id": "0100E9D00D6C3021",
+            "name": "Rhythm Game Song Pack Vol.2"
+        },
+        {
+            "id": "0100E9D00D6C3022",
+            "name": "Character Pack Rumia"
+        },
+        {
+            "id": "0100E9D00D6C3023",
+            "name": "Touhou LostWord Song Pack"
+        },
+        {
+            "id": "0100E9D00D6C3024",
+            "name": "Touhou Youyoumu Arrangements Pack Vol.2"
+        },
+        {
+            "id": "0100E9D00D6C3025",
+            "name": "Touhou Shinreibyo Arrangements Pack"
+        },
+        {
+            "id": "0100E9D00D6C3026",
+            "name": "Character Pack Hong Meiling"
+        },
+        {
+            "id": "0100E9D00D6C3027",
+            "name": "Touhou LostWord Song Pack Vol.2"
+        },
+        {
+            "id": "0100E9D00D6C3028",
+            "name": "ZUNTATA Music Pack"
+        },
+        {
+            "id": "0100E9D00D6C3029",
+            "name": "Character Pack Ran Yakumo"
+        },
+        {
+            "id": "0100E9D00D6C302A",
+            "name": "Flandre Scarlet Music Pack"
+        },
+        {
+            "id": "0100E9D00D6C302B",
+            "name": "Touhou Eiyashou Arrangements Pack Vol.2"
+        },
+        {
+            "id": "0100E9D00D6C302C",
+            "name": "Character Pack Shikieiki Yamaxanadu"
+        }
+    ],
     "latest": 0
 }

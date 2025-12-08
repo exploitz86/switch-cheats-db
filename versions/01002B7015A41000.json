@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "01002B7015A41001",
+            "name": "Spin Rhythm XD Supporter Pack DLC"
+        },
+        {
+            "id": "01002B7015A41002",
+            "name": "Spin Rhythm XD Monstercat DLC"
+        }
+    ],
     "latest": 65536
 }

@@ -1,3 +1,25 @@
 {
+    "dlc": [
+        {
+            "id": "0100866017D33001",
+            "name": "Deluxe Theme Pack"
+        },
+        {
+            "id": "0100866017D33002",
+            "name": "Chicken Pack"
+        },
+        {
+            "id": "0100866017D33003",
+            "name": "Halloween"
+        },
+        {
+            "id": "0100866017D33004",
+            "name": "Tasks"
+        },
+        {
+            "id": "0100866017D33005",
+            "name": "Christmas"
+        }
+    ],
     "latest": 0
 }

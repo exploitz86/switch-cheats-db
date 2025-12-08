@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "0100FB90103DF001",
+            "name": "Journey to the Savage Planet: Hot Garbage"
+        }
+    ],
     "latest": 65536
 }

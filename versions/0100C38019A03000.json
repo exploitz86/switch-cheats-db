@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "0100C38019A03001",
+            "name": "Colors of the fishing net"
+        },
+        {
+            "id": "0100C38019A03002",
+            "name": "Colors of a simple fishing rod"
+        },
+        {
+            "id": "0100C38019A03003",
+            "name": "Colors of the fly rod"
+        }
+    ],
     "latest": 0
 }

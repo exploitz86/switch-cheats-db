@@ -1,3 +1,29 @@
 {
+    "dlc": [
+        {
+            "id": "01003CD01299F001",
+            "name": "RiMS Racing: Bahrain International Circuit"
+        },
+        {
+            "id": "01003CD01299F002",
+            "name": "RiMS Racing: The Bloody Beetroots Specials"
+        },
+        {
+            "id": "01003CD01299F003",
+            "name": "RiMS Racing: Career Pro Starter Pack"
+        },
+        {
+            "id": "01003CD01299F004",
+            "name": "RiMS Racing: Nolan X-LITE Helmets"
+        },
+        {
+            "id": "01003CD01299F005",
+            "name": "RiMS Racing: European Manufacturers Package"
+        },
+        {
+            "id": "01003CD01299F006",
+            "name": "RiMS Racing: Japanese Manufacturers Package"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100CA800F9B3001",
+            "name": "Sherlock Holmes The Awakened - The Sleuth's Attire"
+        },
+        {
+            "id": "0100CA800F9B3002",
+            "name": "Sherlock Holmes The Awakened - The Whispered Dreams Side Quest Pack"
+        }
+    ],
     "latest": 0
 }

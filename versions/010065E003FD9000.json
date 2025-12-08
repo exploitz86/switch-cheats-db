@@ -1,3 +1,53 @@
 {
+    "dlc": [
+        {
+            "id": "010065E003FD9001",
+            "name": "Gear.Club Unlimited - Premium Cars Pack"
+        },
+        {
+            "id": "010065E003FD9002",
+            "name": "Premium Car Chevrolet Camaro 50th Anniversary"
+        },
+        {
+            "id": "010065E003FD9003",
+            "name": "Gear.Club Unlimited - Mclaren 570S GT4 Pack"
+        },
+        {
+            "id": "010065E003FD9004",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010065E003FD9005",
+            "name": "Gear.Club Unlimited - Limited Edition Cars Pack #2"
+        },
+        {
+            "id": "010065E003FD9006",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010065E003FD9007",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010065E003FD9008",
+            "name": "Gear.Club Unlimited - Super Car W Motors Lykan Hypersport"
+        },
+        {
+            "id": "010065E003FD9009",
+            "name": "Gear.Club Unlimited - Limited Edition Cars Pack #1"
+        },
+        {
+            "id": "010065E003FD900A",
+            "name": "Gear.Club Unlimited - Super Car Mazzanti Evantra"
+        },
+        {
+            "id": "010065E003FD900B",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010065E003FD900C",
+            "name": "Gear.Club Unlimited - Super Car Pagani Zonda Cinque"
+        }
+    ],
     "latest": 65536
 }

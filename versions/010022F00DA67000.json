@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "010022F00DA67001",
+            "name": "Yooka-Laylee and the Impossible Lair - Trowzer's Top Tonic Pack"
+        }
+    ],
     "latest": 65536
 }

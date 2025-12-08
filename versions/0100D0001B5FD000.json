@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "0100D0001B5FD001",
+            "name": "Experience x3 - Onigo Hunter"
+        },
+        {
+            "id": "0100D0001B5FD002",
+            "name": "No Encounters - Onigo Hunter"
+        },
+        {
+            "id": "0100D0001B5FD003",
+            "name": "Damage x2 - Onigo Hunter"
+        },
+        {
+            "id": "0100D0001B5FD004",
+            "name": "No Skill Cost - Onigo Hunter"
+        }
+    ],
     "latest": 0
 }

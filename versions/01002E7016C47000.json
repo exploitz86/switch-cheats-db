@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "01002E7016C47001",
+            "name": "Cult of the Lamb - Cthulhu Follower Form"
+        },
+        {
+            "id": "01002E7016C47002",
+            "name": "Cult of the Lamb - Cultist Pack"
+        },
+        {
+            "id": "01002E7016C47003",
+            "name": "Cult of the Lamb - Heretic Pack"
+        }
+    ],
     "latest": 0
 }

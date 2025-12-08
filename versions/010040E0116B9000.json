@@ -1,3 +1,29 @@
 {
+    "dlc": [
+        {
+            "id": "010040E0116B9001",
+            "name": "Exclusive Player Icons"
+        },
+        {
+            "id": "010040E0116B9004",
+            "name": "Sonic Movie Boost"
+        },
+        {
+            "id": "010040E0116B9005",
+            "name": "Sonic Colors: Ultimate - Music Pack"
+        },
+        {
+            "id": "010040E0116B9006",
+            "name": "Sonic Colors: Ultimate - Ultimate Cosmetic Pack"
+        },
+        {
+            "id": "010040E0116B9007",
+            "name": "Retailer Exclusive Icons"
+        },
+        {
+            "id": "010040E0116B9008",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 65536
 }

@@ -1,3 +1,37 @@
 {
+    "dlc": [
+        {
+            "id": "01007F600B135001",
+            "name": "Assassin's Creed\u00ae III Remastered - Additional Playable Missions Pack"
+        },
+        {
+            "id": "01007F600B135002",
+            "name": "Assassin's Creed\u00ae III Remastered - French Audio Pack"
+        },
+        {
+            "id": "01007F600B135003",
+            "name": "Assassin's Creed\u00ae III Remastered - Spanish Audio Pack"
+        },
+        {
+            "id": "01007F600B135005",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01007F600B135007",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01007F600B135008",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01007F600B13500B",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01007F600B135011",
+            "name": "Assassin's Creed\u00ae III Remastered - Brazilian Portuguese Audio Pack"
+        }
+    ],
     "latest": 65536
 }

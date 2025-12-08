@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "010066F01A0E1001",
+            "name": "Cassette Beasts: Cosplay Pack"
+        },
+        {
+            "id": "010066F01A0E1002",
+            "name": "Cassette Beasts: Pier of the Unknown"
+        }
+    ],
     "latest": 0
 }

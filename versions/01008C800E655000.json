@@ -1,3 +1,25 @@
 {
+    "dlc": [
+        {
+            "id": "01008C800E655001",
+            "name": "Kohaku DLC Outfit \"Lolawear\""
+        },
+        {
+            "id": "01008C800E655002",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01008C800E655004",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01008C800E655005",
+            "name": "Extra Song: \"Raison d'\u00eatre\""
+        },
+        {
+            "id": "01008C800E655006",
+            "name": "Extra Mission: \"VS ???\""
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,33 @@
 {
+    "dlc": [
+        {
+            "id": "01002CC0045ED001",
+            "name": "Kane Recruitment Ticket"
+        },
+        {
+            "id": "01002CC0045ED002",
+            "name": "Laisa Recruitment Ticket"
+        },
+        {
+            "id": "01002CC0045ED003",
+            "name": "Cindy Recruitment Ticket"
+        },
+        {
+            "id": "01002CC0045ED006",
+            "name": "Fast Growth Pack"
+        },
+        {
+            "id": "01002CC0045ED007",
+            "name": "Premium Item Pack"
+        },
+        {
+            "id": "01002CC0045ED008",
+            "name": "Stat Boost Pack"
+        },
+        {
+            "id": "01002CC0045ED009",
+            "name": "Starter Pack"
+        }
+    ],
     "latest": 0
 }

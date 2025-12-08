@@ -1,3 +1,29 @@
 {
+    "dlc": [
+        {
+            "id": "01002BE00BA8300A",
+            "name": "Word Maze 2 by POWGI"
+        },
+        {
+            "id": "01002BE00BA83014",
+            "name": "Mixups 2 by POWGI"
+        },
+        {
+            "id": "01002BE00BA8301E",
+            "name": "One Word 2 by POWGI"
+        },
+        {
+            "id": "01002BE00BA83028",
+            "name": "Flowers 2 by POWGI"
+        },
+        {
+            "id": "01002BE00BA83032",
+            "name": "Circles 2 by POWGI"
+        },
+        {
+            "id": "01002BE00BA8303C",
+            "name": "Crossovers 2 by POWGI"
+        }
+    ],
     "latest": 0
 }

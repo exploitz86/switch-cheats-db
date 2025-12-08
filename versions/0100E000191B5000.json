@@ -1,3 +1,33 @@
 {
+    "dlc": [
+        {
+            "id": "0100E000191B5001",
+            "name": "Another Episode Pack"
+        },
+        {
+            "id": "0100E000191B5002",
+            "name": "Swimsuit Mode"
+        },
+        {
+            "id": "0100E000191B5003",
+            "name": "Dylas' Outfit"
+        },
+        {
+            "id": "0100E000191B5004",
+            "name": "Doug's Outfit"
+        },
+        {
+            "id": "0100E000191B5005",
+            "name": "Leon's Outfit"
+        },
+        {
+            "id": "0100E000191B5006",
+            "name": "Ryker's Outfit"
+        },
+        {
+            "id": "0100E000191B5007",
+            "name": "Martin's Outfit"
+        }
+    ],
     "latest": 0
 }

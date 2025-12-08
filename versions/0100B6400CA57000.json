@@ -1,3 +1,329 @@
 {
+    "dlc": [
+        {
+            "id": "0100B6400CA57001",
+            "name": "Arsenal \"Prototype Arsenal\"\nSuit for Outer: \"Prototype Suit\" (Male & Female)"
+        },
+        {
+            "id": "0100B6400CA57006",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100B6400CA57007",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100B6400CA57008",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100B6400CA57009",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100B6400CA5700A",
+            "name": "DAEMON X MACHINA\u2122 - Digital Bonus"
+        },
+        {
+            "id": "0100B6400CA5700B",
+            "name": "Outer Suit \"Geralt's Outfit\""
+        },
+        {
+            "id": "0100B6400CA5700C",
+            "name": "Outer Suit \"Ciri's Outfit\""
+        },
+        {
+            "id": "0100B6400CA5700D",
+            "name": "Edit part for Outer \"Geralt's Hairstyle\""
+        },
+        {
+            "id": "0100B6400CA5700E",
+            "name": "Edit part for Outer \"Ciri's Hairstyle\""
+        },
+        {
+            "id": "0100B6400CA5700F",
+            "name": "Edit part for Outer \"Geralt's Shape\""
+        },
+        {
+            "id": "0100B6400CA57010",
+            "name": "Edit part for Outer \"Ciri's Shape\""
+        },
+        {
+            "id": "0100B6400CA57011",
+            "name": "Edit part for Outer \"Geralt's Skin\""
+        },
+        {
+            "id": "0100B6400CA57012",
+            "name": "Edit part for Outer \"Ciri's Skin\""
+        },
+        {
+            "id": "0100B6400CA57013",
+            "name": "Edit part for Outer \"Geralt's Scar\""
+        },
+        {
+            "id": "0100B6400CA57014",
+            "name": "Edit part for Outer \"Ciri's Scar\""
+        },
+        {
+            "id": "0100B6400CA57015",
+            "name": "Edit part for Outer \"Geralt's Eyes\""
+        },
+        {
+            "id": "0100B6400CA57016",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100B6400CA5703E",
+            "name": "Edit parts for Outer \"Punk\" (Unisex)"
+        },
+        {
+            "id": "0100B6400CA5703F",
+            "name": "Edit parts for Outer  \"Large Mohawk\"(Unisex)"
+        },
+        {
+            "id": "0100B6400CA57040",
+            "name": "Edit parts for Outer  \"Long w/ Visor\"(Unisex)"
+        },
+        {
+            "id": "0100B6400CA57041",
+            "name": "Edit parts for Outer  \"Wolf w/ goggles\"(Unisex)"
+        },
+        {
+            "id": "0100B6400CA57042",
+            "name": "Edit parts for Outer  \"Ponytail w/ Headphones\"(Unisex)"
+        },
+        {
+            "id": "0100B6400CA57043",
+            "name": "Edit parts for Outer  \"Mash\"(Unisex)"
+        },
+        {
+            "id": "0100B6400CA57044",
+            "name": "Outer Edit parts \"Topknot\""
+        },
+        {
+            "id": "0100B6400CA57045",
+            "name": "Outer Edit parts \"Heaven Cut\""
+        },
+        {
+            "id": "0100B6400CA57046",
+            "name": "Outer Edit parts \"Abyss Cut\""
+        },
+        {
+            "id": "0100B6400CA57047",
+            "name": "Outer Edit parts \"Falcon Cut\""
+        },
+        {
+            "id": "0100B6400CA57048",
+            "name": "Outer Edit parts \"Bishop Helmet\""
+        },
+        {
+            "id": "0100B6400CA57049",
+            "name": "Outer Edit parts \"Empress Cut\""
+        },
+        {
+            "id": "0100B6400CA5704A",
+            "name": "Edit part for Outer  \"one eye closed\"(Unisex)"
+        },
+        {
+            "id": "0100B6400CA5704C",
+            "name": "Outer Edit parts \"Pointed Ears\""
+        },
+        {
+            "id": "0100B6400CA5704E",
+            "name": "Outer Edit parts \"Goggles A\""
+        },
+        {
+            "id": "0100B6400CA57050",
+            "name": "Outer Edit parts \"Goggles B\""
+        },
+        {
+            "id": "0100B6400CA57052",
+            "name": "Outer Edit parts \"Glasses\""
+        },
+        {
+            "id": "0100B6400CA57054",
+            "name": "Outer Edit parts \"Masked\""
+        },
+        {
+            "id": "0100B6400CA57056",
+            "name": "Outer Edit parts \"Eyepatch\""
+        },
+        {
+            "id": "0100B6400CA57058",
+            "name": "Edit part for Outer \"Cross Scar\" (Unisex)"
+        },
+        {
+            "id": "0100B6400CA57059",
+            "name": "Edit part for Outer \"Suture\"(Unisex)"
+        },
+        {
+            "id": "0100B6400CA5705A",
+            "name": "Edit part for Outer  \"Devil Makeup\"(Unisex)"
+        },
+        {
+            "id": "0100B6400CA5705B",
+            "name": "Edit part for Outer  \"Robot Makeup\"(Unisex)"
+        },
+        {
+            "id": "0100B6400CA5705C",
+            "name": "Edit part for Outer  \"Animal Makeup\"(Unisex)"
+        },
+        {
+            "id": "0100B6400CA57064",
+            "name": "Arsenal Design Change \"Crusader\""
+        },
+        {
+            "id": "0100B6400CA57065",
+            "name": "Arsenal \"Muramasa\""
+        },
+        {
+            "id": "0100B6400CA57066",
+            "name": "Arsenal \"Rabbit 11\""
+        },
+        {
+            "id": "0100B6400CA5706E",
+            "name": "Surface for Arsenal \"Pearl White\""
+        },
+        {
+            "id": "0100B6400CA5706F",
+            "name": "Surface for Arsenal \"Champagne Gold\""
+        },
+        {
+            "id": "0100B6400CA57070",
+            "name": "Surface for Arsenal \"Waves\""
+        },
+        {
+            "id": "0100B6400CA57071",
+            "name": "Surface for Arsenal \"Blossoms\""
+        },
+        {
+            "id": "0100B6400CA57072",
+            "name": "Surface for Arsenal \"Wood Grain\""
+        },
+        {
+            "id": "0100B6400CA57074",
+            "name": "Arsenal Decal \"Military Man\""
+        },
+        {
+            "id": "0100B6400CA57075",
+            "name": "Arsenal Decal \"Rule\""
+        },
+        {
+            "id": "0100B6400CA57076",
+            "name": "Arsenal Decal \"Sin & Punishment\""
+        },
+        {
+            "id": "0100B6400CA57077",
+            "name": "Arsenal Decal \"Witch\""
+        },
+        {
+            "id": "0100B6400CA57078",
+            "name": "Arsenal Decal \"Lineage\""
+        },
+        {
+            "id": "0100B6400CA57079",
+            "name": "Arsenal Decal \"Knight\""
+        },
+        {
+            "id": "0100B6400CA5707A",
+            "name": "Arsenal Decal \"Purity\""
+        },
+        {
+            "id": "0100B6400CA5707B",
+            "name": "Arsenal Decal \"Daemon X Machina\""
+        },
+        {
+            "id": "0100B6400CA5707C",
+            "name": "Outer Edit parts \"Man Bun\""
+        },
+        {
+            "id": "0100B6400CA57081",
+            "name": "Outer Suit \"Camouflage Plugsuit\""
+        },
+        {
+            "id": "0100B6400CA57083",
+            "name": "Outer Suit \"Formal Attire\""
+        },
+        {
+            "id": "0100B6400CA57085",
+            "name": "Arsenal Decal \"Nose Art (Shark)\""
+        },
+        {
+            "id": "0100B6400CA57086",
+            "name": "Arsenal Decal \"Nose Art (Cobra)\""
+        },
+        {
+            "id": "0100B6400CA57087",
+            "name": "Arsenal Decal \"Nose Art (Bulldog)\""
+        },
+        {
+            "id": "0100B6400CA57088",
+            "name": "Arsenal Decal \"Eagle\""
+        },
+        {
+            "id": "0100B6400CA57089",
+            "name": "Arsenal Decal \"Elephant\""
+        },
+        {
+            "id": "0100B6400CA5708A",
+            "name": "Arsenal Decal \"Wolf\""
+        },
+        {
+            "id": "0100B6400CA5708B",
+            "name": "Arsenal Decal \"Gecko\""
+        },
+        {
+            "id": "0100B6400CA5708C",
+            "name": "Arsenal Decal \"Frog\""
+        },
+        {
+            "id": "0100B6400CA5708D",
+            "name": "Arsenal Decal \"Scorpion\""
+        },
+        {
+            "id": "0100B6400CA5708E",
+            "name": "Arsenal Decal \"Flames\""
+        },
+        {
+            "id": "0100B6400CA5708F",
+            "name": "Outer Emote \"Pump and Point\""
+        },
+        {
+            "id": "0100B6400CA57090",
+            "name": "Outer Emote \"Roar\""
+        },
+        {
+            "id": "0100B6400CA57091",
+            "name": "Outer Emote \"Fist to Fist\""
+        },
+        {
+            "id": "0100B6400CA57092",
+            "name": "Outer Emote \"Seduce\""
+        },
+        {
+            "id": "0100B6400CA57093",
+            "name": "Outer Emote \"Bravado\""
+        },
+        {
+            "id": "0100B6400CA57094",
+            "name": "Outer Emote \"Sulk\""
+        },
+        {
+            "id": "0100B6400CA57095",
+            "name": "Outer Emote \"Outstretched Arms\""
+        },
+        {
+            "id": "0100B6400CA57096",
+            "name": "Outer Emote \"Slash\""
+        },
+        {
+            "id": "0100B6400CA57097",
+            "name": "Outer Emote \"Breakdance\""
+        },
+        {
+            "id": "0100B6400CA57098",
+            "name": "Outer Emote \"Relax\""
+        }
+    ],
     "latest": 0
 }

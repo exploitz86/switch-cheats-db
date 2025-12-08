@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "010076200CA17001",
+            "name": "Rolling Gunner Over Power"
+        }
+    ],
     "latest": 262144
 }

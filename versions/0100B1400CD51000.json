@@ -1,3 +1,125 @@
 {
+    "dlc": [
+        {
+            "id": "0100B1400CD51001",
+            "name": "Lulua's Outfit \"Innocent Fairy\""
+        },
+        {
+            "id": "0100B1400CD51002",
+            "name": "Lulua's Outfit \"Fish Girl\""
+        },
+        {
+            "id": "0100B1400CD51003",
+            "name": "Weapon-Strengthening Symbols (Set of 8)"
+        },
+        {
+            "id": "0100B1400CD51004",
+            "name": "Headstart Item Pack"
+        },
+        {
+            "id": "0100B1400CD51005",
+            "name": "Newbie Support Item Pack"
+        },
+        {
+            "id": "0100B1400CD51006",
+            "name": "Additional Character: Totori"
+        },
+        {
+            "id": "0100B1400CD51007",
+            "name": "Additional Character: Meruru"
+        },
+        {
+            "id": "0100B1400CD51008",
+            "name": "Extra High Difficulty Area: Machina Domain"
+        },
+        {
+            "id": "0100B1400CD51009",
+            "name": "GUST Extra BGM Pack"
+        },
+        {
+            "id": "0100B1400CD5100A",
+            "name": "Lulua's Outfit \"Mom's Favorite\""
+        },
+        {
+            "id": "0100B1400CD5100B",
+            "name": "Aurel's Outfit \"The Ultimate Knight Supreme\""
+        },
+        {
+            "id": "0100B1400CD5100C",
+            "name": "Eva's Outfit \"Little Girlfriend\""
+        },
+        {
+            "id": "0100B1400CD5100D",
+            "name": "Lulua's Swimsuit \"Bright Butterfly\""
+        },
+        {
+            "id": "0100B1400CD5100E",
+            "name": "Eva's Swimsuit \"Glazed Coral\""
+        },
+        {
+            "id": "0100B1400CD5100F",
+            "name": "Aurel's Swimsuit \"Surf Strider\""
+        },
+        {
+            "id": "0100B1400CD51010",
+            "name": "Piana's Swimsuit \"Vivid Two-color\""
+        },
+        {
+            "id": "0100B1400CD51011",
+            "name": "Ficus's Swimsuit \"Coastal Trickster\""
+        },
+        {
+            "id": "0100B1400CD51012",
+            "name": "Niko's Swimsuit \"Capped Captain\""
+        },
+        {
+            "id": "0100B1400CD51013",
+            "name": "Rorona's Swimsuit \"Floral Pareo\""
+        },
+        {
+            "id": "0100B1400CD51014",
+            "name": "Sterk's Swimsuit \"Seaside Paladin\""
+        },
+        {
+            "id": "0100B1400CD51015",
+            "name": "Lulua's Outfit \"Guileless Princess\""
+        },
+        {
+            "id": "0100B1400CD51016",
+            "name": "Eva's Outfit \"Dancer of Arklys\""
+        },
+        {
+            "id": "0100B1400CD51017",
+            "name": "Aurel's Outfit \"Blood of the Mighty\""
+        },
+        {
+            "id": "0100B1400CD51018",
+            "name": "Piana's Outfit \"Ultimate Savior\""
+        },
+        {
+            "id": "0100B1400CD51019",
+            "name": "Ficus's Outfit \"Genius Magician\""
+        },
+        {
+            "id": "0100B1400CD5101A",
+            "name": "Niko's Outfit \"The Boldness\""
+        },
+        {
+            "id": "0100B1400CD5101B",
+            "name": "Rorona's Outfit \"Time Slip\""
+        },
+        {
+            "id": "0100B1400CD5101C",
+            "name": "Sterk's Outfit \"Regal Butler\""
+        },
+        {
+            "id": "0100B1400CD5101D",
+            "name": "Special BGM Pack \"Atelier Online\""
+        },
+        {
+            "id": "0100B1400CD5101E",
+            "name": "Atelier Series Legacy BGM Pack"
+        }
+    ],
     "latest": 0
 }

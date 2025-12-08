@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "01002EA00ABBB001",
+            "name": "German Language Pack"
+        },
+        {
+            "id": "01002EA00ABBB002",
+            "name": "French Language Pack"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,61 @@
 {
+    "dlc": [
+        {
+            "id": "0100BF600BF27001",
+            "name": "Buddy Chocobo \u201cFreelancer\u201d"
+        },
+        {
+            "id": "0100BF600BF27002",
+            "name": "Buddy Chocobo \u201cKnight\u201d"
+        },
+        {
+            "id": "0100BF600BF27003",
+            "name": "Buddy Chocobo \u201cDragoon\u201d"
+        },
+        {
+            "id": "0100BF600BF27004",
+            "name": "Buddy Chocobo \u201cDark Knight\u201d"
+        },
+        {
+            "id": "0100BF600BF27005",
+            "name": "Buddy Chocobo \u201cNinja\u201d"
+        },
+        {
+            "id": "0100BF600BF27006",
+            "name": "Buddy Chocobo \u201cThief\u201d"
+        },
+        {
+            "id": "0100BF600BF27007",
+            "name": "Buddy Chocobo \u201cScholar\u201d"
+        },
+        {
+            "id": "0100BF600BF27008",
+            "name": "Buddy Chocobo \u201cBlack Mage\u201d"
+        },
+        {
+            "id": "0100BF600BF27009",
+            "name": "Buddy Chocobo \u201cWhite Mage\u201d"
+        },
+        {
+            "id": "0100BF600BF2700A",
+            "name": "Buddy Chocobo \u201cDancer\u201d"
+        },
+        {
+            "id": "0100BF600BF2700B",
+            "name": "Buddy Chocobo \u201cRed Mage\u201d"
+        },
+        {
+            "id": "0100BF600BF2700C",
+            "name": "Buddy Chocobo \u201cBeastmaster\u201d"
+        },
+        {
+            "id": "0100BF600BF2700D",
+            "name": "Buddy Chocobo \u201cMachinist\u201d"
+        },
+        {
+            "id": "0100BF600BF2700E",
+            "name": "Buddy Chocobo \u201cAlpha\u201d"
+        }
+    ],
     "latest": 0
 }

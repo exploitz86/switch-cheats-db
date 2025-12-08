@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "010057D017B0B001",
+            "name": "Headbangers - Ex-Coo-Sive Pigeon Hat"
+        },
+        {
+            "id": "010057D017B0B002",
+            "name": "Headbangers - Flock and Roll"
+        }
+    ],
     "latest": 0
 }

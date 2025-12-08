@@ -1,3 +1,25 @@
 {
+    "dlc": [
+        {
+            "id": "0100BEE017FC1001",
+            "name": "Just Dance\u00ae 2023 Edition Year 1"
+        },
+        {
+            "id": "0100BEE017FC1002",
+            "name": "Just Dance\u00ae+ 3 Month Pass"
+        },
+        {
+            "id": "0100BEE017FC1003",
+            "name": "Just Dance\u00ae+ 12 Month Pass"
+        },
+        {
+            "id": "0100BEE017FC1004",
+            "name": "Just Dance 2023 Edition Ownership"
+        },
+        {
+            "id": "0100BEE017FC1005",
+            "name": "Just Dance\u00ae 2024 Edition"
+        }
+    ],
     "latest": 0
 }

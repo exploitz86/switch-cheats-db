@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "010027F00AD6D001",
+            "name": "SNK HEROINES Tag Team Frenzy \u2013 Thief Arthur"
+        },
+        {
+            "id": "010027F00AD6D002",
+            "name": "SNK HEROINES Tag Team Frenzy - SKULLO MANIA"
+        },
+        {
+            "id": "010027F00AD6D003",
+            "name": "SNK HEROINES Tag Team Frenzy - MissX"
+        },
+        {
+            "id": "010027F00AD6D004",
+            "name": "SNK HEROINES Tag Team Frenzy - JEANNE"
+        }
+    ],
     "latest": 0
 }

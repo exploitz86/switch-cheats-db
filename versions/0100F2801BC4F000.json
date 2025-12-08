@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "0100F2801BC4F001",
+            "name": "Survival Pack"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,45 @@
 {
+    "dlc": [
+        {
+            "id": "010001701248D001",
+            "name": "Classic Soundtrack"
+        },
+        {
+            "id": "010001701248D002",
+            "name": "Customization Pack"
+        },
+        {
+            "id": "010001701248D003",
+            "name": "Classic Character Pack"
+        },
+        {
+            "id": "010001701248D004",
+            "name": "SEGA Legends Pack"
+        },
+        {
+            "id": "010001701248D005",
+            "name": "Golden Banana Mode"
+        },
+        {
+            "id": "010001701248D006",
+            "name": "Bonus Cosmetic Pack"
+        },
+        {
+            "id": "010001701248D009",
+            "name": "Hello Kitty"
+        },
+        {
+            "id": "010001701248D00A",
+            "name": "Morgana"
+        },
+        {
+            "id": "010001701248D00B",
+            "name": "Suezo"
+        },
+        {
+            "id": "010001701248D00C",
+            "name": "Headwear Pack"
+        }
+    ],
     "latest": 0
 }

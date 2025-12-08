@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "010027B01B997001",
+            "name": "Aquapark io: Sweet and Spooky DLC"
+        },
+        {
+            "id": "010027B01B997002",
+            "name": "Aquapark io: Movie Stars DLC"
+        },
+        {
+            "id": "010027B01B997003",
+            "name": "Aquapark io: Animals DLC"
+        }
+    ],
     "latest": 0
 }

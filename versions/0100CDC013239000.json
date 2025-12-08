@@ -1,3 +1,45 @@
 {
+    "dlc": [
+        {
+            "id": "0100CDC01323912D",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100CDC01323912E",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100CDC01323912F",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100CDC013239130",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100CDC013239131",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100CDC013239132",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100CDC013239133",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100CDC013239134",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100CDC013239135",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100CDC013239136",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 0
 }

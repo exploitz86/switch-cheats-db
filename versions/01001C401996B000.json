@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "01001C401996B001",
+            "name": "DINO-X Pack"
+        }
+    ],
     "latest": 0
 }

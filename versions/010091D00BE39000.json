@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "010091D00BE39001",
+            "name": "The Binding of Isaac Pack"
+        }
+    ],
     "latest": 0
 }

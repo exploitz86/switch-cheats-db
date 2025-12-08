@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "010047A01754F001",
+            "name": "Soundtrack DLC"
+        },
+        {
+            "id": "010047A01754F002",
+            "name": "League of Enthusiastic Losers Artbook #1"
+        },
+        {
+            "id": "010047A01754F003",
+            "name": "League of Enthusiastic Losers Artbook #2"
+        }
+    ],
     "latest": 0
 }

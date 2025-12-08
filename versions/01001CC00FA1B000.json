@@ -1,3 +1,109 @@
 {
+    "dlc": [
+        {
+            "id": "01001CC00FA1B001",
+            "name": "Hatsune Miku: Project DIVA Mega Mix Theme Song Pack"
+        },
+        {
+            "id": "01001CC00FA1B002",
+            "name": "Hatsune Miku: Project DIVA Mega Mix Song Pack 1"
+        },
+        {
+            "id": "01001CC00FA1B003",
+            "name": "Hatsune Miku: Project DIVA Mega Mix Song Pack 6"
+        },
+        {
+            "id": "01001CC00FA1B004",
+            "name": "Hatsune Miku: Project DIVA Mega Mix Song Pack 3"
+        },
+        {
+            "id": "01001CC00FA1B005",
+            "name": "Hatsune Miku: Project DIVA Mega Mix Song Pack 2"
+        },
+        {
+            "id": "01001CC00FA1B006",
+            "name": "Hatsune Miku: Project DIVA Mega Mix Song Pack 5"
+        },
+        {
+            "id": "01001CC00FA1B007",
+            "name": "Hatsune Miku: Project DIVA Mega Mix Song Pack 4"
+        },
+        {
+            "id": "01001CC00FA1B008",
+            "name": "Hatsune Miku: Project DIVA Mega Mix Song Pack 7"
+        },
+        {
+            "id": "01001CC00FA1B009",
+            "name": "Hatsune Miku: Project DIVA Mega Mix Song Pack 8"
+        },
+        {
+            "id": "01001CC00FA1B00A",
+            "name": "Hatsune Miku: Project DIVA Mega Mix Song Pack 9"
+        },
+        {
+            "id": "01001CC00FA1B00B",
+            "name": "Hatsune Miku: Project DIVA Mega Mix Song Pack 10"
+        },
+        {
+            "id": "01001CC00FA1B00C",
+            "name": "Hatsune Miku: Project DIVA Mega Mix Song Pack 11"
+        },
+        {
+            "id": "01001CC00FA1B00D",
+            "name": "Hatsune Miku: Project DIVA Mega Mix SEGA Song Pack"
+        },
+        {
+            "id": "01001CC00FA1B00E",
+            "name": "Hatsune Miku: Project DIVA Mega Mix Song Pack 12"
+        },
+        {
+            "id": "01001CC00FA1B00F",
+            "name": "Hatsune Miku: Project DIVA Mega Mix Song Pack 13"
+        },
+        {
+            "id": "01001CC00FA1B010",
+            "name": "Hatsune Miku: Project DIVA Mega Mix Unlock Key"
+        },
+        {
+            "id": "01001CC00FA1B011",
+            "name": "Hatsune Miku: Project DIVA Mega Mix T-Shirt Design Pack 4"
+        },
+        {
+            "id": "01001CC00FA1B012",
+            "name": "Hatsune Miku: Project DIVA Mega Mix T-Shirt Design Pack 3"
+        },
+        {
+            "id": "01001CC00FA1B013",
+            "name": "Hatsune Miku: Project DIVA Mega Mix T-Shirt Design Pack 2"
+        },
+        {
+            "id": "01001CC00FA1B014",
+            "name": "Hatsune Miku: Project DIVA Mega Mix T-Shirt Design Pack 1"
+        },
+        {
+            "id": "01001CC00FA1B018",
+            "name": "Hatsune Miku: Project DIVA Mega Mix Premium T-Shirt (KEI)"
+        },
+        {
+            "id": "01001CC00FA1B021",
+            "name": "Hatsune Miku: Project DIVA Mega Mix Song Pack 14"
+        },
+        {
+            "id": "01001CC00FA1B022",
+            "name": "Hatsune Miku: Project DIVA Mega Mix Song Pack 15"
+        },
+        {
+            "id": "01001CC00FA1B023",
+            "name": "Hatsune Miku: Project DIVA Mega Mix Song Pack 16"
+        },
+        {
+            "id": "01001CC00FA1B024",
+            "name": "Hatsune Miku: Project DIVA Mega Mix Song Pack 17"
+        },
+        {
+            "id": "01001CC00FA1B025",
+            "name": "Hatsune Miku: Project DIVA Mega Mix Song Pack 18"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100209018213001",
+            "name": "Award Card Choices +1 - Overrogue"
+        },
+        {
+            "id": "0100209018213002",
+            "name": "Award Swap per Square - Overrogue"
+        }
+    ],
     "latest": 0
 }

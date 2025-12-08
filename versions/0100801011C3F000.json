@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100801011C3F001",
+            "name": "Persona\u00ae5 Strikers Persona Legacy BGM"
+        },
+        {
+            "id": "0100801011C3F002",
+            "name": "Persona\u00ae5 Strikers All-Out Attack Pack"
+        }
+    ],
     "latest": 0
 }

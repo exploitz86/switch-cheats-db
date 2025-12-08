@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "0100CBA018B57002",
+            "name": "Halloween"
+        },
+        {
+            "id": "0100CBA018B57003",
+            "name": "Sushi"
+        },
+        {
+            "id": "0100CBA018B57004",
+            "name": "Christmas"
+        },
+        {
+            "id": "0100CBA018B57005",
+            "name": "Easter"
+        }
+    ],
     "latest": 65536
 }

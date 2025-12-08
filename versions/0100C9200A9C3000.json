@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "0100C9200A9C3003",
+            "name": "Carcassonne - Inns & Cathedrals"
+        },
+        {
+            "id": "0100C9200A9C3004",
+            "name": "Carcassonne - Traders & Builders"
+        },
+        {
+            "id": "0100C9200A9C3005",
+            "name": "Carcassonne - The Princess and The Dragon"
+        },
+        {
+            "id": "0100C9200A9C3006",
+            "name": "Carcassonne - Winter & Gingerbread Man"
+        }
+    ],
     "latest": 0
 }

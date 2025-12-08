@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "010051B0131F1001",
+            "name": "Inverse Truck Pack"
+        },
+        {
+            "id": "010051B0131F1002",
+            "name": "Inverse Higher Education"
+        }
+    ],
     "latest": 65536
 }

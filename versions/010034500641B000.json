@@ -1,3 +1,245 @@
 {
+    "dlc": [
+        {
+            "id": "010034500641B001",
+            "name": "Additional Episode, \"A Sudden Rain\""
+        },
+        {
+            "id": "010034500641B002",
+            "name": "Additional Episode, \"Goddess Salvation\""
+        },
+        {
+            "id": "010034500641B003",
+            "name": "Additional Episode: \"A Cornered Rat\""
+        },
+        {
+            "id": "010034500641B004",
+            "name": "Additional Episode: \"Biological Research Scout Mission\""
+        },
+        {
+            "id": "010034500641B005",
+            "name": "Additional Episode: \"White Out\""
+        },
+        {
+            "id": "010034500641B006",
+            "name": "Additional Episode: \"Proof of Expertise\""
+        },
+        {
+            "id": "010034500641B007",
+            "name": "Additional Episode: \"Discouragement and the Leaning Tower\""
+        },
+        {
+            "id": "010034500641B008",
+            "name": "Additional Episode: \"Singular Target\""
+        },
+        {
+            "id": "010034500641B009",
+            "name": "Additional Episode: \"Attack IQ Championship\""
+        },
+        {
+            "id": "010034500641B00A",
+            "name": "Additional Episode: \"A Titan Worth a Thousand\""
+        },
+        {
+            "id": "010034500641B00B",
+            "name": "Additional Episode: \"Skill Demonstration\""
+        },
+        {
+            "id": "010034500641B00C",
+            "name": "Additional Episode: \"Second Victory\""
+        },
+        {
+            "id": "010034500641B015",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010034500641B016",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010034500641B017",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010034500641B018",
+            "name": "Costume Set \"Japanese New Year\""
+        },
+        {
+            "id": "010034500641B019",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010034500641B01A",
+            "name": "Mikasa Costume \"Summer Festival\""
+        },
+        {
+            "id": "010034500641B01B",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010034500641B01C",
+            "name": "Costume Set \"Summer Festival\""
+        },
+        {
+            "id": "010034500641B01D",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010034500641B01E",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010034500641B01F",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010034500641B020",
+            "name": "Costume Set \"Halloween\""
+        },
+        {
+            "id": "010034500641B021",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010034500641B022",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010034500641B023",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010034500641B024",
+            "name": "Costume Set \"Christmas\""
+        },
+        {
+            "id": "010034500641B027",
+            "name": "Additional Eren Costume: \"Bad Boy Outfit\""
+        },
+        {
+            "id": "010034500641B028",
+            "name": "Additional Mikasa Costume: \"Chinese Dress Outfit\""
+        },
+        {
+            "id": "010034500641B029",
+            "name": "Additional Levi Costume: \"Leather Jacket Outfit\""
+        },
+        {
+            "id": "010034500641B02A",
+            "name": "Additional Armin Costume: \"Kiddie Outfit\""
+        },
+        {
+            "id": "010034500641B02B",
+            "name": "Additional Jean Costume: \"Clown Outfit\""
+        },
+        {
+            "id": "010034500641B02C",
+            "name": "Additional Conny Costume: \"Kung Fu Outfit\""
+        },
+        {
+            "id": "010034500641B02D",
+            "name": "Additional Christa Costume: \"Cutesy Goth Outfit\""
+        },
+        {
+            "id": "010034500641B02E",
+            "name": "Additional Sasha Costume: \"Cheerleader Outfit\""
+        },
+        {
+            "id": "010034500641B02F",
+            "name": "Additional Reiner Costume: \"American Football Outfit\""
+        },
+        {
+            "id": "010034500641B030",
+            "name": "Additional Bertholdt Costume: \"Pajama Outfit\""
+        },
+        {
+            "id": "010034500641B031",
+            "name": "Additional Annie Costume: \"Motorcycle Outfit\""
+        },
+        {
+            "id": "010034500641B032",
+            "name": "Additional Ymir Costume: \"Pirate Outfit\""
+        },
+        {
+            "id": "010034500641B033",
+            "name": "Additional Hange Costume: \"Scientist Outfit\""
+        },
+        {
+            "id": "010034500641B034",
+            "name": "Additional Erwin Costume: \"Knight Outfit\""
+        },
+        {
+            "id": "010034500641B035",
+            "name": "Additional Mikasa Costume: \"Ninja Outfit\""
+        },
+        {
+            "id": "010034500641B036",
+            "name": "Additional Christa Costume: \"Maid Outfit\""
+        },
+        {
+            "id": "010034500641B037",
+            "name": "Additional Sasha Costume: \"Sports Outfit\""
+        },
+        {
+            "id": "010034500641B038",
+            "name": "Additional Annie Costume: \"Pop Star Outfit\""
+        },
+        {
+            "id": "010034500641B039",
+            "name": "Additional Ymir Costume: \"Shrine Maiden Outfit\""
+        },
+        {
+            "id": "010034500641B03A",
+            "name": "Additional Hange Costume: \"Detective Outfit\""
+        },
+        {
+            "id": "010034500641B045",
+            "name": "Attack on Titan 2: Eren & Levi \"Plain clothes\" Outfit Early Release"
+        },
+        {
+            "id": "010034500641B046",
+            "name": "Attack on Titan 2: Mikasa & Armin \"Plain clothes\" Outfit Early Release"
+        },
+        {
+            "id": "010034500641B047",
+            "name": "Attack on Titan 2: Reiner & Bertholdt \"Plain clothes\" Outfit Early Release"
+        },
+        {
+            "id": "010034500641B04A",
+            "name": "Attack on Titan 2: Christa & Ymir \"Plain clothes\" Outfit Early Release"
+        },
+        {
+            "id": "010034500641B055",
+            "name": "Additional costume for Christa \"Queen Historia\" Costume"
+        },
+        {
+            "id": "010034500641B056",
+            "name": "Additional costume for Kenny \"Coat (Young Male)\" Costume"
+        },
+        {
+            "id": "010034500641B057",
+            "name": "Additional costume for Levi \"Plain Clothes (Underground City)\" Costume"
+        },
+        {
+            "id": "010034500641B058",
+            "name": "Additional costume for Mikasa \"One-piece Dress\" Costume"
+        },
+        {
+            "id": "010034500641B059",
+            "name": "Playable Character \"Kenny\" Early Unlock"
+        },
+        {
+            "id": "010034500641B05A",
+            "name": "Playable Character \"Zeke\" Early Unlock"
+        },
+        {
+            "id": "010034500641B05B",
+            "name": "Playable Character \"Eren (Long Hair)\" Early Unlock"
+        },
+        {
+            "id": "010034500641B07F",
+            "name": "Attack on Titan 2: Final Battle Upgrade Pack"
+        }
+    ],
     "latest": 0
 }

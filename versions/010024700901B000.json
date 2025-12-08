@@ -1,3 +1,89 @@
 {
+    "dlc": [
+        {
+            "id": "010024700901B002",
+            "name": "Gal*Gun 2 - Bubble Bath Bikini Set"
+        },
+        {
+            "id": "010024700901B003",
+            "name": "Gal*Gun 2 - Meowvelous Sweater Set"
+        },
+        {
+            "id": "010024700901B004",
+            "name": "Gal*Gun 2 - Classy Bunny Girl Set"
+        },
+        {
+            "id": "010024700901B005",
+            "name": "Gal*Gun 2 - Angelic Nurse Set"
+        },
+        {
+            "id": "010024700901B006",
+            "name": "Gal*Gun 2 - Super-short Cheongsam Set"
+        },
+        {
+            "id": "010024700901B007",
+            "name": "Gal*Gun 2 - Black & White Bikini Set"
+        },
+        {
+            "id": "010024700901B008",
+            "name": "Gal*Gun 2 - Fighting Spirit Academy Uniform Set"
+        },
+        {
+            "id": "010024700901B009",
+            "name": "Gal*Gun 2 - Venus Soccer Uniform Set"
+        },
+        {
+            "id": "010024700901B00A",
+            "name": "Gal*Gun 2 - Tiger-striped Oni Bikini Set"
+        },
+        {
+            "id": "010024700901B00B",
+            "name": "Gal*Gun 2 - Kung-fu Cutie Set"
+        },
+        {
+            "id": "010024700901B00C",
+            "name": "Gal*Gun 2 - Sexy Shrine Maiden Set"
+        },
+        {
+            "id": "010024700901B00D",
+            "name": "Gal*Gun 2 - Alluring Belly Dancer Set"
+        },
+        {
+            "id": "010024700901B00E",
+            "name": "Gal*Gun 2 - Fancy Maid Mini-skirt Set"
+        },
+        {
+            "id": "010024700901B00F",
+            "name": "Gal*Gun 2 - Pole Position Pin-up Set"
+        },
+        {
+            "id": "010024700901B010",
+            "name": "Gal*Gun 2 - Risque Apron Set"
+        },
+        {
+            "id": "010024700901B011",
+            "name": "Gal*Gun 2 - Alice in Doki Doki Land Set"
+        },
+        {
+            "id": "010024700901B012",
+            "name": "Gal*Gun 2 - Vice Cop Set"
+        },
+        {
+            "id": "010024700901B013",
+            "name": "Gal*Gun 2 - Racy Ribbons Set"
+        },
+        {
+            "id": "010024700901B014",
+            "name": "Gal*Gun 2 - Sergeant Suspenders Set"
+        },
+        {
+            "id": "010024700901B015",
+            "name": "Gal*Gun 2 - S-Class Demon Buster Suit Set"
+        },
+        {
+            "id": "010024700901B016",
+            "name": "Gal*Gun 2 - Slime Time Set"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,25 @@
 {
+    "dlc": [
+        {
+            "id": "01004A600EC0B001",
+            "name": "Immortals Fenyx Rising\u2122 - DLC 2: Myths of the Eastern Realm"
+        },
+        {
+            "id": "01004A600EC0B002",
+            "name": "IMMORTALS FENYX RISING - The Lost gods"
+        },
+        {
+            "id": "01004A600EC0B003",
+            "name": "IMMORTALS FENYX RISING - A New god"
+        },
+        {
+            "id": "01004A600EC0B00C",
+            "name": "Immortals Fenyx Rising - When The Road Gets Rocky"
+        },
+        {
+            "id": "01004A600EC0B00D",
+            "name": "A Tale of Fire and Lightning"
+        }
+    ],
     "latest": 0
 }

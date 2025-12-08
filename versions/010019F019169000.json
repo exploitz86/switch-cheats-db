@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "010019F019169001",
+            "name": "Pocket Pool: Adventure"
+        }
+    ],
     "latest": 65536
 }

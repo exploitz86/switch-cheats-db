@@ -1,3 +1,25 @@
 {
+    "dlc": [
+        {
+            "id": "0100A0C00E0DF001",
+            "name": "Lonely Mountains: Downhill - Eldfjall Island"
+        },
+        {
+            "id": "0100A0C00E0DF002",
+            "name": "Riley's Return"
+        },
+        {
+            "id": "0100A0C00E0DF003",
+            "name": "Lonely Mountains: Downhill - Misty Peak"
+        },
+        {
+            "id": "0100A0C00E0DF004",
+            "name": "Lonely Mountains: Downhill - Redmoor Falls"
+        },
+        {
+            "id": "0100A0C00E0DF005",
+            "name": "Lonely Mountains: Downhill - Rivera's Revenge"
+        }
+    ],
     "latest": 0
 }

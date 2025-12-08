@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100C2601927D001",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100C2601927D002",
+            "name": "LogiKing LEVEL2"
+        }
+    ],
     "latest": 0
 }

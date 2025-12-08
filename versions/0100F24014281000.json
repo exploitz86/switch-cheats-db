@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100F24014281001",
+            "name": "Chef Life - BON APP\u00c9TIT PACK"
+        },
+        {
+            "id": "0100F24014281002",
+            "name": "Chef Life - AL FORNO PACK"
+        }
+    ],
     "latest": 0
 }

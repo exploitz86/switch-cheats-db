@@ -1,3 +1,29 @@
 {
+    "dlc": [
+        {
+            "id": "01008CB0156BD001",
+            "name": "Trails into Reverie: SSS Summer Splash Set"
+        },
+        {
+            "id": "01008CB0156BD002",
+            "name": "Trails into Reverie: Standard Cosmetic Set"
+        },
+        {
+            "id": "01008CB0156BD003",
+            "name": "Trails into Reverie: Premium Cosmetic Set"
+        },
+        {
+            "id": "01008CB0156BD004",
+            "name": "Trails into Reverie: Starter Set"
+        },
+        {
+            "id": "01008CB0156BD005",
+            "name": "Trails into Reverie: Advanced Set 1"
+        },
+        {
+            "id": "01008CB0156BD006",
+            "name": "Trails into Reverie: Advanced Set 2"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "01001D3003FDF002",
+            "name": "Backer Thank You AOC"
+        },
+        {
+            "id": "01001D3003FDF003",
+            "name": "Razmi's Challenges"
+        }
+    ],
     "latest": 0
 }

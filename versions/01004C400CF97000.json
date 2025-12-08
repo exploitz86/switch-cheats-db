@@ -1,3 +1,121 @@
 {
+    "dlc": [
+        {
+            "id": "01004C400CF97001",
+            "name": "Dead by Daylight: The SAW\u00ae Chapter"
+        },
+        {
+            "id": "01004C400CF97004",
+            "name": "Dead by Daylight: DARKNESS AMONG US"
+        },
+        {
+            "id": "01004C400CF97005",
+            "name": "Dead by Daylight: DEMISE OF THE FAITHFUL Chapter"
+        },
+        {
+            "id": "01004C400CF97006",
+            "name": "Dead by Daylight: HALLOWEEN\u00ae Chapter"
+        },
+        {
+            "id": "01004C400CF97008",
+            "name": "Dead by Daylight: A Nightmare on Elm Street\u2122"
+        },
+        {
+            "id": "01004C400CF9700A",
+            "name": "Dead by Daylight: CHARITY CASE"
+        },
+        {
+            "id": "01004C400CF9700B",
+            "name": "Dead by Daylight: Leatherface\u2122"
+        },
+        {
+            "id": "01004C400CF9700C",
+            "name": "Dead by Daylight: Ash vs Evil Dead"
+        },
+        {
+            "id": "01004C400CF9700D",
+            "name": "Dead by Daylight: Ghost Face\u00ae"
+        },
+        {
+            "id": "01004C400CF9700E",
+            "name": "Dead by Daylight: STRANGER THINGS Chapter"
+        },
+        {
+            "id": "01004C400CF9700F",
+            "name": "Dead by Daylight: Cursed Legacy Chapter"
+        },
+        {
+            "id": "01004C400CF97010",
+            "name": "Dead by Daylight: Chains Of Hate Chapter"
+        },
+        {
+            "id": "01004C400CF97011",
+            "name": "Dead by Daylight: Silent Hill Chapter"
+        },
+        {
+            "id": "01004C400CF97012",
+            "name": "Silent Hill Customization Bundle"
+        },
+        {
+            "id": "01004C400CF97013",
+            "name": "Dead by Daylight: DESCEND BEYOND"
+        },
+        {
+            "id": "01004C400CF97014",
+            "name": "Dead by Daylight: A BINDING OF KIN"
+        },
+        {
+            "id": "01004C400CF97015",
+            "name": "Dead by Daylight: ALL-KILL"
+        },
+        {
+            "id": "01004C400CF97016",
+            "name": "Dead by Daylight: Resident Evil Chapter"
+        },
+        {
+            "id": "01004C400CF97017",
+            "name": "Dead by Daylight: Terror Expansion Pack"
+        },
+        {
+            "id": "01004C400CF97018",
+            "name": "Dead by Daylight: Escape Expansion Pack"
+        },
+        {
+            "id": "01004C400CF97019",
+            "name": "Dead by Daylight: Hellraiser Chapter"
+        },
+        {
+            "id": "01004C400CF9701A",
+            "name": "Dead by Daylight: Hour of the Witch Chapter"
+        },
+        {
+            "id": "01004C400CF9701B",
+            "name": "Dead by Daylight: Portrait of a Murder Chapter"
+        },
+        {
+            "id": "01004C400CF9701C",
+            "name": "Dead by Daylight: Sadako Rising Chapter"
+        },
+        {
+            "id": "01004C400CF9701D",
+            "name": "Dead by Daylight: Roots of Dread Chapter"
+        },
+        {
+            "id": "01004C400CF9701E",
+            "name": "Dead by Daylight: Resident Evil: PROJECT W Chapter"
+        },
+        {
+            "id": "01004C400CF9701F",
+            "name": "Dead by Daylight: Forged in Fog Chapter"
+        },
+        {
+            "id": "01004C400CF97020",
+            "name": "Dead by Daylight: Tools Of Torment Chapter"
+        },
+        {
+            "id": "01004C400CF97023",
+            "name": "Dead by Daylight: End Transmission Chapter"
+        }
+    ],
     "latest": 0
 }

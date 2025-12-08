@@ -1,3 +1,25 @@
 {
+    "dlc": [
+        {
+            "id": "0100ADF00700F001",
+            "name": "Satura's Space Adventure"
+        },
+        {
+            "id": "0100ADF00700F002",
+            "name": "Anime Pack"
+        },
+        {
+            "id": "0100ADF00700F003",
+            "name": "Professionals Pack"
+        },
+        {
+            "id": "0100ADF00700F004",
+            "name": "Steampunk Pack"
+        },
+        {
+            "id": "0100ADF00700F005",
+            "name": "Winter Pack"
+        }
+    ],
     "latest": 65536
 }

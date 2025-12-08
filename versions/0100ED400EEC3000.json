@@ -1,3 +1,25 @@
 {
+    "dlc": [
+        {
+            "id": "0100ED400EEC3001",
+            "name": "Cow Costume"
+        },
+        {
+            "id": "0100ED400EEC3002",
+            "name": "Sheep Costume"
+        },
+        {
+            "id": "0100ED400EEC3003",
+            "name": "Dog Costume"
+        },
+        {
+            "id": "0100ED400EEC3004",
+            "name": "Chick Costume"
+        },
+        {
+            "id": "0100ED400EEC3005",
+            "name": "Chicken Costume"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,33 @@
 {
+    "dlc": [
+        {
+            "id": "01006C100EC09001",
+            "name": "Minecraft Dungeons: Jungle Awakens"
+        },
+        {
+            "id": "01006C100EC09002",
+            "name": "Minecraft Dungeons: Creeping Winter"
+        },
+        {
+            "id": "01006C100EC09003",
+            "name": "Hero DLC"
+        },
+        {
+            "id": "01006C100EC09004",
+            "name": "Minecraft Dungeons: Howling Peaks"
+        },
+        {
+            "id": "01006C100EC09005",
+            "name": "Minecraft Dungeons: Flames of the Nether"
+        },
+        {
+            "id": "01006C100EC09006",
+            "name": "Minecraft Dungeons: Hidden Depths"
+        },
+        {
+            "id": "01006C100EC09007",
+            "name": "Minecraft Dungeons: Echoing Void"
+        }
+    ],
     "latest": 0
 }

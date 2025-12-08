@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100FCB00EEF3001",
+            "name": "Pet Shop Snacks Expansion Pack 1"
+        },
+        {
+            "id": "0100FCB00EEF3002",
+            "name": "Pet Shop Snacks Expansion Pack 2"
+        }
+    ],
     "latest": 0
 }

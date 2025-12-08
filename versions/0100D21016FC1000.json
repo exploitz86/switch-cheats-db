@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "0100D21016FC1001",
+            "name": "Swords & Bones Valor Skin"
+        },
+        {
+            "id": "0100D21016FC1002",
+            "name": "Swords & Bones Brave Skin"
+        },
+        {
+            "id": "0100D21016FC1003",
+            "name": "Swords & Bones Spooky Skin"
+        }
+    ],
     "latest": 0
 }

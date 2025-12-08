@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100380017D3F001",
+            "name": "DNF Duel - DLC 1: Spectre"
+        },
+        {
+            "id": "0100380017D3F002",
+            "name": "DNF Duel - DLC 2: Brawler"
+        }
+    ],
     "latest": 0
 }

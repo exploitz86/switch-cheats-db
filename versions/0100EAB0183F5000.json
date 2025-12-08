@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100EAB0183F5001",
+            "name": "Visitors From Afar Pack"
+        },
+        {
+            "id": "0100EAB0183F5002",
+            "name": "Animal Avalanche Pack"
+        }
+    ],
     "latest": 0
 }

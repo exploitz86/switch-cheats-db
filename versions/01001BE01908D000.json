@@ -1,3 +1,29 @@
 {
+    "dlc": [
+        {
+            "id": "01001BE01908D001",
+            "name": "HOT WHEELS UNLEASHED\u2122 2 - Rust and Fast Pack"
+        },
+        {
+            "id": "01001BE01908D002",
+            "name": "HOT WHEELS UNLEASHED\u2122 2 - Unstoppables Pack"
+        },
+        {
+            "id": "01001BE01908D003",
+            "name": "HOT WHEELS UNLEASHED\u2122 2 - Speed Kings Pack"
+        },
+        {
+            "id": "01001BE01908D004",
+            "name": "HOT WHEELS UNLEASHED\u2122 2 - Just a Scratch Pack"
+        },
+        {
+            "id": "01001BE01908D005",
+            "name": "HOT WHEELS UNLEASHED\u2122 2 - Twin Mill\u2122\u00a0Unleashed Edition"
+        },
+        {
+            "id": "01001BE01908D006",
+            "name": "HOT WHEELS UNLEASHED\u2122 2 - AcceleRacers All-Star Pack"
+        }
+    ],
     "latest": 0
 }

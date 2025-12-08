@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "010024D01C5A9001",
+            "name": "Farm Land: Puppy"
+        },
+        {
+            "id": "010024D01C5A9002",
+            "name": "Farm Land: Kitten"
+        },
+        {
+            "id": "010024D01C5A9003",
+            "name": "Farm Land: Parrot"
+        }
+    ],
     "latest": 0
 }

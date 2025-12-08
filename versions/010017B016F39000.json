@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "010017B016F39001",
+            "name": "Om Nom: Delicious Dots"
+        },
+        {
+            "id": "010017B016F39002",
+            "name": "Om Nom: Tasty Toons"
+        },
+        {
+            "id": "010017B016F39003",
+            "name": "Om Nom: Sweet Coloring Pages"
+        },
+        {
+            "id": "010017B016F39004",
+            "name": "Om Nom: Flavorful Puzzles"
+        }
+    ],
     "latest": 0
 }

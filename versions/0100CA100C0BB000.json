@@ -1,3 +1,29 @@
 {
+    "dlc": [
+        {
+            "id": "0100CA100C0BB001",
+            "name": "Reflection Mode"
+        },
+        {
+            "id": "0100CA100C0BB002",
+            "name": "Serenity Mode"
+        },
+        {
+            "id": "0100CA100C0BB003",
+            "name": "Nature Mode"
+        },
+        {
+            "id": "0100CA100C0BB004",
+            "name": "Add 3 more skips for each mode"
+        },
+        {
+            "id": "0100CA100C0BB005",
+            "name": "Add 5 more skips for each mode"
+        },
+        {
+            "id": "0100CA100C0BB006",
+            "name": "Add 7 more skips for each mode"
+        }
+    ],
     "latest": 0
 }

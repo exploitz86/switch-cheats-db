@@ -1,3 +1,25 @@
 {
+    "dlc": [
+        {
+            "id": "01006FD0080B3001",
+            "name": "Overcooked! 2 - Too Many Cooks Pack"
+        },
+        {
+            "id": "01006FD0080B3002",
+            "name": "Overcooked! 2 - Surf 'n' Turf"
+        },
+        {
+            "id": "01006FD0080B3003",
+            "name": "Overcooked! 2 - Campfire Cook Off"
+        },
+        {
+            "id": "01006FD0080B3004",
+            "name": "Overcooked! 2 - Night of the Hangry Horde"
+        },
+        {
+            "id": "01006FD0080B3005",
+            "name": "Overcooked! 2 - Carnival of Chaos"
+        }
+    ],
     "latest": 0
 }

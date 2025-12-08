@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100BC90155D7001",
+            "name": "Experience x3 - Armed Emeth"
+        },
+        {
+            "id": "0100BC90155D7002",
+            "name": "No Encounters - Armed Emeth"
+        }
+    ],
     "latest": 0
 }

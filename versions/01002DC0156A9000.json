@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "01002DC0156A9001",
+            "name": "Heavy Metal DLC"
+        },
+        {
+            "id": "01002DC0156A9002",
+            "name": "Legacy Skins DLC"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "01003E3014AFF001",
+            "name": "WRC 10 Subaru Impreza WRC 1997"
+        },
+        {
+            "id": "01003E3014AFF002",
+            "name": "WRC 10 Arena Panzerplatte SSS"
+        },
+        {
+            "id": "01003E3014AFF003",
+            "name": "WRC 10 Mitsubishi Lancer Evo V 1998"
+        },
+        {
+            "id": "01003E3014AFF004",
+            "name": "WRC 10 Career Starter Pack"
+        }
+    ],
     "latest": 0
 }

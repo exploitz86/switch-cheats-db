@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "0100BE400BEC9001",
+            "name": "Experience Orichalcum"
+        },
+        {
+            "id": "0100BE400BEC9002",
+            "name": "Encounter Orichalcum"
+        },
+        {
+            "id": "0100BE400BEC9003",
+            "name": "Damage Orichalcum"
+        },
+        {
+            "id": "0100BE400BEC9004",
+            "name": "Full Recovery Orichalcum"
+        }
+    ],
     "latest": 0
 }

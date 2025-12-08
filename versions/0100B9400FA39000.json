@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "0100B9400FA39001",
+            "name": "Supporter Pack"
+        }
+    ],
     "latest": 0
 }

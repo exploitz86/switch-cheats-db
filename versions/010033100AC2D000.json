@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "010033100AC2D001",
+            "name": "\u300cBig and Strong\u300dForever"
+        },
+        {
+            "id": "010033100AC2D002",
+            "name": "\u300cAdd 10 Balls\u300dForever"
+        },
+        {
+            "id": "010033100AC2D003",
+            "name": "\u300cDefense Block\u300dForever"
+        },
+        {
+            "id": "010033100AC2D004",
+            "name": "\u300cLIFE Infinite\u300dForever"
+        }
+    ],
     "latest": 0
 }

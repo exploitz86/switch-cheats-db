@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "01009FB01C66F001",
+            "name": "Foot Clinic: Smelly feet DLC"
+        },
+        {
+            "id": "01009FB01C66F002",
+            "name": "Foot Clinic: Feet the fish DLC"
+        }
+    ],
     "latest": 0
 }

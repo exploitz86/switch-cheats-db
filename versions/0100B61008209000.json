@@ -1,3 +1,57 @@
 {
+    "dlc": [
+        {
+            "id": "0100B61008209001",
+            "name": "Additional Color Set 1"
+        },
+        {
+            "id": "0100B61008209002",
+            "name": "Additional Color Set 2"
+        },
+        {
+            "id": "0100B61008209003",
+            "name": "Additional Color Set 3"
+        },
+        {
+            "id": "0100B61008209004",
+            "name": "Additional Character Blake Belladonna"
+        },
+        {
+            "id": "0100B61008209005",
+            "name": "Additional Character Yang Xiao Long"
+        },
+        {
+            "id": "0100B61008209006",
+            "name": "BlazBlue Cross Tag Battle Additional Character Pack Vol.1"
+        },
+        {
+            "id": "0100B61008209007",
+            "name": "BlazBlue Cross Tag Battle Additional Character Pack Vol.2"
+        },
+        {
+            "id": "0100B61008209008",
+            "name": "BlazBlue Cross Tag Battle Additional Character Pack Vol.3"
+        },
+        {
+            "id": "0100B61008209009",
+            "name": "BlazBlue Cross Tag Battle Additional Character Pack Vol.4"
+        },
+        {
+            "id": "0100B6100820900A",
+            "name": "BlazBlue Cross Tag Battle Additional Character Pack Vol.5"
+        },
+        {
+            "id": "0100B6100820900B",
+            "name": "BlazBlue Cross Tag Battle Additional Character Pack Vol.6"
+        },
+        {
+            "id": "0100B6100820900C",
+            "name": "BlazBlue Cross Tag Battle Additional Character Pack Vol.7"
+        },
+        {
+            "id": "0100B6100820900D",
+            "name": "BlazBlue Cross Tag Battle Ver 2.0 Expansion Pack"
+        }
+    ],
     "latest": 65536
 }

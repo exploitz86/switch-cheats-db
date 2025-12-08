@@ -1,3 +1,29 @@
 {
+    "dlc": [
+        {
+            "id": "010029200AB1D001",
+            "name": "Prison Architect: Escape Mode DLC"
+        },
+        {
+            "id": "010029200AB1D002",
+            "name": "Prison Architect - Island Bound"
+        },
+        {
+            "id": "010029200AB1D003",
+            "name": "Prison Architect - Going Green"
+        },
+        {
+            "id": "010029200AB1D004",
+            "name": "Prison Architect - Second Chances"
+        },
+        {
+            "id": "010029200AB1D005",
+            "name": "Prison Architect - Perfect Storm"
+        },
+        {
+            "id": "010029200AB1D006",
+            "name": "Prison Architect - Gangs"
+        }
+    ],
     "latest": 0
 }

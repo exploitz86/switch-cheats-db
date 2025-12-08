@@ -1,3 +1,29 @@
 {
+    "dlc": [
+        {
+            "id": "01000B700EC23001",
+            "name": "Experience x3 - Illusion of L'Phalcia"
+        },
+        {
+            "id": "01000B700EC23002",
+            "name": "SP x3 - Illusion of L'Phalcia"
+        },
+        {
+            "id": "01000B700EC23003",
+            "name": "Experience & SP x2 - Illusion of L'Phalcia"
+        },
+        {
+            "id": "01000B700EC23004",
+            "name": "No Encounters - Illusion of L'Phalcia"
+        },
+        {
+            "id": "01000B700EC23005",
+            "name": "Damage x2 - Illusion of L'Phalcia"
+        },
+        {
+            "id": "01000B700EC23006",
+            "name": "Full Restore - Illusion of L'Phalcia"
+        }
+    ],
     "latest": 0
 }

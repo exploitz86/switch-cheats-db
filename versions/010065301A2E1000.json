@@ -1,3 +1,25 @@
 {
+    "dlc": [
+        {
+            "id": "010065301A2E1001",
+            "name": "Pangalactic Federation Longsword"
+        },
+        {
+            "id": "010065301A2E1002",
+            "name": "Forest Knuckles"
+        },
+        {
+            "id": "010065301A2E1003",
+            "name": "Set of recovery items"
+        },
+        {
+            "id": "010065301A2E1004",
+            "name": "Sunrise Ring"
+        },
+        {
+            "id": "010065301A2E1005",
+            "name": "Prism Badge"
+        }
+    ],
     "latest": 0
 }

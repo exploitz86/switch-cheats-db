@@ -1,3 +1,25 @@
 {
+    "dlc": [
+        {
+            "id": "0100670014483001",
+            "name": "Assassin's Creed Brotherhood"
+        },
+        {
+            "id": "0100670014483002",
+            "name": "Assassin's Creed Revelations"
+        },
+        {
+            "id": "0100670014483003",
+            "name": "Assassin's Creed II - Audio Package (French, Spanish, German, Italian, Russian, Japanese)"
+        },
+        {
+            "id": "0100670014483004",
+            "name": "Assassin\u2019s Creed Lineage"
+        },
+        {
+            "id": "0100670014483005",
+            "name": "Assassin\u2019s Creed Embers"
+        }
+    ],
     "latest": 0
 }

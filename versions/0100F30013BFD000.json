@@ -1,3 +1,109 @@
 {
+    "dlc": [
+        {
+            "id": "0100F30013BFD001",
+            "name": "Sakura Skin"
+        },
+        {
+            "id": "0100F30013BFD002",
+            "name": "Pink Wings"
+        },
+        {
+            "id": "0100F30013BFD003",
+            "name": "Black Cat Skin"
+        },
+        {
+            "id": "0100F30013BFD004",
+            "name": "Evil Horns"
+        },
+        {
+            "id": "0100F30013BFD005",
+            "name": "Phantom Wings"
+        },
+        {
+            "id": "0100F30013BFD006",
+            "name": "Blue Cat Skin"
+        },
+        {
+            "id": "0100F30013BFD007",
+            "name": "Blue Mythical Wings"
+        },
+        {
+            "id": "0100F30013BFD008",
+            "name": "Siamese Skin"
+        },
+        {
+            "id": "0100F30013BFD009",
+            "name": "Bengal Skin"
+        },
+        {
+            "id": "0100F30013BFD00A",
+            "name": "Beach Hat"
+        },
+        {
+            "id": "0100F30013BFD00B",
+            "name": "Gladiator Helmet"
+        },
+        {
+            "id": "0100F30013BFD00C",
+            "name": "Pirate Hat"
+        },
+        {
+            "id": "0100F30013BFD00D",
+            "name": "Dark Mythical Wings"
+        },
+        {
+            "id": "0100F30013BFD00E",
+            "name": "Green Mythical Wings"
+        },
+        {
+            "id": "0100F30013BFD00F",
+            "name": "Red Mythical Wings"
+        },
+        {
+            "id": "0100F30013BFD010",
+            "name": "Light Mythical Wings"
+        },
+        {
+            "id": "0100F30013BFD011",
+            "name": "Dark Butterfly Wings"
+        },
+        {
+            "id": "0100F30013BFD012",
+            "name": "Spider Backpack"
+        },
+        {
+            "id": "0100F30013BFD013",
+            "name": "Pumpkin Hat"
+        },
+        {
+            "id": "0100F30013BFD014",
+            "name": "Cheshire Cat Skin"
+        },
+        {
+            "id": "0100F30013BFD015",
+            "name": "Giant Snowflake"
+        },
+        {
+            "id": "0100F30013BFD016",
+            "name": "Santa Hat"
+        },
+        {
+            "id": "0100F30013BFD017",
+            "name": "Rudolph Skin"
+        },
+        {
+            "id": "0100F30013BFD018",
+            "name": "Giant Candy Cane"
+        },
+        {
+            "id": "0100F30013BFD019",
+            "name": "Elf Hat"
+        },
+        {
+            "id": "0100F30013BFD01A",
+            "name": "Grouch Skin"
+        }
+    ],
     "latest": 0
 }

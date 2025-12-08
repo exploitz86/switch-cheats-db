@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "010032B015D67001",
+            "name": "The DioField Chronicle Early Purchase Bonus Content"
+        },
+        {
+            "id": "010032B015D67002",
+            "name": "The DioField Chronicle Digital Deluxe Edition Content"
+        },
+        {
+            "id": "010032B015D67003",
+            "name": "The DioField Chronicle Digital Deluxe Early Purchase Bonus Content"
+        }
+    ],
     "latest": 0
 }

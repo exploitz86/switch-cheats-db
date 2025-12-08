@@ -1,3 +1,61 @@
 {
+    "dlc": [
+        {
+            "id": "010069100B7F1001",
+            "name": "The Caligula Effect: Overdose - Casual Clothes Costume Set"
+        },
+        {
+            "id": "010069100B7F1002",
+            "name": "The Caligula Effect: Overdose - Male Hero's Swimsuit Costume"
+        },
+        {
+            "id": "010069100B7F1003",
+            "name": "The Caligula Effect: Overdose - Female Hero's Swimsuit Costume"
+        },
+        {
+            "id": "010069100B7F1004",
+            "name": "The Caligula Effect: Overdose - Shogo's Swimsuit Costume"
+        },
+        {
+            "id": "010069100B7F1005",
+            "name": "The Caligula Effect: Overdose - Izuru's Swimsuit Costume"
+        },
+        {
+            "id": "010069100B7F1006",
+            "name": "The Caligula Effect: Overdose - Kotaro's Swimsuit Costume"
+        },
+        {
+            "id": "010069100B7F1007",
+            "name": "The Caligula Effect: Overdose - Kensuke's Swimsuit Costume"
+        },
+        {
+            "id": "010069100B7F1008",
+            "name": "The Caligula Effect: Overdose - Kotono's Swimsuit Costume"
+        },
+        {
+            "id": "010069100B7F1009",
+            "name": "The Caligula Effect: Overdose - Naruko's Swimsuit Costume"
+        },
+        {
+            "id": "010069100B7F100A",
+            "name": "The Caligula Effect: Overdose - Mifue's Swimsuit Costume"
+        },
+        {
+            "id": "010069100B7F100B",
+            "name": "The Caligula Effect: Overdose - Suzuna's Swimsuit Costume"
+        },
+        {
+            "id": "010069100B7F100C",
+            "name": "The Caligula Effect: Overdose - Eiji's Swimsuit Costume"
+        },
+        {
+            "id": "010069100B7F100D",
+            "name": "The Caligula Effect: Overdose - Ayana's Swimsuit Costume"
+        },
+        {
+            "id": "010069100B7F100F",
+            "name": "The Caligula Effect: Overdose - Stigma Bundle"
+        }
+    ],
     "latest": 0
 }

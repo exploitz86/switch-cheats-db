@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100CAE00EB03001",
+            "name": "House Flipper: Garden DLC"
+        },
+        {
+            "id": "0100CAE00EB03002",
+            "name": "House Flipper: Pets DLC"
+        }
+    ],
     "latest": 65536
 }

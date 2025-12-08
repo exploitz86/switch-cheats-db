@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "0100CA0018C53003",
+            "name": "Extra Content Shop All Access Voucher"
+        },
+        {
+            "id": "0100CA0018C53005",
+            "name": "Winters' Expansion"
+        },
+        {
+            "id": "0100CA0018C53006",
+            "name": "Street Wolf Outfit"
+        }
+    ],
     "latest": 0
 }

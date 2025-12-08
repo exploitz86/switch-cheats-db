@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "010013700DA4B001",
+            "name": "Premium Adventures and Language Pack"
+        }
+    ],
     "latest": 65536
 }

@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100A8B00F0B5001",
+            "name": "HYPERCHARGE: Unboxed Supporter Pack"
+        },
+        {
+            "id": "0100A8B00F0B5002",
+            "name": "HYPERCHARGE: Unboxed Breaker & Mightus Pack"
+        }
+    ],
     "latest": 0
 }

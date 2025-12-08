@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "01008AF00EA13001",
+            "name": "Constellations of Love: Scorpio"
+        },
+        {
+            "id": "01008AF00EA13002",
+            "name": "Constellations of Love: Dui"
+        },
+        {
+            "id": "01008AF00EA13003",
+            "name": "Constellations of Love: Ichthys"
+        },
+        {
+            "id": "01008AF00EA13004",
+            "name": "Heavenly Pleasures: Punishments"
+        }
+    ],
     "latest": 65536
 }

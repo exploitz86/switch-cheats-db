@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "0100CF10099B3001",
+            "name": "Every Life Matters"
+        },
+        {
+            "id": "0100CF10099B3002",
+            "name": "Special Resources"
+        },
+        {
+            "id": "0100CF10099B3003",
+            "name": "Search & Rescue"
+        }
+    ],
     "latest": 262144
 }

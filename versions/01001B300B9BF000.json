@@ -1,3 +1,69 @@
 {
+    "dlc": [
+        {
+            "id": "01001B300B9BF001",
+            "name": "UK English Language Pack"
+        },
+        {
+            "id": "01001B300B9BF003",
+            "name": "Castilian Spanish Language Pack"
+        },
+        {
+            "id": "01001B300B9BF004",
+            "name": "Latin American Spanish Language Pack"
+        },
+        {
+            "id": "01001B300B9BF005",
+            "name": "French Language Pack"
+        },
+        {
+            "id": "01001B300B9BF006",
+            "name": "Italian Language Pack"
+        },
+        {
+            "id": "01001B300B9BF007",
+            "name": "German Language Pack"
+        },
+        {
+            "id": "01001B300B9BF008",
+            "name": "Korean Language Pack"
+        },
+        {
+            "id": "01001B300B9BF009",
+            "name": "Brazilian Portuguese Language Pack"
+        },
+        {
+            "id": "01001B300B9BF00A",
+            "name": "Russian Language Pack"
+        },
+        {
+            "id": "01001B300B9BF00B",
+            "name": "Simplified Chinese Language Pack"
+        },
+        {
+            "id": "01001B300B9BF00C",
+            "name": "Traditional Chinese Language Pack"
+        },
+        {
+            "id": "01001B300B9BF00E",
+            "name": "Polish Language Pack"
+        },
+        {
+            "id": "01001B300B9BF010",
+            "name": "Japanese Language Pack"
+        },
+        {
+            "id": "01001B300B9BF064",
+            "name": "Diablo\u00ae  III: Blizzard's 30th Anniversary Bundle"
+        },
+        {
+            "id": "01001B300B9BF065",
+            "name": "Diablo\u00ae Prime Evil Collection - Diablo\u00ae III In-Game Items AOC"
+        },
+        {
+            "id": "01001B300B9BF066",
+            "name": "Diablo\u00ae III: Heritage of Arreat Transmog AOC"
+        }
+    ],
     "latest": 0
 }

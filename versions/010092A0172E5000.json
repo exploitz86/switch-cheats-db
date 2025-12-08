@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "010092A0172E5001",
+            "name": "It Takes Two"
+        },
+        {
+            "id": "010092A0172E5002",
+            "name": "It Takes Two - Friend's Pass"
+        }
+    ],
     "latest": 0
 }

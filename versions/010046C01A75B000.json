@@ -1,3 +1,25 @@
 {
+    "dlc": [
+        {
+            "id": "010046C01A75B001",
+            "name": "Sayuri"
+        },
+        {
+            "id": "010046C01A75B002",
+            "name": "Chiyo"
+        },
+        {
+            "id": "010046C01A75B003",
+            "name": "Kitty Rose"
+        },
+        {
+            "id": "010046C01A75B004",
+            "name": "Puppy Nanami"
+        },
+        {
+            "id": "010046C01A75B005",
+            "name": "Foxy Akane"
+        }
+    ],
     "latest": 65536
 }

@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "010055F01A243001",
+            "name": "Mechanic 8230: Escape From Ilgrot Artbook"
+        },
+        {
+            "id": "010055F01A243002",
+            "name": "Mechanic 8230: Escape From Ilgrot Soundtrack"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "01005BD018BA1001",
+            "name": "Run Sausage Run: Coins, Bugs and Chicken"
+        }
+    ],
     "latest": 65536
 }

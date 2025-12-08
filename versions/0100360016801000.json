@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100360016801001",
+            "name": "PAW Patrol: Grand Prix - Race in Barkingburg"
+        },
+        {
+            "id": "0100360016801002",
+            "name": "PAW Patrol Grand Prix - Pup Treat Arena"
+        }
+    ],
     "latest": 0
 }

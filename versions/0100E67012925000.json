@@ -1,3 +1,45 @@
 {
+    "dlc": [
+        {
+            "id": "0100E67012925001",
+            "name": "The Witcher 3: Wild Hunt \u2013 Blood and Wine"
+        },
+        {
+            "id": "0100E67012925002",
+            "name": "The Witcher 3: Wild Hunt \u2013 Hearts of Stone"
+        },
+        {
+            "id": "0100E67012925003",
+            "name": "16 Free DLCs"
+        },
+        {
+            "id": "0100E67012925004",
+            "name": "(PL) The Witcher 3: Wild Hunt Language Pack"
+        },
+        {
+            "id": "0100E67012925005",
+            "name": "(RU) The Witcher 3: Wild Hunt Language Pack"
+        },
+        {
+            "id": "0100E67012925006",
+            "name": "(DE) The Witcher 3: Wild Hunt Language Pack"
+        },
+        {
+            "id": "0100E67012925007",
+            "name": "(FR) The Witcher 3: Wild Hunt Language Pack"
+        },
+        {
+            "id": "0100E67012925008",
+            "name": "(PTBR) The Witcher 3: Wild Hunt Language Pack"
+        },
+        {
+            "id": "0100E67012925009",
+            "name": "(KR) The Witcher 3: Wild Hunt Language Pack"
+        },
+        {
+            "id": "0100E6701292500A",
+            "name": "(CN) The Witcher 3: Wild Hunt Language Pack"
+        }
+    ],
     "latest": 0
 }

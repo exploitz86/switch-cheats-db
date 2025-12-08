@@ -1,3 +1,41 @@
 {
+    "dlc": [
+        {
+            "id": "0100C5000F295001",
+            "name": "Blazing Deserts"
+        },
+        {
+            "id": "0100C5000F295002",
+            "name": "Support the Developers - Southern Banner"
+        },
+        {
+            "id": "0100C5000F295003",
+            "name": "Beasts & Exploration"
+        },
+        {
+            "id": "0100C5000F295004",
+            "name": "Support the Developers - Kraken Banner"
+        },
+        {
+            "id": "0100C5000F295005",
+            "name": "Warriors of the North"
+        },
+        {
+            "id": "0100C5000F295006",
+            "name": "Support the Developers - Nordic Banner"
+        },
+        {
+            "id": "0100C5000F295007",
+            "name": "Lindwurm"
+        },
+        {
+            "id": "0100C5000F295008",
+            "name": "Support the Developers - Fangshire Helm"
+        },
+        {
+            "id": "0100C5000F295009",
+            "name": "Of Flesh and Faith"
+        }
+    ],
     "latest": 0
 }

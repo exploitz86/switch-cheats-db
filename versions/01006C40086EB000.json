@@ -1,3 +1,33 @@
 {
+    "dlc": [
+        {
+            "id": "01006C40086EB001",
+            "name": "Arena Mode"
+        },
+        {
+            "id": "01006C40086EB002",
+            "name": "Bikini Costume"
+        },
+        {
+            "id": "01006C40086EB003",
+            "name": "Agent Costume"
+        },
+        {
+            "id": "01006C40086EB004",
+            "name": "Ninja Costume"
+        },
+        {
+            "id": "01006C40086EB005",
+            "name": "Time Guardian Costume"
+        },
+        {
+            "id": "01006C40086EB006",
+            "name": "Assassin Costume"
+        },
+        {
+            "id": "01006C40086EB007",
+            "name": "Vernia Costume"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,69 @@
 {
+    "dlc": [
+        {
+            "id": "010086B00BB51001",
+            "name": "Farm Together - Supporters Pack"
+        },
+        {
+            "id": "010086B00BB51002",
+            "name": "Farm Together - Wasabi Pack"
+        },
+        {
+            "id": "010086B00BB51003",
+            "name": "Farm Together - Ginger Pack"
+        },
+        {
+            "id": "010086B00BB51004",
+            "name": "Farm Together - Jalape\u00f1o Pack"
+        },
+        {
+            "id": "010086B00BB51005",
+            "name": "Farm Together - Mistletoe Pack"
+        },
+        {
+            "id": "010086B00BB51006",
+            "name": "Farm Together - Chickpea Pack"
+        },
+        {
+            "id": "010086B00BB51007",
+            "name": "Farm Together - Laurel Pack"
+        },
+        {
+            "id": "010086B00BB51008",
+            "name": "Farm Together - Sugarcane Pack"
+        },
+        {
+            "id": "010086B00BB51009",
+            "name": "Farm Together - Oxygen Pack"
+        },
+        {
+            "id": "010086B00BB5100A",
+            "name": "Farm Together - Paella Pack"
+        },
+        {
+            "id": "010086B00BB5100B",
+            "name": "Farm Together - Celery Pack"
+        },
+        {
+            "id": "010086B00BB5100C",
+            "name": "Farm Together - Oregano Pack"
+        },
+        {
+            "id": "010086B00BB5100D",
+            "name": "Farm Together - Candy Pack"
+        },
+        {
+            "id": "010086B00BB5100E",
+            "name": "Farm Together - Wedding Pack"
+        },
+        {
+            "id": "010086B00BB5100F",
+            "name": "Farm Together - Polar Pack"
+        },
+        {
+            "id": "010086B00BB51010",
+            "name": "Farm Together - Fantasy Pack"
+        }
+    ],
     "latest": 0
 }

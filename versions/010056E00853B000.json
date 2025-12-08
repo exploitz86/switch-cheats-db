@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "010056E00853B001",
+            "name": "Seal the Deal"
+        },
+        {
+            "id": "010056E00853B002",
+            "name": "Nyakuza Metro"
+        }
+    ],
     "latest": 65536
 }

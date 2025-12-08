@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "01006FF017867001",
+            "name": "Serial Cleaners - Dino Park"
+        }
+    ],
     "latest": 65536
 }

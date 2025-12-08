@@ -1,3 +1,37 @@
 {
+    "dlc": [
+        {
+            "id": "0100CCD0073EB001",
+            "name": "Ninjala Story Pack: Chapter One"
+        },
+        {
+            "id": "0100CCD0073EB002",
+            "name": "Ninjala Story Pack: Chapter Two"
+        },
+        {
+            "id": "0100CCD0073EB003",
+            "name": "Ninjala Story Pack: Chapter Three"
+        },
+        {
+            "id": "0100CCD0073EB004",
+            "name": "Ninjala Story Pack: Chapter Four"
+        },
+        {
+            "id": "0100CCD0073EB064",
+            "name": "Ninjala: Crow Tengu Bundle DLC Pack"
+        },
+        {
+            "id": "0100CCD0073EB3E8",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100CCD0073EB3E9",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100CCD0073EB44C",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 0
 }

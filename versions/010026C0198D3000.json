@@ -1,3 +1,33 @@
 {
+    "dlc": [
+        {
+            "id": "010026C0198D3001",
+            "name": "Covers Pack"
+        },
+        {
+            "id": "010026C0198D3002",
+            "name": "Cards Pack 1"
+        },
+        {
+            "id": "010026C0198D3003",
+            "name": "Cards Pack 2"
+        },
+        {
+            "id": "010026C0198D3004",
+            "name": "Cards Pack 3"
+        },
+        {
+            "id": "010026C0198D3005",
+            "name": "Cards Pack 4"
+        },
+        {
+            "id": "010026C0198D3006",
+            "name": "Numbers Pack"
+        },
+        {
+            "id": "010026C0198D3007",
+            "name": "Figures Pack"
+        }
+    ],
     "latest": 0
 }

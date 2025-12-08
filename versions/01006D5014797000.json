@@ -1,3 +1,101 @@
 {
+    "dlc": [
+        {
+            "id": "01006D5014797064",
+            "name": "Additional Character: Riho Futaba, Original Blue Swimsuit"
+        },
+        {
+            "id": "01006D5014797065",
+            "name": "Additional Character: Riho Futaba, Classic Hostess Costume"
+        },
+        {
+            "id": "01006D5014797066",
+            "name": "Additional Character: Riho Futaba, Cool Summer Outfit"
+        },
+        {
+            "id": "01006D5014797067",
+            "name": "Additional Character: Riho Futaba, Merry Santa Costume"
+        },
+        {
+            "id": "01006D50147970C8",
+            "name": "Ranger (EDF5), Sergeant Colors & Special Gear"
+        },
+        {
+            "id": "01006D50147970C9",
+            "name": "Fencer (EDF5), Grim Reaper Colors & Special Gear"
+        },
+        {
+            "id": "01006D50147970CB",
+            "name": "Wing Diver (EDF5), Spriggan Colors & Special Gear"
+        },
+        {
+            "id": "01006D50147970CD",
+            "name": "Ranger (EDF4), Omega Team Colors & Special Gear"
+        },
+        {
+            "id": "01006D50147970CE",
+            "name": "Prowl Rider (EDF: IR), KR Prototype & Special Gear"
+        },
+        {
+            "id": "01006D50147970CF",
+            "name": "Infantry (EDF3), Storm 1 Colors & Special Gear"
+        },
+        {
+            "id": "01006D501479712C",
+            "name": "Aya, the Calm Big Sister Swordswoman from \"OneeChanbara\""
+        },
+        {
+            "id": "01006D501479712D",
+            "name": "Saki, the Crazed Little Sister Swordswoman from \"OneeChanbara\""
+        },
+        {
+            "id": "01006D501479712E",
+            "name": "Hostess Setsu from Dream Club, Giving the EDF a Try!?"
+        },
+        {
+            "id": "01006D501479712F",
+            "name": "Hostess Mian from Dream Club, Giving the EDF a Try!?"
+        },
+        {
+            "id": "01006D5014797130",
+            "name": "Hostess ILI from Dream Club, Giving the EDF a Try!?"
+        },
+        {
+            "id": "01006D5014797131",
+            "name": "The Legendary Mr. Y, Reborn as \"Mecha Yuki\" After His Acid Incident!?"
+        },
+        {
+            "id": "01006D5014797132",
+            "name": "Colonist: \"We'll Help, If It Means Saving the Planet\"!?"
+        },
+        {
+            "id": "01006D5014797133",
+            "name": "Cosmonaut: \"We'll Take the Planet As Is\"!"
+        },
+        {
+            "id": "01006D5014797190",
+            "name": "Additional Mission Pack: Another ResCUBE"
+        },
+        {
+            "id": "01006D5014797258",
+            "name": "Collector's Set of Various Character Versions"
+        },
+        {
+            "id": "01006D5014797259",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006D501479725A",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006D501479725B",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006D501479725C",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 0
 }

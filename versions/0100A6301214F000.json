@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100A6301214F001",
+            "name": "DLC Wave 1"
+        },
+        {
+            "id": "0100A6301214F002",
+            "name": "Order of Heroes Item Set"
+        }
+    ],
     "latest": 0
 }

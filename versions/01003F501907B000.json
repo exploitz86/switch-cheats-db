@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "01003F501907B001",
+            "name": "Fuga: Melodies of Steel 2 - Deluxe Edition Upgrade Pack"
+        },
+        {
+            "id": "01003F501907B002",
+            "name": "Fuga: Melodies of Steel 2 - Tail Concerto Costume Pack"
+        },
+        {
+            "id": "01003F501907B003",
+            "name": "Fuga: Melodies of Steel 2 - Steampunk Costume Pack"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "01009EE01880B001",
+            "name": "Holidays DLC"
+        },
+        {
+            "id": "01009EE01880B002",
+            "name": "Heroes and Dinosaurs DLC"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,81 @@
 {
+    "dlc": [
+        {
+            "id": "010006F011221001",
+            "name": "Histy's Trial Item Set"
+        },
+        {
+            "id": "010006F011221002",
+            "name": "Histy's Beginner Item Set"
+        },
+        {
+            "id": "010006F011221003",
+            "name": "1st Level Cap Set"
+        },
+        {
+            "id": "010006F011221004",
+            "name": "2nd Level Cap Set"
+        },
+        {
+            "id": "010006F011221005",
+            "name": "3rd Level Cap Set"
+        },
+        {
+            "id": "010006F011221006",
+            "name": "Gamindustri Ultimate Armor Pack"
+        },
+        {
+            "id": "010006F011221007",
+            "name": "Weapon Pack"
+        },
+        {
+            "id": "010006F011221008",
+            "name": "Trial Weapon Pack"
+        },
+        {
+            "id": "010006F011221009",
+            "name": "Ultimate Weapon Pack"
+        },
+        {
+            "id": "010006F01122100A",
+            "name": "Processor Pack"
+        },
+        {
+            "id": "010006F01122100B",
+            "name": "Equipment Pack"
+        },
+        {
+            "id": "010006F01122100C",
+            "name": "Swimsuit Pack"
+        },
+        {
+            "id": "010006F01122100D",
+            "name": "Nightwear Pack"
+        },
+        {
+            "id": "010006F01122100E",
+            "name": "Party Character [Umio] & [Nepgya]"
+        },
+        {
+            "id": "010006F01122100F",
+            "name": "Party Character [Nitroplus]"
+        },
+        {
+            "id": "010006F011221010",
+            "name": "[Nitroplus] Costume Pack"
+        },
+        {
+            "id": "010006F011221011",
+            "name": "Party Character [God Eater]"
+        },
+        {
+            "id": "010006F011221012",
+            "name": "[God Eater] Costume Pack"
+        },
+        {
+            "id": "010006F011221015",
+            "name": "Trillion: God of Destruction Costume Set"
+        }
+    ],
     "latest": 0
 }

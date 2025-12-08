@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "01006EA00D893001",
+            "name": "Hyperforma Lost Archives - Fragment I"
+        },
+        {
+            "id": "01006EA00D893002",
+            "name": "Hyperforma Lost Archives - Fragment II"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100E2401C487001",
+            "name": "Extra Mission Pack I + II"
+        },
+        {
+            "id": "0100E2401C487002",
+            "name": "Extra Mission Pack II"
+        }
+    ],
     "latest": 0
 }

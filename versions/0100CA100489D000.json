@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "0100CA100489D001",
+            "name": "The Escapists 2 - The Glorious Regime"
+        },
+        {
+            "id": "0100CA100489D002",
+            "name": "The Escapists 2 - Wicked Ward"
+        },
+        {
+            "id": "0100CA100489D003",
+            "name": "The Escapists 2 - Big Top Breakout"
+        },
+        {
+            "id": "0100CA100489D004",
+            "name": "The Escapists 2 - Dungeons and Duct Tape"
+        }
+    ],
     "latest": 0
 }

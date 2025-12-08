@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "0100DF900EA8F001",
+            "name": "Burger Chef Tycoon Expansion Pack #1"
+        },
+        {
+            "id": "0100DF900EA8F002",
+            "name": "Burger Chef Tycoon Expansion Pack #2"
+        },
+        {
+            "id": "0100DF900EA8F003",
+            "name": "Burger Chef Tycoon Multiplayer Mode"
+        }
+    ],
     "latest": 0
 }

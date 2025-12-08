@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "0100BFE00E9CB001",
+            "name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (PL)"
+        },
+        {
+            "id": "0100BFE00E9CB002",
+            "name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (RU)"
+        },
+        {
+            "id": "0100BFE00E9CB003",
+            "name": "The Witcher 3: Wild Hunt - Complete Edition Language Pack (DE)"
+        }
+    ],
     "latest": 0
 }

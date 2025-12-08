@@ -1,3 +1,101 @@
 {
+    "dlc": [
+        {
+            "id": "0100E1E00CF1B001",
+            "name": "Kimberly Hart - MMPR Pink Skin"
+        },
+        {
+            "id": "0100E1E00CF1B002",
+            "name": "Lord Drakkon Evo II Skin"
+        },
+        {
+            "id": "0100E1E00CF1B003",
+            "name": "Tommy Oliver V2 Skin"
+        },
+        {
+            "id": "0100E1E00CF1B004",
+            "name": "MMPR Red Ranger with Dragon Shield Skin"
+        },
+        {
+            "id": "0100E1E00CF1B005",
+            "name": "MMPR Lord Zedd Character Unlock"
+        },
+        {
+            "id": "0100E1E00CF1B006",
+            "name": "Jen Scotts - Time Force Pink Character Unlock"
+        },
+        {
+            "id": "0100E1E00CF1B007",
+            "name": "Trey of Triforia - Zeo Gold Character Unlock"
+        },
+        {
+            "id": "0100E1E00CF1B008",
+            "name": "Tommy Oliver - MMPR White Ranger"
+        },
+        {
+            "id": "0100E1E00CF1B009",
+            "name": "Anubis Cruger - SPD Shadow Character Unlock"
+        },
+        {
+            "id": "0100E1E00CF1B00A",
+            "name": "Eric Myers - Time Force Quantum Ranger Character Unlock"
+        },
+        {
+            "id": "0100E1E00CF1B00B",
+            "name": "Dai Shi - Jungle Fury Villain Character Unlock"
+        },
+        {
+            "id": "0100E1E00CF1B00C",
+            "name": "Robert James - Jungle Fury Ranger Character Unlock"
+        },
+        {
+            "id": "0100E1E00CF1B00D",
+            "name": "Dai Shi - Phantom Beast King Skin"
+        },
+        {
+            "id": "0100E1E00CF1B00E",
+            "name": "Lauren Shiba - Super Samurai Ranger Unlock"
+        },
+        {
+            "id": "0100E1E00CF1B00F",
+            "name": "Scorpina - MMPR Villain Unlock"
+        },
+        {
+            "id": "0100E1E00CF1B010",
+            "name": "Ryu - Crimson Hawk Ranger Character Unlock"
+        },
+        {
+            "id": "0100E1E00CF1B011",
+            "name": "Ryu - Angel Grove Class of '93 Skin"
+        },
+        {
+            "id": "0100E1E00CF1B012",
+            "name": "Chun Li - Blue Phoenix Ranger Character Unlock"
+        },
+        {
+            "id": "0100E1E00CF1B013",
+            "name": "Chun Li - Angel Grove Class of '93 Skin"
+        },
+        {
+            "id": "0100E1E00CF1B014",
+            "name": "Ryu - Helmetless Crimson Hawk Ranger skin"
+        },
+        {
+            "id": "0100E1E00CF1B015",
+            "name": "Adam Park - MMPR Black Ninja Ranger"
+        },
+        {
+            "id": "0100E1E00CF1B016",
+            "name": "Anubis Cruger - Formal Attire Skin"
+        },
+        {
+            "id": "0100E1E00CF1B017",
+            "name": "Poisandra - Dino Charge Villain"
+        },
+        {
+            "id": "0100E1E00CF1B018",
+            "name": "Rita Repulsa - MMPR Villain"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "010023001969B001",
+            "name": "Session: Skate Sim Brandalised\u00ae Pack"
+        },
+        {
+            "id": "010023001969B002",
+            "name": "Session: Skate Sim Warm-up Pack"
+        }
+    ],
     "latest": 0
 }

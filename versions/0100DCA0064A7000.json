@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100DCA0064A7001",
+            "name": "Luigi\u2019s Mansion\u2122 3 Multiplayer Pack 1"
+        },
+        {
+            "id": "0100DCA0064A7002",
+            "name": "Luigi\u2019s Mansion\u2122 3 Multiplayer Pack 2"
+        }
+    ],
     "latest": 65536
 }

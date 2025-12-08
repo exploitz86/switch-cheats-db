@@ -1,3 +1,53 @@
 {
+    "dlc": [
+        {
+            "id": "01003AB00983D014",
+            "name": "The Master of the Mountain Outfit for Dust & Ashes"
+        },
+        {
+            "id": "01003AB00983D01E",
+            "name": "Nuclear Nourishment Outfit for Toxic"
+        },
+        {
+            "id": "01003AB00983D028",
+            "name": "Stereo Overdrive Arachnida Outfit for Sonata"
+        },
+        {
+            "id": "01003AB00983D032",
+            "name": "Heavyduty R. Evolution Outfit for Raptor"
+        },
+        {
+            "id": "01003AB00983D03C",
+            "name": "Late Stage Illmatic Outfit for Dice"
+        },
+        {
+            "id": "01003AB00983D046",
+            "name": "Shining-Gold Super Winner outfit for Nitro"
+        },
+        {
+            "id": "01003AB00983D050",
+            "name": "Firefighter Max Pressure outfit for Jet"
+        },
+        {
+            "id": "01003AB00983D05A",
+            "name": "Neopolis Devastator outfit for Grid"
+        },
+        {
+            "id": "01003AB00983D064",
+            "name": "Galileo The Funky Saxman Outfit for Candyman"
+        },
+        {
+            "id": "01003AB00983D06E",
+            "name": "Ivory Puppet: Killer outfit for Latch"
+        },
+        {
+            "id": "01003AB00983D078",
+            "name": "Insectoid Loneriding Mechranger Outfit for Switch"
+        },
+        {
+            "id": "01003AB00983D082",
+            "name": "Gigahertz Visualizer X for Doombox"
+        }
+    ],
     "latest": 0
 }

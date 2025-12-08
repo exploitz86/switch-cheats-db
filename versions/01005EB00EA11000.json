@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "01005EB00EA11001",
+            "name": "Constellations of Love: Leon"
+        },
+        {
+            "id": "01005EB00EA11002",
+            "name": "Constellations of Love: Huedhaut"
+        },
+        {
+            "id": "01005EB00EA11003",
+            "name": "Constellations of Love: Teorus"
+        },
+        {
+            "id": "01005EB00EA11004",
+            "name": "Heavenly Pleasures: Wishes"
+        }
+    ],
     "latest": 65536
 }

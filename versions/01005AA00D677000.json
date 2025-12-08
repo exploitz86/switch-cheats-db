@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "01005AA00D677001",
+            "name": "DLC Playable Character: Copen from \"Luminous Avenger iX\""
+        },
+        {
+            "id": "01005AA00D677002",
+            "name": "DLC Playable Character: Empress from \"Dragon Marked For Death\""
+        },
+        {
+            "id": "01005AA00D677003",
+            "name": "DLC Mini-game \"Kanna Raising Simulator\""
+        },
+        {
+            "id": "01005AA00D677004",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 0
 }

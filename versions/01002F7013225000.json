@@ -1,3 +1,45 @@
 {
+    "dlc": [
+        {
+            "id": "01002F70132250C9",
+            "name": "Rune Factory 4 Marriage Candidates Outfit Set"
+        },
+        {
+            "id": "01002F70132250CA",
+            "name": "The Elf and the Hidden Royal Lineage Swimsuit Set + New Ranger Care Package Item Pack"
+        },
+        {
+            "id": "01002F70132250CB",
+            "name": "The Marionette and the Glorious Horse Swimsuit Set + New Ranger Care Package Item Pack"
+        },
+        {
+            "id": "01002F70132250CC",
+            "name": "The Young Proprietress and the Dwarf Swimsuit Set + New Ranger Care Package Item Pack"
+        },
+        {
+            "id": "01002F70132250CD",
+            "name": "Famous Butlers Swimsuit Set + New Ranger Care Package Item Pack"
+        },
+        {
+            "id": "01002F70132250CE",
+            "name": "The Resplendent Butterfly and the Priest Swimsuit Set + New Ranger Care Package Item Pack"
+        },
+        {
+            "id": "01002F70132250CF",
+            "name": "The Holy Knight and the Bibliophile Swimsuit Set + New Ranger Care Package Item Pack"
+        },
+        {
+            "id": "01002F70132250D0",
+            "name": "Rune Factory Outfits: Raguna and Mist"
+        },
+        {
+            "id": "01002F70132250D1",
+            "name": "Rune Factory 2 Outfits: Kyle and Mana"
+        },
+        {
+            "id": "01002F70132250D2",
+            "name": "Rune Factory 3 Outfits: Micah and Shara"
+        }
+    ],
     "latest": 0
 }

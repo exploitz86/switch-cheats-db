@@ -1,3 +1,109 @@
 {
+    "dlc": [
+        {
+            "id": "0100512005AD3001",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100512005AD3002",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100512005AD3003",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100512005AD3004",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100512005AD3005",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100512005AD3007",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100512005AD3008",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100512005AD3009",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100512005AD300A",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100512005AD300B",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100512005AD300C",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100512005AD300D",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100512005AD300E",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100512005AD300F",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100512005AD3010",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100512005AD3011",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100512005AD3012",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100512005AD3013",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100512005AD3014",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100512005AD3015",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100512005AD3016",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100512005AD3017",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100512005AD3018",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100512005AD3019",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100512005AD301A",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100512005AD301B",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,29 @@
 {
+    "dlc": [
+        {
+            "id": "0100216014473001",
+            "name": "FIFA 22 Nintendo Switch\u2122 Legacy Edition"
+        },
+        {
+            "id": "0100216014473002",
+            "name": "FIFA 22 In-Game Commentary \u2013 Russian"
+        },
+        {
+            "id": "0100216014473003",
+            "name": "FIFA 22 In-Game Commentary \u2013 Polish"
+        },
+        {
+            "id": "0100216014473004",
+            "name": "FIFA 22 In-Game Commentary \u2013 Dutch"
+        },
+        {
+            "id": "0100216014473005",
+            "name": "FIFA 22 In-Game Commentary \u2013 Arabic"
+        },
+        {
+            "id": "0100216014473006",
+            "name": "FIFA 22 In-Game Commentary \u2013 Portuguese (Brazil)"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "01006F800232712C",
+            "name": "Animal Crossing: New Horizons Special Order Ticket (Animal Crossing: Pocket Camp Crossover Event)"
+        },
+        {
+            "id": "01006F800232712D",
+            "name": "Animal Crossing\u2122: New Horizons Nintendo Switch Online - Member-Exclusive Items"
+        },
+        {
+            "id": "01006F80023273E8",
+            "name": "Animal Crossing\u2122: New Horizons - Happy Home Paradise"
+        }
+    ],
     "latest": 0
 }

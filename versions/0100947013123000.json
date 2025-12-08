@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "0100947013123001",
+            "name": "Manamune Sword for Yasuo"
+        },
+        {
+            "id": "0100947013123002",
+            "name": "Ruined Skin Variants"
+        },
+        {
+            "id": "0100947013123003",
+            "name": "Ruination Starter Pack"
+        },
+        {
+            "id": "0100947013123004",
+            "name": "Lost & Found Weapon Pack"
+        }
+    ],
     "latest": 0
 }

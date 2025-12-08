@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "0100B1300FF09001",
+            "name": "The Wonderful 101: Remastered Time Attack"
+        },
+        {
+            "id": "0100B1300FF09002",
+            "name": "The Wonderful 101: Remastered The Prince Vorkken"
+        },
+        {
+            "id": "0100B1300FF09003",
+            "name": "The Wonderful 101: Remastered - The Wonderful One: After School Hero (Part 1)"
+        },
+        {
+            "id": "0100B1300FF09004",
+            "name": "The Wonderful 101: Remastered - The Wonderful One: After School Hero (Part 2)"
+        }
+    ],
     "latest": 65536
 }

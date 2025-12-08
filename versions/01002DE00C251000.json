@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "01002DE00C251001",
+            "name": "Children of Morta: Paws and Claws"
+        },
+        {
+            "id": "01002DE00C251002",
+            "name": "Children of Morta: Ancient Spirits"
+        }
+    ],
     "latest": 65536
 }

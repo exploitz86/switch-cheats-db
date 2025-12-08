@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100AC3011C4D001",
+            "name": "Food Truck Tycoon - Asian Cuisine Expansion Pack"
+        },
+        {
+            "id": "0100AC3011C4D002",
+            "name": "Food Truck Tycoon - Asian Cuisine Expansion Pack #2"
+        }
+    ],
     "latest": 131072
 }

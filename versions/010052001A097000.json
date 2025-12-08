@@ -1,3 +1,37 @@
 {
+    "dlc": [
+        {
+            "id": "010052001A097008",
+            "name": "Wanderer's Special Weapon & Voidstone Set"
+        },
+        {
+            "id": "010052001A097009",
+            "name": "Warrior's Special Weapon & Voidstone Set"
+        },
+        {
+            "id": "010052001A09700A",
+            "name": "Rogue's Special Weapon & Voidstone Set"
+        },
+        {
+            "id": "010052001A09700B",
+            "name": "Archer's Special Weapon & Voidstone Set"
+        },
+        {
+            "id": "010052001A09700C",
+            "name": "Farmer's Special Weapon & Voidstone Set"
+        },
+        {
+            "id": "010052001A09700D",
+            "name": "Fighter's Special Weapon & Voidstone Set"
+        },
+        {
+            "id": "010052001A09700E",
+            "name": "Caster's Special Weapon & Voidstone Set"
+        },
+        {
+            "id": "010052001A09700F",
+            "name": "Head Start Item Set"
+        }
+    ],
     "latest": 0
 }

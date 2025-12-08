@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "010088801B325001",
+            "name": "GUNGRAVE (2002)"
+        },
+        {
+            "id": "010088801B325002",
+            "name": "GUNGRAVE O.D (2004)"
+        },
+        {
+            "id": "010088801B325003",
+            "name": "ROCKET BILLY REDCADILLAC"
+        },
+        {
+            "id": "010088801B325004",
+            "name": "YOUNG GUN GRAVE"
+        }
+    ],
     "latest": 0
 }

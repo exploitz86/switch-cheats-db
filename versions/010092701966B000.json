@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "010092701966B001",
+            "name": "Bunny and Bear Kigu Skin Bundle"
+        },
+        {
+            "id": "010092701966B002",
+            "name": "Midnight Kitty, Chinese Dress, & Nurse Skin Bundle"
+        }
+    ],
     "latest": 65536
 }

@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "010030B00C317001",
+            "name": "International Voice Pack"
+        },
+        {
+            "id": "010030B00C317002",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,41 @@
 {
+    "dlc": [
+        {
+            "id": "010069100DB09001",
+            "name": "Faeria: Premium Edition"
+        },
+        {
+            "id": "010069100DB09002",
+            "name": "Faeria: Fall of Everlife"
+        },
+        {
+            "id": "010069100DB09003",
+            "name": "Faeria: Resurgence"
+        },
+        {
+            "id": "010069100DB09004",
+            "name": "Faeria: Elements"
+        },
+        {
+            "id": "010069100DB09005",
+            "name": "Faeria: Chronicles of Gagana"
+        },
+        {
+            "id": "010069100DB09006",
+            "name": "Faeria: All Avatars"
+        },
+        {
+            "id": "010069100DB09007",
+            "name": "Faeria: All Cardbacks"
+        },
+        {
+            "id": "010069100DB09008",
+            "name": "Faeria: All Orbs"
+        },
+        {
+            "id": "010069100DB09009",
+            "name": "Faeria: All Wells"
+        }
+    ],
     "latest": 0
 }

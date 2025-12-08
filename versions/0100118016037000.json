@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100118016037001",
+            "name": "\"SNOW MIKU 2022\" Downloadable Content"
+        },
+        {
+            "id": "0100118016037002",
+            "name": "\"Kagamine Rin / Len Happy 14th Birthday\" Downloadable Content"
+        }
+    ],
     "latest": 131072
 }

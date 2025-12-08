@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "0100152012BB1001",
+            "name": "Year of the Spider"
+        }
+    ],
     "latest": 65536
 }

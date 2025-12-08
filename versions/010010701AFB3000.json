@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "010010701AFB3001",
+            "name": "Nickelodeon All-Star Brawl 2 Costume Pack"
+        },
+        {
+            "id": "010010701AFB3002",
+            "name": "Nickelodeon All-Star Brawl 2 The Quickster Costume"
+        },
+        {
+            "id": "010010701AFB3003",
+            "name": "Nickelodeon All-Star Brawl 2 The Elastic Waistband Costume"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,25 @@
 {
+    "dlc": [
+        {
+            "id": "0100041018811001",
+            "name": "WRC Generations - Peugeot 206 WRC 2002"
+        },
+        {
+            "id": "0100041018811002",
+            "name": "WRC Generations - Citro\u00ebn C4 WRC 2010"
+        },
+        {
+            "id": "0100041018811003",
+            "name": "WRC Generations - Career Starter Pack"
+        },
+        {
+            "id": "0100041018811004",
+            "name": "WRC Generations - Porsche 911 GT3 RS RGT Extra liveries"
+        },
+        {
+            "id": "0100041018811005",
+            "name": "WRC Generations - Livery editor extra items"
+        }
+    ],
     "latest": 0
 }

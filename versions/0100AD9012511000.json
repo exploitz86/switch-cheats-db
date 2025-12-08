@@ -1,3 +1,113 @@
 {
+    "dlc": [
+        {
+            "id": "0100AD9012511001",
+            "name": "PAC-MAN\u2122\u00a099 Mode Unlock"
+        },
+        {
+            "id": "0100AD9012511002",
+            "name": "PAC-MAN\u2122 99 Custom Theme: New Rally-X"
+        },
+        {
+            "id": "0100AD9012511003",
+            "name": "PAC-MAN\u2122 99 Custom Theme: NAMCO CLASSIC 1"
+        },
+        {
+            "id": "0100AD9012511004",
+            "name": "PAC-MAN\u2122 99 Custom Theme: The Tower of Druaga"
+        },
+        {
+            "id": "0100AD9012511005",
+            "name": "PAC-MAN\u2122 99 Custom Theme: NAMCO CLASSIC 2"
+        },
+        {
+            "id": "0100AD9012511006",
+            "name": "PAC-MAN\u2122 99 Custom Theme: GALAGA"
+        },
+        {
+            "id": "0100AD9012511007",
+            "name": "PAC-MAN\u2122 99 Custom Theme: Dig Dug"
+        },
+        {
+            "id": "0100AD9012511008",
+            "name": "PAC-MAN\u2122 99 Custom Theme: The Genji and the Heike Clans"
+        },
+        {
+            "id": "0100AD9012511009",
+            "name": "PAC-MAN\u2122 99 Custom Theme: Yokai Dochuki"
+        },
+        {
+            "id": "0100AD901251100A",
+            "name": "PAC-MAN\u2122 99 Custom Theme: Dragon Buster"
+        },
+        {
+            "id": "0100AD901251100B",
+            "name": "PAC-MAN\u2122 99 Custom Theme: The Legend of \"Valkyrie\""
+        },
+        {
+            "id": "0100AD901251100C",
+            "name": "PAC-MAN\u2122 99 Custom Theme: COSMO GANG THE VIDEO"
+        },
+        {
+            "id": "0100AD901251100D",
+            "name": "PAC-MAN\u2122 99 Custom Theme: NAMCO CLASSIC 3"
+        },
+        {
+            "id": "0100AD901251100E",
+            "name": "PAC-MAN\u2122 99 Custom Theme: Rolling Thunder"
+        },
+        {
+            "id": "0100AD901251100F",
+            "name": "PAC-MAN\u2122 99 Custom Theme: Wonder Momo"
+        },
+        {
+            "id": "0100AD9012511010",
+            "name": "PAC-MAN\u2122 99 Custom Theme: Xevious"
+        },
+        {
+            "id": "0100AD9012511011",
+            "name": "PAC-MAN\u2122 99 Custom Theme: BARADUKE"
+        },
+        {
+            "id": "0100AD9012511012",
+            "name": "PAC-MAN\u2122 99 Custom Theme: THE RETURN OF ISHTAR"
+        },
+        {
+            "id": "0100AD9012511013",
+            "name": "PAC-MAN\u2122 99 Custom Theme: NAMCO CLASSIC 4"
+        },
+        {
+            "id": "0100AD9012511014",
+            "name": "PAC-MAN\u2122 99 Custom Theme: NAMCO CLASSIC 5"
+        },
+        {
+            "id": "0100AD9012511015",
+            "name": "PAC-MAN\u2122 99 Custom Theme: Bravoman"
+        },
+        {
+            "id": "0100AD9012511016",
+            "name": "PAC-MAN\u2122 99 Custom Theme: Wagan Land"
+        },
+        {
+            "id": "0100AD9012511017",
+            "name": "PAC-MAN\u2122 99 Custom Theme: Splatterhouse: Wanpaku Graffiti"
+        },
+        {
+            "id": "0100AD9012511018",
+            "name": "PAC-MAN\u2122 99 Custom Theme: NAMCO CLASSIC 6"
+        },
+        {
+            "id": "0100AD9012511019",
+            "name": "PAC-MAN\u2122 99 Custom Theme: HOPPING MAPPY"
+        },
+        {
+            "id": "0100AD901251101A",
+            "name": "PAC-MAN\u2122 99 Custom Theme: Tank Battalion"
+        },
+        {
+            "id": "0100AD901251101B",
+            "name": "PAC-MAN\u2122 99 Custom Theme: NAMCO CLASSIC 7"
+        }
+    ],
     "latest": 0
 }

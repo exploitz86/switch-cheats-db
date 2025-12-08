@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "0100BD7017CA3001",
+            "name": "Experience x3 - Infinite Links"
+        },
+        {
+            "id": "0100BD7017CA3002",
+            "name": "Damage x2 - Infinite Links"
+        },
+        {
+            "id": "0100BD7017CA3003",
+            "name": "No Skill Cost - Infinite Links"
+        }
+    ],
     "latest": 0
 }

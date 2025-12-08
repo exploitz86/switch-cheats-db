@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "01002B00111A3001",
+            "name": "\u25a0Digital Version Preorder Bonus"
+        },
+        {
+            "id": "01002B00111A3002",
+            "name": "Hyrule Warriors: Age of Calamity Expansion Pass - Purchase Bonus"
+        },
+        {
+            "id": "01002B00111A3003",
+            "name": "Pulse of the Ancients"
+        },
+        {
+            "id": "01002B00111A3004",
+            "name": "Guardian of Remembrance"
+        }
+    ],
     "latest": 0
 }

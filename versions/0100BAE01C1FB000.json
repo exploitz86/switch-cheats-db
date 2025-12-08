@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "0100BAE01C1FB001",
+            "name": "Aquarium Land: Puppy"
+        },
+        {
+            "id": "0100BAE01C1FB002",
+            "name": "Aquarium Land: Baby Seal"
+        },
+        {
+            "id": "0100BAE01C1FB003",
+            "name": "Aquarium Land: Armadillo"
+        },
+        {
+            "id": "0100BAE01C1FB004",
+            "name": "Aquarium Land: Parrot"
+        }
+    ],
     "latest": 0
 }

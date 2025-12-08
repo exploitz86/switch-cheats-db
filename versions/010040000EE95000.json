@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "010040000EE95001",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010040000EE95002",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "01009AA00D49F001",
+            "name": "Experience x3 - Bonds of the Skies"
+        },
+        {
+            "id": "01009AA00D49F002",
+            "name": "No Encounters - Bonds of the Skies"
+        },
+        {
+            "id": "01009AA00D49F003",
+            "name": "Damage x2 - Bonds of the Skies"
+        },
+        {
+            "id": "01009AA00D49F004",
+            "name": "Full Restore - Bonds of the Skies"
+        }
+    ],
     "latest": 0
 }

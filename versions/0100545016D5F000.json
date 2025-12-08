@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "0100545016D5F001",
+            "name": "NASCAR Rivals Throwback Pack"
+        },
+        {
+            "id": "0100545016D5F002",
+            "name": "NASCAR Rivals 2022 Patriotic Pack"
+        },
+        {
+            "id": "0100545016D5F003",
+            "name": "NASCAR Rivals 2022 Playoff Pack"
+        }
+    ],
     "latest": 0
 }

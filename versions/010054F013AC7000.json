@@ -1,3 +1,29 @@
 {
+    "dlc": [
+        {
+            "id": "010054F013AC7001",
+            "name": "Experience x3 - Asdivine Cross"
+        },
+        {
+            "id": "010054F013AC7002",
+            "name": "SP x3 - Asdivine Cross"
+        },
+        {
+            "id": "010054F013AC7003",
+            "name": "Experience & SP x2 - Asdivine Cross"
+        },
+        {
+            "id": "010054F013AC7004",
+            "name": "No Encounters - Asdivine Cross"
+        },
+        {
+            "id": "010054F013AC7005",
+            "name": "Damage x2 - Asdivine Cross"
+        },
+        {
+            "id": "010054F013AC7006",
+            "name": "Full Restore - Asdivine Cross"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "010067301335B001",
+            "name": "GigaBash - Godzilla 4 Kaiju Pack"
+        }
+    ],
     "latest": 65536
 }

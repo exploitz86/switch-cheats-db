@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "0100C2000E08D001",
+            "name": "Fated Romance -A Foxy Butler!?-"
+        },
+        {
+            "id": "0100C2000E08D002",
+            "name": "Fated Romance -Paws or claws?-"
+        },
+        {
+            "id": "0100C2000E08D003",
+            "name": "Luck in Love -The Key to Happiness-"
+        }
+    ],
     "latest": 65536
 }

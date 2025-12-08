@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "0100E4701355D001",
+            "name": "Extra Modes"
+        }
+    ],
     "latest": 0
 }

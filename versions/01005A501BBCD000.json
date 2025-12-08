@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "01005A501BBCD001",
+            "name": "XALADIA: Rise of the Space Pirates X2 - Playable Character Pack"
+        },
+        {
+            "id": "01005A501BBCD002",
+            "name": "XALADIA: Rise of the Space Pirates X2 - Gun Weapons Pack"
+        }
+    ],
     "latest": 0
 }

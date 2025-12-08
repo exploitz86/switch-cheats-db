@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "0100DA0006F51001",
+            "name": "Extra Dungeon \"The Cave of Fangs\""
+        },
+        {
+            "id": "0100DA0006F51002",
+            "name": "Extra Dungeon \"The Inferno Hollow\""
+        },
+        {
+            "id": "0100DA0006F51003",
+            "name": "Extra Dungeon \"Friendship's Labyrinth\""
+        }
+    ],
     "latest": 0
 }

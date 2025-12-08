@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100B1600DB3B001",
+            "name": "TINY METAL: Will of the Shogun"
+        },
+        {
+            "id": "0100B1600DB3B002",
+            "name": "Caesar's Rescue"
+        }
+    ],
     "latest": 0
 }

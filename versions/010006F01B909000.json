@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "010006F01B909001",
+            "name": "Cleaning Yui"
+        },
+        {
+            "id": "010006F01B909002",
+            "name": "Waiting Shirayuki"
+        },
+        {
+            "id": "010006F01B909003",
+            "name": "Playful Etsuko"
+        }
+    ],
     "latest": 0
 }

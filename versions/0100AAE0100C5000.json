@@ -1,3 +1,33 @@
 {
+    "dlc": [
+        {
+            "id": "0100AAE0100C5001",
+            "name": "Expansion 1: Fan Favorites"
+        },
+        {
+            "id": "0100AAE0100C5002",
+            "name": "Expansion 2: Helping Hands"
+        },
+        {
+            "id": "0100AAE0100C5003",
+            "name": "Expansion 3: Wardens Attack"
+        },
+        {
+            "id": "0100AAE0100C5004",
+            "name": "Expansion 4: Dead Ends"
+        },
+        {
+            "id": "0100AAE0100C5005",
+            "name": "Expansion 5: Winter Schemes"
+        },
+        {
+            "id": "0100AAE0100C5006",
+            "name": "Mouse & Variants"
+        },
+        {
+            "id": "0100AAE0100C5007",
+            "name": "Ra Crossover"
+        }
+    ],
     "latest": 0
 }

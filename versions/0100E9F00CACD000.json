@@ -1,3 +1,25 @@
 {
+    "dlc": [
+        {
+            "id": "0100E9F00CACD001",
+            "name": "Experience x3 - Chronus Arc"
+        },
+        {
+            "id": "0100E9F00CACD002",
+            "name": "Damage x2 - Chronus Arc"
+        },
+        {
+            "id": "0100E9F00CACD003",
+            "name": "Full Restore - Chronus Arc"
+        },
+        {
+            "id": "0100E9F00CACD004",
+            "name": "No Encounters - Chronus Arc"
+        },
+        {
+            "id": "0100E9F00CACD005",
+            "name": "Mining x3 - Chronus Arc"
+        }
+    ],
     "latest": 0
 }

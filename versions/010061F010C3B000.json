@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "010061F010C3B001",
+            "name": "Hunting Simulator 2 Beretta Model 486 by Marc Newson"
+        },
+        {
+            "id": "010061F010C3B002",
+            "name": "Hunting Simulator 2 Bear Hunter Pack"
+        },
+        {
+            "id": "010061F010C3B003",
+            "name": "Hunting Simulator 2 Beretta Weapon Pack"
+        },
+        {
+            "id": "010061F010C3B004",
+            "name": "Hunting Simulator 2: A Ranger's Life"
+        }
+    ],
     "latest": 0
 }

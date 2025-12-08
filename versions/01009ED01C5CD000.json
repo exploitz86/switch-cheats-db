@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "01009ED01C5CD001",
+            "name": "Demoness Ayame"
+        },
+        {
+            "id": "01009ED01C5CD002",
+            "name": "Night Rider Ran"
+        },
+        {
+            "id": "01009ED01C5CD003",
+            "name": "Idol Tsubaki"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "0100BEB015605001",
+            "name": "20th Anniversary Digital Artbook"
+        },
+        {
+            "id": "0100BEB015605002",
+            "name": "Past Protagonists Costume Set"
+        },
+        {
+            "id": "0100BEB015605003",
+            "name": "Yuri Exclusive Costume: Ryza Outfit, Ryza Hat"
+        },
+        {
+            "id": "0100BEB015605004",
+            "name": "Yuri/Miu/Ren Exclusive Costume: Camera Obscura Hat & Yuri/Miu Exclusive Costume:  Witch's Hat"
+        }
+    ],
     "latest": 0
 }

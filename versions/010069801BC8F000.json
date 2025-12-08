@@ -1,3 +1,29 @@
 {
+    "dlc": [
+        {
+            "id": "010069801BC8F001",
+            "name": "Experience x3 - Chrome Wolf"
+        },
+        {
+            "id": "010069801BC8F002",
+            "name": "CP x3 - Chrome Wolf"
+        },
+        {
+            "id": "010069801BC8F003",
+            "name": "Experience & CP x2 - Chrome Wolf"
+        },
+        {
+            "id": "010069801BC8F004",
+            "name": "No Encounters - Chrome Wolf"
+        },
+        {
+            "id": "010069801BC8F005",
+            "name": "Damage x2 - Chrome Wolf"
+        },
+        {
+            "id": "010069801BC8F006",
+            "name": "No Skill Cost - Chrome Wolf"
+        }
+    ],
     "latest": 0
 }

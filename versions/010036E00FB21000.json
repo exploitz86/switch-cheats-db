@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "010036E00FB21001",
+            "name": "Additional Art & Music from the Vaults"
+        }
+    ],
     "latest": 65536
 }

@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "01008D4015905001",
+            "name": "Rebirth Project"
+        }
+    ],
     "latest": 327680
 }

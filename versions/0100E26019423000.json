@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "0100E26019423001",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100E26019423002",
+            "name": "ONI: Road to be the Mightiest Oni First Purchase Bonus"
+        },
+        {
+            "id": "0100E26019423003",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100E26019423004",
+            "name": "ONI: Road to be the Mightiest Oni Package Version Bonus"
+        }
+    ],
     "latest": 0
 }

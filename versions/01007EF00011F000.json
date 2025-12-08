@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "01007EF00011F001",
+            "name": "The Legend of Zelda\u2122: Breath of the Wild DLC Pack 1"
+        },
+        {
+            "id": "01007EF00011F002",
+            "name": "The Legend of Zelda\u2122: Breath of the Wild DLC Pack 2"
+        }
+    ],
     "latest": 196608
 }

@@ -1,3 +1,89 @@
 {
+    "dlc": [
+        {
+            "id": "01007020044F1001",
+            "name": "SUPERBEAT: XONiC BONUS DLC BUNDLE PACK"
+        },
+        {
+            "id": "01007020044F1002",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01007020044F1003",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01007020044F1004",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01007020044F1005",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01007020044F1006",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01007020044F1007",
+            "name": "SUPERBEAT XONiC DLC Skyline"
+        },
+        {
+            "id": "01007020044F1008",
+            "name": "SUPERBEAT XONiC DLC Americana Exotica"
+        },
+        {
+            "id": "01007020044F1009",
+            "name": "SUPERBEAT XONiC DLC iNSANITY"
+        },
+        {
+            "id": "01007020044F100A",
+            "name": "SUPERBEAT XONiC DLC ZZuck Zzuck Groove"
+        },
+        {
+            "id": "01007020044F100B",
+            "name": "SUPERBEAT XONiC DLC Going Back"
+        },
+        {
+            "id": "01007020044F100C",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01007020044F100D",
+            "name": "SUPERBEAT XONiC DLC Bundle Pack 3"
+        },
+        {
+            "id": "01007020044F100E",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01007020044F100F",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01007020044F1010",
+            "name": "SUPERBEAT XONiC DLC Bundle Pack 4"
+        },
+        {
+            "id": "01007020044F1011",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01007020044F1012",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01007020044F1013",
+            "name": "SUPERBEAT XONiC DLC Expressive Air 06"
+        },
+        {
+            "id": "01007020044F1014",
+            "name": "SUPERBEAT XONiC DLC Vertical Horizon"
+        },
+        {
+            "id": "01007020044F1064",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 0
 }

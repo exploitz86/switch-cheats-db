@@ -1,3 +1,25 @@
 {
+    "dlc": [
+        {
+            "id": "010056901AA17001",
+            "name": "METAL GEAR SOLID BANDE DESSIN\u00c9E"
+        },
+        {
+            "id": "010056901AA17002",
+            "name": "Metal Gear Solid: Digital Graphic Novel"
+        },
+        {
+            "id": "010056901AA17003",
+            "name": "METAL GEAR SOLID 2 BANDE DESSIN\u00c9E"
+        },
+        {
+            "id": "010056901AA17004",
+            "name": "Metal Gear Solid 2: Digital Graphic Novel"
+        },
+        {
+            "id": "010056901AA17005",
+            "name": "METAL GEAR SOLID: MASTER COLLECTION Vol.1 Pre-Order Bonus"
+        }
+    ],
     "latest": 0
 }

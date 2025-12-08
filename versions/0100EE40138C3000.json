@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "0100EE40138C3001",
+            "name": "Comic Coloring Book: Time for the Hero and the Robot"
+        },
+        {
+            "id": "0100EE40138C3002",
+            "name": "Comic Coloring Book: My Friend, Alpacorn"
+        },
+        {
+            "id": "0100EE40138C3003",
+            "name": "Comic Coloring Book: Drawing Without Borders"
+        }
+    ],
     "latest": 0
 }

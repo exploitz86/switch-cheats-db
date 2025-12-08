@@ -1,3 +1,289 @@
 {
+    "dlc": [
+        {
+            "id": "010079801502D001",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D002",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D003",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D004",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D005",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D006",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D007",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D008",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D009",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D00A",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D00B",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D00C",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D00D",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D00E",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D00F",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D010",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D011",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D012",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D013",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D014",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D015",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D016",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D017",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D018",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D019",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D01A",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D01B",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D01C",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D01D",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D01E",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D01F",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D020",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D021",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D022",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D023",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D024",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D025",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D026",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D027",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D028",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D029",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D02A",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D02B",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D02C",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D02D",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D02E",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D02F",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D030",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D031",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D032",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D033",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D034",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D035",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D036",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D037",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D038",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D039",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D03A",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D03B",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D03C",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D03D",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D03E",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D03F",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D040",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D041",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D042",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D043",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D044",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D045",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D046",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010079801502D047",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 0
 }

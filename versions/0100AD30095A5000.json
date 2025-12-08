@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100AD30095A5001",
+            "name": "Atomicrops: Reap What You Crow"
+        },
+        {
+            "id": "0100AD30095A5002",
+            "name": "Atomicrops: Deerly Beloved"
+        }
+    ],
     "latest": 0
 }

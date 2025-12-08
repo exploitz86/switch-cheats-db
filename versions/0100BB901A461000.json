@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "0100BB901A461001",
+            "name": "Colour Palette 1"
+        },
+        {
+            "id": "0100BB901A461002",
+            "name": "Colour Palette 2"
+        },
+        {
+            "id": "0100BB901A461003",
+            "name": "Colour Palette 3"
+        }
+    ],
     "latest": 0
 }

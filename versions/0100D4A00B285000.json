@@ -1,3 +1,33 @@
 {
+    "dlc": [
+        {
+            "id": "0100D4A00B285001",
+            "name": "ARK: Scorched Earth"
+        },
+        {
+            "id": "0100D4A00B285002",
+            "name": "ARK: Aberration"
+        },
+        {
+            "id": "0100D4A00B285003",
+            "name": "ARK: Extinction"
+        },
+        {
+            "id": "0100D4A00B285004",
+            "name": "ARK: Ragnarok"
+        },
+        {
+            "id": "0100D4A00B285006",
+            "name": "ARK: Genesis Part 1"
+        },
+        {
+            "id": "0100D4A00B28500C",
+            "name": "ARK: Survival Evolved Aberrant Skins Pack"
+        },
+        {
+            "id": "0100D4A00B28500D",
+            "name": "ARK: Survival Evolved HLN-A Cosmetic Pet"
+        }
+    ],
     "latest": 393216
 }

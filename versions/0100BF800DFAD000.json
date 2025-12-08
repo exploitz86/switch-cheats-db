@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "0100BF800DFAD001",
+            "name": "Gator Gear Weapons and Accessories for Dungeon Defenders: Awakened"
+        },
+        {
+            "id": "0100BF800DFAD002",
+            "name": "Original Hero Paper Masks for Dungeon Defenders: Awakened"
+        },
+        {
+            "id": "0100BF800DFAD003",
+            "name": "Chromatic Costumes for Dungeon Defenders: Awakened"
+        },
+        {
+            "id": "0100BF800DFAD004",
+            "name": "Winter Defenderland for Dungeon Defenders Awakened"
+        }
+    ],
     "latest": 0
 }

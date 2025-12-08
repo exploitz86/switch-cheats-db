@@ -1,3 +1,25 @@
 {
+    "dlc": [
+        {
+            "id": "0100ECB00A0FD001",
+            "name": "Party Classics Song Pack"
+        },
+        {
+            "id": "0100ECB00A0FD002",
+            "name": "Best of 80's Song Pack"
+        },
+        {
+            "id": "0100ECB00A0FD003",
+            "name": "Chart Hits Song Pack"
+        },
+        {
+            "id": "0100ECB00A0FD004",
+            "name": "Party Classics Vol. 2 Song Pack"
+        },
+        {
+            "id": "0100ECB00A0FD005",
+            "name": "Legendary Hits Song Pack"
+        }
+    ],
     "latest": 0
 }

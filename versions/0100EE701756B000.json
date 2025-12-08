@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "0100EE701756B001",
+            "name": "Experience x3 - Ambition Record"
+        },
+        {
+            "id": "0100EE701756B002",
+            "name": "No Encounters - Ambition Record"
+        },
+        {
+            "id": "0100EE701756B003",
+            "name": "Damage x2 - Ambition Record"
+        },
+        {
+            "id": "0100EE701756B004",
+            "name": "Full Restore - Ambition Record"
+        }
+    ],
     "latest": 0
 }

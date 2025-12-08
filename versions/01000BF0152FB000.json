@@ -1,3 +1,81 @@
 {
+    "dlc": [
+        {
+            "id": "01000BF0152FB0C9",
+            "name": "Zombie Army 4: Mission 4 - Damnation Valley"
+        },
+        {
+            "id": "01000BF0152FB0CA",
+            "name": "Zombie Army 4: Mission 5 - Alpine Blitz"
+        },
+        {
+            "id": "01000BF0152FB0CB",
+            "name": "Zombie Army 4: Mission 6 - Dead Zeppelin"
+        },
+        {
+            "id": "01000BF0152FB0CC",
+            "name": "Zombie Army 4: Gentleman Hector Bundle"
+        },
+        {
+            "id": "01000BF0152FB0CD",
+            "name": "Zombie Army 4: Berserker Boris Bundle"
+        },
+        {
+            "id": "01000BF0152FB0CE",
+            "name": "Zombie Army 4: Night Ops Jun Bundle"
+        },
+        {
+            "id": "01000BF0152FB0CF",
+            "name": "Zombie Army 4: Armour Plated Shola Bundle"
+        },
+        {
+            "id": "01000BF0152FB0D0",
+            "name": "Zombie Army 4: Afrika Karl bundle"
+        },
+        {
+            "id": "01000BF0152FB0D1",
+            "name": "Zombie Army 4: Weapons Bundle"
+        },
+        {
+            "id": "01000BF0152FB12D",
+            "name": "Zombie Army 4: Mission 7 - Terminal Error"
+        },
+        {
+            "id": "01000BF0152FB12E",
+            "name": "Zombie Army 4: Mission 8 - Abaddon Asylum"
+        },
+        {
+            "id": "01000BF0152FB12F",
+            "name": "Zombie Army 4: Mission 9 - Return to Hell"
+        },
+        {
+            "id": "01000BF0152FB130",
+            "name": "Zombie Army 4: Undercover Marie Bundle"
+        },
+        {
+            "id": "01000BF0152FB131",
+            "name": "Zombie Army 4: Left 4 Dead Bundle"
+        },
+        {
+            "id": "01000BF0152FB132",
+            "name": "Zombie Army 4: WW1 Josiah Bundle"
+        },
+        {
+            "id": "01000BF0152FB133",
+            "name": "Zombie Army 4: Herman Wolff Werner Bundle"
+        },
+        {
+            "id": "01000BF0152FB134",
+            "name": "Zombie Army 4: Desert Rat Shola Bundle"
+        },
+        {
+            "id": "01000BF0152FB135",
+            "name": "Zombie Army 4: Occult Karl Bundle"
+        },
+        {
+            "id": "01000BF0152FB191",
+            "name": "Zombie Army 4: Ragnar\u00f6k Campaign & Character Pack"
+        }
+    ],
     "latest": 0
 }

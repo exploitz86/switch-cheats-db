@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100997014005001",
+            "name": "Qatar International Stars"
+        },
+        {
+            "id": "0100997014005002",
+            "name": "Pixel Stars"
+        }
+    ],
     "latest": 0
 }

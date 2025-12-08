@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "01007E100456D001",
+            "name": "Guacamelee! 2 - Three Enemigos Character Pack"
+        },
+        {
+            "id": "01007E100456D002",
+            "name": "Guacamelee! 2 - The Proving Grounds (Challenge Level)"
+        }
+    ],
     "latest": 0
 }

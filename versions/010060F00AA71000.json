@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "010060F00AA71192",
+            "name": "The Walking Dead: The Final Season - Episode 2"
+        },
+        {
+            "id": "010060F00AA71193",
+            "name": "The Walking Dead: The Final Season - Episode 3"
+        },
+        {
+            "id": "010060F00AA71194",
+            "name": "The Walking Dead: The Final Season - Episode 4"
+        }
+    ],
     "latest": 131072
 }

@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "010071B009FB7001",
+            "name": "Undead Warband"
+        },
+        {
+            "id": "010071B009FB7002",
+            "name": "Witch Hunters"
+        },
+        {
+            "id": "010071B009FB7003",
+            "name": "The Sisters of Sigmar"
+        }
+    ],
     "latest": 65536
 }

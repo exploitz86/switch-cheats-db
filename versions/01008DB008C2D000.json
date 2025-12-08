@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "01008DB008C2D001",
+            "name": "The Isle of Armor"
+        },
+        {
+            "id": "01008DB008C2D002",
+            "name": "The Crown Tundra"
+        }
+    ],
     "latest": 0
 }

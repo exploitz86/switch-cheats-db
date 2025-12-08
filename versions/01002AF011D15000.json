@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "01002AF011D15001",
+            "name": "Tennis World Tour 2 Legends Pack"
+        },
+        {
+            "id": "01002AF011D15003",
+            "name": "Tennis World Tour 2 - Champions Pack"
+        },
+        {
+            "id": "01002AF011D15005",
+            "name": "Tennis World Tour 2 - Sofia Kenin & Karolina Pliskova"
+        },
+        {
+            "id": "01002AF011D15008",
+            "name": "Tennis World Tour 2 - Juan Martin Del Potro & Victoria Azarenka"
+        }
+    ],
     "latest": 65536
 }

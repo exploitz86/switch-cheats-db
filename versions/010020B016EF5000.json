@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "010020B016EF5001",
+            "name": "CONVERGENCE: Golden Ekko Skin"
+        },
+        {
+            "id": "010020B016EF5002",
+            "name": "CONVERGENCE: Star Guardian Ekko Skin"
+        },
+        {
+            "id": "010020B016EF5003",
+            "name": "CONVERGENCE: Ruined Ekko Skin"
+        }
+    ],
     "latest": 0
 }

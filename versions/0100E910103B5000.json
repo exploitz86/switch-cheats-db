@@ -1,3 +1,53 @@
 {
+    "dlc": [
+        {
+            "id": "0100E910103B5001",
+            "name": "(PL) Thronebreaker: The Witcher Tales Language Pack"
+        },
+        {
+            "id": "0100E910103B5002",
+            "name": "(DE) Thronebreaker: The Witcher Tales Language Pack"
+        },
+        {
+            "id": "0100E910103B5003",
+            "name": "(RU) Thronebreaker: The Witcher Tales Language Pack"
+        },
+        {
+            "id": "0100E910103B5004",
+            "name": "(FR) Thronebreaker: The Witcher Tales Language Pack"
+        },
+        {
+            "id": "0100E910103B5005",
+            "name": "(IT) Thronebreaker: The Witcher Tales Language Pack"
+        },
+        {
+            "id": "0100E910103B5006",
+            "name": "(ES) Thronebreaker: The Witcher Tales Language Pack"
+        },
+        {
+            "id": "0100E910103B5007",
+            "name": "(ESMX) Thronebreaker: The Witcher Tales Language Pack"
+        },
+        {
+            "id": "0100E910103B5008",
+            "name": "(PTBR) Thronebreaker: The Witcher Tales Language Pack"
+        },
+        {
+            "id": "0100E910103B5009",
+            "name": "(ZHS) Thronebreaker: The Witcher Tales Language Pack"
+        },
+        {
+            "id": "0100E910103B500A",
+            "name": "(ZHT) Thronebreaker: The Witcher Tales Language Pack"
+        },
+        {
+            "id": "0100E910103B500B",
+            "name": "(JP) Thronebreaker: The Witcher Tales Language Pack"
+        },
+        {
+            "id": "0100E910103B500C",
+            "name": "(KO) Thronebreaker: The Witcher Tales Language Pack"
+        }
+    ],
     "latest": 0
 }

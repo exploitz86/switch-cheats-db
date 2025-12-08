@@ -1,3 +1,133 @@
 {
+    "dlc": [
+        {
+            "id": "01004D600AC15001",
+            "name": "Dengeki Bracelet Set"
+        },
+        {
+            "id": "01004D600AC15002",
+            "name": "Dengeki Accessory Set"
+        },
+        {
+            "id": "01004D600AC15004",
+            "name": "Famitsu Weapon Set"
+        },
+        {
+            "id": "01004D600AC15005",
+            "name": "Enchanted Weapon Set"
+        },
+        {
+            "id": "01004D600AC15006",
+            "name": "[Cosplay Series] Equipment Set"
+        },
+        {
+            "id": "01004D600AC15007",
+            "name": "[Foreign Series] Equipment Set"
+        },
+        {
+            "id": "01004D600AC15008",
+            "name": "[Traditional Series] Equipment Set"
+        },
+        {
+            "id": "01004D600AC15009",
+            "name": "[Enchanted Series] Equipment Set"
+        },
+        {
+            "id": "01004D600AC1500A",
+            "name": "Party Member [Artisan]"
+        },
+        {
+            "id": "01004D600AC1500B",
+            "name": "Party Member [IF]"
+        },
+        {
+            "id": "01004D600AC1500C",
+            "name": "Party Member [Compa]"
+        },
+        {
+            "id": "01004D600AC1500D",
+            "name": "Cat Ears & Tail Set"
+        },
+        {
+            "id": "01004D600AC1500E",
+            "name": "Dog Ears & Tail Set"
+        },
+        {
+            "id": "01004D600AC1500F",
+            "name": "Mouse Ears & Tail Set"
+        },
+        {
+            "id": "01004D600AC15010",
+            "name": "Bunny Ears & Tail Set"
+        },
+        {
+            "id": "01004D600AC15011",
+            "name": "Fox Ears & Tail Set"
+        },
+        {
+            "id": "01004D600AC15012",
+            "name": "Neptune Swimsuit Outfit"
+        },
+        {
+            "id": "01004D600AC15013",
+            "name": "Noire Swimsuit Outfit"
+        },
+        {
+            "id": "01004D600AC15014",
+            "name": "Blanc Swimsuit Outfit"
+        },
+        {
+            "id": "01004D600AC15015",
+            "name": "Vert Swimsuit Outfit"
+        },
+        {
+            "id": "01004D600AC15016",
+            "name": "Chrome Swimsuit Outfit"
+        },
+        {
+            "id": "01004D600AC15017",
+            "name": "IF Swimsuit Outfit"
+        },
+        {
+            "id": "01004D600AC15018",
+            "name": "Compa Swimsuit Outfit"
+        },
+        {
+            "id": "01004D600AC15019",
+            "name": "Artisan Swimsuit Outfit"
+        },
+        {
+            "id": "01004D600AC1501A",
+            "name": "Hero Sentai Brave Ranger [Brave Purple]"
+        },
+        {
+            "id": "01004D600AC1501B",
+            "name": "Hero Sentai Brave Ranger [Brave Black]"
+        },
+        {
+            "id": "01004D600AC1501C",
+            "name": "Hero Sentai Brave Ranger [Brave White]"
+        },
+        {
+            "id": "01004D600AC1501D",
+            "name": "Hero Sentai Brave Ranger [Brave Green]"
+        },
+        {
+            "id": "01004D600AC1501E",
+            "name": "Hero Sentai Brave Ranger [Brave Dark]"
+        },
+        {
+            "id": "01004D600AC1501F",
+            "name": "Hero Sentai Brave Ranger [Brave Blue]"
+        },
+        {
+            "id": "01004D600AC15020",
+            "name": "Hero Sentai Brave Ranger [Brave Pink]"
+        },
+        {
+            "id": "01004D600AC15021",
+            "name": "Hero Sentai Brave Ranger [Brave Orange]"
+        }
+    ],
     "latest": 0
 }

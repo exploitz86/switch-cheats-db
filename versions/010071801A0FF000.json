@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "010071801A0FF001",
+            "name": "Mosaic Chronicles Deluxe Soundtrack"
+        },
+        {
+            "id": "010071801A0FF002",
+            "name": "Mosaic Chronicles Deluxe Artbook"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100BA501AD8B001",
+            "name": "Mystical Mixing: Wand and frog"
+        },
+        {
+            "id": "0100BA501AD8B002",
+            "name": "Mystical Mixing: Arcane ingredients"
+        }
+    ],
     "latest": 0
 }

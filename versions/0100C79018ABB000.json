@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100C79018ABB001",
+            "name": "Fashion Girls: Extra Levels!"
+        },
+        {
+            "id": "0100C79018ABB002",
+            "name": "Fashion Girls: Special Levels"
+        }
+    ],
     "latest": 0
 }

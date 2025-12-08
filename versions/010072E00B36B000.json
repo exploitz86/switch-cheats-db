@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "010072E00B36B001",
+            "name": "Alice in Wonderland \uff5eThe Tea Party\uff5e"
+        }
+    ],
     "latest": 65536
 }

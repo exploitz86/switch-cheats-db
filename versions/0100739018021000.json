@@ -1,3 +1,41 @@
 {
+    "dlc": [
+        {
+            "id": "0100739018021001",
+            "name": "Aquadirt Racer Pack"
+        },
+        {
+            "id": "0100739018021002",
+            "name": "LEGO\u00ae 2K Drive Awesome Bonus Pack"
+        },
+        {
+            "id": "0100739018021003",
+            "name": "LEGO\u00ae 2K Drive Awesome Rivals Bonus Pack"
+        },
+        {
+            "id": "0100739018021004",
+            "name": "LEGO\u00ae 2K Drive Starter Bundle"
+        },
+        {
+            "id": "0100739018021005",
+            "name": "Awesome Pizza Vehicle"
+        },
+        {
+            "id": "0100739018021006",
+            "name": "LEGO\u00ae 2K Drive Premium Drive Pass Season 1"
+        },
+        {
+            "id": "0100739018021007",
+            "name": "LEGO\u00ae 2K Drive Premium Drive Pass Season 2"
+        },
+        {
+            "id": "010073901802100A",
+            "name": "LEGO\u00ae 2K Drive Season 1 Coin Bundle"
+        },
+        {
+            "id": "010073901802100B",
+            "name": "LEGO\u00ae 2K Drive Season 2 Coin Bundle"
+        }
+    ],
     "latest": 0
 }

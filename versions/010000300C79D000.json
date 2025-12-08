@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "010000300C79D001",
+            "name": "Gensokyo Defenders Plus"
+        }
+    ],
     "latest": 0
 }

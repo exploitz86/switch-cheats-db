@@ -1,3 +1,29 @@
 {
+    "dlc": [
+        {
+            "id": "010078C01769B001",
+            "name": "Kao the Kangaroo Oh! Well DLC"
+        },
+        {
+            "id": "010078C01769B002",
+            "name": "Kao the Kangaroo: Summer Drip"
+        },
+        {
+            "id": "010078C01769B003",
+            "name": "Kao the Kangaroo: Top of the Class"
+        },
+        {
+            "id": "010078C01769B004",
+            "name": "Kao the Kangaroo: VIP DLC"
+        },
+        {
+            "id": "010078C01769B005",
+            "name": "Kao the Kangaroo: Yooka X Kao DLC"
+        },
+        {
+            "id": "010078C01769B00B",
+            "name": "Kao the Kangaroo: Bend the Roo'les"
+        }
+    ],
     "latest": 0
 }

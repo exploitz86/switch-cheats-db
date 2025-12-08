@@ -1,3 +1,121 @@
 {
+    "dlc": [
+        {
+            "id": "01006990184DD001",
+            "name": "Phantom Thieves of Hearts Music Pack"
+        },
+        {
+            "id": "01006990184DD003",
+            "name": "Japanese Music Pack"
+        },
+        {
+            "id": "01006990184DD004",
+            "name": "\"Open your heart\" from Sonic Adventure"
+        },
+        {
+            "id": "01006990184DD005",
+            "name": "\"I'm Here\" from Sonic Frontiers"
+        },
+        {
+            "id": "01006990184DD006",
+            "name": "\"Reach for the Stars (Re-Colors)\" from Sonic Colors: Ultimate"
+        },
+        {
+            "id": "01006990184DD007",
+            "name": "Sonic the Hedgehog Costume"
+        },
+        {
+            "id": "01006990184DD008",
+            "name": "Tails Costume"
+        },
+        {
+            "id": "01006990184DD009",
+            "name": "Joker & Morgana Costume and Accessories Pack"
+        },
+        {
+            "id": "01006990184DD00A",
+            "name": "Morolian Costume"
+        },
+        {
+            "id": "01006990184DD00B",
+            "name": "Ai Ai Costume"
+        },
+        {
+            "id": "01006990184DD00C",
+            "name": "K-Pop Music Pack"
+        },
+        {
+            "id": "01006990184DD00D",
+            "name": "Ai Ai Accessory"
+        },
+        {
+            "id": "01006990184DD00E",
+            "name": "Green Puyo Accessory"
+        },
+        {
+            "id": "01006990184DD00F",
+            "name": "Blue Puyo Accessory"
+        },
+        {
+            "id": "01006990184DD010",
+            "name": "Red Puyo Accessory"
+        },
+        {
+            "id": "01006990184DD011",
+            "name": "Eggman Maracas"
+        },
+        {
+            "id": "01006990184DD012",
+            "name": "Puyo Puyo Maracas"
+        },
+        {
+            "id": "01006990184DD013",
+            "name": "Sonic the Hedgehog Ring Sound Effect"
+        },
+        {
+            "id": "01006990184DD015",
+            "name": "Ai Ai Icon"
+        },
+        {
+            "id": "01006990184DD016",
+            "name": "Puyo Puyo Icon"
+        },
+        {
+            "id": "01006990184DD017",
+            "name": "Sonic the Hedgehog Icon"
+        },
+        {
+            "id": "01006990184DD018",
+            "name": "Tails Icons"
+        },
+        {
+            "id": "01006990184DD019",
+            "name": "Space Channel 5 Icon"
+        },
+        {
+            "id": "01006990184DD01B",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006990184DD01C",
+            "name": "\"Go Go Cheer Girl!\" from Space Channel 5"
+        },
+        {
+            "id": "01006990184DD01D",
+            "name": "\"Baka Mitai (Taxi Driver Edition)\" from Ryu Ga Gotoku Studio"
+        },
+        {
+            "id": "01006990184DD01E",
+            "name": "\"Theme of Phantom R\" from Rhythm Thief & The Emperor's Treasure"
+        },
+        {
+            "id": "01006990184DD01F",
+            "name": "Virtual Singer Music Pack"
+        },
+        {
+            "id": "01006990184DD023",
+            "name": "MATSUKENSAMBAII Style Costume"
+        }
+    ],
     "latest": 0
 }

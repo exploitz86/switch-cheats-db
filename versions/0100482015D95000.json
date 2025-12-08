@@ -1,3 +1,29 @@
 {
+    "dlc": [
+        {
+            "id": "0100482015D95001",
+            "name": "Concordia: Digital Edition - Salsa"
+        },
+        {
+            "id": "0100482015D95002",
+            "name": "Concordia: Digital Edition - Britannia & Germania"
+        },
+        {
+            "id": "0100482015D95003",
+            "name": "Concordia: Digital Edition - Corsica & Gallia"
+        },
+        {
+            "id": "0100482015D95004",
+            "name": "Concordia: Digital Edition - Aegyptus & Creta"
+        },
+        {
+            "id": "0100482015D95005",
+            "name": "Concordia: Digital Edition - Venus"
+        },
+        {
+            "id": "0100482015D95006",
+            "name": "Concordia: Digital Edition - Fish Market"
+        }
+    ],
     "latest": 0
 }

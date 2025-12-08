@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "01000AF01518B001",
+            "name": "The Clockwork Expansion"
+        },
+        {
+            "id": "01000AF01518B002",
+            "name": "The Riverfolk Expansion"
+        },
+        {
+            "id": "01000AF01518B003",
+            "name": "Exiles & Partisans & Vagabonds"
+        },
+        {
+            "id": "01000AF01518B004",
+            "name": "The Underworld Expansion"
+        }
+    ],
     "latest": 131072
 }

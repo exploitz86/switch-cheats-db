@@ -1,3 +1,133 @@
 {
+    "dlc": [
+        {
+            "id": "0100A250097F1001",
+            "name": "DRAGON BALL FighterZ - SSGSS Goku and SSGSS Vegeta Unlock"
+        },
+        {
+            "id": "0100A250097F1002",
+            "name": "DRAGON BALL FighterZ - Android 21 Unlock"
+        },
+        {
+            "id": "0100A250097F1003",
+            "name": "DRAGON BALL FighterZ - SSGSS Lobby Avatars"
+        },
+        {
+            "id": "0100A250097F1004",
+            "name": "DRAGON BALL FighterZ - Stamps: Girls Pack"
+        },
+        {
+            "id": "0100A250097F1005",
+            "name": "DRAGON BALL FighterZ - Anime Music Pack"
+        },
+        {
+            "id": "0100A250097F1006",
+            "name": "DRAGON BALL FighterZ - Commentator Voice Pack"
+        },
+        {
+            "id": "0100A250097F1007",
+            "name": "DRAGON BALL FighterZ - Bardock"
+        },
+        {
+            "id": "0100A250097F1008",
+            "name": "DRAGON BALL FighterZ - Broly"
+        },
+        {
+            "id": "0100A250097F1009",
+            "name": "DRAGON BALL FighterZ - Zamasu (Fused)"
+        },
+        {
+            "id": "0100A250097F100A",
+            "name": "DRAGON BALL FighterZ - Vegito (SSGSS)"
+        },
+        {
+            "id": "0100A250097F100B",
+            "name": "DRAGON BALL FighterZ - Goku"
+        },
+        {
+            "id": "0100A250097F100C",
+            "name": "DRAGON BALL FighterZ - Vegeta"
+        },
+        {
+            "id": "0100A250097F100D",
+            "name": "DRAGON BALL FighterZ - Android 17"
+        },
+        {
+            "id": "0100A250097F100E",
+            "name": "DRAGON BALL FighterZ - Cooler"
+        },
+        {
+            "id": "0100A250097F100F",
+            "name": "DRAGON BALL FighterZ - Exclusive SS Goku Lobby Avatar"
+        },
+        {
+            "id": "0100A250097F1012",
+            "name": "DRAGON BALL FighterZ \u2013 Operator DLC"
+        },
+        {
+            "id": "0100A250097F1013",
+            "name": "DRAGON BALL FighterZ \u2013 Anime Music Pack 2"
+        },
+        {
+            "id": "0100A250097F1014",
+            "name": "DRAGON BALL FighterZ - Jiren"
+        },
+        {
+            "id": "0100A250097F1015",
+            "name": "DRAGON BALL FighterZ - Videl"
+        },
+        {
+            "id": "0100A250097F1016",
+            "name": "DRAGON BALL FighterZ - Goku (GT)"
+        },
+        {
+            "id": "0100A250097F1017",
+            "name": "DRAGON BALL FighterZ - Janemba"
+        },
+        {
+            "id": "0100A250097F1018",
+            "name": "DRAGON BALL FighterZ - Gogeta (SSGSS)"
+        },
+        {
+            "id": "0100A250097F1019",
+            "name": "DRAGON BALL FighterZ - Broly (DBS)"
+        },
+        {
+            "id": "0100A250097F101A",
+            "name": "DRAGON BALL FighterZ - Commentator Voice Pack 2"
+        },
+        {
+            "id": "0100A250097F101B",
+            "name": "DRAGON BALL FighterZ - Commentator Voice Pack 3"
+        },
+        {
+            "id": "0100A250097F101C",
+            "name": "DRAGON BALL FighterZ - Commentator Voice Pack 4"
+        },
+        {
+            "id": "0100A250097F101D",
+            "name": "DRAGON BALL FighterZ - Kefla"
+        },
+        {
+            "id": "0100A250097F101E",
+            "name": "DRAGON BALL FighterZ - Goku (Ultra Instinct)"
+        },
+        {
+            "id": "0100A250097F101F",
+            "name": "DRAGON BALL FighterZ - Master Roshi"
+        },
+        {
+            "id": "0100A250097F1020",
+            "name": "DRAGON BALL FighterZ - Gogeta (SS4)"
+        },
+        {
+            "id": "0100A250097F1021",
+            "name": "DRAGON BALL FighterZ - Super Baby 2"
+        },
+        {
+            "id": "0100A250097F1022",
+            "name": "DRAGON BALL FighterZ - Android 21 (Lab Coat)"
+        }
+    ],
     "latest": 0
 }

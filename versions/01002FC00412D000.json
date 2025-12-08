@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "01002FC00412D001",
+            "name": "Little Nightmares - Fox Mask"
+        },
+        {
+            "id": "01002FC00412D002",
+            "name": "Little Nightmares - Tengu Mask"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "01005E700ABB9001",
+            "name": "Alf's Escape"
+        }
+    ],
     "latest": 0
 }

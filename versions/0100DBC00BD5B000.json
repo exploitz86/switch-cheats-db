@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "0100DBC00BD5B001",
+            "name": "Hoard of Bonus Content"
+        }
+    ],
     "latest": 0
 }

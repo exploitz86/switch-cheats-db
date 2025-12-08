@@ -1,3 +1,49 @@
 {
+    "dlc": [
+        {
+            "id": "01006FB00EBE1001",
+            "name": "Golf With Your Friends - Caddy Pack"
+        },
+        {
+            "id": "01006FB00EBE1002",
+            "name": "Golf With Your Friends - Racing Cosmetics Pack"
+        },
+        {
+            "id": "01006FB00EBE1003",
+            "name": "Golf With Your Friends - Summer Party Pack"
+        },
+        {
+            "id": "01006FB00EBE1004",
+            "name": "Golf With Your Friends - Bouncy Castle Course"
+        },
+        {
+            "id": "01006FB00EBE1005",
+            "name": "Golf With Your Friends - Sports Pack"
+        },
+        {
+            "id": "01006FB00EBE1006",
+            "name": "Golf With Your Friends - Pizza Party Pack"
+        },
+        {
+            "id": "01006FB00EBE1007",
+            "name": "Golf With Your Friends - Horrifying Headgear Pack"
+        },
+        {
+            "id": "01006FB00EBE1008",
+            "name": "Golf With Your Friends - Corrupted Forest Course"
+        },
+        {
+            "id": "01006FB00EBE1009",
+            "name": "Golf With Your Friends - Peaceful Pines Course"
+        },
+        {
+            "id": "01006FB00EBE100A",
+            "name": "Golf With Your Friends - Fairytale Fables Pack"
+        },
+        {
+            "id": "01006FB00EBE100B",
+            "name": "Golf With Your Friends - Headbangers Hat"
+        }
+    ],
     "latest": 0
 }

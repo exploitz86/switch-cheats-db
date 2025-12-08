@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "010075D00DD05001",
+            "name": "Race With Ryan: Surprise Track Pack"
+        },
+        {
+            "id": "010075D00DD05002",
+            "name": "Race With Ryan: Adventure Track Pack"
+        }
+    ],
     "latest": 0
 }

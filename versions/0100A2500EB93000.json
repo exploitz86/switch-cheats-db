@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100A2500EB93001",
+            "name": "Swag Pack"
+        },
+        {
+            "id": "0100A2500EB93002",
+            "name": "Flex Pack"
+        }
+    ],
     "latest": 65536
 }

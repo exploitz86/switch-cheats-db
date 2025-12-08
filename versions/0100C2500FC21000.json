@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100C2500FC21064",
+            "name": "Battle-boosting bonuses"
+        },
+        {
+            "id": "0100C2500FC21065",
+            "name": "Wave 1 - Inkopolis"
+        }
+    ],
     "latest": 262144
 }

@@ -1,3 +1,105 @@
 {
+    "dlc": [
+        {
+            "id": "010047600FBFF001",
+            "name": "Link-a-Pix Color"
+        },
+        {
+            "id": "010047600FBFF00A",
+            "name": "Small Puzzles 1"
+        },
+        {
+            "id": "010047600FBFF00B",
+            "name": "Large Puzzles 1"
+        },
+        {
+            "id": "010047600FBFF00C",
+            "name": "Small Puzzles 2"
+        },
+        {
+            "id": "010047600FBFF00D",
+            "name": "Large Puzzles 2"
+        },
+        {
+            "id": "010047600FBFF00E",
+            "name": "Small Puzzles 3"
+        },
+        {
+            "id": "010047600FBFF00F",
+            "name": "Large Puzzles 3"
+        },
+        {
+            "id": "010047600FBFF010",
+            "name": "Small Puzzles 4"
+        },
+        {
+            "id": "010047600FBFF011",
+            "name": "Large Puzzles 4"
+        },
+        {
+            "id": "010047600FBFF012",
+            "name": "Small Puzzles 5"
+        },
+        {
+            "id": "010047600FBFF013",
+            "name": "Large Puzzles 5"
+        },
+        {
+            "id": "010047600FBFF014",
+            "name": "Small Puzzles 6"
+        },
+        {
+            "id": "010047600FBFF015",
+            "name": "Large Puzzles 6"
+        },
+        {
+            "id": "010047600FBFF016",
+            "name": "Small Puzzles 7"
+        },
+        {
+            "id": "010047600FBFF017",
+            "name": "Large Puzzles 7"
+        },
+        {
+            "id": "010047600FBFF018",
+            "name": "Small Puzzles 8"
+        },
+        {
+            "id": "010047600FBFF019",
+            "name": "Large Puzzles 8"
+        },
+        {
+            "id": "010047600FBFF01A",
+            "name": "Small Puzzles 9"
+        },
+        {
+            "id": "010047600FBFF01B",
+            "name": "Large Puzzles 9"
+        },
+        {
+            "id": "010047600FBFF01C",
+            "name": "Small Puzzles 10"
+        },
+        {
+            "id": "010047600FBFF01D",
+            "name": "Large Puzzles 10"
+        },
+        {
+            "id": "010047600FBFF01E",
+            "name": "Small Puzzles 11"
+        },
+        {
+            "id": "010047600FBFF01F",
+            "name": "Large Puzzles 11"
+        },
+        {
+            "id": "010047600FBFF020",
+            "name": "Small Puzzles 12"
+        },
+        {
+            "id": "010047600FBFF021",
+            "name": "Large Puzzles 12"
+        }
+    ],
     "latest": 0
 }

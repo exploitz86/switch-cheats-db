@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "01004EB00DACF001",
+            "name": "Later Daters Part 2"
+        }
+    ],
     "latest": 65536
 }

@@ -1,3 +1,145 @@
 {
+    "dlc": [
+        {
+            "id": "01002C0015645001",
+            "name": "Deco: Bladelord's Sword"
+        },
+        {
+            "id": "01002C0015645002",
+            "name": "Deco: Bladelord's Axe"
+        },
+        {
+            "id": "01002C0015645003",
+            "name": "Deco: Bladelord's Spear"
+        },
+        {
+            "id": "01002C0015645004",
+            "name": "Deco: Katzburger"
+        },
+        {
+            "id": "01002C0015645005",
+            "name": "Deco: Pizza Cutter"
+        },
+        {
+            "id": "01002C0015645006",
+            "name": "Deco: The Skewer"
+        },
+        {
+            "id": "01002C0015645007",
+            "name": "Deco: Magic Cane"
+        },
+        {
+            "id": "01002C0015645008",
+            "name": "Deco: Cuddlebear"
+        },
+        {
+            "id": "01002C0015645009",
+            "name": "Deco: Magic Umbrella"
+        },
+        {
+            "id": "01002C001564500A",
+            "name": "Deco: Gold Coat"
+        },
+        {
+            "id": "01002C001564500B",
+            "name": "Deco: Mr. Bladelord Mark"
+        },
+        {
+            "id": "01002C001564500C",
+            "name": "Deco: Ms. Bladelord Mark"
+        },
+        {
+            "id": "01002C001564500D",
+            "name": "Deco: Darius Mark"
+        },
+        {
+            "id": "01002C001564500E",
+            "name": "Deco: Charme Mark"
+        },
+        {
+            "id": "01002C001564500F",
+            "name": "Deco: M.O.A.V. Mark"
+        },
+        {
+            "id": "01002C0015645010",
+            "name": "Deco: Julette Mark"
+        },
+        {
+            "id": "01002C0015645011",
+            "name": "Deco: Acklao Mark"
+        },
+        {
+            "id": "01002C0015645012",
+            "name": "Deco: Satyus Mark"
+        },
+        {
+            "id": "01002C0015645013",
+            "name": "Deco: Balga Mark"
+        },
+        {
+            "id": "01002C0015645014",
+            "name": "Beginner's Forging Kit"
+        },
+        {
+            "id": "01002C0015645015",
+            "name": "Beginner's Healing Kit"
+        },
+        {
+            "id": "01002C0015645016",
+            "name": "Healing Kit (1)"
+        },
+        {
+            "id": "01002C0015645017",
+            "name": "Healing Kit (2)"
+        },
+        {
+            "id": "01002C0015645018",
+            "name": "Healing Kit (3)"
+        },
+        {
+            "id": "01002C0015645019",
+            "name": "Darius's Favorite (x5)"
+        },
+        {
+            "id": "01002C001564501A",
+            "name": "Charme's Favorite (x5)"
+        },
+        {
+            "id": "01002C001564501B",
+            "name": "M.O.A.V.'s Favorite (x5)"
+        },
+        {
+            "id": "01002C001564501C",
+            "name": "Julette's Favorite (x5)"
+        },
+        {
+            "id": "01002C001564501D",
+            "name": "Acklao's Favorite (x5)"
+        },
+        {
+            "id": "01002C001564501E",
+            "name": "Satyus's Favorite (x5)"
+        },
+        {
+            "id": "01002C001564501F",
+            "name": "Deco: The Power of Love"
+        },
+        {
+            "id": "01002C0015645020",
+            "name": "Deco Item: S. Dymlos"
+        },
+        {
+            "id": "01002C0015645021",
+            "name": "Deco Item: S. Chaltier"
+        },
+        {
+            "id": "01002C0015645022",
+            "name": "Deco Item: Durandal"
+        },
+        {
+            "id": "01002C0015645023",
+            "name": "Deco Item: Soma"
+        }
+    ],
     "latest": 0
 }

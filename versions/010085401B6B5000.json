@@ -1,3 +1,33 @@
 {
+    "dlc": [
+        {
+            "id": "010085401B6B5001",
+            "name": "15,000 Gold Pack"
+        },
+        {
+            "id": "010085401B6B5002",
+            "name": "6,750 Gold Pack"
+        },
+        {
+            "id": "010085401B6B5003",
+            "name": "3,900 Gold Pack"
+        },
+        {
+            "id": "010085401B6B5004",
+            "name": "SS-ranked Weapon \"JACKHAMMER\""
+        },
+        {
+            "id": "010085401B6B5005",
+            "name": "SS-ranked Weapon \"FLAMETHROWER\""
+        },
+        {
+            "id": "010085401B6B5006",
+            "name": "SS-ranked Armament \"PLASMA GUN\""
+        },
+        {
+            "id": "010085401B6B5007",
+            "name": "SS-ranked Armament \"TURRET-M\""
+        }
+    ],
     "latest": 0
 }

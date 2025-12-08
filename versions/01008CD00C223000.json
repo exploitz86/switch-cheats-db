@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "01008CD00C223001",
+            "name": "Streets of Rogue: Character Pack"
+        }
+    ],
     "latest": 0
 }

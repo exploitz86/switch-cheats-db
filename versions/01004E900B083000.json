@@ -1,3 +1,65 @@
 {
+    "dlc": [
+        {
+            "id": "01004E900B083001",
+            "name": "Season Pass Bonus - Reimu Santa Costume"
+        },
+        {
+            "id": "01004E900B083002",
+            "name": "Playable Character - Flandre Scarlet"
+        },
+        {
+            "id": "01004E900B083003",
+            "name": "Playable Character  - Alice Margatroid & Equipment"
+        },
+        {
+            "id": "01004E900B083004",
+            "name": "Playable Character - Utsuho Reiuji & Equipment"
+        },
+        {
+            "id": "01004E900B083005",
+            "name": "Additional Story - Clock Remains & Playable Character - Sakuya Izayoi"
+        },
+        {
+            "id": "01004E900B083006",
+            "name": "Playable Character - Suwako Moriya & Equipment"
+        },
+        {
+            "id": "01004E900B083007",
+            "name": "Playable Character - Tojiko Soga & Equipment"
+        },
+        {
+            "id": "01004E900B083008",
+            "name": "Playable Character - Kasen Ibaraki & Equipment"
+        },
+        {
+            "id": "01004E900B083009",
+            "name": "Playable Character - Rei'sen & Equipment"
+        },
+        {
+            "id": "01004E900B08300A",
+            "name": "Playable Character - Satori Komeiji & Equipment"
+        },
+        {
+            "id": "01004E900B08300B",
+            "name": "Playable Character - Kokoro Hata & Equipment"
+        },
+        {
+            "id": "01004E900B08300C",
+            "name": "Playable Character - Cirno & New Partner - Daiyosei"
+        },
+        {
+            "id": "01004E900B08300D",
+            "name": "Season Pass - THE ELEGANCE Bonus Items"
+        },
+        {
+            "id": "01004E900B08300E",
+            "name": "Playable Character - Tenshi Hinanawi & Equipment"
+        },
+        {
+            "id": "01004E900B08300F",
+            "name": "Playable Character/Partner - Daiyosei & Equipment"
+        }
+    ],
     "latest": 0
 }

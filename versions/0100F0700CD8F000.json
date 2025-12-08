@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "0100F0700CD8F001",
+            "name": "Experience Master Orb"
+        },
+        {
+            "id": "0100F0700CD8F002",
+            "name": "Encounter Master Orb"
+        },
+        {
+            "id": "0100F0700CD8F003",
+            "name": "Damage Master Orb"
+        }
+    ],
     "latest": 0
 }

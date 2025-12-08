@@ -1,3 +1,33 @@
 {
+    "dlc": [
+        {
+            "id": "010059B0177EB001",
+            "name": "Animals"
+        },
+        {
+            "id": "010059B0177EB002",
+            "name": "Whiteboards Pack 1"
+        },
+        {
+            "id": "010059B0177EB003",
+            "name": "Whiteboards Pack 2"
+        },
+        {
+            "id": "010059B0177EB004",
+            "name": "Whiteboards Pack 3"
+        },
+        {
+            "id": "010059B0177EB005",
+            "name": "Whiteboards Pack 4"
+        },
+        {
+            "id": "010059B0177EB006",
+            "name": "Whiteboards Pack 5"
+        },
+        {
+            "id": "010059B0177EB007",
+            "name": "Whiteboards Pack 6"
+        }
+    ],
     "latest": 0
 }

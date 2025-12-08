@@ -1,3 +1,117 @@
 {
+    "dlc": [
+        {
+            "id": "0100F3A00F4CB001",
+            "name": "Happy Birthday Eisuke"
+        },
+        {
+            "id": "0100F3A00F4CB002",
+            "name": "Happy Birthday Soryu"
+        },
+        {
+            "id": "0100F3A00F4CB003",
+            "name": "Happy Birthday Baba"
+        },
+        {
+            "id": "0100F3A00F4CB004",
+            "name": "Happy Birthday Ota"
+        },
+        {
+            "id": "0100F3A00F4CB005",
+            "name": "Happy Birthday Mamoru"
+        },
+        {
+            "id": "0100F3A00F4CB006",
+            "name": "Secrets From The Past Eisuke"
+        },
+        {
+            "id": "0100F3A00F4CB007",
+            "name": "Secrets From The Past Soryu"
+        },
+        {
+            "id": "0100F3A00F4CB008",
+            "name": "Drowning in your Kiss: Baba"
+        },
+        {
+            "id": "0100F3A00F4CB009",
+            "name": "Drowning in your Kiss: Ota"
+        },
+        {
+            "id": "0100F3A00F4CB00A",
+            "name": "Drowning in your Kiss: Mamoru"
+        },
+        {
+            "id": "0100F3A00F4CB00B",
+            "name": "Scattered Cards: Eisuke"
+        },
+        {
+            "id": "0100F3A00F4CB00C",
+            "name": "Scattered Cards Epilogue: Eisuke"
+        },
+        {
+            "id": "0100F3A00F4CB00D",
+            "name": "Scattered Cards: Soryu"
+        },
+        {
+            "id": "0100F3A00F4CB00E",
+            "name": "Scattered Cards Epilogue: Soryu"
+        },
+        {
+            "id": "0100F3A00F4CB00F",
+            "name": "Scattered Cards: Ota"
+        },
+        {
+            "id": "0100F3A00F4CB010",
+            "name": "Scattered Cards Epilogue: Ota"
+        },
+        {
+            "id": "0100F3A00F4CB011",
+            "name": "Scattered Cards: Mamoru"
+        },
+        {
+            "id": "0100F3A00F4CB012",
+            "name": "Scattered Cards Epilogue: Mamoru"
+        },
+        {
+            "id": "0100F3A00F4CB013",
+            "name": "Living Together: Shuichi"
+        },
+        {
+            "id": "0100F3A00F4CB014",
+            "name": "Living Together Epilogue: Shuichi"
+        },
+        {
+            "id": "0100F3A00F4CB015",
+            "name": "Engagement Cruise: Eisuke"
+        },
+        {
+            "id": "0100F3A00F4CB016",
+            "name": "Engagement Cruise His PoV: Eisuke"
+        },
+        {
+            "id": "0100F3A00F4CB017",
+            "name": "Engagement Cruise: Soryu"
+        },
+        {
+            "id": "0100F3A00F4CB018",
+            "name": "Engagement Cruise His PoV: Soryu"
+        },
+        {
+            "id": "0100F3A00F4CB019",
+            "name": "Engagement Cruise: Ota"
+        },
+        {
+            "id": "0100F3A00F4CB01A",
+            "name": "Engagement Cruise His PoV: Ota"
+        },
+        {
+            "id": "0100F3A00F4CB01B",
+            "name": "Engagement Cruise: Mamoru"
+        },
+        {
+            "id": "0100F3A00F4CB01C",
+            "name": "Engagement Cruise His PoV: Mamoru"
+        }
+    ],
     "latest": 0
 }

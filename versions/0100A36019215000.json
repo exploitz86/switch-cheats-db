@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100A36019215001",
+            "name": "Kitten's Head Football: Halloween"
+        },
+        {
+            "id": "0100A36019215002",
+            "name": "Kitten's Head Football: Christmas"
+        }
+    ],
     "latest": 0
 }

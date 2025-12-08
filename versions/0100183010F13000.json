@@ -1,3 +1,33 @@
 {
+    "dlc": [
+        {
+            "id": "0100183010F13065",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100183010F1306C",
+            "name": "JUMP FORCE Early Purchase Bonus"
+        },
+        {
+            "id": "0100183010F130D2",
+            "name": "JUMP FORCE Character Pack 10: Shoto Todoroki"
+        },
+        {
+            "id": "0100183010F130D3",
+            "name": "JUMP FORCE Character Pack 11: Meruem"
+        },
+        {
+            "id": "0100183010F130D4",
+            "name": "JUMP FORCE Character Pack 12: Hiei"
+        },
+        {
+            "id": "0100183010F130D5",
+            "name": "JUMP FORCE Character Pack 13: Yoruichi Shihoin"
+        },
+        {
+            "id": "0100183010F130D6",
+            "name": "JUMP FORCE Character Pack 14: Giorno Giovanna"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "01000CE00CBB9001",
+            "name": "Plague Inc: The Cure"
+        }
+    ],
     "latest": 0
 }

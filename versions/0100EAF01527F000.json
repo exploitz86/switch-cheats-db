@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "0100EAF01527F001",
+            "name": "Back to School"
+        },
+        {
+            "id": "0100EAF01527F002",
+            "name": "Late Fees"
+        },
+        {
+            "id": "0100EAF01527F003",
+            "name": "Hello-copter"
+        }
+    ],
     "latest": 0
 }

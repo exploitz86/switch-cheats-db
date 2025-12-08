@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "0100F42007753001",
+            "name": "Touhou Sky Arena Playable Character \"Toyosatomimi no Miko\""
+        },
+        {
+            "id": "0100F42007753002",
+            "name": "Touhou Sky Arena Playable Character \"Yukari Yakumo\""
+        },
+        {
+            "id": "0100F42007753003",
+            "name": "Touhou Sky Arena Playable Character \" Yuyuko Saigyouji\""
+        },
+        {
+            "id": "0100F42007753005",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 0
 }

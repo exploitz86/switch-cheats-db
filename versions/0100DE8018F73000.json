@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100DE8018F73001",
+            "name": "Fashion Princess: Extra Levels!"
+        },
+        {
+            "id": "0100DE8018F73002",
+            "name": "Fashion Princess: Special Levels"
+        }
+    ],
     "latest": 0
 }

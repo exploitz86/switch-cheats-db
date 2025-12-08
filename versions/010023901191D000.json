@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "010023901191D001",
+            "name": "The Dungeon of Naheulbeuk: The Amulet of Chaos - Chicken Edition DLC: Splat Jaypak's Arenas"
+        },
+        {
+            "id": "010023901191D002",
+            "name": "The Dungeon of Naheulbeuk: The Amulet of Chaos - Back to the futon"
+        }
+    ],
     "latest": 0
 }

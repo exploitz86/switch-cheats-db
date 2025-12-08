@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "0100F41015BF5001",
+            "name": "Experience x3 - Ghost Sync"
+        },
+        {
+            "id": "0100F41015BF5002",
+            "name": "No Encounters - Ghost Sync"
+        },
+        {
+            "id": "0100F41015BF5003",
+            "name": "Damage x2 - Ghost Sync"
+        }
+    ],
     "latest": 0
 }

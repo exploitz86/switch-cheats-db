@@ -1,3 +1,29 @@
 {
+    "dlc": [
+        {
+            "id": "010015F005C8F001",
+            "name": "Candy Bricks"
+        },
+        {
+            "id": "010015F005C8F002",
+            "name": "Galaxy Bricks"
+        },
+        {
+            "id": "010015F005C8F003",
+            "name": "Gem Bricks"
+        },
+        {
+            "id": "010015F005C8F004",
+            "name": "Holographic Bricks"
+        },
+        {
+            "id": "010015F005C8F005",
+            "name": "Indie Friends"
+        },
+        {
+            "id": "010015F005C8F006",
+            "name": "Spirit Animal Pack"
+        }
+    ],
     "latest": 0
 }

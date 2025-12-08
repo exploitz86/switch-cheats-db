@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "010060801843B002",
+            "name": "Rubber Bandits: Supporter Pack"
+        },
+        {
+            "id": "010060801843B003",
+            "name": "Rubber Bandits: Go Wild Pack"
+        },
+        {
+            "id": "010060801843B004",
+            "name": "Rubber Bandits: Fur Party Pack"
+        }
+    ],
     "latest": 0
 }

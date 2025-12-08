@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "010026F0153C3001",
+            "name": "Easy Red 2: Stalingrad"
+        },
+        {
+            "id": "010026F0153C3002",
+            "name": "Easy Red 2: Normandy"
+        }
+    ],
     "latest": 0
 }

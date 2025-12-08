@@ -1,3 +1,29 @@
 {
+    "dlc": [
+        {
+            "id": "010075200F1CB001",
+            "name": "Eye of Truth"
+        },
+        {
+            "id": "010075200F1CB002",
+            "name": "Fountain of Glory"
+        },
+        {
+            "id": "010075200F1CB003",
+            "name": "Chain of Destiny"
+        },
+        {
+            "id": "010075200F1CB004",
+            "name": "Sword of Transcendence"
+        },
+        {
+            "id": "010075200F1CB005",
+            "name": "Source of Vitality"
+        },
+        {
+            "id": "010075200F1CB006",
+            "name": "Infinity Ring"
+        }
+    ],
     "latest": 0
 }

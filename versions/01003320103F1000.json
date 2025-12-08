@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "01003320103F1001",
+            "name": "Breakfast Bar Tycoon Expansion pack"
+        },
+        {
+            "id": "01003320103F1002",
+            "name": "Breakfast Bar Tycoon Expansion Pack #2"
+        },
+        {
+            "id": "01003320103F1003",
+            "name": "Breakfast Bar Tycoon Multiplayer Mode"
+        }
+    ],
     "latest": 0
 }

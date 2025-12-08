@@ -1,3 +1,29 @@
 {
+    "dlc": [
+        {
+            "id": "01000A10041EB001",
+            "name": "The Elder Scrolls V: Skyrim German Language Pack"
+        },
+        {
+            "id": "01000A10041EB003",
+            "name": "The Elder Scrolls V: Skyrim Spanish Language Pack"
+        },
+        {
+            "id": "01000A10041EB004",
+            "name": "The Elder Scrolls V: Skyrim French Language Pack"
+        },
+        {
+            "id": "01000A10041EB005",
+            "name": "The Elder Scrolls V: Skyrim Italian Language Pack"
+        },
+        {
+            "id": "01000A10041EB008",
+            "name": "The Elder Scrolls V: Skyrim Russian Language Pack"
+        },
+        {
+            "id": "01000A10041EB009",
+            "name": "The Elder Scrolls V: Skyrim Anniversary Upgrade"
+        }
+    ],
     "latest": 65536
 }

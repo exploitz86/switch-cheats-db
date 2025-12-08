@@ -1,3 +1,89 @@
 {
+    "dlc": [
+        {
+            "id": "0100CD300880F001",
+            "name": "Season One Table Pack"
+        },
+        {
+            "id": "0100CD300880F002",
+            "name": "Season Two Table Pack"
+        },
+        {
+            "id": "0100CD300880F003",
+            "name": "Season Three Table Pack"
+        },
+        {
+            "id": "0100CD300880F004",
+            "name": "Season Four Table Pack"
+        },
+        {
+            "id": "0100CD300880F005",
+            "name": "Season Five Table Pack"
+        },
+        {
+            "id": "0100CD300880F006",
+            "name": "Season Six Table Pack"
+        },
+        {
+            "id": "0100CD300880F007",
+            "name": "Season Seven Table Pack"
+        },
+        {
+            "id": "0100CD300880F008",
+            "name": "Gottlieb Table Pack 1"
+        },
+        {
+            "id": "0100CD300880F009",
+            "name": "Gottlieb Table Pack 2"
+        },
+        {
+            "id": "0100CD300880F00A",
+            "name": "Gottlieb Table Pack 3"
+        },
+        {
+            "id": "0100CD300880F00B",
+            "name": "Gottlieb EM Table Pack"
+        },
+        {
+            "id": "0100CD300880F00C",
+            "name": "Stern Table Pack 1"
+        },
+        {
+            "id": "0100CD300880F00D",
+            "name": "Stern Table Pack 2"
+        },
+        {
+            "id": "0100CD300880F00E",
+            "name": "Alvin G. & Co Table Pack"
+        },
+        {
+            "id": "0100CD300880F00F",
+            "name": "Doctor Who: Master of Time"
+        },
+        {
+            "id": "0100CD300880F010",
+            "name": "Glo-Ball Pack"
+        },
+        {
+            "id": "0100CD300880F011",
+            "name": "Gottlieb Ball Pack 1"
+        },
+        {
+            "id": "0100CD300880F012",
+            "name": "Gottlieb Retro Ball Pack"
+        },
+        {
+            "id": "0100CD300880F013",
+            "name": "Stern Ball Pack 1"
+        },
+        {
+            "id": "0100CD300880F014",
+            "name": "Doctor Who Ball Pack"
+        },
+        {
+            "id": "0100CD300880F015",
+            "name": "FarSight Ball Pack"
+        }
+    ],
     "latest": 262144
 }

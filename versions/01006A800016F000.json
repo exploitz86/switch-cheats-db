@@ -1,3 +1,401 @@
 {
+    "dlc": [
+        {
+            "id": "01006A800016F001",
+            "name": "Super Smash Bros.\u2122 Ultimate: Piranha Plant Standalone Fighter"
+        },
+        {
+            "id": "01006A800016F002",
+            "name": "Super Smash Bros.\u2122 Ultimate: Challenger Pack 1"
+        },
+        {
+            "id": "01006A800016F003",
+            "name": "Super Smash Bros.\u2122 Ultimate: Challenger Pack 2"
+        },
+        {
+            "id": "01006A800016F004",
+            "name": "Super Smash Bros.\u2122 Ultimate: Challenger Pack 3"
+        },
+        {
+            "id": "01006A800016F005",
+            "name": "Super Smash Bros.\u2122 Ultimate: Challenger Pack 4"
+        },
+        {
+            "id": "01006A800016F006",
+            "name": "Super Smash Bros.\u2122 Ultimate: Challenger Pack 5"
+        },
+        {
+            "id": "01006A800016F007",
+            "name": "Super Smash Bros.\u2122 Ultimate: Challenger Pack 6"
+        },
+        {
+            "id": "01006A800016F008",
+            "name": "Super Smash Bros.\u2122 Ultimate: Challenger Pack 7"
+        },
+        {
+            "id": "01006A800016F009",
+            "name": "Super Smash Bros.\u2122 Ultimate: Challenger Pack 8"
+        },
+        {
+            "id": "01006A800016F00A",
+            "name": "Super Smash Bros.\u2122 Ultimate: Challenger Pack 9"
+        },
+        {
+            "id": "01006A800016F00B",
+            "name": "Super Smash Bros.\u2122 Ultimate: Challenger Pack 10"
+        },
+        {
+            "id": "01006A800016F00C",
+            "name": "Super Smash Bros.\u2122 Ultimate: Challenger Pack 11"
+        },
+        {
+            "id": "01006A800016F015",
+            "name": "Super Smash Bros. Ultimate Fighters Pass Bonus Mii Fighter Costume (Rex)"
+        },
+        {
+            "id": "01006A800016F016",
+            "name": "Fighters Pass Bonus Mii Fighter Costume (Ancient Soldier)"
+        },
+        {
+            "id": "01006A800016F01F",
+            "name": "\u3010Costume\u3011Persona 3 Protagonist Outfit and Wig"
+        },
+        {
+            "id": "01006A800016F020",
+            "name": "\u3010Costume\u3011Persona 4 Protagonist Outfit and Wig"
+        },
+        {
+            "id": "01006A800016F021",
+            "name": "\u3010Costume\u3011Teddie Hat"
+        },
+        {
+            "id": "01006A800016F022",
+            "name": "\u3010Costume\u3011Morgana Hat"
+        },
+        {
+            "id": "01006A800016F023",
+            "name": "\u3010Costume\u3011Tails Outfit and Hat"
+        },
+        {
+            "id": "01006A800016F024",
+            "name": "\u3010Costume\u3011Knuckles Outfit and Hat"
+        },
+        {
+            "id": "01006A800016F025",
+            "name": "\u3010Costume\u3011Erdrick's Armor and Helmet"
+        },
+        {
+            "id": "01006A800016F026",
+            "name": "\u3010Costume\u3011Martial Artist Gi and Wig"
+        },
+        {
+            "id": "01006A800016F027",
+            "name": "\u3010Costume\u3011Veronica's Outfit and Hat"
+        },
+        {
+            "id": "01006A800016F028",
+            "name": "\u3010Costume\u3011Slime Hat"
+        },
+        {
+            "id": "01006A800016F029",
+            "name": "\u3010Costume\u3011Team Rocket Outfit and Hat"
+        },
+        {
+            "id": "01006A800016F02A",
+            "name": "\u3010Costume\u3011Goemon Outfit and Wig"
+        },
+        {
+            "id": "01006A800016F02B",
+            "name": "\u3010Costume\u3011Sans Outfit and Mask"
+        },
+        {
+            "id": "01006A800016F02C",
+            "name": "\u3010Costume\u3011Proto Man's Armor and Helmet"
+        },
+        {
+            "id": "01006A800016F02D",
+            "name": "\u3010Costume\u3011Zero's Armor and Helmet"
+        },
+        {
+            "id": "01006A800016F02E",
+            "name": "\u3010Costume\u3011Ryo Sakazaki Outfit and Wig"
+        },
+        {
+            "id": "01006A800016F02F",
+            "name": "\u3010Costume\u3011Nakoruru Outfit and Wig"
+        },
+        {
+            "id": "01006A800016F030",
+            "name": "\u3010Costume\u3011Iori Yagami Outfit and Wig"
+        },
+        {
+            "id": "01006A800016F031",
+            "name": "\u3010Costume\u3011Akira Outfit and Wig"
+        },
+        {
+            "id": "01006A800016F032",
+            "name": "\u3010Costume\u3011Jacky's Outfit and Wig"
+        },
+        {
+            "id": "01006A800016F033",
+            "name": "\u3010Costume\u3011Cuphead Outfit and Hat"
+        },
+        {
+            "id": "01006A800016F034",
+            "name": "\u3010Costume\u3011Alta\u00efr Outfit and Hood"
+        },
+        {
+            "id": "01006A800016F035",
+            "name": "\u3010Costume\u3011Rabbids Hat"
+        },
+        {
+            "id": "01006A800016F036",
+            "name": "\u3010Costume\u3011X's Armor and Helmet"
+        },
+        {
+            "id": "01006A800016F037",
+            "name": "\u3010Costume\u3011MegaMan.EXE's Armor and Helmet"
+        },
+        {
+            "id": "01006A800016F038",
+            "name": "\u3010Costume\u3011Ninjara Outfit and Wig"
+        },
+        {
+            "id": "01006A800016F039",
+            "name": "\u3010Costume\u3011Callie Outfit and Wig"
+        },
+        {
+            "id": "01006A800016F03A",
+            "name": "\u3010Costume\u3011Marie Outfit and Wig"
+        },
+        {
+            "id": "01006A800016F03B",
+            "name": "\u3010Costume\u3011Vault Boy Outfit and Mask"
+        },
+        {
+            "id": "01006A800016F03C",
+            "name": "\u3010Costume\u3011Heihachi Outfit and Wig"
+        },
+        {
+            "id": "01006A800016F03D",
+            "name": "\u3010Costume\u3011Creeper Outfit and Mask"
+        },
+        {
+            "id": "01006A800016F03E",
+            "name": "\u3010Costume\u3011Pig Outfit and Mask"
+        },
+        {
+            "id": "01006A800016F03F",
+            "name": "\u3010Costume\u3011Diamond Armor and Helmet"
+        },
+        {
+            "id": "01006A800016F040",
+            "name": "\u3010Costume\u3011Travis Outfit and Wig"
+        },
+        {
+            "id": "01006A800016F041",
+            "name": "\u3010Costume\u3011Bomberman Outfit and Mask"
+        },
+        {
+            "id": "01006A800016F042",
+            "name": "\u3010Costume\u3011Gil's Armor and Helmet"
+        },
+        {
+            "id": "01006A800016F043",
+            "name": "\u3010Costume\u3011Barret's Outfit"
+        },
+        {
+            "id": "01006A800016F044",
+            "name": "\u3010Costume\u3011Tifa's Outfit"
+        },
+        {
+            "id": "01006A800016F045",
+            "name": "\u3010Costume\u3011Aerith's Outfit"
+        },
+        {
+            "id": "01006A800016F046",
+            "name": "\u3010Costume\u3011Chocobo Hat"
+        },
+        {
+            "id": "01006A800016F047",
+            "name": "\u3010Costume\u3011Geno Hat + Outfit"
+        },
+        {
+            "id": "01006A800016F048",
+            "name": "\u3010Costume\u3011Arthur's Armor and Helm"
+        },
+        {
+            "id": "01006A800016F049",
+            "name": "\u3010Costume\u3011Felyne Hat"
+        },
+        {
+            "id": "01006A800016F04A",
+            "name": "\u3010Costume\u3011Hunter's Mail and Helm"
+        },
+        {
+            "id": "01006A800016F04B",
+            "name": "\u3010Costume\u3011Rathalos Mail and Helm"
+        },
+        {
+            "id": "01006A800016F04C",
+            "name": "\u3010Costume\u3011Dante Outfit and Wig"
+        },
+        {
+            "id": "01006A800016F04D",
+            "name": "\u3010Costume\u3011Shantae Outfit, Wig, and Song"
+        },
+        {
+            "id": "01006A800016F04E",
+            "name": "\u3010Costume\u3011Dragonborn Outfit and Helm"
+        },
+        {
+            "id": "01006A800016F04F",
+            "name": "\u3010Costume\u3011Lloyd Outfit and Wig"
+        },
+        {
+            "id": "01006A800016F050",
+            "name": "\u3010Costume\u3011Judd Hat"
+        },
+        {
+            "id": "01006A800016F051",
+            "name": "\u3010Costume\u3011Octoling Wig"
+        },
+        {
+            "id": "01006A800016F052",
+            "name": "\u3010Costume\u3011Doom Slayer's Armor and Helmet"
+        },
+        {
+            "id": "01006A800016F065",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006A800016F066",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006A800016F067",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006A800016F068",
+            "name": "Spirit Board Challenge Pack 1 -Challenge various Spirits!-"
+        },
+        {
+            "id": "01006A800016F069",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006A800016F06A",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006A800016F06B",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006A800016F06C",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006A800016F06D",
+            "name": "Spirit Board Challenge Pack 2 -Challenge Strong Enemies!-"
+        },
+        {
+            "id": "01006A800016F06E",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006A800016F06F",
+            "name": "Spirit Board Challenge Pack 3 -Bonus 5000 in-game Gold and 3 Classic Tickets -"
+        },
+        {
+            "id": "01006A800016F070",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006A800016F071",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006A800016F072",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006A800016F073",
+            "name": "Spirit Board Challenge Pack 4 -Bolster Your Spirits-"
+        },
+        {
+            "id": "01006A800016F077",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006A800016F078",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006A800016F079",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006A800016F07A",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006A800016F07B",
+            "name": "Spirit Board Challenge Pack 5 -Snipe your Target!-"
+        },
+        {
+            "id": "01006A800016F07C",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006A800016F07D",
+            "name": "Vault Shopper Set 2 -Classic Tickets and Gold for Music, Mii Costumes, and More-"
+        },
+        {
+            "id": "01006A800016F07E",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006A800016F07F",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006A800016F080",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006A800016F081",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006A800016F082",
+            "name": "Spirit Board Challenge Pack 7 - Challenge Powerful Enemies! -"
+        },
+        {
+            "id": "01006A800016F083",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006A800016F084",
+            "name": "Spirits Set 1 \u2013 Legend Support and Ace Primary"
+        },
+        {
+            "id": "01006A800016F085",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006A800016F086",
+            "name": "Spirits Set 2 - Legend-Class Primary & Ace-Class Support"
+        },
+        {
+            "id": "01006A800016F087",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006A800016F088",
+            "name": "Spirit Booster Bundle #2 - Reaching Lv. MAX"
+        }
+    ],
     "latest": 0
 }

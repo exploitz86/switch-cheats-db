@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "010060A011ECD001",
+            "name": "Knights & Guns Expansion Pack #1"
+        },
+        {
+            "id": "010060A011ECD002",
+            "name": "Knights & Guns Expansion Pack #2"
+        },
+        {
+            "id": "010060A011ECD003",
+            "name": "Knights & Guns Armor Pack #1"
+        },
+        {
+            "id": "010060A011ECD004",
+            "name": "Knights & Guns Armor Pack #2"
+        }
+    ],
     "latest": 0
 }

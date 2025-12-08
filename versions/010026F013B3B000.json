@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "010026F013B3B001",
+            "name": "King's Bounty II - Day One Edition Pack"
+        },
+        {
+            "id": "010026F013B3B002",
+            "name": "King's Bounty II - Lord's Edition Upgrade"
+        }
+    ],
     "latest": 196608
 }

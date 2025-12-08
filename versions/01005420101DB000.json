@@ -1,3 +1,233 @@
 {
+    "dlc": [
+        {
+            "id": "01005420101DB03C",
+            "name": "Trails of Cold Steel III: Cute Hair Extension Set"
+        },
+        {
+            "id": "01005420101DB03D",
+            "name": "Trails of Cold Steel III: Cool Hair Extension Set"
+        },
+        {
+            "id": "01005420101DB041",
+            "name": "Trails of Cold Steel III: Rainbow Hair Set"
+        },
+        {
+            "id": "01005420101DB055",
+            "name": "Trails of Cold Steel III: Raccoon Set"
+        },
+        {
+            "id": "01005420101DB056",
+            "name": "Trails of Cold Steel III: Snow Leopard Set"
+        },
+        {
+            "id": "01005420101DB057",
+            "name": "Trails of Cold Steel III: Bunny Set"
+        },
+        {
+            "id": "01005420101DB05A",
+            "name": "Trails of Cold Steel III: Angel Set"
+        },
+        {
+            "id": "01005420101DB05B",
+            "name": "Trails of Cold Steel III: Devil Set"
+        },
+        {
+            "id": "01005420101DB05C",
+            "name": "Trails of Cold Steel III: Ashen Knight Set"
+        },
+        {
+            "id": "01005420101DB064",
+            "name": "Trails of Cold Steel III: Self-Assertion Panels"
+        },
+        {
+            "id": "01005420101DB069",
+            "name": "Trails of Cold Steel III: ARCUS Cover Set A"
+        },
+        {
+            "id": "01005420101DB06A",
+            "name": "Trails of Cold Steel III: ARCUS Cover Set B"
+        },
+        {
+            "id": "01005420101DB06B",
+            "name": "Trails of Cold Steel III: ARCUS Cover Set C"
+        },
+        {
+            "id": "01005420101DB06C",
+            "name": "Trails of Cold Steel III: ARCUS Cover Set D"
+        },
+        {
+            "id": "01005420101DB073",
+            "name": "Trails of Cold Steel III: Free Sample Set A"
+        },
+        {
+            "id": "01005420101DB074",
+            "name": "Trails of Cold Steel III: Free Sample Set B"
+        },
+        {
+            "id": "01005420101DB078",
+            "name": "Trails of Cold Steel III: Sepith Set 1"
+        },
+        {
+            "id": "01005420101DB079",
+            "name": "Trails of Cold Steel III: Sepith Set 2"
+        },
+        {
+            "id": "01005420101DB07A",
+            "name": "Trails of Cold Steel III: Sepith Set 3"
+        },
+        {
+            "id": "01005420101DB07D",
+            "name": "Trails of Cold Steel III: Advanced Medicine Set 1"
+        },
+        {
+            "id": "01005420101DB07E",
+            "name": "Trails of Cold Steel III: Advanced Medicine Set 2"
+        },
+        {
+            "id": "01005420101DB07F",
+            "name": "Trails of Cold Steel III: Advanced Medicine Set 3"
+        },
+        {
+            "id": "01005420101DB082",
+            "name": "Trails of Cold Steel III: Zeram Powder Set 1"
+        },
+        {
+            "id": "01005420101DB083",
+            "name": "Trails of Cold Steel III: Zeram Powder Set 2"
+        },
+        {
+            "id": "01005420101DB084",
+            "name": "Trails of Cold Steel III: Zeram Powder Set 3"
+        },
+        {
+            "id": "01005420101DB087",
+            "name": "Trails of Cold Steel III: Zeram Capsule Set 1"
+        },
+        {
+            "id": "01005420101DB088",
+            "name": "Trails of Cold Steel III: Zeram Capsule Set 2"
+        },
+        {
+            "id": "01005420101DB089",
+            "name": "Trails of Cold Steel III: Zeram Capsule Set 3"
+        },
+        {
+            "id": "01005420101DB08C",
+            "name": "Trails of Cold Steel III: U-Material Set 1"
+        },
+        {
+            "id": "01005420101DB08D",
+            "name": "Trails of Cold Steel III: U-Material Set 2"
+        },
+        {
+            "id": "01005420101DB08E",
+            "name": "Trails of Cold Steel III: U-Material Set 3"
+        },
+        {
+            "id": "01005420101DB091",
+            "name": "Trails of Cold Steel III: Droplet Set 1"
+        },
+        {
+            "id": "01005420101DB092",
+            "name": "Trails of Cold Steel III: Droplet Set 2"
+        },
+        {
+            "id": "01005420101DB093",
+            "name": "Trails of Cold Steel III: Droplet Set 3"
+        },
+        {
+            "id": "01005420101DB094",
+            "name": "Trails of Cold Steel III: Droplet Set 4"
+        },
+        {
+            "id": "01005420101DB095",
+            "name": "Trails of Cold Steel III: Droplet Set 5"
+        },
+        {
+            "id": "01005420101DB096",
+            "name": "Trails of Cold Steel III: Useful Accessories Set"
+        },
+        {
+            "id": "01005420101DB09B",
+            "name": "Trails of Cold Steel III: Monster Ingredients Set 1"
+        },
+        {
+            "id": "01005420101DB09C",
+            "name": "Trails of Cold Steel III: Monster Ingredients Set 2"
+        },
+        {
+            "id": "01005420101DB09D",
+            "name": "Trails of Cold Steel III: Monster Ingredients Set 3"
+        },
+        {
+            "id": "01005420101DB0A0",
+            "name": "Trails of Cold Steel III: Spirit Incense Set 1"
+        },
+        {
+            "id": "01005420101DB0A1",
+            "name": "Trails of Cold Steel III: Spirit Incense Set 2"
+        },
+        {
+            "id": "01005420101DB0A2",
+            "name": "Trails of Cold Steel III: Spirit Incense Set 3"
+        },
+        {
+            "id": "01005420101DB0A5",
+            "name": "Trails of Cold Steel III: Dragon Incense Set 1"
+        },
+        {
+            "id": "01005420101DB0A6",
+            "name": "Trails of Cold Steel III: Dragon Incense Set 2"
+        },
+        {
+            "id": "01005420101DB0A7",
+            "name": "Trails of Cold Steel III: Dragon Incense Set 3"
+        },
+        {
+            "id": "01005420101DB0C8",
+            "name": "Trails of Cold Steel III: Shining Pom Droplet Set 1"
+        },
+        {
+            "id": "01005420101DB0C9",
+            "name": "Trails of Cold Steel III: Shining Pom Droplet Set 2"
+        },
+        {
+            "id": "01005420101DB0CA",
+            "name": "Trails of Cold Steel III: Shining Pom Droplet Set 3"
+        },
+        {
+            "id": "01005420101DB0CB",
+            "name": "Trails of Cold Steel III: Shining Pom Droplet Set 4"
+        },
+        {
+            "id": "01005420101DB0CC",
+            "name": "Trails of Cold Steel III: Shining Pom Droplet Set 5"
+        },
+        {
+            "id": "01005420101DB0CD",
+            "name": "Trails of Cold Steel III: Shining Pom Droplet Value Set 1"
+        },
+        {
+            "id": "01005420101DB0CE",
+            "name": "Trails of Cold Steel III: Shining Pom Droplet Value Set 2"
+        },
+        {
+            "id": "01005420101DB0CF",
+            "name": "Trails of Cold Steel III: Shining Pom Droplet Value Set 3"
+        },
+        {
+            "id": "01005420101DB0D0",
+            "name": "Trails of Cold Steel III: Shining Pom Droplet Value Set 4"
+        },
+        {
+            "id": "01005420101DB0D1",
+            "name": "Trails of Cold Steel III: Shining Pom Droplet Value Set 5"
+        },
+        {
+            "id": "01005420101DB3E7",
+            "name": "Trails of Cold Steel III: Japanese Voice Pack"
+        }
+    ],
     "latest": 0
 }

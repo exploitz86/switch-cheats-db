@@ -1,3 +1,45 @@
 {
+    "dlc": [
+        {
+            "id": "010090E015DF1001",
+            "name": "Whiteboards Pack 1"
+        },
+        {
+            "id": "010090E015DF1002",
+            "name": "Whiteboards Pack 2"
+        },
+        {
+            "id": "010090E015DF1003",
+            "name": "Whiteboards Pack 3"
+        },
+        {
+            "id": "010090E015DF1004",
+            "name": "Whiteboards Pack 4"
+        },
+        {
+            "id": "010090E015DF1005",
+            "name": "Whiteboards Pack 5"
+        },
+        {
+            "id": "010090E015DF1006",
+            "name": "Whiteboards Pack 6"
+        },
+        {
+            "id": "010090E015DF1007",
+            "name": "Whiteboards Pack 7"
+        },
+        {
+            "id": "010090E015DF1008",
+            "name": "Whiteboards Pack 8"
+        },
+        {
+            "id": "010090E015DF1009",
+            "name": "A Christmas Tree"
+        },
+        {
+            "id": "010090E015DF100A",
+            "name": "Snowballs"
+        }
+    ],
     "latest": 0
 }

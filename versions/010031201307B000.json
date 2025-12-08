@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "010031201307B001",
+            "name": "Warhammer Age of Sigmar: Storm Ground - Spoils of War Weapon Pack"
+        }
+    ],
     "latest": 65536
 }

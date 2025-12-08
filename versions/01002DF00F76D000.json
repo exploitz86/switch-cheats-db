@@ -1,3 +1,53 @@
 {
+    "dlc": [
+        {
+            "id": "01002DF00F76D065",
+            "name": "SAMURAI SHODOWN: CHARACTER \"RIMURURU\""
+        },
+        {
+            "id": "01002DF00F76D066",
+            "name": "SAMURAI SHODOWN: CHARACTER \"BASARA\""
+        },
+        {
+            "id": "01002DF00F76D067",
+            "name": "SAMURAI SHODOWN: CHARACTER \"KAZUKI\""
+        },
+        {
+            "id": "01002DF00F76D068",
+            "name": "SAMURAI SHODOWN: CHARACTER \"WAN-FU\""
+        },
+        {
+            "id": "01002DF00F76D069",
+            "name": "SAMURAI SHODOWN: CHARACTER \"MINA\""
+        },
+        {
+            "id": "01002DF00F76D06A",
+            "name": "SAMURAI SHODOWN: CHARACTER \"SOGETSU KAZAMA\""
+        },
+        {
+            "id": "01002DF00F76D06B",
+            "name": "SAMURAI SHODOWN: CHARACTER \"IROHA\""
+        },
+        {
+            "id": "01002DF00F76D06C",
+            "name": "SAMURAI SHODOWN: CHARACTER \"WARDEN\""
+        },
+        {
+            "id": "01002DF00F76D06D",
+            "name": "SAMURAI SHODOWN: CHARACTER \"CHAM CHAM\""
+        },
+        {
+            "id": "01002DF00F76D06E",
+            "name": "SAMURAI SHODOWN: CHARACTER \"HIBIKI TAKANE\""
+        },
+        {
+            "id": "01002DF00F76D06F",
+            "name": "SAMURAI SHODOWN: CHARACTER \"SHIRO TOKISADA AMAKUSA\""
+        },
+        {
+            "id": "01002DF00F76D070",
+            "name": "SAMURAI SHODOWN: CHARACTER \"BAIKEN\""
+        }
+    ],
     "latest": 65536
 }

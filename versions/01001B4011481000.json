@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "01001B4011481001",
+            "name": "Doom & Destiny Worlds - Survival of the Nerdiest"
+        },
+        {
+            "id": "01001B4011481002",
+            "name": "Doom & Destiny Worlds - Fantastic Quests and Where to Find Them"
+        },
+        {
+            "id": "01001B4011481003",
+            "name": "Doom & Destiny Worlds - Damsels & Dragons"
+        },
+        {
+            "id": "01001B4011481004",
+            "name": "Doom & Destiny Worlds - Deluxe Content"
+        }
+    ],
     "latest": 0
 }

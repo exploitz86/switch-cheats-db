@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "0100B3900F02B001",
+            "name": "Additional player character \"Ode\""
+        }
+    ],
     "latest": 0
 }

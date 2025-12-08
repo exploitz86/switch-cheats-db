@@ -1,3 +1,29 @@
 {
+    "dlc": [
+        {
+            "id": "01008EE0177A9001",
+            "name": "DORAEMON STORY OF SEASONS: Friends of the Great Kingdom - Winter Tales"
+        },
+        {
+            "id": "01008EE0177A9002",
+            "name": "DORAEMON STORY OF SEASONS: FGK - The Life of Insects"
+        },
+        {
+            "id": "01008EE0177A9003",
+            "name": "DORAEMON STORY OF SEASONS: FGK - Together with Animals"
+        },
+        {
+            "id": "01008EE0177A900B",
+            "name": "DORAEMON STORY OF SEASONS: FGK Premium Crops Seed Set"
+        },
+        {
+            "id": "01008EE0177A90C9",
+            "name": "DORAEMON STORY OF SEASONS: FGK Seasonal Veggies Seeds Set"
+        },
+        {
+            "id": "01008EE0177A90CB",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "01009EA00C793001",
+            "name": "Lightseekers Fast Start Pack"
+        },
+        {
+            "id": "01009EA00C793002",
+            "name": "Lightseekers Adventure Pack"
+        },
+        {
+            "id": "01009EA00C793003",
+            "name": "Lightseekers Storm Pack"
+        },
+        {
+            "id": "01009EA00C793004",
+            "name": "Lightseekers Mountain Pack"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "010008900BC5B001",
+            "name": "DYSMANTLE: Underworld"
+        },
+        {
+            "id": "010008900BC5B002",
+            "name": "DYSMANTLE: Doomsday"
+        }
+    ],
     "latest": 0
 }

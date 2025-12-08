@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "0100A9E00D97B001",
+            "name": "Svafnir, Clan of the Snake"
+        },
+        {
+            "id": "0100A9E00D97B003",
+            "name": "Northgard - Nidhogg, Clan of the Dragon"
+        },
+        {
+            "id": "0100A9E00D97B004",
+            "name": "Svadilfari, the Clan of the Horse"
+        }
+    ],
     "latest": 65536
 }

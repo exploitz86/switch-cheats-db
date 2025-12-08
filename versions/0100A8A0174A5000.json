@@ -1,3 +1,69 @@
 {
+    "dlc": [
+        {
+            "id": "0100A8A0174A5001",
+            "name": "Decorations Pack 1"
+        },
+        {
+            "id": "0100A8A0174A5002",
+            "name": "Decorations Pack 2"
+        },
+        {
+            "id": "0100A8A0174A5003",
+            "name": "Decorations Pack 3"
+        },
+        {
+            "id": "0100A8A0174A5004",
+            "name": "Decorations Pack 4"
+        },
+        {
+            "id": "0100A8A0174A5005",
+            "name": "Decorations Pack 5"
+        },
+        {
+            "id": "0100A8A0174A5006",
+            "name": "Decorations Pack 6"
+        },
+        {
+            "id": "0100A8A0174A5007",
+            "name": "Decorations Pack 7"
+        },
+        {
+            "id": "0100A8A0174A5008",
+            "name": "Decorations Pack 8"
+        },
+        {
+            "id": "0100A8A0174A5009",
+            "name": "Decorations Pack 9"
+        },
+        {
+            "id": "0100A8A0174A500A",
+            "name": "Decorations Pack 10"
+        },
+        {
+            "id": "0100A8A0174A500B",
+            "name": "Decorations Pack 11"
+        },
+        {
+            "id": "0100A8A0174A500C",
+            "name": "Decorations Pack 12"
+        },
+        {
+            "id": "0100A8A0174A500D",
+            "name": "Decorations Pack 13"
+        },
+        {
+            "id": "0100A8A0174A500E",
+            "name": "Decorations Pack 14"
+        },
+        {
+            "id": "0100A8A0174A500F",
+            "name": "Decorations Pack 15"
+        },
+        {
+            "id": "0100A8A0174A5010",
+            "name": "Decorations Pack 16"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,33 @@
 {
+    "dlc": [
+        {
+            "id": "0100AA3015C37003",
+            "name": "Aquarion"
+        },
+        {
+            "id": "0100AA3015C37005",
+            "name": "Elyrion"
+        },
+        {
+            "id": "0100AA3015C37010",
+            "name": "Polaris"
+        },
+        {
+            "id": "0100AA3015C37011",
+            "name": "Cymanti"
+        },
+        {
+            "id": "0100AA3015C373E8",
+            "name": "Skin Pack #1"
+        },
+        {
+            "id": "0100AA3015C373E9",
+            "name": "Skin Pack #2"
+        },
+        {
+            "id": "0100AA3015C373EA",
+            "name": "Skin Pack #3"
+        }
+    ],
     "latest": 0
 }

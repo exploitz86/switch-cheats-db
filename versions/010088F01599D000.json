@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "010088F01599D001",
+            "name": "DEADCRAFT - Deluxe Edition Purchase Bonus"
+        },
+        {
+            "id": "010088F01599D002",
+            "name": "DEADCRAFT - It Came From the Junkyard"
+        },
+        {
+            "id": "010088F01599D003",
+            "name": "DEADCRAFT - Jessie's Wasteland Wares"
+        }
+    ],
     "latest": 0
 }

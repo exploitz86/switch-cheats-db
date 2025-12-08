@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "010065500ED97001",
+            "name": "Vale of the Wild"
+        },
+        {
+            "id": "010065500ED97002",
+            "name": "Mana Storm"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "01001F0012869001",
+            "name": "Paratopic Expansion Pack"
+        }
+    ],
     "latest": 0
 }

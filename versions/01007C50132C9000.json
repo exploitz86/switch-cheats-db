@@ -1,3 +1,65 @@
 {
+    "dlc": [
+        {
+            "id": "01007C50132C9001",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01007C50132C9002",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01007C50132C9003",
+            "name": "Ace Angler: Fishing Spirits Big Game Summoning Set"
+        },
+        {
+            "id": "01007C50132C9004",
+            "name": "Ace Angler: Fishing Spirits Diver\u2019s Set"
+        },
+        {
+            "id": "01007C50132C9005",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01007C50132C9009",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01007C50132C900E",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01007C50132C900F",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01007C50132C9010",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01007C50132C9011",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01007C50132C9013",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01007C50132C9014",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01007C50132C9015",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01007C50132C9016",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01007C50132C9017",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 0
 }

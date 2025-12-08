@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "0100838002AEB003",
+            "name": "Classic Space Pack"
+        },
+        {
+            "id": "0100838002AEB007",
+            "name": "Monsters Pack"
+        },
+        {
+            "id": "0100838002AEB00A",
+            "name": "Showcase Collection Pack 1"
+        },
+        {
+            "id": "0100838002AEB00B",
+            "name": "Showcase Collection Pack #2"
+        }
+    ],
     "latest": 0
 }

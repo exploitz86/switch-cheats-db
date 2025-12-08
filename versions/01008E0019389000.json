@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "01008E0019389001",
+            "name": "Ultra Kaiju Monster Rancher Sevenger Giant of Light Skin"
+        },
+        {
+            "id": "01008E0019389002",
+            "name": "Ultra Kaiju Monster Rancher Science Party Mocchi"
+        },
+        {
+            "id": "01008E0019389003",
+            "name": "Ultra Kaiju Monster Rancher Raising Item Set 2"
+        },
+        {
+            "id": "01008E0019389004",
+            "name": "Ultra Kaiju Monster Rancher Raising Item Set 1"
+        }
+    ],
     "latest": 0
 }

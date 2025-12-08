@@ -1,3 +1,61 @@
 {
+    "dlc": [
+        {
+            "id": "0100FCC0168FD001",
+            "name": "You Can Be a Veteran Hunter Too! Weapon Set"
+        },
+        {
+            "id": "0100FCC0168FD002",
+            "name": "Local Specialties of Misrid! Foodstuffs for Any Occasion"
+        },
+        {
+            "id": "0100FCC0168FD003",
+            "name": "Tons of Fun! Perfect Gem Set"
+        },
+        {
+            "id": "0100FCC0168FD004",
+            "name": "First Collaboration: YOMIWOSAKUHANA Characters"
+        },
+        {
+            "id": "0100FCC0168FD005",
+            "name": "Second Collaboration: YOMIWOSAKUHANA Characters"
+        },
+        {
+            "id": "0100FCC0168FD006",
+            "name": "Third Collaboration: Demon Gaze 2 Characters"
+        },
+        {
+            "id": "0100FCC0168FD007",
+            "name": "Fourth Collaboration: Death Mark & NG Characters"
+        },
+        {
+            "id": "0100FCC0168FD008",
+            "name": "Fifth Collaboration: Dengeki Comics Demon Gaze Characters"
+        },
+        {
+            "id": "0100FCC0168FD009",
+            "name": "Artifact Gem Assortment"
+        },
+        {
+            "id": "0100FCC0168FD00A",
+            "name": "Equipment (Weapons & Armor) Gem Assortment"
+        },
+        {
+            "id": "0100FCC0168FD00B",
+            "name": "Spicy (Special) Gem Assortment"
+        },
+        {
+            "id": "0100FCC0168FD00C",
+            "name": "Live the Posh Hunter Life! Luxury Furniture Set"
+        },
+        {
+            "id": "0100FCC0168FD00D",
+            "name": "Assorted Rare Items of the Gods Set"
+        },
+        {
+            "id": "0100FCC0168FD00E",
+            "name": "Healing Wand and Armor Gem Assortment Set"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100691013C47001",
+            "name": "Additional Hero, Amazon"
+        },
+        {
+            "id": "0100691013C47002",
+            "name": "Additional Hero, Necroknight"
+        }
+    ],
     "latest": 0
 }

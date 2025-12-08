@@ -1,3 +1,29 @@
 {
+    "dlc": [
+        {
+            "id": "010010F01418F001",
+            "name": "Remnant: From the Ashes - German Language Pack"
+        },
+        {
+            "id": "010010F01418F002",
+            "name": "Remnant: From the Ashes - Spanish Language Pack"
+        },
+        {
+            "id": "010010F01418F003",
+            "name": "Remnant: From the Ashes - French Language Pack"
+        },
+        {
+            "id": "010010F01418F004",
+            "name": "Remnant: From the Ashes - Italian Language Pack"
+        },
+        {
+            "id": "010010F01418F005",
+            "name": "Remnant: From the Ashes - Japanese Language Pack"
+        },
+        {
+            "id": "010010F01418F006",
+            "name": "Remnant: From the Ashes - Russian Language Pack"
+        }
+    ],
     "latest": 0
 }

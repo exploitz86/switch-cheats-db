@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "010008900705D010",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010008900705D011",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010008900705D012",
+            "name": "Dragon Quest Builders DLC Pack"
+        }
+    ],
     "latest": 0
 }

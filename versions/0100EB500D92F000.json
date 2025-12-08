@@ -1,3 +1,177 @@
 {
+    "dlc": [
+        {
+            "id": "0100EB500D92F001",
+            "name": "Dempagumi.inc Pack"
+        },
+        {
+            "id": "0100EB500D92F002",
+            "name": "Touhou Project Arrangements Pack 1"
+        },
+        {
+            "id": "0100EB500D92F003",
+            "name": "Original Pack"
+        },
+        {
+            "id": "0100EB500D92F004",
+            "name": "VOCALOID Pack 1"
+        },
+        {
+            "id": "0100EB500D92F005",
+            "name": "UNDERTALE Pack"
+        },
+        {
+            "id": "0100EB500D92F006",
+            "name": "Lanota Pack"
+        },
+        {
+            "id": "0100EB500D92F007",
+            "name": "VOCALOID Pack 2"
+        },
+        {
+            "id": "0100EB500D92F008",
+            "name": "Touhou Project Arrangements Pack 2"
+        },
+        {
+            "id": "0100EB500D92F00A",
+            "name": "VOCALOID Pack 3"
+        },
+        {
+            "id": "0100EB500D92F00B",
+            "name": "Touhou Project Arrangements Pack 3"
+        },
+        {
+            "id": "0100EB500D92F00C",
+            "name": "DJMAX RESPECT Pack"
+        },
+        {
+            "id": "0100EB500D92F00D",
+            "name": "Touhou Project Arrangements Pack 4"
+        },
+        {
+            "id": "0100EB500D92F00E",
+            "name": "VOCALOID Pack 4"
+        },
+        {
+            "id": "0100EB500D92F00F",
+            "name": "Hit Song + VTuber Pack"
+        },
+        {
+            "id": "0100EB500D92F010",
+            "name": "Original Pack 2"
+        },
+        {
+            "id": "0100EB500D92F011",
+            "name": "Muse Dash + Misc Pack"
+        },
+        {
+            "id": "0100EB500D92F012",
+            "name": "Touhou Project Arrangements Pack 5"
+        },
+        {
+            "id": "0100EB500D92F013",
+            "name": "WACCA + HARDCORE TANO*C Pack"
+        },
+        {
+            "id": "0100EB500D92F014",
+            "name": "VOCALOID Pack 5"
+        },
+        {
+            "id": "0100EB500D92F015",
+            "name": "Original Pack 3"
+        },
+        {
+            "id": "0100EB500D92F016",
+            "name": "Hit Song + VTuber Pack 2"
+        },
+        {
+            "id": "0100EB500D92F017",
+            "name": "Arcaea + Misc Pack"
+        },
+        {
+            "id": "0100EB500D92F018",
+            "name": "Original Pack 4 (10th Anniversary)"
+        },
+        {
+            "id": "0100EB500D92F019",
+            "name": "Touhou Project Arrangements Pack 6"
+        },
+        {
+            "id": "0100EB500D92F01A",
+            "name": "D4DJ Groovy Mix+Game Song Pack"
+        },
+        {
+            "id": "0100EB500D92F01B",
+            "name": "Original Pack 5 (10th Anniversary2)"
+        },
+        {
+            "id": "0100EB500D92F01C",
+            "name": "Hit Song + VTuber Pack 3"
+        },
+        {
+            "id": "0100EB500D92F01D",
+            "name": "VOCALOID Pack 6"
+        },
+        {
+            "id": "0100EB500D92F01E",
+            "name": "Original Pack 6 (10th Anniversary3)"
+        },
+        {
+            "id": "0100EB500D92F01F",
+            "name": "Game Song Pack"
+        },
+        {
+            "id": "0100EB500D92F020",
+            "name": "Touhou Project Arrangements Pack 7"
+        },
+        {
+            "id": "0100EB500D92F021",
+            "name": "EZ2ON REBOOT:R Pack"
+        },
+        {
+            "id": "0100EB500D92F022",
+            "name": "Hit Song + VTuber Pack 4"
+        },
+        {
+            "id": "0100EB500D92F023",
+            "name": "VOCALOID Pack 7"
+        },
+        {
+            "id": "0100EB500D92F024",
+            "name": "CHRONO CIRCLE + Tetote Connect Pack"
+        },
+        {
+            "id": "0100EB500D92F025",
+            "name": "Original Pack 7"
+        },
+        {
+            "id": "0100EB500D92F026",
+            "name": "VOCALOID Pack 8"
+        },
+        {
+            "id": "0100EB500D92F027",
+            "name": "hololive Pack"
+        },
+        {
+            "id": "0100EB500D92F028",
+            "name": "Touhou Project Arrangements Pack 8"
+        },
+        {
+            "id": "0100EB500D92F029",
+            "name": "CHRONO CIRCLE + MUSIC DIVER Pack"
+        },
+        {
+            "id": "0100EB500D92F02A",
+            "name": "Hit Song + VTuber Pack 5"
+        },
+        {
+            "id": "0100EB500D92F02B",
+            "name": "maimai DX + ONGEKI Pack"
+        },
+        {
+            "id": "0100EB500D92F02C",
+            "name": "HARDCORE TANO*C Pack"
+        }
+    ],
     "latest": 0
 }

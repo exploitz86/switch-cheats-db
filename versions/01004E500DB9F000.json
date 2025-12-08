@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "01004E500DB9F001",
+            "name": "Midsummer Night"
+        },
+        {
+            "id": "01004E500DB9F002",
+            "name": "Uniform Era"
+        }
+    ],
     "latest": 0
 }

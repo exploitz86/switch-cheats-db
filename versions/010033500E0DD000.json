@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "010033500E0DD001",
+            "name": "Curious Expedition 2 - Highlands of Avalon"
+        },
+        {
+            "id": "010033500E0DD002",
+            "name": "Curious Expedition 2 - Shores of Taishi"
+        },
+        {
+            "id": "010033500E0DD003",
+            "name": "Curious Expedition 2 - Robots of Lux"
+        }
+    ],
     "latest": 65536
 }

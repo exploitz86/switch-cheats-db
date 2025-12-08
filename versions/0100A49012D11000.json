@@ -1,3 +1,41 @@
 {
+    "dlc": [
+        {
+            "id": "0100A49012D11001",
+            "name": "Street Outlaws 2: Winner Takes All - Digital Deluxe"
+        },
+        {
+            "id": "0100A49012D11002",
+            "name": "Street Outlaws 2: Winner Takes All - Stargazer Bundle"
+        },
+        {
+            "id": "0100A49012D11003",
+            "name": "Street Outlaws 2: Winner Takes All - Steel Thunder Bundle"
+        },
+        {
+            "id": "0100A49012D11004",
+            "name": "Street Outlaws 2: Winner Takes All - Skull Noir Bundle"
+        },
+        {
+            "id": "0100A49012D11005",
+            "name": "Street Outlaws 2: Winner Takes All - Blazing Freedom Bundle"
+        },
+        {
+            "id": "0100A49012D11006",
+            "name": "Street Outlaws 2: Winner Takes All - Ryan Martin Bundle"
+        },
+        {
+            "id": "0100A49012D11007",
+            "name": "Street Outlaws 2: Winner Takes All - Lizzy Musi Bundle"
+        },
+        {
+            "id": "0100A49012D11008",
+            "name": "Street Outlaws 2: Winner Takes All - 70s Car Bundle"
+        },
+        {
+            "id": "0100A49012D11009",
+            "name": "Street Outlaws 2: Winner Takes All - 80s Car Bundle"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "01009E20141AD001",
+            "name": "SOL CRESTA Dramatic DLC"
+        },
+        {
+            "id": "01009E20141AD002",
+            "name": "SOL CRESTA \"CR47\" DLC"
+        },
+        {
+            "id": "01009E20141AD003",
+            "name": "SOL CRESTA \"Wing Galiber\" DLC"
+        },
+        {
+            "id": "01009E20141AD004",
+            "name": "SOL CRESTA \"Wing Galiber II\" DLC"
+        }
+    ],
     "latest": 0
 }

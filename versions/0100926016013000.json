@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "0100926016013001",
+            "name": "PowerWash Simulator \u2013 Tomb Raider Special Pack"
+        },
+        {
+            "id": "0100926016013002",
+            "name": "PowerWash Simulator Midgar Special Pack"
+        },
+        {
+            "id": "0100926016013003",
+            "name": "PowerWash Simulator SpongeBob SquarePants Special Pack"
+        }
+    ],
     "latest": 0
 }

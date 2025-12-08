@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100FC101513F001",
+            "name": "Train Life - Supporter Pack"
+        },
+        {
+            "id": "0100FC101513F002",
+            "name": "Train Life - 1920's Orient-Express Train"
+        }
+    ],
     "latest": 0
 }

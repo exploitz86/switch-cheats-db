@@ -1,3 +1,253 @@
 {
+    "dlc": [
+        {
+            "id": "0100CF900FA3F001",
+            "name": "Bonus Lacrima (Handy in the Game's Early Stages) x 5"
+        },
+        {
+            "id": "0100CF900FA3F006",
+            "name": "Special Erza Costume: Miss Fairy Tail"
+        },
+        {
+            "id": "0100CF900FA3F007",
+            "name": "DDX Only Lucy's Costume Gust Collaboration Ryza & Limited Edition Growth Lacrima x 5"
+        },
+        {
+            "id": "0100CF900FA3F008",
+            "name": "Natsu's Costume \"Fairy Tail Team A\""
+        },
+        {
+            "id": "0100CF900FA3F009",
+            "name": "Lucy's Costume \"Fairy Tail Team A\""
+        },
+        {
+            "id": "0100CF900FA3F00A",
+            "name": "Gray's Costume \"Fairy Tail Team A\""
+        },
+        {
+            "id": "0100CF900FA3F00B",
+            "name": "Erza's Costume \"Fairy Tail Team A\""
+        },
+        {
+            "id": "0100CF900FA3F00C",
+            "name": "Wendy's Costume \"Fairy Tail Team A\""
+        },
+        {
+            "id": "0100CF900FA3F00D",
+            "name": "Natsu's Costume \"Special Swimsuit\""
+        },
+        {
+            "id": "0100CF900FA3F00E",
+            "name": "Lucy's Costume \"Special Swimsuit\""
+        },
+        {
+            "id": "0100CF900FA3F00F",
+            "name": "Erza's Costume \"Special Swimsuit\""
+        },
+        {
+            "id": "0100CF900FA3F010",
+            "name": "Gray's Costume \"Special Swimsuit\""
+        },
+        {
+            "id": "0100CF900FA3F011",
+            "name": "Wendy's Costume \"Special Swimsuit\""
+        },
+        {
+            "id": "0100CF900FA3F012",
+            "name": "Laxus's Costume \"Special Swimsuit\""
+        },
+        {
+            "id": "0100CF900FA3F013",
+            "name": "Gajeel's Costume \"Special Swimsuit\""
+        },
+        {
+            "id": "0100CF900FA3F014",
+            "name": "Jellal's Costume \"Special Swimsuit\""
+        },
+        {
+            "id": "0100CF900FA3F015",
+            "name": "Juvia's Costume \"Special Swimsuit\""
+        },
+        {
+            "id": "0100CF900FA3F016",
+            "name": "Mirajane's Costume \"Special Swimsuit\""
+        },
+        {
+            "id": "0100CF900FA3F017",
+            "name": "Gildarts's Costume \"Special Swimsuit\""
+        },
+        {
+            "id": "0100CF900FA3F018",
+            "name": "Sherria's Costume \"Special Swimsuit\""
+        },
+        {
+            "id": "0100CF900FA3F019",
+            "name": "Kagura's Costume \"Special Swimsuit\""
+        },
+        {
+            "id": "0100CF900FA3F01A",
+            "name": "Ichiya's Costume \"Special Swimsuit\""
+        },
+        {
+            "id": "0100CF900FA3F01B",
+            "name": "Sting's Costume \"Special Swimsuit\""
+        },
+        {
+            "id": "0100CF900FA3F01C",
+            "name": "Rogue's Costume \"Special Swimsuit\""
+        },
+        {
+            "id": "0100CF900FA3F01E",
+            "name": "Natsu's Costume \"Anime Final Season\""
+        },
+        {
+            "id": "0100CF900FA3F01F",
+            "name": "Lucy's Costume \"Anime Final Season\""
+        },
+        {
+            "id": "0100CF900FA3F020",
+            "name": "Erza's Costume \"Anime Final Season\""
+        },
+        {
+            "id": "0100CF900FA3F021",
+            "name": "Gray's Costume \"Anime Final Season\""
+        },
+        {
+            "id": "0100CF900FA3F022",
+            "name": "Wendy's Costume \"Anime Final Season\""
+        },
+        {
+            "id": "0100CF900FA3F023",
+            "name": "Laxus's Costume \"Anime Final Season\""
+        },
+        {
+            "id": "0100CF900FA3F024",
+            "name": "Gajeel's Costume \"Anime Final Season\""
+        },
+        {
+            "id": "0100CF900FA3F025",
+            "name": "Jellal's Costume \"Anime Final Season\""
+        },
+        {
+            "id": "0100CF900FA3F026",
+            "name": "Juvia's Costume \"Anime Final Season\""
+        },
+        {
+            "id": "0100CF900FA3F027",
+            "name": "Mirajane's Costume \"Anime Final Season\""
+        },
+        {
+            "id": "0100CF900FA3F028",
+            "name": "Gildarts's Costume \"Anime Final Season\""
+        },
+        {
+            "id": "0100CF900FA3F029",
+            "name": "Sherria's Costume \"Anime Final Season\""
+        },
+        {
+            "id": "0100CF900FA3F02A",
+            "name": "Kagura's Costume \"Anime Final Season\""
+        },
+        {
+            "id": "0100CF900FA3F02B",
+            "name": "Ichiya's Costume \"Anime Final Season\""
+        },
+        {
+            "id": "0100CF900FA3F02C",
+            "name": "Sting's Costume \"Anime Final Season\""
+        },
+        {
+            "id": "0100CF900FA3F02D",
+            "name": "Rogue's Costume \"Anime Final Season\""
+        },
+        {
+            "id": "0100CF900FA3F02F",
+            "name": "Natsu's Costume \"Dress-Up\""
+        },
+        {
+            "id": "0100CF900FA3F030",
+            "name": "Lucy's Costume \"Dress-Up\""
+        },
+        {
+            "id": "0100CF900FA3F031",
+            "name": "Erza's Costume \"Dress-Up\""
+        },
+        {
+            "id": "0100CF900FA3F032",
+            "name": "Gray's Costume \"Dress-Up\""
+        },
+        {
+            "id": "0100CF900FA3F033",
+            "name": "Wendy's Costume \"Dress-Up\""
+        },
+        {
+            "id": "0100CF900FA3F034",
+            "name": "Laxus's Costume \"Dress-Up\""
+        },
+        {
+            "id": "0100CF900FA3F035",
+            "name": "Gajeel's Costume \"Dress-Up\""
+        },
+        {
+            "id": "0100CF900FA3F036",
+            "name": "Jellal's Costume \"Dress-Up\""
+        },
+        {
+            "id": "0100CF900FA3F037",
+            "name": "Juvia's Costume \"Dress-Up\""
+        },
+        {
+            "id": "0100CF900FA3F038",
+            "name": "Mirajane's Costume \"Dress-Up\""
+        },
+        {
+            "id": "0100CF900FA3F039",
+            "name": "Gildarts's Costume \"Dress-Up\""
+        },
+        {
+            "id": "0100CF900FA3F03A",
+            "name": "Sherria's Costume \"Dress-Up\""
+        },
+        {
+            "id": "0100CF900FA3F03B",
+            "name": "Kagura's Costume \"Dress-Up\""
+        },
+        {
+            "id": "0100CF900FA3F03C",
+            "name": "Ichiya's Costume \"Dress-Up\""
+        },
+        {
+            "id": "0100CF900FA3F03D",
+            "name": "Sting's Costume \"Dress-Up\""
+        },
+        {
+            "id": "0100CF900FA3F03E",
+            "name": "Rogue's Costume \"Dress-Up\""
+        },
+        {
+            "id": "0100CF900FA3F040",
+            "name": "Additional Friends Set \"Lyon\""
+        },
+        {
+            "id": "0100CF900FA3F041",
+            "name": "Additional Friends Set \"Levy\""
+        },
+        {
+            "id": "0100CF900FA3F042",
+            "name": "Additional Friends Set \"Lisanna & Elfman\""
+        },
+        {
+            "id": "0100CF900FA3F043",
+            "name": "Very Difficult Requests Set"
+        },
+        {
+            "id": "0100CF900FA3F044",
+            "name": "Additional Dungeon \"Rift in Time and Space\""
+        },
+        {
+            "id": "0100CF900FA3F045",
+            "name": "Limited Edition Growth Lacrima x 5"
+        }
+    ],
     "latest": 0
 }

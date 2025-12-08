@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100D30010C43001",
+            "name": "Monster Truck Championship Patriot Pack"
+        },
+        {
+            "id": "0100D30010C43002",
+            "name": "Monster Truck Championship Rebel Hunter Pack"
+        }
+    ],
     "latest": 0
 }

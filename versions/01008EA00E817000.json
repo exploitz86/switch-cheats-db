@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "01008EA00E817001",
+            "name": "OVERPASS\u2122 Drive With Style"
+        },
+        {
+            "id": "01008EA00E817002",
+            "name": "OVERPASS\u2122 Expert Vehicles Pack"
+        },
+        {
+            "id": "01008EA00E817003",
+            "name": "OVERPASS\u2122 Smart Start Pack"
+        },
+        {
+            "id": "01008EA00E817004",
+            "name": "OVERPASS\u2122 Yamaha Special Pack"
+        }
+    ],
     "latest": 0
 }

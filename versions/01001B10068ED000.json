@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "01001B10068ED001",
+            "name": "Even MORE style Pack"
+        },
+        {
+            "id": "01001B10068ED002",
+            "name": "Challenges Pack"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100D4401565F001",
+            "name": "PAC-MAN WORLD Re-PAC Chrome Noir Chogokin skin"
+        },
+        {
+            "id": "0100D4401565F002",
+            "name": "PAC-MAN WORLD Re-PAC - Jukebox"
+        }
+    ],
     "latest": 0
 }

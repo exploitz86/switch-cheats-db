@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100969015B05001",
+            "name": "Illustrations in Gallery Full Open"
+        },
+        {
+            "id": "0100969015B05002",
+            "name": "High difficulty stage addition"
+        }
+    ],
     "latest": 0
 }

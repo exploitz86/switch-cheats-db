@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "01005B000D787001",
+            "name": "Cinematics Pack"
+        }
+    ],
     "latest": 65536
 }

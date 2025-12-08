@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "0100B080184BD001",
+            "name": "Cowboys and Critters DLC"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "010081900F9E3001",
+            "name": "Experience x3 - Wizards of Brandel"
+        },
+        {
+            "id": "010081900F9E3002",
+            "name": "SP x3 - Wizards of Brandel"
+        },
+        {
+            "id": "010081900F9E3003",
+            "name": "Experience & SP x2 - Wizards of Brandel"
+        },
+        {
+            "id": "010081900F9E3004",
+            "name": "Damage x2 - Wizards of Brandel"
+        }
+    ],
     "latest": 0
 }

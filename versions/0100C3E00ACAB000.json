@@ -1,3 +1,49 @@
 {
+    "dlc": [
+        {
+            "id": "0100C3E00ACAB004",
+            "name": "Purple Oil Pack"
+        },
+        {
+            "id": "0100C3E00ACAB005",
+            "name": "LA Power Pack"
+        },
+        {
+            "id": "0100C3E00ACAB006",
+            "name": "Brawltimore Razors"
+        },
+        {
+            "id": "0100C3E00ACAB007",
+            "name": "Sin Fransicko Forty Nightmares"
+        },
+        {
+            "id": "0100C3E00ACAB008",
+            "name": "Terror Bay Mutantneers"
+        },
+        {
+            "id": "0100C3E00ACAB009",
+            "name": "Gnashville Lycans"
+        },
+        {
+            "id": "0100C3E00ACAB00A",
+            "name": "Snuffalo Thrills"
+        },
+        {
+            "id": "0100C3E00ACAB00B",
+            "name": "Diami Krakens"
+        },
+        {
+            "id": "0100C3E00ACAB00C",
+            "name": "Brainwashington Cadavers"
+        },
+        {
+            "id": "0100C3E00ACAB00D",
+            "name": "Sinsonasty Mangles"
+        },
+        {
+            "id": "0100C3E00ACAB00E",
+            "name": "New Yuck Threats"
+        }
+    ],
     "latest": 0
 }

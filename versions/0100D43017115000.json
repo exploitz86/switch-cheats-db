@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "0100D43017115001",
+            "name": "Super Mega Baseball\u2122 4 Peril Point Stadium"
+        },
+        {
+            "id": "0100D43017115002",
+            "name": "Super Mega Baseball\u2122 4 Ciudad de Colores Stadium"
+        },
+        {
+            "id": "0100D43017115003",
+            "name": "Super Mega Baseball\u2122 4 Castillo Arena Stadium"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "01005A700CC3D001",
+            "name": "Mana Spark: Forgotten Crypts"
+        }
+    ],
     "latest": 65536
 }

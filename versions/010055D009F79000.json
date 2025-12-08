@@ -1,3 +1,29 @@
 {
+    "dlc": [
+        {
+            "id": "010055D009F79001",
+            "name": "Side Story: Cindered Shadows"
+        },
+        {
+            "id": "010055D009F79002",
+            "name": "New Attire"
+        },
+        {
+            "id": "010055D009F79003",
+            "name": "Auxiliary Battle Maps"
+        },
+        {
+            "id": "010055D009F79004",
+            "name": "Additional Quests"
+        },
+        {
+            "id": "010055D009F79005",
+            "name": "Additional Support Items"
+        },
+        {
+            "id": "010055D009F79006",
+            "name": "Officers Academy Uniform (Byleth)"
+        }
+    ],
     "latest": 262144
 }

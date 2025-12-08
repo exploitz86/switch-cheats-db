@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "0100396012845001",
+            "name": "RESEARCH and DESTROY - STEINS;GATE Costume Pack"
+        },
+        {
+            "id": "0100396012845002",
+            "name": "RESEARCH and DESTROY - Danganronpa 2 Costume Pack"
+        },
+        {
+            "id": "0100396012845003",
+            "name": "RESEARCH and DESTROY - Zero Escape: Virtue's Last Reward Costume Pack"
+        },
+        {
+            "id": "0100396012845004",
+            "name": "RESEARCH and DESTROY - AI: The Somnium Files Costume Pack"
+        }
+    ],
     "latest": 0
 }

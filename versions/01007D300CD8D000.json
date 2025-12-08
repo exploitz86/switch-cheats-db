@@ -1,3 +1,33 @@
 {
+    "dlc": [
+        {
+            "id": "01007D300CD8D001",
+            "name": "Experience Green Orb"
+        },
+        {
+            "id": "01007D300CD8D002",
+            "name": "Skill Point Green Orb"
+        },
+        {
+            "id": "01007D300CD8D003",
+            "name": "Skill Level Green Orb"
+        },
+        {
+            "id": "01007D300CD8D004",
+            "name": "Boost Green Orb Set"
+        },
+        {
+            "id": "01007D300CD8D005",
+            "name": "Encounter Green Orb"
+        },
+        {
+            "id": "01007D300CD8D006",
+            "name": "Damage Green Orb"
+        },
+        {
+            "id": "01007D300CD8D007",
+            "name": "Full Recovery Green Orb"
+        }
+    ],
     "latest": 0
 }

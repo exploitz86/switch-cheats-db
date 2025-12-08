@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "010080D01B9D5001",
+            "name": "Paper io 2: Animals DLC"
+        },
+        {
+            "id": "010080D01B9D5002",
+            "name": "Paper io 2: Mishmash DLC"
+        }
+    ],
     "latest": 0
 }

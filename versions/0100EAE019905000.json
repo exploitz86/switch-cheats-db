@@ -1,3 +1,29 @@
 {
+    "dlc": [
+        {
+            "id": "0100EAE0199050C8",
+            "name": "\"Another Look\" Costume Set"
+        },
+        {
+            "id": "0100EAE01990512C",
+            "name": "Atelier Series Legacy BGM Pack"
+        },
+        {
+            "id": "0100EAE01990512D",
+            "name": "Gust Extra BGM Pack"
+        },
+        {
+            "id": "0100EAE019905190",
+            "name": "Useful Items Set"
+        },
+        {
+            "id": "0100EAE0199052BC",
+            "name": "Atelier Marie Plus: The Alchemist of Salburg"
+        },
+        {
+            "id": "0100EAE0199052BD",
+            "name": "Accessory \"25 Glasses\""
+        }
+    ],
     "latest": 0
 }

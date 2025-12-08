@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "010040A01407F001",
+            "name": "The Smurfs - Mission Vileaf - \"Vilesmurfs\" costumes"
+        }
+    ],
     "latest": 65536
 }

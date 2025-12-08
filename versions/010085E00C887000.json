@@ -1,3 +1,25 @@
 {
+    "dlc": [
+        {
+            "id": "010085E00C887001",
+            "name": "Meltdown Pack"
+        },
+        {
+            "id": "010085E00C887002",
+            "name": "Politics Pack"
+        },
+        {
+            "id": "010085E00C887003",
+            "name": "Hobby Pack"
+        },
+        {
+            "id": "010085E00C887004",
+            "name": "Critters Pack"
+        },
+        {
+            "id": "010085E00C887005",
+            "name": "All Balls Pack"
+        }
+    ],
     "latest": 0
 }

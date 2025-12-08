@@ -1,3 +1,37 @@
 {
+    "dlc": [
+        {
+            "id": "01002F0011DD5001",
+            "name": "DLC Pack\u3010Fighter Pass\u3011"
+        },
+        {
+            "id": "01002F0011DD5002",
+            "name": "Shepherd J\u00e4ger & Morris"
+        },
+        {
+            "id": "01002F0011DD5003",
+            "name": "Graeme & Vulphaes"
+        },
+        {
+            "id": "01002F0011DD5004",
+            "name": "Thunderbolt Otome"
+        },
+        {
+            "id": "01002F0011DD5005",
+            "name": "Mecha Painting Set 1"
+        },
+        {
+            "id": "01002F0011DD5006",
+            "name": "Pilot Pack 1"
+        },
+        {
+            "id": "01002F0011DD5007",
+            "name": "Gurren Lagann"
+        },
+        {
+            "id": "01002F0011DD5008",
+            "name": "Art Gallery"
+        }
+    ],
     "latest": 131072
 }

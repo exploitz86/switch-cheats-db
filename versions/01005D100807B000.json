@@ -1,3 +1,41 @@
 {
+    "dlc": [
+        {
+            "id": "01005D100807B001",
+            "name": "Expedition Pack"
+        },
+        {
+            "id": "01005D100807B002",
+            "name": "Great Expedition Pack"
+        },
+        {
+            "id": "01005D100807B003",
+            "name": "Ultra Expedition Pack"
+        },
+        {
+            "id": "01005D100807B005",
+            "name": "Scattershot Stone"
+        },
+        {
+            "id": "01005D100807B006",
+            "name": "Broadburst Stone"
+        },
+        {
+            "id": "01005D100807B007",
+            "name": "Whack-Whack Stone"
+        },
+        {
+            "id": "01005D100807B008",
+            "name": "Wait Less Stone"
+        },
+        {
+            "id": "01005D100807B009",
+            "name": "Stay Strong Stone"
+        },
+        {
+            "id": "01005D100807B00A",
+            "name": "Sharing Stone"
+        }
+    ],
     "latest": 0
 }

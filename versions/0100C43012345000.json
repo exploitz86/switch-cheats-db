@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100C43012345001",
+            "name": "Hot Wheels\u2122 Booster Pack"
+        },
+        {
+            "id": "0100C43012345002",
+            "name": "Oddball Car Pack"
+        }
+    ],
     "latest": 0
 }

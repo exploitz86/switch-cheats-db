@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "0100C67015077001",
+            "name": "Legend of Keepers: Return of the Goddess"
+        },
+        {
+            "id": "0100C67015077002",
+            "name": "Legend of Keepers: Feed the Troll"
+        },
+        {
+            "id": "0100C67015077003",
+            "name": "Legend of Keepers: Soul Smugglers"
+        }
+    ],
     "latest": 196608
 }

@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "01003980174BD001",
+            "name": "Summer Swimsuit Set 1"
+        },
+        {
+            "id": "01003980174BD002",
+            "name": "Summer Swim Suit Set 2"
+        },
+        {
+            "id": "01003980174BD003",
+            "name": "Luminous Avenger iX 2 - Visitors from Other World"
+        }
+    ],
     "latest": 65536
 }

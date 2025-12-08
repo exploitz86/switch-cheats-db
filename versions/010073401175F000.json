@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "010073401175F001",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010073401175F002",
+            "name": "Crash Bandicoot\u2122 4 - Totally Tubular Skins"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "010040600C5CF001",
+            "name": "Block DLC 1"
+        },
+        {
+            "id": "010040600C5CF002",
+            "name": "Block DLC 2"
+        }
+    ],
     "latest": 0
 }

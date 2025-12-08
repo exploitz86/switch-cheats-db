@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "01006D900EE59001",
+            "name": "Party Pack"
+        }
+    ],
     "latest": 0
 }

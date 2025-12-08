@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "010092B010449001",
+            "name": "Piffle DLC 1: The Great Dessert"
+        }
+    ],
     "latest": 196608
 }

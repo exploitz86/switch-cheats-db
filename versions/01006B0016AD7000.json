@@ -1,3 +1,213 @@
 {
+    "dlc": [
+        {
+            "id": "01006B0016AD7005",
+            "name": "Taiko no Tatsujin: Rhythm Festival STUDIO GHIBLI Pack"
+        },
+        {
+            "id": "01006B0016AD7008",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006B0016AD700B",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006B0016AD700E",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006B0016AD7011",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006B0016AD7014",
+            "name": "Taiko no Tatsujin: Rhythm Festival ONE PIECE Anime Songs Pack"
+        },
+        {
+            "id": "01006B0016AD7017",
+            "name": "Taiko no Tatsujin: Rhythm Festival Anime Pack Vol. 1"
+        },
+        {
+            "id": "01006B0016AD701A",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006B0016AD701D",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006B0016AD7020",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006B0016AD7023",
+            "name": "Taiko no Tatsujin: Rhythm Festival DRAGON BALL Anime Song Pack"
+        },
+        {
+            "id": "01006B0016AD7026",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006B0016AD7029",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006B0016AD702C",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006B0016AD702F",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006B0016AD7032",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006B0016AD7035",
+            "name": "Taiko no Tatsujin: Rhythm Festival HATSUNE MIKU Pack Vol. 1"
+        },
+        {
+            "id": "01006B0016AD7038",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006B0016AD703B",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006B0016AD703E",
+            "name": "Taiko no Tatsujin: Rhythm Festival HATSUNE MIKU Pack Vol. 2"
+        },
+        {
+            "id": "01006B0016AD7041",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006B0016AD7044",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006B0016AD7047",
+            "name": "Taiko no Tatsujin: Rhythm Festival HATSUNE MIKU Pack Vol. 3"
+        },
+        {
+            "id": "01006B0016AD704A",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006B0016AD704D",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006B0016AD7050",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006B0016AD7056",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006B0016AD705C",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006B0016AD705F",
+            "name": "Taiko no Tatsujin: Rhythm Festival Shin Japan Heroes Universe Pack"
+        },
+        {
+            "id": "01006B0016AD7065",
+            "name": "Taiko no Tatsujin: Rhythm Festival YOSHINOYA DON-chan Outfit"
+        },
+        {
+            "id": "01006B0016AD7068",
+            "name": "Taiko no Tatsujin: Rhythm Festival Anime Pack Vol. 2"
+        },
+        {
+            "id": "01006B0016AD706B",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006B0016AD706E",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006B0016AD7071",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006B0016AD7074",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006B0016AD7077",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006B0016AD707A",
+            "name": "Taiko no Tatsujin: Rhythm Festival HATSUNE MIKU Pack Vol. 4"
+        },
+        {
+            "id": "01006B0016AD707D",
+            "name": "Taiko no Tatsujin: Rhythm Festival Kids' Pack Vol. 1"
+        },
+        {
+            "id": "01006B0016AD7080",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006B0016AD7083",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006B0016AD7086",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006B0016AD7089",
+            "name": "Taiko no Tatsujin: Rhythm Festival Kids' Pack Vol. 2"
+        },
+        {
+            "id": "01006B0016AD708C",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006B0016AD708F",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006B0016AD7092",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006B0016AD7095",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01006B0016AD7098",
+            "name": "Taiko no Tatsujin: Rhythm Festival - Mixed nuts"
+        },
+        {
+            "id": "01006B0016AD709B",
+            "name": "Taiko no Tatsujin: Rhythm Festival - Usseewa"
+        },
+        {
+            "id": "01006B0016AD709E",
+            "name": "Taiko no Tatsujin: Rhythm Festival - bad guy"
+        },
+        {
+            "id": "01006B0016AD70A1",
+            "name": "Taiko no Tatsujin: Rhythm Festival - Dai Zero Kan"
+        },
+        {
+            "id": "01006B0016AD70A4",
+            "name": "Taiko no Tatsujin: Rhythm Festival - Odo"
+        },
+        {
+            "id": "01006B0016AD70A7",
+            "name": "Taiko no Tatsujin: Rhythm Festival - A Tale of Six Trillion Years and a Night"
+        }
+    ],
     "latest": 0
 }

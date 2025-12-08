@@ -1,3 +1,105 @@
 {
+    "dlc": [
+        {
+            "id": "0100B28014133001",
+            "name": "\"SAMURAI WARRIORS\" Costume - Nobunaga Oda"
+        },
+        {
+            "id": "0100B28014133002",
+            "name": "\"SAMURAI WARRIORS\" Costume - Mitsuhide Akechi"
+        },
+        {
+            "id": "0100B28014133003",
+            "name": "Special  Costume - Nobunaga Oda"
+        },
+        {
+            "id": "0100B28014133004",
+            "name": "Special  Costume - Mitsuhide Akechi"
+        },
+        {
+            "id": "0100B28014133007",
+            "name": "Deluxe Costume - Nobunaga Oda"
+        },
+        {
+            "id": "0100B28014133008",
+            "name": "Deluxe Costume - Mitsuhide Akechi"
+        },
+        {
+            "id": "0100B28014133042",
+            "name": "Additional Horse \"Ghost\""
+        },
+        {
+            "id": "0100B28014133043",
+            "name": "Additional Horse \"Iron Coat\""
+        },
+        {
+            "id": "0100B28014133044",
+            "name": "Additional Horse \"Black Shadow\""
+        },
+        {
+            "id": "0100B28014133045",
+            "name": "Additional Horse \"Silver Coat\""
+        },
+        {
+            "id": "0100B28014133046",
+            "name": "Additional Horse \"Armor Coat\""
+        },
+        {
+            "id": "0100B28014133047",
+            "name": "Additional Horse \"Qilin\""
+        },
+        {
+            "id": "0100B28014133065",
+            "name": "Additional Weapon set 1"
+        },
+        {
+            "id": "0100B28014133066",
+            "name": "Additional Weapon set 2"
+        },
+        {
+            "id": "0100B28014133067",
+            "name": "Additional Weapon set 3"
+        },
+        {
+            "id": "0100B28014133068",
+            "name": "Additional Weapon set 4"
+        },
+        {
+            "id": "0100B28014133069",
+            "name": "Additional Weapon set 5"
+        },
+        {
+            "id": "0100B280141330A1",
+            "name": "Additional Scenario & BGM Set 1 \"Oichi's Getting Hitched\""
+        },
+        {
+            "id": "0100B280141330A2",
+            "name": "Additional Scenario & BGM Set 2 \"Battle for the Legendary Hot Springs\""
+        },
+        {
+            "id": "0100B280141330A3",
+            "name": "Additional Scenario & BGM Set 3 \"Who Is the Smartest in the Land?\""
+        },
+        {
+            "id": "0100B280141330A4",
+            "name": "Additional Scenario & BGM Set 4 \"The Strongest Right-Hand Man\""
+        },
+        {
+            "id": "0100B280141330A5",
+            "name": "Additional Scenario & BGM Set 5 \"Turning the Tables\""
+        },
+        {
+            "id": "0100B280141330A6",
+            "name": "Additional Scenario & BGM Set 6 \"How to Be a Warrior\""
+        },
+        {
+            "id": "0100B280141330E1",
+            "name": "Digital Deluxe Edition Bonus"
+        },
+        {
+            "id": "0100B280141330E2",
+            "name": "Season Pass Bonus"
+        }
+    ],
     "latest": 0
 }

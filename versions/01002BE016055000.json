@@ -1,3 +1,61 @@
 {
+    "dlc": [
+        {
+            "id": "01002BE016055005",
+            "name": "SD GUNDAM BATTLE ALLIANCE Bonus Pack"
+        },
+        {
+            "id": "01002BE016055007",
+            "name": "SD GUNDAM BATTLE ALLIANCE MS Development - Super Pack Lv1"
+        },
+        {
+            "id": "01002BE016055008",
+            "name": "SD GUNDAM BATTLE ALLIANCE MS Development - Super Pack Lv2"
+        },
+        {
+            "id": "01002BE016055009",
+            "name": "SD GUNDAM BATTLE ALLIANCE MS Development - Super Pack Lv3"
+        },
+        {
+            "id": "01002BE01605500A",
+            "name": "SD GUNDAM BATTLE ALLIANCE Unit and Scenario Pack 1"
+        },
+        {
+            "id": "01002BE01605500B",
+            "name": "SD GUNDAM BATTLE ALLIANCE Unit and Scenario Pack 2"
+        },
+        {
+            "id": "01002BE01605500C",
+            "name": "SD GUNDAM BATTLE ALLIANCE Unit and Scenario Pack 3"
+        },
+        {
+            "id": "01002BE01605500D",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002BE01605500F",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01002BE016055010",
+            "name": "SD GUNDAM BATTLE ALLIANCE Early Unlock: Knight Gundam"
+        },
+        {
+            "id": "01002BE016055011",
+            "name": "SD GUNDAM BATTLE ALLIANCE Early Unlock: Musha Gundam"
+        },
+        {
+            "id": "01002BE016055012",
+            "name": "SD GUNDAM BATTLE ALLIANCE Early Unlock: Command Gundam"
+        },
+        {
+            "id": "01002BE016055017",
+            "name": "SD GUNDAM BATTLE ALLIANCE Unit Limit Break Materials Pack 1"
+        },
+        {
+            "id": "01002BE01605501F",
+            "name": "SD GUNDAM BATTLE ALLIANCE - Mobile Suit Gundam: The Witch from Mercury Pack"
+        }
+    ],
     "latest": 0
 }

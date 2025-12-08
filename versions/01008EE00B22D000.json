@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "01008EE00B22D001",
+            "name": "Rento TEAMS"
+        },
+        {
+            "id": "01008EE00B22D002",
+            "name": "Rento DEEP Board"
+        }
+    ],
     "latest": 0
 }

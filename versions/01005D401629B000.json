@@ -1,3 +1,29 @@
 {
+    "dlc": [
+        {
+            "id": "01005D401629B001",
+            "name": "Jeopardy! PlayShow: Best of the 1980's"
+        },
+        {
+            "id": "01005D401629B002",
+            "name": "Jeopardy! PlayShow: Teen Tournament"
+        },
+        {
+            "id": "01005D401629B003",
+            "name": "Jeopardy! PlayShow: The Road to the All-Star Games"
+        },
+        {
+            "id": "01005D401629B004",
+            "name": "Jeopardy! PlayShow: Tournament of Champions"
+        },
+        {
+            "id": "01005D401629B005",
+            "name": "Jeopardy! PlayShow: Captains Classics"
+        },
+        {
+            "id": "01005D401629B006",
+            "name": "Jeopardy! PlayShow: College Championship"
+        }
+    ],
     "latest": 0
 }

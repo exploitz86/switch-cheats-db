@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "0100C5D01128F001",
+            "name": "OlliOlli World Pre-Order Hero Pack"
+        },
+        {
+            "id": "0100C5D01128F002",
+            "name": "OlliOlli World \"Close Encounter Skate Deck\""
+        },
+        {
+            "id": "0100C5D01128F003",
+            "name": "OlliOlli World: VOID Riders"
+        },
+        {
+            "id": "0100C5D01128F004",
+            "name": "OlliOlli World: Finding the Flowzone"
+        }
+    ],
     "latest": 0
 }

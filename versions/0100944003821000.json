@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100944003821001",
+            "name": "Fantasy Strike Core Pack"
+        },
+        {
+            "id": "0100944003821002",
+            "name": "Fantasy Strike Collector's Pack"
+        }
+    ],
     "latest": 65536
 }

@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "010021C000B6B001",
+            "name": "The Binding of Isaac: Repentance"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,33 @@
 {
+    "dlc": [
+        {
+            "id": "0100317013771001",
+            "name": "Galactic Prestige Bundle"
+        },
+        {
+            "id": "0100317013771002",
+            "name": "Mario + Rabbids\u00ae Sparks of Hope: Megabug Collection Weapon Skins Pack"
+        },
+        {
+            "id": "0100317013771003",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100317013771004",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100317013771005",
+            "name": "Mario + Rabbids\u00ae Sparks of Hope - DLC 1: The Tower of Doooom"
+        },
+        {
+            "id": "0100317013771006",
+            "name": "Mario + Rabbids\u00ae Sparks of Hope DLC 2: The Last Spark Hunter"
+        },
+        {
+            "id": "0100317013771007",
+            "name": "Mario + Rabbids\u00ae Sparks of Hope DLC 3: Rayman in the Phantom Show"
+        }
+    ],
     "latest": 0
 }

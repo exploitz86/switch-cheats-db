@@ -1,3 +1,25 @@
 {
+    "dlc": [
+        {
+            "id": "01004E90149AB001",
+            "name": "EX Image Pulses: Stratos and Ghauri"
+        },
+        {
+            "id": "01004E90149AB002",
+            "name": "EX Image Pulses: Elise and Asroc pack"
+        },
+        {
+            "id": "01004E90149AB003",
+            "name": "EX Image Pulses: Merak and Teseo pack"
+        },
+        {
+            "id": "01004E90149AB004",
+            "name": "EX Image Pulses: Nova and Desna pack"
+        },
+        {
+            "id": "01004E90149AB005",
+            "name": "EX Image Pulses: Carrera, Gibril, and Milas pack"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "0100FF7010E7F001",
+            "name": "Toriko's Care Package"
+        }
+    ],
     "latest": 0
 }

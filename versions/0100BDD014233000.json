@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "0100BDD014233001",
+            "name": "Rain on Your DLC: New Levels and Features!"
+        }
+    ],
     "latest": 65536
 }

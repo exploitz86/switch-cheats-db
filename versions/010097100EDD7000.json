@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "010097100EDD7001",
+            "name": "Little Nightmares II Mokujin Hat"
+        },
+        {
+            "id": "010097100EDD7002",
+            "name": "Little Nightmares II The Nome's Attic"
+        }
+    ],
     "latest": 0
 }

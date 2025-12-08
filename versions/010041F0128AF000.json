@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "010041F0128AF001",
+            "name": "Experience x3 - Liege Dragon"
+        },
+        {
+            "id": "010041F0128AF002",
+            "name": "No Encounters - Liege Dragon"
+        },
+        {
+            "id": "010041F0128AF003",
+            "name": "Damage x2 - Liege Dragon"
+        },
+        {
+            "id": "010041F0128AF004",
+            "name": "Full Restore - Liege Dragon"
+        }
+    ],
     "latest": 0
 }

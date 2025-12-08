@@ -1,3 +1,297 @@
 {
+    "dlc": [
+        {
+            "id": "010092400A679001",
+            "name": "Locomotion Table"
+        },
+        {
+            "id": "010092400A679002",
+            "name": "Devil Riders Table"
+        },
+        {
+            "id": "010092400A679003",
+            "name": "Pinball Champ Tables Pack"
+        },
+        {
+            "id": "010092400A679004",
+            "name": "Farfalla Table"
+        },
+        {
+            "id": "010092400A679005",
+            "name": "Blackbelt Table"
+        },
+        {
+            "id": "010092400A679006",
+            "name": "Hot Wheels Table"
+        },
+        {
+            "id": "010092400A679007",
+            "name": "Robot Table"
+        },
+        {
+            "id": "010092400A679008",
+            "name": "Soccer Kings Table"
+        },
+        {
+            "id": "010092400A679009",
+            "name": "Shooting The Rapids Table"
+        },
+        {
+            "id": "010092400A67900A",
+            "name": "Star God Table"
+        },
+        {
+            "id": "010092400A67900B",
+            "name": "Magic Castle Table"
+        },
+        {
+            "id": "010092400A67900C",
+            "name": "Earth Wind Fire Table"
+        },
+        {
+            "id": "010092400A67900D",
+            "name": "Clown Table"
+        },
+        {
+            "id": "010092400A67900E",
+            "name": "Future World Table"
+        },
+        {
+            "id": "010092400A67900F",
+            "name": "Space Shuttle Table"
+        },
+        {
+            "id": "010092400A679010",
+            "name": "Fire Mountain Table"
+        },
+        {
+            "id": "010092400A679011",
+            "name": "Winter Sports Table"
+        },
+        {
+            "id": "010092400A679012",
+            "name": "Zankor Table"
+        },
+        {
+            "id": "010092400A679013",
+            "name": "Pool Champion Table"
+        },
+        {
+            "id": "010092400A679014",
+            "name": "Mexico '86 Table"
+        },
+        {
+            "id": "010092400A679015",
+            "name": "House of Diamonds Table"
+        },
+        {
+            "id": "010092400A679016",
+            "name": "Mystic Star Table"
+        },
+        {
+            "id": "010092400A679017",
+            "name": "Spooky Table"
+        },
+        {
+            "id": "010092400A679018",
+            "name": "Star's Phoenix Table"
+        },
+        {
+            "id": "010092400A679019",
+            "name": "Strike Table"
+        },
+        {
+            "id": "010092400A67901A",
+            "name": "Aerobatics Table"
+        },
+        {
+            "id": "010092400A67901B",
+            "name": "Circus Table"
+        },
+        {
+            "id": "010092400A67901C",
+            "name": "Combat Table"
+        },
+        {
+            "id": "010092400A67901D",
+            "name": "Moon Flight Table"
+        },
+        {
+            "id": "010092400A67901E",
+            "name": "Lucky Fruit Table"
+        },
+        {
+            "id": "010092400A67901F",
+            "name": "Universe Table"
+        },
+        {
+            "id": "010092400A679020",
+            "name": "Supersonic Table"
+        },
+        {
+            "id": "010092400A679021",
+            "name": "Cine Star Table"
+        },
+        {
+            "id": "010092400A679022",
+            "name": "Wood's Queen Table"
+        },
+        {
+            "id": "010092400A679023",
+            "name": "Nautilus Table"
+        },
+        {
+            "id": "010092400A679024",
+            "name": "Red Show Table"
+        },
+        {
+            "id": "010092400A679025",
+            "name": "Shoothing The Rapids 2016 Table"
+        },
+        {
+            "id": "010092400A679026",
+            "name": "Space Shuttle 2016 Table"
+        },
+        {
+            "id": "010092400A679027",
+            "name": "Combat 2017 Table"
+        },
+        {
+            "id": "010092400A679028",
+            "name": "Circus 2017 Table"
+        },
+        {
+            "id": "010092400A679029",
+            "name": "Earth Wind Fire 2017 Table"
+        },
+        {
+            "id": "010092400A67902A",
+            "name": "House of Diamonds 2017 Table"
+        },
+        {
+            "id": "010092400A67902B",
+            "name": "Spooky 2017 Table"
+        },
+        {
+            "id": "010092400A67902C",
+            "name": "Farfalla 2017 Table"
+        },
+        {
+            "id": "010092400A67902D",
+            "name": "Magic Castle 2017 Table"
+        },
+        {
+            "id": "010092400A67902E",
+            "name": "Hot Wheels 2017 Table"
+        },
+        {
+            "id": "010092400A67902F",
+            "name": "Campaign Mode"
+        },
+        {
+            "id": "010092400A679030",
+            "name": "Zankor 2017 Table"
+        },
+        {
+            "id": "010092400A679031",
+            "name": "Locomotion 2018 Table"
+        },
+        {
+            "id": "010092400A679032",
+            "name": "Achievement Table Pack"
+        },
+        {
+            "id": "010092400A679033",
+            "name": "Robot 2018 Table"
+        },
+        {
+            "id": "010092400A679034",
+            "name": "Pinball Champ 2018 Table"
+        },
+        {
+            "id": "010092400A679035",
+            "name": "Blackbelt 2018 Table"
+        },
+        {
+            "id": "010092400A679036",
+            "name": "Winter Sports 2018 Table"
+        },
+        {
+            "id": "010092400A679037",
+            "name": "Tropical Table"
+        },
+        {
+            "id": "010092400A679038",
+            "name": "Future World 2018 Table"
+        },
+        {
+            "id": "010092400A679039",
+            "name": "Granada Table"
+        },
+        {
+            "id": "010092400A67903A",
+            "name": "Top Hand Table"
+        },
+        {
+            "id": "010092400A67903B",
+            "name": "Nautilus 2018 Table"
+        },
+        {
+            "id": "010092400A67903C",
+            "name": "Star's Phoenix 2018 Table"
+        },
+        {
+            "id": "010092400A67903D",
+            "name": "27 Retro Tables"
+        },
+        {
+            "id": "010092400A67903E",
+            "name": "Pool Champion 2018 Table"
+        },
+        {
+            "id": "010092400A67903F",
+            "name": "Clown 2019 Table"
+        },
+        {
+            "id": "010092400A679040",
+            "name": "Devil Riders 2019 Table"
+        },
+        {
+            "id": "010092400A679041",
+            "name": "Fire Mountain 2019 Table"
+        },
+        {
+            "id": "010092400A679042",
+            "name": "Tropical 2019 Table"
+        },
+        {
+            "id": "010092400A679043",
+            "name": "Wood's Queen 2019 Table"
+        },
+        {
+            "id": "010092400A679044",
+            "name": "Time Machine 2019 Table"
+        },
+        {
+            "id": "010092400A679045",
+            "name": "Star God 2019 Table"
+        },
+        {
+            "id": "010092400A679046",
+            "name": "Zombie Invasion Mode"
+        },
+        {
+            "id": "010092400A679047",
+            "name": "Zaccaria Deluxe Table Pack 1"
+        },
+        {
+            "id": "010092400A679048",
+            "name": "Zaccaria Deluxe Table Pack 2"
+        },
+        {
+            "id": "010092400A679049",
+            "name": "Zaccaria Deluxe Table Pack 3"
+        }
+    ],
     "latest": 262144
 }

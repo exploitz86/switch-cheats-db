@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "010096F00FF23001",
+            "name": "Borderlands: The Handsome Collection"
+        },
+        {
+            "id": "010096F00FF23002",
+            "name": "Borderlands 2: Commander Lilith & the Fight for Sanctuary"
+        }
+    ],
     "latest": 0
 }

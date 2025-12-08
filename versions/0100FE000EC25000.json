@@ -1,3 +1,33 @@
 {
+    "dlc": [
+        {
+            "id": "0100FE000EC25001",
+            "name": "Experience x3 - Asdivine Menace"
+        },
+        {
+            "id": "0100FE000EC25002",
+            "name": "SP x3 - Asdivine Menace"
+        },
+        {
+            "id": "0100FE000EC25003",
+            "name": "Skill Level x3 - Asdivine Menace"
+        },
+        {
+            "id": "0100FE000EC25004",
+            "name": "Experience, SP & Skill Level x2 - Asdivine Menace"
+        },
+        {
+            "id": "0100FE000EC25005",
+            "name": "No Encounters - Asdivine Menace"
+        },
+        {
+            "id": "0100FE000EC25006",
+            "name": "Damage x2 - Asdivine Menace"
+        },
+        {
+            "id": "0100FE000EC25007",
+            "name": "Full Restore - Asdivine Menace"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "010064600F983001",
+            "name": "TIM Track Pack"
+        },
+        {
+            "id": "010064600F983002",
+            "name": "Magma Track Pack"
+        }
+    ],
     "latest": 0
 }

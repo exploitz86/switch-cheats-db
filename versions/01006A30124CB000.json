@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "01006A30124CB001",
+            "name": "Upgrade to the full version of the game"
+        }
+    ],
     "latest": 0
 }

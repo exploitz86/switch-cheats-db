@@ -1,3 +1,65 @@
 {
+    "dlc": [
+        {
+            "id": "0100E5A018AE3001",
+            "name": "Whiteboards Pack 1"
+        },
+        {
+            "id": "0100E5A018AE3002",
+            "name": "Whiteboards Pack 2"
+        },
+        {
+            "id": "0100E5A018AE3003",
+            "name": "Whiteboards Pack 3"
+        },
+        {
+            "id": "0100E5A018AE3004",
+            "name": "Whiteboards Pack 4"
+        },
+        {
+            "id": "0100E5A018AE3005",
+            "name": "Whiteboards Pack 5"
+        },
+        {
+            "id": "0100E5A018AE3006",
+            "name": "Whiteboards Pack 6"
+        },
+        {
+            "id": "0100E5A018AE3007",
+            "name": "Whiteboards Pack 7"
+        },
+        {
+            "id": "0100E5A018AE3008",
+            "name": "Whiteboards Pack 8"
+        },
+        {
+            "id": "0100E5A018AE3009",
+            "name": "Whiteboards Pack 9"
+        },
+        {
+            "id": "0100E5A018AE300A",
+            "name": "Whiteboards Pack 10"
+        },
+        {
+            "id": "0100E5A018AE300B",
+            "name": "Confectionery"
+        },
+        {
+            "id": "0100E5A018AE300C",
+            "name": "Beverages"
+        },
+        {
+            "id": "0100E5A018AE300D",
+            "name": "Snacks"
+        },
+        {
+            "id": "0100E5A018AE300E",
+            "name": "Sweets"
+        },
+        {
+            "id": "0100E5A018AE300F",
+            "name": "Pastries"
+        }
+    ],
     "latest": 0
 }

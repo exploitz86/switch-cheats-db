@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "0100ADA00AD2F001",
+            "name": "Pandemic: On the Brink - Virulent Strain"
+        },
+        {
+            "id": "0100ADA00AD2F002",
+            "name": "Pandemic: On the Brink - Roles & Events"
+        },
+        {
+            "id": "0100ADA00AD2F003",
+            "name": "Pandemic: On the Brink - Mutation"
+        }
+    ],
     "latest": 65536
 }

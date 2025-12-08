@@ -1,3 +1,29 @@
 {
+    "dlc": [
+        {
+            "id": "0100B9001B875001",
+            "name": "Johnny Trigger: Lunatic DLC"
+        },
+        {
+            "id": "0100B9001B875002",
+            "name": "Johnny Trigger: Butcher DLC"
+        },
+        {
+            "id": "0100B9001B875003",
+            "name": "Johnny Trigger: Avenger DLC"
+        },
+        {
+            "id": "0100B9001B875004",
+            "name": "Johnny Trigger: Hunter DLC"
+        },
+        {
+            "id": "0100B9001B875005",
+            "name": "Johnny Trigger: Johnnybee DLC"
+        },
+        {
+            "id": "0100B9001B875006",
+            "name": "Johnny Trigger: Hotshot DLC"
+        }
+    ],
     "latest": 0
 }

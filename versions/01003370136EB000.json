@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "01003370136EB001",
+            "name": "Pre-Order Exclusive Outfits!"
+        },
+        {
+            "id": "01003370136EB002",
+            "name": "Cozy Grove: New Neighbears"
+        }
+    ],
     "latest": 0
 }

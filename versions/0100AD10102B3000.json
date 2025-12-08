@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "0100AD10102B3001",
+            "name": "BioShock Remastered"
+        }
+    ],
     "latest": 0
 }

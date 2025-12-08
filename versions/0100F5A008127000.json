@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100F5A008127001",
+            "name": "NBA Playgrounds - Unlock Roster"
+        },
+        {
+            "id": "0100F5A008127002",
+            "name": "NBA Playgrounds - Hot \u2019N Frosty"
+        }
+    ],
     "latest": 0
 }

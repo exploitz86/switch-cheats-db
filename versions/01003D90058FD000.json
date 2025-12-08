@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "01003D90058FD001",
+            "name": "CrossCode: Ninja Skin"
+        },
+        {
+            "id": "01003D90058FD002",
+            "name": "CrossCode: A New Home"
+        },
+        {
+            "id": "01003D90058FD003",
+            "name": "CrossCode: Manlea Skin"
+        }
+    ],
     "latest": 0
 }

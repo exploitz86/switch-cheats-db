@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100CB500CE77001",
+            "name": "Fishing: Barents Sea Line and Net Ships"
+        },
+        {
+            "id": "0100CB500CE77002",
+            "name": "Fishing: Barents Sea King Crab"
+        }
+    ],
     "latest": 65536
 }

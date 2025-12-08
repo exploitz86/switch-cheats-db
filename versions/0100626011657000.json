@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100626011657001",
+            "name": "The Outer Worlds: Peril on Gorgon"
+        },
+        {
+            "id": "0100626011657002",
+            "name": "The Outer Worlds: Murder on Eridanos"
+        }
+    ],
     "latest": 458752
 }

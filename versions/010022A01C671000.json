@@ -1,3 +1,29 @@
 {
+    "dlc": [
+        {
+            "id": "010022A01C671001",
+            "name": "Zombie Defense: Quad Rocket Launcher"
+        },
+        {
+            "id": "010022A01C671002",
+            "name": "Zombie Defense: Thunder Hammer"
+        },
+        {
+            "id": "010022A01C671003",
+            "name": "Zombie Defense: Banana"
+        },
+        {
+            "id": "010022A01C671004",
+            "name": "Zombie Defense: Lasergun"
+        },
+        {
+            "id": "010022A01C671005",
+            "name": "Zombie Defense: Laser Katana"
+        },
+        {
+            "id": "010022A01C671006",
+            "name": "Zombie Defense: Flamethrower"
+        }
+    ],
     "latest": 0
 }

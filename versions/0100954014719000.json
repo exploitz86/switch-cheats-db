@@ -1,3 +1,29 @@
 {
+    "dlc": [
+        {
+            "id": "0100954014719064",
+            "name": "Inferno Skin Pack"
+        },
+        {
+            "id": "0100954014719065",
+            "name": "Frosty Skin Pack"
+        },
+        {
+            "id": "0100954014719066",
+            "name": "Gold Skin Pack"
+        },
+        {
+            "id": "0100954014719067",
+            "name": "Punk Skin Pack"
+        },
+        {
+            "id": "0100954014719068",
+            "name": "Skull Skin Pack"
+        },
+        {
+            "id": "0100954014719069",
+            "name": "Tiger Skin Pack"
+        }
+    ],
     "latest": 0
 }

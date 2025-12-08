@@ -1,3 +1,49 @@
 {
+    "dlc": [
+        {
+            "id": "0100E4A01548D001",
+            "name": "MONARK: Protagonist's Casual Outfit"
+        },
+        {
+            "id": "0100E4A01548D002",
+            "name": "MONARK: Nozomi's Casual Outfit"
+        },
+        {
+            "id": "0100E4A01548D003",
+            "name": "MONARK: Shinya's Casual Outfit"
+        },
+        {
+            "id": "0100E4A01548D004",
+            "name": "MONARK: Ryotaro's Casual Outfit"
+        },
+        {
+            "id": "0100E4A01548D005",
+            "name": "MONARK: Kokoro's Casual(?) Outfit"
+        },
+        {
+            "id": "0100E4A01548D00A",
+            "name": "MONARK Preorder Bonus DLC"
+        },
+        {
+            "id": "0100E4A01548D00B",
+            "name": "MONARK: Protagonist's Formal Wear"
+        },
+        {
+            "id": "0100E4A01548D00C",
+            "name": "MONARK: Nozomi's Formal Wear"
+        },
+        {
+            "id": "0100E4A01548D00D",
+            "name": "MONARK: Shinya's Formal Wear"
+        },
+        {
+            "id": "0100E4A01548D00E",
+            "name": "MONARK: Ryotaro's Formal Wear"
+        },
+        {
+            "id": "0100E4A01548D00F",
+            "name": "MONARK: Kokoro's Formal Wear"
+        }
+    ],
     "latest": 0
 }

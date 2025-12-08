@@ -1,3 +1,25 @@
 {
+    "dlc": [
+        {
+            "id": "010063A016A15001",
+            "name": "Grandmaster Chessboard"
+        },
+        {
+            "id": "010063A016A15002",
+            "name": "Winter White Chessboard"
+        },
+        {
+            "id": "010063A016A15003",
+            "name": "Pink Bubble Gum Chessboard"
+        },
+        {
+            "id": "010063A016A15004",
+            "name": "Wisdom Chessboard"
+        },
+        {
+            "id": "010063A016A15005",
+            "name": "Emerald Green Chessboard"
+        }
+    ],
     "latest": 0
 }

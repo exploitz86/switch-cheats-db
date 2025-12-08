@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "010055E00CA69001",
+            "name": "Toby's Dream"
+        },
+        {
+            "id": "010055E00CA69009",
+            "name": "Trine: Ultimate Collection (Retail)"
+        }
+    ],
     "latest": 0
 }

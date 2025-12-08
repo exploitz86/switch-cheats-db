@@ -1,3 +1,25 @@
 {
+    "dlc": [
+        {
+            "id": "0100356009861001",
+            "name": "Experience Scroll"
+        },
+        {
+            "id": "0100356009861002",
+            "name": "Job Points Scroll"
+        },
+        {
+            "id": "0100356009861003",
+            "name": "Boost Scroll"
+        },
+        {
+            "id": "0100356009861004",
+            "name": "Full Recovery Scroll"
+        },
+        {
+            "id": "0100356009861005",
+            "name": "Encounter Scroll"
+        }
+    ],
     "latest": 0
 }

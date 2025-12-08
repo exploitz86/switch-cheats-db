@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "0100EB6018687001",
+            "name": "The Rumble Fish 2 Additional Character - Greed"
+        },
+        {
+            "id": "0100EB6018687002",
+            "name": "The Rumble Fish 2 Additional Character - Hazama"
+        },
+        {
+            "id": "0100EB6018687003",
+            "name": "The Rumble Fish 2 Additional Character - Beatrice"
+        }
+    ],
     "latest": 0
 }

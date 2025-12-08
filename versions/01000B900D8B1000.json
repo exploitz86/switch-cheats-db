@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "01000B900D8B1001",
+            "name": "Cadence of Hyrule Character Pack"
+        },
+        {
+            "id": "01000B900D8B1002",
+            "name": "Cadence of Hyrule Melody Pack"
+        },
+        {
+            "id": "01000B900D8B1003",
+            "name": "Cadence of Hyrule Symphony of the Mask"
+        },
+        {
+            "id": "01000B900D8B1004",
+            "name": "Season Pass Bonus Items"
+        }
+    ],
     "latest": 327680
 }

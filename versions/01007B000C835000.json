@@ -1,3 +1,53 @@
 {
+    "dlc": [
+        {
+            "id": "01007B000C835001",
+            "name": "Asphalt 9: Legends Starting Racer Pack"
+        },
+        {
+            "id": "01007B000C835003",
+            "name": "Asphalt 9: Legends \u2013 High-Gear Pack"
+        },
+        {
+            "id": "01007B000C835004",
+            "name": "Asphalt 9: Legends Triple Threat Pack"
+        },
+        {
+            "id": "01007B000C835005",
+            "name": "Asphalt 9: Legends -- Italian Pack"
+        },
+        {
+            "id": "01007B000C835006",
+            "name": "Asphalt 9: Legends Multiplayer Champion Pack"
+        },
+        {
+            "id": "01007B000C835007",
+            "name": "Asphalt 9: Legends Lamborghini Pack"
+        },
+        {
+            "id": "01007B000C835008",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01007B000C835009",
+            "name": "Asphalt 9: Legends \u2013 British Pack"
+        },
+        {
+            "id": "01007B000C83500A",
+            "name": "Asphalt 9: Legends -- Christmas Pack"
+        },
+        {
+            "id": "01007B000C83500B",
+            "name": "Asphalt 9: Legends Turbo Summer Racing Pack"
+        },
+        {
+            "id": "01007B000C83500C",
+            "name": "Asphalt 9: Legends Electric Power Racing Pack"
+        },
+        {
+            "id": "01007B000C83500D",
+            "name": "Asphalt 9: Legends King\u2019s Horsepower Pack"
+        }
+    ],
     "latest": 65536
 }

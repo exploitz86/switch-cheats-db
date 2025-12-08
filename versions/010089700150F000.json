@@ -1,3 +1,25 @@
 {
+    "dlc": [
+        {
+            "id": "010089700150F001",
+            "name": "Additional Quest: The Dragonblood Village"
+        },
+        {
+            "id": "010089700150F002",
+            "name": "Additional Storyline: The Dragonblood Bandit"
+        },
+        {
+            "id": "010089700150F006",
+            "name": "Additional Playable Characters: Empress & Warrior"
+        },
+        {
+            "id": "010089700150F007",
+            "name": "Additional Playable Characters: Shinobi & Witch"
+        },
+        {
+            "id": "010089700150F008",
+            "name": "DLC Equipment: Striker Gear"
+        }
+    ],
     "latest": 0
 }

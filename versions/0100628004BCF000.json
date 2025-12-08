@@ -1,3 +1,33 @@
 {
+    "dlc": [
+        {
+            "id": "0100628004BCF001",
+            "name": "Special Servan, Puni"
+        },
+        {
+            "id": "0100628004BCF002",
+            "name": "Bonus Costume, Scarlet Stripes"
+        },
+        {
+            "id": "0100628004BCF003",
+            "name": "Special Servan, Hinagiku"
+        },
+        {
+            "id": "0100628004BCF004",
+            "name": "Nights of Azure 2: Special Costume, Yuri Kozukata's Outfit"
+        },
+        {
+            "id": "0100628004BCF005",
+            "name": "Special Servan, Schnee"
+        },
+        {
+            "id": "0100628004BCF007",
+            "name": "Nights of Azure 2: Side story, Time Drifts Through the Moonlit Night"
+        },
+        {
+            "id": "0100628004BCF008",
+            "name": "Nights of Azure 2: Side story, The Foreigner in a Wonderland of Sweets"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,177 @@
 {
+    "dlc": [
+        {
+            "id": "0100ED7012DB3002",
+            "name": "ROMANCE OF THE THREE KINGDOMS XIV Season Pass"
+        },
+        {
+            "id": "0100ED7012DB3003",
+            "name": "Scenario [The Wavering Han Dynasty] & Event Set"
+        },
+        {
+            "id": "0100ED7012DB3004",
+            "name": "Editor - 4th Wave"
+        },
+        {
+            "id": "0100ED7012DB3005",
+            "name": "Scenario for War Chronicles Mode - 1st Wave: \"Liu Bei Enters Shu\""
+        },
+        {
+            "id": "0100ED7012DB3006",
+            "name": "Scenario [The Rise of Cao Cao] & Event Set"
+        },
+        {
+            "id": "0100ED7012DB3007",
+            "name": "Scenario for War Chronicles Mode - 2nd Wave: \"Clash of the Warmongers\""
+        },
+        {
+            "id": "0100ED7012DB3008",
+            "name": "ROMANCE OF THE THREE KINGDOMS XII Officer CG Set"
+        },
+        {
+            "id": "0100ED7012DB3009",
+            "name": "Scenario for War Chronicles Mode - 3rd Wave: \"The Battle for Hebei\""
+        },
+        {
+            "id": "0100ED7012DB300A",
+            "name": "Sun Ce Pushing Forward Event Set"
+        },
+        {
+            "id": "0100ED7012DB300B",
+            "name": "Watercolor Painting Style Officer CG Set for Wei, Wu, and Shu"
+        },
+        {
+            "id": "0100ED7012DB300C",
+            "name": "Scenario \"The Subjugation of Nanman\" & Event Set"
+        },
+        {
+            "id": "0100ED7012DB300D",
+            "name": "Scenario for War Chronicles Mode - 4th Wave: \"The Battle for Wu\""
+        },
+        {
+            "id": "0100ED7012DB300E",
+            "name": "\"Zhuge Liang's Northern Campaign\" Event Set"
+        },
+        {
+            "id": "0100ED7012DB300F",
+            "name": "\"ROMANCE OF THE THREE KINGDOMS XIII\" Officer CG Set - 2nd Wave"
+        },
+        {
+            "id": "0100ED7012DB3010",
+            "name": "Scenario for War Chronicles Mode - 5th Wave: \"The Battle for Yan Province\""
+        },
+        {
+            "id": "0100ED7012DB3011",
+            "name": "\"The Subjugation of Southern Jing Province\" Event Set"
+        },
+        {
+            "id": "0100ED7012DB3012",
+            "name": "\"ROMANCE OF THE THREE KINGDOMS XIII\" Officer CG Set"
+        },
+        {
+            "id": "0100ED7012DB3013",
+            "name": "Scenario [Battle of Tong Gate] & Event Set"
+        },
+        {
+            "id": "0100ED7012DB3014",
+            "name": "Editor - 1st Wave"
+        },
+        {
+            "id": "0100ED7012DB3015",
+            "name": "Scenario [The Lu Bu Campaign] & Event Set"
+        },
+        {
+            "id": "0100ED7012DB3016",
+            "name": "Editor - 2nd Wave"
+        },
+        {
+            "id": "0100ED7012DB3017",
+            "name": "Difficulty [Veteran] & Scenario Settings Set"
+        },
+        {
+            "id": "0100ED7012DB3018",
+            "name": "Scenario [Hebei Conflict] & Event Set"
+        },
+        {
+            "id": "0100ED7012DB3019",
+            "name": "Scenario [The Battle of Hefei] & Event Set"
+        },
+        {
+            "id": "0100ED7012DB301A",
+            "name": "Editor - 3rd Wave"
+        },
+        {
+            "id": "0100ED7012DB301B",
+            "name": "Scenario [Conflict among Clans]"
+        },
+        {
+            "id": "0100ED7012DB301C",
+            "name": "Scenario [A Yellow Sky]"
+        },
+        {
+            "id": "0100ED7012DB301D",
+            "name": "Scenario [Gongsun Zan: the Hero of Hebei]"
+        },
+        {
+            "id": "0100ED7012DB301E",
+            "name": "Difficulty [Extreme] & Scenario Settings Set"
+        },
+        {
+            "id": "0100ED7012DB301F",
+            "name": "Scenario [The Start of Change]"
+        },
+        {
+            "id": "0100ED7012DB3020",
+            "name": "Ancient Officer Data Set"
+        },
+        {
+            "id": "0100ED7012DB3021",
+            "name": "\"Ryza and Her Friends\" Officer Data"
+        },
+        {
+            "id": "0100ED7012DB3022",
+            "name": "Legend of the Galactic Heroes Collab: Reinhard & Yang"
+        },
+        {
+            "id": "0100ED7012DB3023",
+            "name": "\"Legend of the Galactic Heroes\" Collab: Kircheis & Julian"
+        },
+        {
+            "id": "0100ED7012DB3024",
+            "name": "\"Legend of the Galactic Heroes\" Collab: Empire vol.1"
+        },
+        {
+            "id": "0100ED7012DB3025",
+            "name": "\"Legend of the Galactic Heroes\" Collab: FPA vol.1"
+        },
+        {
+            "id": "0100ED7012DB3026",
+            "name": "\"Legend of the Galactic Heroes\" Collab: Galactic Empire vol.2 & FPA vol.2"
+        },
+        {
+            "id": "0100ED7012DB3027",
+            "name": "\"Legend of the Galactic Heroes\" Collab Scenario \"In the Midst of an Endless Dream\""
+        },
+        {
+            "id": "0100ED7012DB302A",
+            "name": "Scenario [The Fall of Shu Han]"
+        },
+        {
+            "id": "0100ED7012DB302B",
+            "name": "Scenario [Battle of Yiling]"
+        },
+        {
+            "id": "0100ED7012DB302E",
+            "name": "Ryza and Her New Friends Officer Data"
+        },
+        {
+            "id": "0100ED7012DB302F",
+            "name": "Nijisanji VTubers: \"Kuzuha, Sister Claire, and Debidebi Debiru\" Collaboration Officer Data"
+        },
+        {
+            "id": "0100ED7012DB3030",
+            "name": "KT's ROMANCE OF THE THREE KINGDOMS Series App Officer CG Set"
+        }
+    ],
     "latest": 524288
 }

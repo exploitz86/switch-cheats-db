@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100D150132FB001",
+            "name": "Pancake Bar Tycoon Expansion Pack #1"
+        },
+        {
+            "id": "0100D150132FB002",
+            "name": "Pancake Bar Tycoon Expansion Pack #2"
+        }
+    ],
     "latest": 0
 }

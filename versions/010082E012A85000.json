@@ -1,3 +1,77 @@
 {
+    "dlc": [
+        {
+            "id": "010082E012A85001",
+            "name": "Twilight Isle Expansion Pack"
+        },
+        {
+            "id": "010082E012A85002",
+            "name": "Windswept Falls Expansion Pack"
+        },
+        {
+            "id": "010082E012A85003",
+            "name": "Terracotta Oasis Expansion Pack"
+        },
+        {
+            "id": "010082E012A85004",
+            "name": "Olive Town Mystery Files"
+        },
+        {
+            "id": "010082E012A85005",
+            "name": "The Legendary Sprite Dance"
+        },
+        {
+            "id": "010082E012A85007",
+            "name": "School Uniforms (Protagonists)"
+        },
+        {
+            "id": "010082E012A85008",
+            "name": "Animal Attire (Protagonists)"
+        },
+        {
+            "id": "010082E012A85009",
+            "name": "Yukata Set (Protagonists)"
+        },
+        {
+            "id": "010082E012A8500B",
+            "name": "Buffalo Costume"
+        },
+        {
+            "id": "010082E012A8500C",
+            "name": "Fox Costume"
+        },
+        {
+            "id": "010082E012A8500E",
+            "name": "Neil's Jacket"
+        },
+        {
+            "id": "010082E012A85013",
+            "name": "Henry and Holly's Western Attire"
+        },
+        {
+            "id": "010082E012A85014",
+            "name": "Pete and Claire's Overalls"
+        },
+        {
+            "id": "010082E012A85015",
+            "name": "Yuto and Naomi's Hoodies"
+        },
+        {
+            "id": "010082E012A85016",
+            "name": "Princess Sakuna's Heavenly Garb"
+        },
+        {
+            "id": "010082E012A85017",
+            "name": "School Uniforms (Marriage Candidates)"
+        },
+        {
+            "id": "010082E012A85018",
+            "name": "Animal Attire (Marriage Candidates)"
+        },
+        {
+            "id": "010082E012A85019",
+            "name": "Yukata Set (Marriage Candidates)"
+        }
+    ],
     "latest": 0
 }

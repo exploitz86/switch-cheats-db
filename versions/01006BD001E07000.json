@@ -1,3 +1,157 @@
 {
+    "dlc": [
+        {
+            "id": "01006BD001E07001",
+            "name": "Festive Skin Pack"
+        },
+        {
+            "id": "01006BD001E07003",
+            "name": "Star Wars Classic Skin Pack"
+        },
+        {
+            "id": "01006BD001E07004",
+            "name": "Star Wars Rebels Skin Pack"
+        },
+        {
+            "id": "01006BD001E07005",
+            "name": "Star Wars Prequel Skin Pack"
+        },
+        {
+            "id": "01006BD001E07008",
+            "name": "Minecraft Dragonborn Mash-up"
+        },
+        {
+            "id": "01006BD001E0700A",
+            "name": "Greek Mythology Mash-up Pack"
+        },
+        {
+            "id": "01006BD001E0700B",
+            "name": "Halloween Mash-up Pack"
+        },
+        {
+            "id": "01006BD001E0700C",
+            "name": "Plastic Texture Pack"
+        },
+        {
+            "id": "01006BD001E0700D",
+            "name": "Candy Texture Pack"
+        },
+        {
+            "id": "01006BD001E0700E",
+            "name": "Cartoon Texture Pack"
+        },
+        {
+            "id": "01006BD001E0700F",
+            "name": "Steampunk Texture Pack"
+        },
+        {
+            "id": "01006BD001E07010",
+            "name": "Pattern Texture Pack"
+        },
+        {
+            "id": "01006BD001E07011",
+            "name": "Biome Settlers Skin Pack 1"
+        },
+        {
+            "id": "01006BD001E07012",
+            "name": "Story Mode Skin Pack"
+        },
+        {
+            "id": "01006BD001E07018",
+            "name": "Redstone Specialists Skin Pack"
+        },
+        {
+            "id": "01006BD001E0701A",
+            "name": "Chinese Mythology Mash-up Pack"
+        },
+        {
+            "id": "01006BD001E0701B",
+            "name": "Campfire Tales Skin Pack"
+        },
+        {
+            "id": "01006BD001E0701F",
+            "name": "Minecraft Vault-Tec Mash-up"
+        },
+        {
+            "id": "01006BD001E07021",
+            "name": "1st Birthday Skin Pack"
+        },
+        {
+            "id": "01006BD001E07023",
+            "name": "Villains Skin Pack"
+        },
+        {
+            "id": "01006BD001E07025",
+            "name": "Power Rangers Skin Pack"
+        },
+        {
+            "id": "01006BD001E07026",
+            "name": "Mini Game Masters Skin Pack"
+        },
+        {
+            "id": "01006BD001E0702C",
+            "name": "Adventure Time Mash-up"
+        },
+        {
+            "id": "01006BD001E0702D",
+            "name": "Magic: The Gathering Skin Pack"
+        },
+        {
+            "id": "01006BD001E0702E",
+            "name": "Mini Game Heroes Skin Pack"
+        },
+        {
+            "id": "01006BD001E0702F",
+            "name": "Biome Settlers Skin Pack 2"
+        },
+        {
+            "id": "01006BD001E07030",
+            "name": "Strangers - Biome Settlers 3"
+        },
+        {
+            "id": "01006BD001E07031",
+            "name": "Stranger Things Skin Pack"
+        },
+        {
+            "id": "01006BD001E07032",
+            "name": "MINECON Earth 2017 Skin Pack"
+        },
+        {
+            "id": "01006BD001E07033",
+            "name": "2nd Birthday Skin Pack"
+        },
+        {
+            "id": "01006BD001E07034",
+            "name": "Norse Mythology Mash-up"
+        },
+        {
+            "id": "01006BD001E07035",
+            "name": "Moana Character Pack"
+        },
+        {
+            "id": "01006BD001E07036",
+            "name": "Skin Pack 1"
+        },
+        {
+            "id": "01006BD001E07037",
+            "name": "Star Wars Sequel Skin Pack"
+        },
+        {
+            "id": "01006BD001E07038",
+            "name": "Master Chief Mash-up"
+        },
+        {
+            "id": "01006BD001E07039",
+            "name": "Minecraft Noctis Skin Pack"
+        },
+        {
+            "id": "01006BD001E0703A",
+            "name": "Egyptian Mythology Mash-up"
+        },
+        {
+            "id": "01006BD001E0703B",
+            "name": "The Incredibles Skin Pack"
+        }
+    ],
     "latest": 0
 }

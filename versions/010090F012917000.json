@@ -1,3 +1,33 @@
 {
+    "dlc": [
+        {
+            "id": "010090F012917001",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010090F012917002",
+            "name": "Ghostrunner Katanas"
+        },
+        {
+            "id": "010090F012917003",
+            "name": "Ghostrunner: Winter Pack"
+        },
+        {
+            "id": "010090F012917004",
+            "name": "Ghostrunner: Metal Ox Pack"
+        },
+        {
+            "id": "010090F012917005",
+            "name": "Ghostrunner: Neon Pack"
+        },
+        {
+            "id": "010090F012917006",
+            "name": "Ghostrunner: Halloween Pack"
+        },
+        {
+            "id": "010090F012917008",
+            "name": "Ghostrunner: Project_Hel"
+        }
+    ],
     "latest": 0
 }

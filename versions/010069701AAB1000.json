@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "010069701AAB1001",
+            "name": "Tangram Collection Egg"
+        },
+        {
+            "id": "010069701AAB1002",
+            "name": "Tangram Collection Other T"
+        },
+        {
+            "id": "010069701AAB1003",
+            "name": "Tangram Collection F"
+        },
+        {
+            "id": "010069701AAB1004",
+            "name": "Tangram Collection Heart"
+        }
+    ],
     "latest": 0
 }

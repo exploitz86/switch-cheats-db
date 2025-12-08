@@ -1,3 +1,33 @@
 {
+    "dlc": [
+        {
+            "id": "0100F7E00C70F006",
+            "name": "Hogwarts Legacy: German Language Pack"
+        },
+        {
+            "id": "0100F7E00C70F007",
+            "name": "Hogwarts Legacy: Spanish Language Pack"
+        },
+        {
+            "id": "0100F7E00C70F008",
+            "name": "Hogwarts Legacy: Spanish (Mexico) Language Pack"
+        },
+        {
+            "id": "0100F7E00C70F009",
+            "name": "Hogwarts Legacy: French Language Pack"
+        },
+        {
+            "id": "0100F7E00C70F00A",
+            "name": "Hogwarts Legacy: Italian Language Pack"
+        },
+        {
+            "id": "0100F7E00C70F00B",
+            "name": "Hogwarts Legacy: Japanese Language Pack"
+        },
+        {
+            "id": "0100F7E00C70F00C",
+            "name": "Hogwarts Legacy: Portuguese (Brazil) Language Pack"
+        }
+    ],
     "latest": 65536
 }

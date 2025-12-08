@@ -1,3 +1,33 @@
 {
+    "dlc": [
+        {
+            "id": "01000E2003FA1001",
+            "name": "DLC Character: Ekoro"
+        },
+        {
+            "id": "01000E2003FA1002",
+            "name": "DLC Character: Call"
+        },
+        {
+            "id": "01000E2003FA1003",
+            "name": "DLC Character: Joule"
+        },
+        {
+            "id": "01000E2003FA1004",
+            "name": "DLC Character: Ray"
+        },
+        {
+            "id": "01000E2003FA1005",
+            "name": "DLC Character: Copen"
+        },
+        {
+            "id": "01000E2003FA1006",
+            "name": "DLC Character: Kurona"
+        },
+        {
+            "id": "01000E2003FA1007",
+            "name": "DLC Character: Tenzou"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,73 @@
 {
+    "dlc": [
+        {
+            "id": "01008FE00E2F7001",
+            "name": "ONE PIECE: PIRATE WARRIORS 4 Luffy Costume \"Luffytaro\""
+        },
+        {
+            "id": "01008FE00E2F7002",
+            "name": "ONE PIECE: PIRATE WARRIORS 4 Zoro Costume \"Zorojuro\""
+        },
+        {
+            "id": "01008FE00E2F7003",
+            "name": "ONE PIECE: PIRATE WARRIORS 4 Nami Costume \"Onami\""
+        },
+        {
+            "id": "01008FE00E2F7004",
+            "name": "ONE PIECE: PIRATE WARRIORS 4 Sanji Costume \"Soba Mask\""
+        },
+        {
+            "id": "01008FE00E2F7005",
+            "name": "ONE PIECE: PIRATE WARRIORS 4 DYNASTY WARRIORS Hancock Costume"
+        },
+        {
+            "id": "01008FE00E2F7006",
+            "name": "ONE PIECE: PIRATE WARRIORS 4 DYNASTY WARRIORS Law Costume"
+        },
+        {
+            "id": "01008FE00E2F7008",
+            "name": "ONE PIECE: PIRATE WARRIORS 4 Vinsmoke Ichiji Early Unlock"
+        },
+        {
+            "id": "01008FE00E2F7009",
+            "name": "ONE PIECE: PIRATE WARRIORS 4 Vinsmoke Niji Early Unlock"
+        },
+        {
+            "id": "01008FE00E2F700A",
+            "name": "ONE PIECE: PIRATE WARRIORS 4 Vinsmoke Yonji Early Unlock"
+        },
+        {
+            "id": "01008FE00E2F700B",
+            "name": "ONE PIECE: PIRATE WARRIORS 4 Charlotte Katakuri Early Unlock"
+        },
+        {
+            "id": "01008FE00E2F700C",
+            "name": "ONE PIECE: PIRATE WARRIORS 4 Anime Song Pack"
+        },
+        {
+            "id": "01008FE00E2F7014",
+            "name": "ONE PIECE: PIRATE WARRIORS 4 Whole Cake Island Pack"
+        },
+        {
+            "id": "01008FE00E2F7015",
+            "name": "ONE PIECE: PIRATE WARRIORS 4 The Worst Generation Pack"
+        },
+        {
+            "id": "01008FE00E2F7016",
+            "name": "ONE PIECE: PIRATE WARRIORS 4 Land of Wano Pack"
+        },
+        {
+            "id": "01008FE00E2F7017",
+            "name": "ONE PIECE: PIRATE WARRIORS 4 The Battle of Onigashima Pack"
+        },
+        {
+            "id": "01008FE00E2F701A",
+            "name": "ONE PIECE: PIRATE WARRIORS 4 Yamato's Grand Tour Logbook & Soul Map 1"
+        },
+        {
+            "id": "01008FE00E2F701D",
+            "name": "ONE PIECE: PIRATE WARRIORS 4 Onigashima Battle Law Costume"
+        }
+    ],
     "latest": 0
 }

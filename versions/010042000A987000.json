@@ -1,3 +1,69 @@
 {
+    "dlc": [
+        {
+            "id": "010042000A987001",
+            "name": "Hotto Stuff Pack"
+        },
+        {
+            "id": "010042000A987002",
+            "name": "stackable slime"
+        },
+        {
+            "id": "010042000A987003",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010042000A987005",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010042000A987006",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010042000A987007",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010042000A987008",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010042000A987009",
+            "name": "Purchase Bonus Items-  Sigil Blocks"
+        },
+        {
+            "id": "010042000A98700A",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010042000A98700B",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010042000A98700C",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "010042000A98700D",
+            "name": "Purchase Bonus Items"
+        },
+        {
+            "id": "010042000A98700E",
+            "name": "Designer\u2019s Sunglasses"
+        },
+        {
+            "id": "010042000A987010",
+            "name": "Aquarium Pack"
+        },
+        {
+            "id": "010042000A987012",
+            "name": "Knickknack Pack"
+        },
+        {
+            "id": "010042000A987013",
+            "name": "Modernist Pack"
+        }
+    ],
     "latest": 65536
 }

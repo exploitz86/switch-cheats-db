@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "0100C37019BC3001",
+            "name": "Space Tail: Homecoming"
+        }
+    ],
     "latest": 65536
 }

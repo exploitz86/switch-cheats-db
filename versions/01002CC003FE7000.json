@@ -1,3 +1,93 @@
 {
+    "dlc": [
+        {
+            "id": "01002CC003FE7001",
+            "name": "Starlink: Battle for Atlas\u2122 Digital Pulse Starship Pack"
+        },
+        {
+            "id": "01002CC003FE7002",
+            "name": "Starlink: Battle for Atlas\u2122 Digital Neptune Starship Pack"
+        },
+        {
+            "id": "01002CC003FE7003",
+            "name": "Starlink: Battle for Atlas\u2122 Digital Lance Starship Pack"
+        },
+        {
+            "id": "01002CC003FE7004",
+            "name": "Starlink: Battle for Atlas\u2122 Digital Nadir Starship Pack"
+        },
+        {
+            "id": "01002CC003FE7005",
+            "name": "Starlink: Battle for Atlas\u2122 Digital Levi McCray Pilot Pack"
+        },
+        {
+            "id": "01002CC003FE7006",
+            "name": "Starlink: Battle for Atlas\u2122 Digital Kharl Zeon Pilot Pack"
+        },
+        {
+            "id": "01002CC003FE7007",
+            "name": "Starlink: Battle for Atlas\u2122 Digital Razor Lemay Pilot Pack"
+        },
+        {
+            "id": "01002CC003FE7008",
+            "name": "Starlink: Battle for Atlas\u2122 Digital Eli Arborwood Pilot Pack"
+        },
+        {
+            "id": "01002CC003FE7009",
+            "name": "Starlink: Battle for Atlas\u2122 Digital Iron Fist Weapon Pack"
+        },
+        {
+            "id": "01002CC003FE700A",
+            "name": "Starlink: Battle for Atlas\u2122 Digital Crusher Weapon Pack"
+        },
+        {
+            "id": "01002CC003FE700B",
+            "name": "Starlink: Battle for Atlas\u2122 Digital Shockwave Weapon Pack"
+        },
+        {
+            "id": "01002CC003FE700C",
+            "name": "Starlink: Battle for Atlas\u2122 Digital Hailstorm Weapon Pack"
+        },
+        {
+            "id": "01002CC003FE700F",
+            "name": "Starlink: Battle for Atlas Digital Startail Pilot Pack"
+        },
+        {
+            "id": "01002CC003FE7010",
+            "name": "Starlink: Battle for Atlas Digital Skullscream Starship Pack"
+        },
+        {
+            "id": "01002CC003FE7011",
+            "name": "Starlink: Battle for Atlas Digital Vigilance Starship Pack"
+        },
+        {
+            "id": "01002CC003FE7012",
+            "name": "Starlink: Battle for Atlas Digital Vantage Starship Pack"
+        },
+        {
+            "id": "01002CC003FE7013",
+            "name": "Starlink: Battle for Atlas Digital Haywire Pilot Pack"
+        },
+        {
+            "id": "01002CC003FE7015",
+            "name": "Starlink: Battle for Atlas Digital Gauss Gun Weapon Pack"
+        },
+        {
+            "id": "01002CC003FE7016",
+            "name": "Starlink: Battle for Atlas Digital Fury Cannon Weapon Pack"
+        },
+        {
+            "id": "01002CC003FE7017",
+            "name": "Starlink: Battle for Atlas Digital Freeze Ray Weapon Pack"
+        },
+        {
+            "id": "01002CC003FE7018",
+            "name": "Starlink: Battle for Atlas Digital Meteor Weapon Pack"
+        },
+        {
+            "id": "01002CC003FE7019",
+            "name": "Starlink: Battle for Atlas Digital Star Fox Team Pilot Pack"
+        }
+    ],
     "latest": 65536
 }

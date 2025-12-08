@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100CAE019C05001",
+            "name": "Cowboy Poker"
+        },
+        {
+            "id": "0100CAE019C05002",
+            "name": "Interactive Science Fiction"
+        }
+    ],
     "latest": 65536
 }

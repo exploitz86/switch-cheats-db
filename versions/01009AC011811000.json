@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "01009AC011811001",
+            "name": "Additional Story \uff06 Playable Character: Akasha"
+        },
+        {
+            "id": "01009AC011811002",
+            "name": "Additional Story \uff06 Playable Character: Yuji Otori"
+        },
+        {
+            "id": "01009AC011811003",
+            "name": "Additional Story \uff06 Playable Character: Copen (Gunvolt Chronicles: Luminous Avenger iX 2)"
+        }
+    ],
     "latest": 0
 }

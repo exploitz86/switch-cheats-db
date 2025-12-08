@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100DD30191DD001",
+            "name": "She Wants Me Dead Artbook"
+        },
+        {
+            "id": "0100DD30191DD002",
+            "name": "She Wants Me Dead Soundtrack"
+        }
+    ],
     "latest": 0
 }

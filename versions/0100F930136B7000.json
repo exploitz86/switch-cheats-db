@@ -1,3 +1,69 @@
 {
+    "dlc": [
+        {
+            "id": "0100F930136B7006",
+            "name": "R-Type Final 2: DLC Set 1"
+        },
+        {
+            "id": "0100F930136B7007",
+            "name": "R-Type Final 2: DLC Set 2"
+        },
+        {
+            "id": "0100F930136B7008",
+            "name": "R-Type Final 2: DLC Set 3"
+        },
+        {
+            "id": "0100F930136B700A",
+            "name": "R-Type Final 2: DLC Set 4"
+        },
+        {
+            "id": "0100F930136B700B",
+            "name": "R-Type Final 2: DLC Set 5"
+        },
+        {
+            "id": "0100F930136B700C",
+            "name": "R-Type Final 2: DLC Set 6"
+        },
+        {
+            "id": "0100F930136B700D",
+            "name": "R-Type Final 2: OFX-X MARIKO R-Craft"
+        },
+        {
+            "id": "0100F930136B700E",
+            "name": "R-Type Final 2: APRIL FOOLS PROTOTYPE R-Craft"
+        },
+        {
+            "id": "0100F930136B700F",
+            "name": "B-99 APOCALYPSE R-Craft"
+        },
+        {
+            "id": "0100F930136B7010",
+            "name": "R-Type Final 2: DLC Set 7"
+        },
+        {
+            "id": "0100F930136B7011",
+            "name": "R-Type Final 2: DLC Set 8"
+        },
+        {
+            "id": "0100F930136B7012",
+            "name": "R-Type Final 2: DLC Set 9"
+        },
+        {
+            "id": "0100F930136B7013",
+            "name": "R-Type Final 2: New Pilot Support Pack"
+        },
+        {
+            "id": "0100F930136B7014",
+            "name": "R-Type Final 2: Ace Pilot Special Training Pack I"
+        },
+        {
+            "id": "0100F930136B7015",
+            "name": "R-Type Final 2: Ace Pilot Special Training Pack II"
+        },
+        {
+            "id": "0100F930136B7016",
+            "name": "R-Type Final 2: Ace Pilot Special Training Pack III"
+        }
+    ],
     "latest": 65536
 }

@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "01001C5019075001",
+            "name": "Experience x3 - Dragon Prana"
+        },
+        {
+            "id": "01001C5019075002",
+            "name": "CP x3 - Dragon Prana"
+        },
+        {
+            "id": "01001C5019075003",
+            "name": "Experience & CP x2 - Dragon Prana"
+        },
+        {
+            "id": "01001C5019075004",
+            "name": "Damage x2 - Dragon Prana"
+        }
+    ],
     "latest": 0
 }

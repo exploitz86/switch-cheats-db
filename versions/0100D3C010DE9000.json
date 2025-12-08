@@ -1,3 +1,233 @@
 {
+    "dlc": [
+        {
+            "id": "0100D3C010DE9004",
+            "name": "Trails of Cold Steel IV: Rebellious Septian Set: Fire"
+        },
+        {
+            "id": "0100D3C010DE9005",
+            "name": "Trails of Cold Steel IV: Rebellious Septian Set: Water"
+        },
+        {
+            "id": "0100D3C010DE9006",
+            "name": "Trails of Cold Steel IV: Rebellious Septian Set: Wind"
+        },
+        {
+            "id": "0100D3C010DE900B",
+            "name": "Trails of Cold Steel IV: Gifts from Eryn"
+        },
+        {
+            "id": "0100D3C010DE9050",
+            "name": "Trails of Cold Steel IV: Self-Assertion Panels Vol. 2"
+        },
+        {
+            "id": "0100D3C010DE905C",
+            "name": "Trails of Cold Steel IV: Standard Costume Bundle"
+        },
+        {
+            "id": "0100D3C010DE9064",
+            "name": "Trails of Cold Steel IV: Free Sample Set A"
+        },
+        {
+            "id": "0100D3C010DE9065",
+            "name": "Trails of Cold Steel IV: Free Sample Set B"
+        },
+        {
+            "id": "0100D3C010DE9066",
+            "name": "Trails of Cold Steel IV: Free Sample Set C"
+        },
+        {
+            "id": "0100D3C010DE9067",
+            "name": "Trails of Cold Steel IV: Sepith Set 1"
+        },
+        {
+            "id": "0100D3C010DE9068",
+            "name": "Trails of Cold Steel IV: Sepith Set 2"
+        },
+        {
+            "id": "0100D3C010DE9069",
+            "name": "Trails of Cold Steel IV: Sepith Set 3"
+        },
+        {
+            "id": "0100D3C010DE906A",
+            "name": "Trails of Cold Steel IV: Sepith Set 4"
+        },
+        {
+            "id": "0100D3C010DE906B",
+            "name": "Trails of Cold Steel IV: Sepith Set 5"
+        },
+        {
+            "id": "0100D3C010DE906C",
+            "name": "Trails of Cold Steel IV: Useful Accessories Set"
+        },
+        {
+            "id": "0100D3C010DE906D",
+            "name": "Trails of Cold Steel IV: Monster Ingredients Set 1"
+        },
+        {
+            "id": "0100D3C010DE906E",
+            "name": "Trails of Cold Steel IV: Monster Ingredients Set 2"
+        },
+        {
+            "id": "0100D3C010DE906F",
+            "name": "Trails of Cold Steel IV: Monster Ingredients Set 3"
+        },
+        {
+            "id": "0100D3C010DE9070",
+            "name": "Trails of Cold Steel IV: Advanced Medicine Set 1"
+        },
+        {
+            "id": "0100D3C010DE9071",
+            "name": "Trails of Cold Steel IV: Advanced Medicine Set 2"
+        },
+        {
+            "id": "0100D3C010DE9072",
+            "name": "Trails of Cold Steel IV: Advanced Medicine Set 3"
+        },
+        {
+            "id": "0100D3C010DE9073",
+            "name": "Trails of Cold Steel IV: Spirit Incense Set 1"
+        },
+        {
+            "id": "0100D3C010DE9074",
+            "name": "Trails of Cold Steel IV: Spirit Incense Set 2"
+        },
+        {
+            "id": "0100D3C010DE9075",
+            "name": "Trails of Cold Steel IV: Spirit Incense Set 3"
+        },
+        {
+            "id": "0100D3C010DE9076",
+            "name": "Trails of Cold Steel IV: Dragon Incense Set 1"
+        },
+        {
+            "id": "0100D3C010DE9077",
+            "name": "Trails of Cold Steel IV: Dragon Incense Set 2"
+        },
+        {
+            "id": "0100D3C010DE9078",
+            "name": "Trails of Cold Steel IV: Dragon Incense Set 3"
+        },
+        {
+            "id": "0100D3C010DE9079",
+            "name": "Trails of Cold Steel IV: Zeram Powder Set 1"
+        },
+        {
+            "id": "0100D3C010DE907A",
+            "name": "Trails of Cold Steel IV: Zeram Powder Set 2"
+        },
+        {
+            "id": "0100D3C010DE907B",
+            "name": "Trails of Cold Steel IV: Zeram Powder Set 3"
+        },
+        {
+            "id": "0100D3C010DE907C",
+            "name": "Trails of Cold Steel IV: Zeram Capsule Set 1"
+        },
+        {
+            "id": "0100D3C010DE907D",
+            "name": "Trails of Cold Steel IV: Zeram Capsule Set 2"
+        },
+        {
+            "id": "0100D3C010DE907E",
+            "name": "Trails of Cold Steel IV: Zeram Capsule Set 3"
+        },
+        {
+            "id": "0100D3C010DE907F",
+            "name": "Trails of Cold Steel IV: U-Material Set 1"
+        },
+        {
+            "id": "0100D3C010DE9080",
+            "name": "Trails of Cold Steel IV: U-Material Set 2"
+        },
+        {
+            "id": "0100D3C010DE9081",
+            "name": "Trails of Cold Steel IV: U-Material Set 3"
+        },
+        {
+            "id": "0100D3C010DE9082",
+            "name": "Trails of Cold Steel IV: U-Material Set 4"
+        },
+        {
+            "id": "0100D3C010DE9083",
+            "name": "Trails of Cold Steel IV: U-Material Set 5"
+        },
+        {
+            "id": "0100D3C010DE9084",
+            "name": "Trails of Cold Steel IV: U-Material Set 6"
+        },
+        {
+            "id": "0100D3C010DE9085",
+            "name": "Trails of Cold Steel IV: U-Material Set 7"
+        },
+        {
+            "id": "0100D3C010DE9086",
+            "name": "Trails of Cold Steel IV: U-Material Set 8"
+        },
+        {
+            "id": "0100D3C010DE9087",
+            "name": "Trails of Cold Steel IV: U-Material Set 9"
+        },
+        {
+            "id": "0100D3C010DE9088",
+            "name": "Trails of Cold Steel IV: Droplet Set 1"
+        },
+        {
+            "id": "0100D3C010DE9089",
+            "name": "Trails of Cold Steel IV: Droplet Set 2"
+        },
+        {
+            "id": "0100D3C010DE908A",
+            "name": "Trails of Cold Steel IV: Droplet Set 3"
+        },
+        {
+            "id": "0100D3C010DE908B",
+            "name": "Trails of Cold Steel IV: Droplet Set 4"
+        },
+        {
+            "id": "0100D3C010DE908C",
+            "name": "Trails of Cold Steel IV: Droplet Set 5"
+        },
+        {
+            "id": "0100D3C010DE908D",
+            "name": "Trails of Cold Steel IV: Shining Pom Droplet Set 1"
+        },
+        {
+            "id": "0100D3C010DE908E",
+            "name": "Trails of Cold Steel IV: Shining Pom Droplet Set 2"
+        },
+        {
+            "id": "0100D3C010DE908F",
+            "name": "Trails of Cold Steel IV: Shining Pom Droplet Set 3"
+        },
+        {
+            "id": "0100D3C010DE9090",
+            "name": "Trails of Cold Steel IV: Shining Pom Droplet Set 4"
+        },
+        {
+            "id": "0100D3C010DE9091",
+            "name": "Trails of Cold Steel IV: Shining Pom Droplet Set 5"
+        },
+        {
+            "id": "0100D3C010DE9092",
+            "name": "Trails of Cold Steel IV: Shining Pom Droplet Value Set 1"
+        },
+        {
+            "id": "0100D3C010DE9093",
+            "name": "Trails of Cold Steel IV: Shining Pom Droplet Value Set 2"
+        },
+        {
+            "id": "0100D3C010DE9094",
+            "name": "Trails of Cold Steel IV: Shining Pom Droplet Value Set 3"
+        },
+        {
+            "id": "0100D3C010DE9095",
+            "name": "Trails of Cold Steel IV: Shining Pom Droplet Value Set 4"
+        },
+        {
+            "id": "0100D3C010DE9096",
+            "name": "Trails of Cold Steel IV: Shining Pom Droplet Value Set 5"
+        }
+    ],
     "latest": 0
 }

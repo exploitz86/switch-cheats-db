@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "01002E4013EAF001",
+            "name": "Dice Legacy: Corrupted Fates"
+        }
+    ],
     "latest": 65536
 }

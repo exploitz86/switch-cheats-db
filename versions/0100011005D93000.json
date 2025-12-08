@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "0100011005D9306A",
+            "name": "Telltale Batman Shadows Mode"
+        }
+    ],
     "latest": 131072
 }

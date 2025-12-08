@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "01007730159FD001",
+            "name": "Pre-Order to Unlock your FREE Tanuki Token!"
+        },
+        {
+            "id": "01007730159FD002",
+            "name": "JUMANJI: Welcome to the Jungle Expansion"
+        }
+    ],
     "latest": 0
 }

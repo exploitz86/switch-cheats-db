@@ -1,3 +1,101 @@
 {
+    "dlc": [
+        {
+            "id": "01009A90120230C8",
+            "name": "\"Sonnet of Dawn\" Costume for Ryza"
+        },
+        {
+            "id": "01009A90120230C9",
+            "name": "\"Beware of Puni!\" and \"Blue Puni Costume\" T-Shirts for Ryza"
+        },
+        {
+            "id": "01009A90120230CA",
+            "name": "Another Style Costume Set"
+        },
+        {
+            "id": "01009A90120230CB",
+            "name": "Summer Memories Costume Set"
+        },
+        {
+            "id": "01009A90120230CC",
+            "name": "Summer Fashion Costume Set"
+        },
+        {
+            "id": "01009A90120230CD",
+            "name": "\"Mysterious Book Alchemist\" Costume for Ryza"
+        },
+        {
+            "id": "01009A90120230CF",
+            "name": "Ryza's Swimsuit \"Tropical Summer\""
+        },
+        {
+            "id": "01009A90120230D0",
+            "name": "Lent's Swimsuit \"Beach Flag King\""
+        },
+        {
+            "id": "01009A90120230D1",
+            "name": "Tao's Swimsuit \"School Trip\""
+        },
+        {
+            "id": "01009A90120230D2",
+            "name": "Klaudia's Swimsuit \"Black Monokini\""
+        },
+        {
+            "id": "01009A90120230D3",
+            "name": "Patricia's Swimsuit \"White Beach Corset\""
+        },
+        {
+            "id": "01009A90120230D4",
+            "name": "Clifford's Swimsuit \"Ocean Treasure\""
+        },
+        {
+            "id": "01009A90120230D5",
+            "name": "Serri's Swimsuit \"Bitter Chocolate\""
+        },
+        {
+            "id": "01009A90120230D6",
+            "name": "\u3010Ryza 1 Million Units Celebration\u3011 High Summer Formal"
+        },
+        {
+            "id": "01009A901202312C",
+            "name": "Atelier Series Legacy BGM Pack"
+        },
+        {
+            "id": "01009A901202312D",
+            "name": "Gust Extra BGM Pack"
+        },
+        {
+            "id": "01009A9012023190",
+            "name": "Helpful Items Set"
+        },
+        {
+            "id": "01009A9012023191",
+            "name": "All You Need! Gem Pack"
+        },
+        {
+            "id": "01009A9012023258",
+            "name": "Kurken Island Gathering Tour"
+        },
+        {
+            "id": "01009A9012023259",
+            "name": "Additional Area \"Keldorah Castle\""
+        },
+        {
+            "id": "01009A901202325A",
+            "name": "High-difficulty Area \"Flame Sun Island\""
+        },
+        {
+            "id": "01009A90120232BC",
+            "name": "\"Nostalgic Straw Hat\" Accessory for Ryza"
+        },
+        {
+            "id": "01009A90120232BD",
+            "name": "Recipe Expansion Pack \"The Art of Synthesis\""
+        },
+        {
+            "id": "01009A90120232BE",
+            "name": "Recipe Expansion Pack \"The Art of Battle\""
+        }
+    ],
     "latest": 65536
 }

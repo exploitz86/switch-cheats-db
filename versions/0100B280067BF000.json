@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "0100B280067BF001",
+            "name": "Hebereke Character Pack"
+        },
+        {
+            "id": "0100B280067BF002",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100B280067BF003",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "0100B280067BF004",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 0
 }

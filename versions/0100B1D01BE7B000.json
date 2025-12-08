@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "0100B1D01BE7B001",
+            "name": "Extra Car Pack"
+        },
+        {
+            "id": "0100B1D01BE7B002",
+            "name": "Extra Furries Pack"
+        },
+        {
+            "id": "0100B1D01BE7B003",
+            "name": "Extra Puppies Pack"
+        },
+        {
+            "id": "0100B1D01BE7B004",
+            "name": "Extra Friends Pack"
+        }
+    ],
     "latest": 0
 }

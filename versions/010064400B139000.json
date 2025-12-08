@@ -1,3 +1,33 @@
 {
+    "dlc": [
+        {
+            "id": "010064400B139001",
+            "name": "V Rally 4 - Ford Shelby GT500"
+        },
+        {
+            "id": "010064400B139002",
+            "name": "V-Rally 4 - Career Booster"
+        },
+        {
+            "id": "010064400B139004",
+            "name": "V-Rally 4 - Supercharge Pack"
+        },
+        {
+            "id": "010064400B139005",
+            "name": "V-Rally 4 - Ford GT (2006)"
+        },
+        {
+            "id": "010064400B139006",
+            "name": "V-Rally 4 - Citro\u00ebn DS3 RX"
+        },
+        {
+            "id": "010064400B139007",
+            "name": "V-Rally 4 - Volkswagen Pikes Peak"
+        },
+        {
+            "id": "010064400B139008",
+            "name": "V-Rally 4 - Chevrolet Camaro ZL1"
+        }
+    ],
     "latest": 65536
 }

@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "010058C017025001",
+            "name": "Dungeons 3 - A Multitude of Maps"
+        },
+        {
+            "id": "010058C017025002",
+            "name": "Dungeons 3 - An Unexpected DLC"
+        },
+        {
+            "id": "010058C017025003",
+            "name": "Dungeons 3 - Clash of Gods"
+        },
+        {
+            "id": "010058C017025004",
+            "name": "Dungeons 3 - Famous Last Words"
+        }
+    ],
     "latest": 0
 }

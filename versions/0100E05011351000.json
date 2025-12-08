@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100E05011351001",
+            "name": "Wingspan: European Expansion"
+        },
+        {
+            "id": "0100E0501135100A",
+            "name": "Seasonal Decorative Pack"
+        }
+    ],
     "latest": 0
 }

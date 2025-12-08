@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "01000130120EF001",
+            "name": "Fuga: Melodies of Steel - Deluxe Edition Upgrade Pack"
+        },
+        {
+            "id": "01000130120EF002",
+            "name": "Fuga: Melodies of Steel - Back to School Costume Pack"
+        },
+        {
+            "id": "01000130120EF003",
+            "name": "Fuga: Melodies of Steel - Way of the Sword Costume Pack"
+        },
+        {
+            "id": "01000130120EF004",
+            "name": "Fuga: Melodies of Steel - Fantasy Costume Pack"
+        }
+    ],
     "latest": 0
 }

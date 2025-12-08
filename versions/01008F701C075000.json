@@ -1,3 +1,29 @@
 {
+    "dlc": [
+        {
+            "id": "01008F701C075001",
+            "name": "LEGO\u00ae Sonic Skin"
+        },
+        {
+            "id": "01008F701C075002",
+            "name": "LEGO\u00ae Fun Pack"
+        },
+        {
+            "id": "01008F701C075006",
+            "name": "Extra Content Pack"
+        },
+        {
+            "id": "01008F701C075007",
+            "name": "Modern Amy Costume"
+        },
+        {
+            "id": "01008F701C075009",
+            "name": "Comic Style Character Skins"
+        },
+        {
+            "id": "01008F701C075032",
+            "name": "LEGO\u00ae Eggman Boss Skin - Pre-order"
+        }
+    ],
     "latest": 0
 }

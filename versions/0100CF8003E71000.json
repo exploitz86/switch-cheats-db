@@ -1,3 +1,21 @@
 {
+    "dlc": [
+        {
+            "id": "0100CF8003E71001",
+            "name": "Decorations & Tool Upgrade Pack"
+        },
+        {
+            "id": "0100CF8003E71002",
+            "name": "New Marriageable Characters Pack"
+        },
+        {
+            "id": "0100CF8003E71003",
+            "name": "Doc's & Melanie's Special Episodes"
+        },
+        {
+            "id": "0100CF8003E71004",
+            "name": "Divine Marriageable Characters Pack"
+        }
+    ],
     "latest": 65536
 }

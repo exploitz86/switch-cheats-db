@@ -1,3 +1,157 @@
 {
+    "dlc": [
+        {
+            "id": "01005880134C3065",
+            "name": "Season 1 Premium Pass"
+        },
+        {
+            "id": "01005880134C3066",
+            "name": "Season 2 Premium Pass"
+        },
+        {
+            "id": "01005880134C3067",
+            "name": "Season 3 Premium Pass"
+        },
+        {
+            "id": "01005880134C3068",
+            "name": "Season 4 Premium Pass"
+        },
+        {
+            "id": "01005880134C3069",
+            "name": "Mythical Cards Premium Pass"
+        },
+        {
+            "id": "01005880134C30C9",
+            "name": "Season 1 Premium Pass + 10 Levels"
+        },
+        {
+            "id": "01005880134C30CA",
+            "name": "Season 2 Premium Pass + 10 Levels"
+        },
+        {
+            "id": "01005880134C30CB",
+            "name": "Season 3 Premium Pass + 10 Levels"
+        },
+        {
+            "id": "01005880134C30CC",
+            "name": "Season 4 Premium Pass + 10 Levels"
+        },
+        {
+            "id": "01005880134C30CD",
+            "name": "Mythical Cards Premium Pass + 10 Levels"
+        },
+        {
+            "id": "01005880134C312C",
+            "name": "Leader Skin: \"Hiro: Awoken Flame\""
+        },
+        {
+            "id": "01005880134C312D",
+            "name": "Leader Skin: \"Mimori: Sublime Melody\""
+        },
+        {
+            "id": "01005880134C312E",
+            "name": "Leader Skin: \"Mai\""
+        },
+        {
+            "id": "01005880134C312F",
+            "name": "Leader Skin: \"Mysterious Girl\""
+        },
+        {
+            "id": "01005880134C3130",
+            "name": "Leader Skin: \"Seiya Kibakura\""
+        },
+        {
+            "id": "01005880134C3131",
+            "name": "Leader Skin: \"Takuma Kibakura\""
+        },
+        {
+            "id": "01005880134C3132",
+            "name": "Leader Skin: \"Vivian Joubert\""
+        },
+        {
+            "id": "01005880134C3133",
+            "name": "Leader Skin: \"Vanessa Joubert\""
+        },
+        {
+            "id": "01005880134C3134",
+            "name": "Leader Skin: \"Kazuki: Pursuing Victory\""
+        },
+        {
+            "id": "01005880134C3135",
+            "name": "Leader Skin: \"Kai: Soul Baron\""
+        },
+        {
+            "id": "01005880134C3136",
+            "name": "Leader Skin: \"Ai\""
+        },
+        {
+            "id": "01005880134C3137",
+            "name": "Leader Skin: \"Masked Maestro\""
+        },
+        {
+            "id": "01005880134C3138",
+            "name": "Leader Skin: \"Marcel Tabeoka\""
+        },
+        {
+            "id": "01005880134C3139",
+            "name": "Leader Skin \"Miyabi Zaizenji\""
+        },
+        {
+            "id": "01005880134C313A",
+            "name": "Leader Skin: \"Ko Hebigami\""
+        },
+        {
+            "id": "01005880134C313B",
+            "name": "Leader Skin: \"Zuo Onizuka\""
+        },
+        {
+            "id": "01005880134C313C",
+            "name": "Leader Skin: \"Kagura: Heavenly Envoy\""
+        },
+        {
+            "id": "01005880134C313D",
+            "name": "Leader Skin: \"Luca: Dark Emperor\""
+        },
+        {
+            "id": "01005880134C313E",
+            "name": "Leader Skin: \"Shadow Knight: Ein\""
+        },
+        {
+            "id": "01005880134C313F",
+            "name": "Leader Skin: \"Kobayashi\""
+        },
+        {
+            "id": "01005880134C3140",
+            "name": "Leader Skin: \"Leon Aurenche\""
+        },
+        {
+            "id": "01005880134C3141",
+            "name": "Leader Skin: \"Rei Saotome\""
+        },
+        {
+            "id": "01005880134C3142",
+            "name": "Leader Skin: \"King of Shadowverse: Rei\""
+        },
+        {
+            "id": "01005880134C3143",
+            "name": "Leader Skin: \"Alice: Underworld Sovereign\""
+        },
+        {
+            "id": "01005880134C3144",
+            "name": "Leader Skin: \"Makise\""
+        },
+        {
+            "id": "01005880134C3145",
+            "name": "Leader Skin: \"Shiro Kiriyama\""
+        },
+        {
+            "id": "01005880134C3146",
+            "name": "Leader Skin: \"Marguerite Valois\""
+        },
+        {
+            "id": "01005880134C3147",
+            "name": "Leader Skin: \"Shadow Knight: Zechts\""
+        }
+    ],
     "latest": 65536
 }

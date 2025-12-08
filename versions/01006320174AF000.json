@@ -1,3 +1,41 @@
 {
+    "dlc": [
+        {
+            "id": "01006320174AF001",
+            "name": "Pioneer's Badge"
+        },
+        {
+            "id": "01006320174AF002",
+            "name": "Treasure from Heaven"
+        },
+        {
+            "id": "01006320174AF003",
+            "name": "Witness of Truth"
+        },
+        {
+            "id": "01006320174AF004",
+            "name": "Early Spring"
+        },
+        {
+            "id": "01006320174AF005",
+            "name": "Special Weapons Pack"
+        },
+        {
+            "id": "01006320174AF006",
+            "name": "Special Gears Pack"
+        },
+        {
+            "id": "01006320174AF007",
+            "name": "Digital Artbook"
+        },
+        {
+            "id": "01006320174AF008",
+            "name": "Soundtrack Jukebox"
+        },
+        {
+            "id": "01006320174AF009",
+            "name": "Digital Shadows"
+        }
+    ],
     "latest": 0
 }

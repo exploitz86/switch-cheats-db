@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "01000C501A15F001",
+            "name": "Extra Music Pack"
+        }
+    ],
     "latest": 0
 }

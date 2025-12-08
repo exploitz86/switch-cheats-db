@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "0100FBC007EAF001",
+            "name": "For Science!"
+        }
+    ],
     "latest": 0
 }

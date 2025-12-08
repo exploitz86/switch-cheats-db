@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "01009CF01B6FB001",
+            "name": "Extra Mission Pack"
+        },
+        {
+            "id": "01009CF01B6FB002",
+            "name": "Extra Color Pack"
+        }
+    ],
     "latest": 0
 }

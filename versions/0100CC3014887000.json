@@ -1,3 +1,73 @@
 {
+    "dlc": [
+        {
+            "id": "0100CC301488700A",
+            "name": "3 Stigmas & 3 Battle Tracks"
+        },
+        {
+            "id": "0100CC301488700B",
+            "name": "2 Stigmas: \u2605Invisible Melodies and \u2605Audible Colors"
+        },
+        {
+            "id": "0100CC301488700C",
+            "name": "Stigma: \u2605Secret Malice"
+        },
+        {
+            "id": "0100CC301488700D",
+            "name": "Stigma: \u2605Femme Fatale"
+        },
+        {
+            "id": "0100CC301488700E",
+            "name": "Stigma: \u2605Lunatic Plus"
+        },
+        {
+            "id": "0100CC301488700F",
+            "name": "Stigma: \u2605Walpurgisnacht"
+        },
+        {
+            "id": "0100CC3014887010",
+            "name": "Stigma: \u2605Sweet Egoism"
+        },
+        {
+            "id": "0100CC3014887011",
+            "name": "Stigma: \u2605Misery Syndrome"
+        },
+        {
+            "id": "0100CC3014887012",
+            "name": "Stigma: \u2605Camaraderie"
+        },
+        {
+            "id": "0100CC3014887013",
+            "name": "Stigma: \u2605Pure Voice"
+        },
+        {
+            "id": "0100CC3014887014",
+            "name": "Stigma: \u2605Yamato Spirit"
+        },
+        {
+            "id": "0100CC3014887015",
+            "name": "Stigma: \u2605Box of Happiness"
+        },
+        {
+            "id": "0100CC3014887016",
+            "name": "Battle Track Set"
+        },
+        {
+            "id": "0100CC3014887017",
+            "name": "Stigma Set"
+        },
+        {
+            "id": "0100CC3014887018",
+            "name": "\"Peter Pan Syndrome\" Battle Track"
+        },
+        {
+            "id": "0100CC3014887019",
+            "name": "\"Tokimeki*Reverie\" Battle Track"
+        },
+        {
+            "id": "0100CC301488701A",
+            "name": "\"Love Scope\" Battle Track"
+        }
+    ],
     "latest": 0
 }

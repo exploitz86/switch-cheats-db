@@ -1,3 +1,169 @@
 {
+    "dlc": [
+        {
+            "id": "01007E700DBF7002",
+            "name": "MY HERO ONE'S JUSTICE 2 DLC Pack 1: Hawks"
+        },
+        {
+            "id": "01007E700DBF7003",
+            "name": "MY HERO ONE'S JUSTICE 2 DLC Pack 2: Mei Hatsume"
+        },
+        {
+            "id": "01007E700DBF7004",
+            "name": "MY HERO ONE'S JUSTICE 2 DLC Pack 5: Gentle & La Brava"
+        },
+        {
+            "id": "01007E700DBF7005",
+            "name": "MY HERO ONE'S JUSTICE 2 DLC Pack 4: Tetsutetsu Tetsutetsu"
+        },
+        {
+            "id": "01007E700DBF7006",
+            "name": "MY HERO ONE'S JUSTICE 2 DLC Pack 3: Itsuka Kendo"
+        },
+        {
+            "id": "01007E700DBF7007",
+            "name": "MHOJ2 Nomu"
+        },
+        {
+            "id": "01007E700DBF7008",
+            "name": "MHOJ2 Izuku Midoriya Full Cowling 100%"
+        },
+        {
+            "id": "01007E700DBF7009",
+            "name": "MHOJ2 Kai Chisaki Ver. 2"
+        },
+        {
+            "id": "01007E700DBF700A",
+            "name": "MHOJ2 Special Customization Item Set: Katsuki Bakugo"
+        },
+        {
+            "id": "01007E700DBF700B",
+            "name": "MHOJ2 Special Customization Item Set: Ochaco Uraraka"
+        },
+        {
+            "id": "01007E700DBF700C",
+            "name": "MHOJ2 Special Customization Item Set: Shoto Todoroki"
+        },
+        {
+            "id": "01007E700DBF700D",
+            "name": "MHOJ2 Special Customization Item Set: Tsuyu Asui"
+        },
+        {
+            "id": "01007E700DBF700E",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01007E700DBF700F",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01007E700DBF7010",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01007E700DBF7011",
+            "name": "Unknown DLC"
+        },
+        {
+            "id": "01007E700DBF7012",
+            "name": "MHOJ2 Unique Fiery Mustache"
+        },
+        {
+            "id": "01007E700DBF7013",
+            "name": "MHOJ2 Unique Nejire Headband"
+        },
+        {
+            "id": "01007E700DBF7014",
+            "name": "MHOJ2 Unique Nejire-let"
+        },
+        {
+            "id": "01007E700DBF7015",
+            "name": "MHOJ2 Unique Ribbit Bag"
+        },
+        {
+            "id": "01007E700DBF7016",
+            "name": "MHOJ2 Unique Ribbit Tail"
+        },
+        {
+            "id": "01007E700DBF7017",
+            "name": "MY HERO ONE'S JUSTICE 2 Cheerleader Costume Ochaco Uraraka"
+        },
+        {
+            "id": "01007E700DBF7018",
+            "name": "MY HERO ONE'S JUSTICE 2 Cheerleader Costume Tsuyu Asui"
+        },
+        {
+            "id": "01007E700DBF7019",
+            "name": "MY HERO ONE'S JUSTICE 2 Cheerleader Costume Kyoka Jiro"
+        },
+        {
+            "id": "01007E700DBF701A",
+            "name": "MY HERO ONE'S JUSTICE 2 Cheerleader Costume Momo Yaoyorozu"
+        },
+        {
+            "id": "01007E700DBF701B",
+            "name": "MY HERO ONE'S JUSTICE 2 Cheerleader Costume Himiko Toga"
+        },
+        {
+            "id": "01007E700DBF701C",
+            "name": "MY HERO ONE'S JUSTICE 2 Cheerleader Costume Nejire Hado"
+        },
+        {
+            "id": "01007E700DBF701D",
+            "name": "MY HERO ONE'S JUSTICE 2 Cheerleader Costume Mina Ashido"
+        },
+        {
+            "id": "01007E700DBF7026",
+            "name": "MY HERO ONE'S JUSTICE 2 Cheerleader Costume Mei Hatsume"
+        },
+        {
+            "id": "01007E700DBF7027",
+            "name": "MY HERO ONE'S JUSTICE 2 Outlaw Suit Set"
+        },
+        {
+            "id": "01007E700DBF7028",
+            "name": "MY HERO ONE'S JUSTICE 2 Weekend Clothes 1-A Serious Set"
+        },
+        {
+            "id": "01007E700DBF7029",
+            "name": "MY HERO ONE'S JUSTICE 2 Weekend Clothes 1-A Lively Set"
+        },
+        {
+            "id": "01007E700DBF702A",
+            "name": "MY HERO ONE'S JUSTICE 2 Cheerleader Costume Itsuka Kendo"
+        },
+        {
+            "id": "01007E700DBF702B",
+            "name": "MY HERO ONE'S JUSTICE 2 Villainous Wear Set"
+        },
+        {
+            "id": "01007E700DBF702C",
+            "name": "MY HERO ONE'S JUSTICE 2 Celebration Wear Set"
+        },
+        {
+            "id": "01007E700DBF702D",
+            "name": "MY HERO ONE'S JUSTICE 2 Three Musketeers Set"
+        },
+        {
+            "id": "01007E700DBF702E",
+            "name": "MY HERO ONE'S JUSTICE 2 DLC Pack 6 Hitoshi Shinso"
+        },
+        {
+            "id": "01007E700DBF702F",
+            "name": "MY HERO ONE'S JUSTICE 2 DLC Pack 10 Yuga Aoyama"
+        },
+        {
+            "id": "01007E700DBF7030",
+            "name": "MY HERO ONE'S JUSTICE 2 DLC Pack 7 Present Mic"
+        },
+        {
+            "id": "01007E700DBF7031",
+            "name": "MY HERO ONE'S JUSTICE 2 DLC Pack 9 Midnight"
+        },
+        {
+            "id": "01007E700DBF7032",
+            "name": "MY HERO ONE'S JUSTICE 2 DLC Pack 8 Kurogiri"
+        }
+    ],
     "latest": 0
 }

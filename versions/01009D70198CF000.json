@@ -1,3 +1,25 @@
 {
+    "dlc": [
+        {
+            "id": "01009D70198CF001",
+            "name": "Light Blue Fur"
+        },
+        {
+            "id": "01009D70198CF002",
+            "name": "Orange Fur"
+        },
+        {
+            "id": "01009D70198CF003",
+            "name": "Pink Fur"
+        },
+        {
+            "id": "01009D70198CF004",
+            "name": "Purple Fur"
+        },
+        {
+            "id": "01009D70198CF005",
+            "name": "Red and Blue Fur"
+        }
+    ],
     "latest": 0
 }

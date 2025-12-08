@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100A4E00F671001",
+            "name": "Myths & Outcasts"
+        },
+        {
+            "id": "0100A4E00F671002",
+            "name": "Legends & Pariahs"
+        }
+    ],
     "latest": 0
 }

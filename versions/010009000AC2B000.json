@@ -1,3 +1,29 @@
 {
+    "dlc": [
+        {
+            "id": "010009000AC2B001",
+            "name": "Additional scenario 1"
+        },
+        {
+            "id": "010009000AC2B002",
+            "name": "Additional scenario 2"
+        },
+        {
+            "id": "010009000AC2B003",
+            "name": "Additional scenario 3"
+        },
+        {
+            "id": "010009000AC2B004",
+            "name": "Additional scenario 4"
+        },
+        {
+            "id": "010009000AC2B005",
+            "name": "Additional scenario 5"
+        },
+        {
+            "id": "010009000AC2B006",
+            "name": "Additional scenario 6"
+        }
+    ],
     "latest": 0
 }

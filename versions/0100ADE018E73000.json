@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "0100ADE018E73001",
+            "name": "Logic Pic: Nonogram Adventure DLC"
+        },
+        {
+            "id": "0100ADE018E73002",
+            "name": "Logic Pic: Happy Pics DLC"
+        },
+        {
+            "id": "0100ADE018E73003",
+            "name": "Logic Pic: Love to Solve by Numbers DLC"
+        }
+    ],
     "latest": 0
 }

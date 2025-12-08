@@ -1,3 +1,25 @@
 {
+    "dlc": [
+        {
+            "id": "0100225000FEF001",
+            "name": "EX CHARACTER: GUNVOLT"
+        },
+        {
+            "id": "0100225000FEF002",
+            "name": "EX CHARACTER: EKORO"
+        },
+        {
+            "id": "0100225000FEF003",
+            "name": "EX CHARACTER: SHANTAE"
+        },
+        {
+            "id": "0100225000FEF004",
+            "name": "EX CHARACTER: SHOVEL KNIGHT"
+        },
+        {
+            "id": "0100225000FEF005",
+            "name": "Unknown DLC"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "0100BFA01787D001",
+            "name": "Monster challenge mode"
+        }
+    ],
     "latest": 0
 }

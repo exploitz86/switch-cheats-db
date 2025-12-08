@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "010072401447B001",
+            "name": "Sweet Bakery Tycoon Expansion Pack 1"
+        },
+        {
+            "id": "010072401447B002",
+            "name": "Sweet Bakery Tycoon Expansion Pack 2"
+        },
+        {
+            "id": "010072401447B003",
+            "name": "Sweet Bakery Tycoon Multiplayer Mode"
+        }
+    ],
     "latest": 0
 }

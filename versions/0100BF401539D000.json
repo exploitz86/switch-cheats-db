@@ -1,3 +1,13 @@
 {
+    "dlc": [
+        {
+            "id": "0100BF401539D001",
+            "name": "Dinosaur Island DLC"
+        },
+        {
+            "id": "0100BF401539D002",
+            "name": "Aquarium Odyssey DLC"
+        }
+    ],
     "latest": 0
 }

@@ -1,3 +1,17 @@
 {
+    "dlc": [
+        {
+            "id": "01007EE01318F001",
+            "name": "Vampire: The Masquerade - Swansong Victoria Ash"
+        },
+        {
+            "id": "01007EE01318F002",
+            "name": "Vampire: The Masquerade - Swansong Artifacts Pack"
+        },
+        {
+            "id": "01007EE01318F003",
+            "name": "Vampire: The Masquerade - Swansong Alternate Outfits Pack"
+        }
+    ],
     "latest": 0
 }

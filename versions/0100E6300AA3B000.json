@@ -1,3 +1,9 @@
 {
+    "dlc": [
+        {
+            "id": "0100E6300AA3B0CE",
+            "name": "Batman: The Enemy Within Shadows Mode"
+        }
+    ],
     "latest": 65536
 }

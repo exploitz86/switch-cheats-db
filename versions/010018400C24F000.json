@@ -1,3 +1,33 @@
 {
+    "dlc": [
+        {
+            "id": "010018400C24F001",
+            "name": "(Free) Wanderer of Time Costume Set (15 Total)"
+        },
+        {
+            "id": "010018400C24F002",
+            "name": "Casual Costume Set (15 Total)"
+        },
+        {
+            "id": "010018400C24F003",
+            "name": "Cosplay Costume Set (15 Total)"
+        },
+        {
+            "id": "010018400C24F004",
+            "name": "Guardian Costume Set (12 Total)"
+        },
+        {
+            "id": "010018400C24F005",
+            "name": "Swimsuit Costume Set (13 Total)"
+        },
+        {
+            "id": "010018400C24F006",
+            "name": "Four Seasons Costume Set (10 Total)"
+        },
+        {
+            "id": "010018400C24F007",
+            "name": "Splendid Union Costume Set (9 Total)"
+        }
+    ],
     "latest": 0
 }
