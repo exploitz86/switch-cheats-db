@@ -34,14 +34,28 @@ class ProcessVersions:
 
     def get_version_dict(self):
         for tid in self.data:
-            tid_base = tid[:13].upper() + "000"
+            tid_upper = tid.upper()
+            
+            is_dlc_only = False
+            for ver in self.data[tid]:
+                try:
+                    title_type = self.data[tid][ver].get("titleType")
+                    if title_type == 130:
+                        is_dlc_only = True
+                        break
+                except:
+                    pass
+            
+            if is_dlc_only:
+                continue
+            
+            tid_base = tid_upper[:13] + "000"
             if (tid_base) not in self.versions_dict:
                 self.versions_dict[tid_base] = {}
                 try:
                     self.versions_dict[tid_base]["title"] = self.title_dict[tid_base]
                 except KeyError:
                     pass
-                # Initialize DLC list for this base game
                 self.versions_dict[tid_base]["dlc"] = []
 
             latest_ver = 0
@@ -58,10 +72,13 @@ class ProcessVersions:
         self.add_dlc_info()
 
     def add_dlc_info(self):
-        """Add DLC information to base games"""
+        """Add DLC information to all related game entries"""
+        dlc_entries = {} 
+        
         for tid in self.data:
             tid_upper = tid.upper()
             is_dlc = False
+            
             for ver in self.data[tid]:
                 try:
                     title_type = self.data[tid][ver].get("titleType")
@@ -72,24 +89,33 @@ class ProcessVersions:
                     pass
             
             if is_dlc:
-                tid_base = tid_upper[:13] + "000"
+                tid_prefix = tid_upper[:12]
                 
-                if tid_base in self.versions_dict:
-                    dlc_info = {
-                        "id": tid_upper,
-                    }
-                    
-                    if tid_upper in self.title_dict:
-                        dlc_info["name"] = self.title_dict[tid_upper]
-                    else:
-                        dlc_info["name"] = "Unknown DLC"
-                    
-                    if dlc_info not in self.versions_dict[tid_base]["dlc"]:
-                        self.versions_dict[tid_base]["dlc"].append(dlc_info)
+                if tid_prefix not in dlc_entries:
+                    dlc_entries[tid_prefix] = []
+                
+                dlc_info = {
+                    "id": tid_upper,
+                }
+                
+                if tid_upper in self.title_dict:
+                    dlc_info["name"] = self.title_dict[tid_upper]
+                else:
+                    dlc_info["name"] = "Unknown DLC"
+                
+                if dlc_info not in dlc_entries[tid_prefix]:
+                    dlc_entries[tid_prefix].append(dlc_info)
+        
+        for prefix in dlc_entries:
+            dlc_entries[prefix].sort(key=lambda x: x["id"])
         
         for tid_base in self.versions_dict:
-            if "dlc" in self.versions_dict[tid_base]:
-                self.versions_dict[tid_base]["dlc"].sort(key=lambda x: x["id"])
+            tid_prefix = tid_base[:12]
+            
+            if tid_prefix in dlc_entries:
+                self.versions_dict[tid_base]["dlc"] = dlc_entries[tid_prefix].copy()
+            else:
+                self.versions_dict[tid_base]["dlc"] = []
 
     def check_for_changes(self):
         try:
