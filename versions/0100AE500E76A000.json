@@ -9,6 +9,7 @@
     "589824": "728825986F1B57F6",
     "655360": "09400AB598C6A818",
     "720896": "3B5ED879A8695D64",
+    "786432": "8C564308BFA2B83D",
     "dlc": [
         {
             "id": "0100AE500E76B001",
@@ -55,6 +56,6 @@
             "name": "AeternoBlade II: Director's Rewind - Blue Hawaiian"
         }
     ],
-    "latest": 720896,
+    "latest": 786432,
     "title": "AeternoBlade II: Infinity"
 }

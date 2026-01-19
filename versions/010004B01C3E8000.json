@@ -1,5 +1,6 @@
 {
     "0": "6F15B1BF4F819B98",
+    "131072": "B4421C05D87C7C33",
     "65536": "9165945EED827ACD",
     "dlc": [
         {
@@ -15,6 +16,6 @@
             "name": "No Skill Cost - Isekai Rondo"
         }
     ],
-    "latest": 65536,
-    "title": "Isekai Rondo"
+    "latest": 131072,
+    "title": "Isekai Rondo - Nintendo Switch 2 Edition"
 }

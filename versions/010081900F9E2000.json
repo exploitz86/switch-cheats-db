@@ -1,5 +1,6 @@
 {
     "0": "122EBF9E18E9DB4B",
+    "131072": "CC2B8D707D43C846",
     "65536": "489B6A252219C143",
     "dlc": [
         {
@@ -19,6 +20,6 @@
             "name": "Damage x2 - Wizards of Brandel"
         }
     ],
-    "latest": 65536,
+    "latest": 131072,
     "title": "Wizards of Brandel"
 }

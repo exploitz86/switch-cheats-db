@@ -1,5 +1,6 @@
 {
     "0": "DC21619C9456324C",
+    "131072": "8B6AE5E55B2F7349",
     "65536": "832A11FDA4450642",
     "dlc": [
         {
@@ -15,6 +16,6 @@
             "name": "No Skill Cost - Seek Hearts"
         }
     ],
-    "latest": 65536,
+    "latest": 131072,
     "title": "Seek Hearts"
 }

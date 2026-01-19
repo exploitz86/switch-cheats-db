@@ -86,6 +86,7 @@
     "7536640": "C972338E074D8362",
     "7602176": "A5453B081F88B95D",
     "7667712": "E539D7394AB5099D",
+    "7733248": "F08D08BF63F1F0CB",
     "dlc": [
         {
             "id": "01005EE0036ED001",
@@ -184,6 +185,6 @@
             "name": "Rocket League\u00ae - Knight Rider Car Pack"
         }
     ],
-    "latest": 7667712,
+    "latest": 7733248,
     "title": "Rocket League\u00ae"
 }

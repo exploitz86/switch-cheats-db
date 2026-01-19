@@ -8,12 +8,13 @@
     "655360": "08B442E97D76D287",
     "720896": "8216914B5699E2DB",
     "786432": "6B6FFFF39CD22394",
+    "851968": "2638C6A597BACF21",
     "dlc": [
         {
             "id": "010047600BF73001",
             "name": "Rain World: Downpour"
         }
     ],
-    "latest": 786432,
+    "latest": 851968,
     "title": "Rain World"
 }

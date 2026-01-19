@@ -1,5 +1,6 @@
 {
     "0": "3469A1B2E0FEA93C",
+    "131072": "1BA598FB99B7220D",
     "65536": "047FDD0C5AF5F1C5",
     "dlc": [
         {
@@ -7,6 +8,6 @@
             "name": "Wily Numbers: Instrumental Stage Tracks"
         }
     ],
-    "latest": 65536,
+    "latest": 131072,
     "title": "Mega Man 11"
 }
