@@ -1,5 +1,6 @@
 {
     "0": "6E3B1D88B6E88033",
+    "131072": "3C10EC35C5EF4C36",
     "65536": "E43525F22282A477",
     "dlc": [
         {
@@ -7,6 +8,6 @@
             "name": "NieR:Automata - 6C2P4A118680823"
         }
     ],
-    "latest": 65536,
+    "latest": 131072,
     "title": "NieR:Automata The End of YoRHa Edition"
 }
