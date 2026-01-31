@@ -1,7 +1,7 @@
 # switch-cheat-db
 [![Update Repo](https://github.com/exploitz86/switch-cheats-db/actions/workflows/update_repo.yml/badge.svg)](https://github.com/exploitz86/switch-cheats-db/actions/workflows/update_repo.yml)
 
-A database of cheats for the Nintendo Switch. It updates once a day, see the date in the release. Download individual cheats directly from your Switch with [All-in-One-Switch-Updater Reborn](https://github.com/exploitz86/aio-switch-updater)
+A database of cheats for the Nintendo Switch. It updates once a day, see the date in the release. Download individual cheats directly from your Switch with [SwitchBlade](https://github.com/exploitz86/switchblade)
 
 Mirror from https://gbatemp.net/download/cheat-codes-sxos-and-ams-main-cheat-file-updated.36311/ and https://github.com/ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats
 
