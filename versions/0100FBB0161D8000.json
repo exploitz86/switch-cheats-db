@@ -5,12 +5,13 @@
     "262144": "E34D3987FDAADF42",
     "327680": "8056D212374F4D43",
     "393216": "5E7E352FD2D75646",
+    "458752": "19633AB5AB248349",
     "dlc": [
         {
             "id": "0100FBB0161D9001",
             "name": "Ziggurat 2 - Supporter Pack"
         }
     ],
-    "latest": 393216,
+    "latest": 458752,
     "title": "Ziggurat 2"
 }
