@@ -57,18 +57,12 @@ jobs:
         run: |
           if [ -f ./requirements_cheats.txt ]; then pip3 install -r ./requirements_cheats.txt; fi
 
-      - name: install playwright browsers
-        run: |
-          playwright install chromium
-          playwright install-deps chromium
-
       - name: install dependencies
         run: sudo apt-get install unrar
 
       - name: run python script
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          CUSTOM_PROXY_URL: ${{ secrets.CUSTOM_PROXY_URL }}
         run: |
           python3 database_builder.py
 

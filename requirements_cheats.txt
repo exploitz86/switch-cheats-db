@@ -1,5 +1,2 @@
 requests
-beautifulsoup4
 rarfile
-cloudscraper
-playwright
