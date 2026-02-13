@@ -6,12 +6,13 @@
     "589824": "7780B12312B6546A",
     "65536": "68B30C6774AE4B6B",
     "655360": "8471B502DEC330D4",
+    "720896": "B1DD4840EDFDCEAC",
     "dlc": [
         {
             "id": "0100A4301AA0D001",
             "name": "METAL GEAR SOLID 2: Sons of Liberty - Master Collection Version Japanese Language Pack"
         }
     ],
-    "latest": 655360,
+    "latest": 720896,
     "title": "METAL GEAR SOLID 2: Sons of Liberty - Master Collection Version"
 }

@@ -3,6 +3,7 @@
     "1048576": "8B3075FEDC0F115B",
     "1114112": "FC03C97F9AB38D60",
     "1179648": "D28CA99C6EEB9B3F",
+    "1245184": "658CAF4DC7D36928",
     "131072": "DBF4F51918544F23",
     "196608": "1C2D8712EA548A8C",
     "393216": "DD7A92B561FE1641",
@@ -79,6 +80,6 @@
             "name": "Pinball FX - South Park Pinball"
         }
     ],
-    "latest": 1179648,
+    "latest": 1245184,
     "title": "Pinball FX"
 }

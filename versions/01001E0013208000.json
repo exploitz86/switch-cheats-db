@@ -7,6 +7,7 @@
     "458752": "2DDDB0B9FC71C2E7",
     "524288": "CDC2B3FFF0BF22D4",
     "589824": "B59B4DBA060207D1",
+    "655360": "EEAF4ACCDC00FCAC",
     "dlc": [
         {
             "id": "01001E0013209001",
@@ -141,6 +142,6 @@
             "name": "Capcom Arcade Stadium: Invincibility"
         }
     ],
-    "latest": 589824,
+    "latest": 655360,
     "title": "Capcom Arcade Stadium"
 }
