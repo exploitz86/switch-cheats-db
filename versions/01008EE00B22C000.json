@@ -7,6 +7,7 @@
     "393216": "6146D78FA5974B44",
     "458752": "8D89BB4244D3E9E6",
     "524288": "EE7023D8C5DF33AC",
+    "589824": "E6C3726BFF715654",
     "dlc": [
         {
             "id": "01008EE00B22D001",
@@ -17,6 +18,6 @@
             "name": "Rento DEEP Board"
         }
     ],
-    "latest": 524288,
+    "latest": 589824,
     "title": "Rento Fortune"
 }
