@@ -7,6 +7,7 @@
     "1310720": "F7AD592A1D908DE4",
     "1441792": "2542A14F897F87ED",
     "1507328": "FB621852693C193F",
+    "1572864": "9C87379A80C47C5F",
     "196608": "1783452334EE0BF1",
     "262144": "794F14BA15DE364B",
     "65536": "FC88C1E78D4A4E9F",
@@ -25,6 +26,6 @@
             "name": "Vampire Survivors: Tides of the Foscari"
         }
     ],
-    "latest": 1507328,
+    "latest": 1572864,
     "title": "Vampire Survivors"
 }
