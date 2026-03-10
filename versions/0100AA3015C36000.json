@@ -11,6 +11,7 @@
     "786432": "B5F242B42CBF6F8D",
     "851968": "BEB708F618A46A3D",
     "917504": "7BA19863A5335EFB",
+    "983040": "9BF9F51DA246C78F",
     "dlc": [
         {
             "id": "0100AA3015C37003",
@@ -41,6 +42,6 @@
             "name": "Skin Pack #3"
         }
     ],
-    "latest": 917504,
+    "latest": 983040,
     "title": "The Battle of Polytopia"
 }
