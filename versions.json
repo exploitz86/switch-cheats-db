@@ -6691,9 +6691,10 @@
     },
     "01000A001E978000": {
         "131072": "53BFD0FC38C48CB8",
+        "196608": "43C1E124C31956F8",
         "65536": "8006DAE28902A3D4",
         "dlc": [],
-        "latest": 131072,
+        "latest": 196608,
         "title": "MIO: Memories in Orbit"
     },
     "01000A10041EA000": {
@@ -10740,8 +10741,9 @@
         "65536": "9FDCDDD7EFDF8705",
         "655360": "E22022FB7024085F",
         "720896": "1A3BFE0C7BAA0E6A",
+        "786432": "80D3ED31C7B8C53A",
         "dlc": [],
-        "latest": 720896
+        "latest": 786432
     },
     "010010900F7B4000": {
         "0": "5C7115E0D9C0D241",
@@ -15666,6 +15668,12 @@
         "0": "3EF5BA0E8E355A46",
         "dlc": [],
         "latest": 0
+    },
+    "01001850271D0000": {
+        "65536": "1BAA207AE80B2922",
+        "dlc": [],
+        "latest": 65536,
+        "title": "The Island - Escape Room"
     },
     "010018600E03E000": {
         "0": "00486EB60BB3CC7C",
@@ -24256,8 +24264,9 @@
         "262144": "A7E2F7370049B581",
         "327680": "A7E2F7370049B581",
         "393216": "20AA93B5B902A282",
+        "589824": "F559712D783C0242",
         "dlc": [],
-        "latest": 458752,
+        "latest": 589824,
         "title": "Tomb Raider I-III Remastered Starring Lara Croft"
     },
     "010024700901A000": {
@@ -28815,9 +28824,10 @@
         "latest": 65536
     },
     "01002B60270C6000": {
+        "131072": "323A7B6E96AF2A16",
         "65536": "A4B275C5A611F688",
         "dlc": [],
-        "latest": 65536,
+        "latest": 131072,
         "title": "EGGCONSOLE MUGEN NO SHINZOU III PC-8801mkIISR"
     },
     "01002B700F88A000": {
@@ -40547,8 +40557,9 @@
     "010039F01FF3A000": {
         "131072": "C5BC953E202E7027",
         "196608": "FC29E7B532E42461",
+        "262144": "682772BED92B80B2",
         "dlc": [],
-        "latest": 196608,
+        "latest": 262144,
         "title": "Minishoot' Adventures - Nintendo Switch\u2122 2 Edition"
     },
     "010039F0202BC000": {
@@ -40878,9 +40889,10 @@
         "latest": 65536
     },
     "01003A8019D74000": {
+        "131072": "E49D3F2490FAACF7",
         "65536": "8A9EDE03EDBC7497",
         "dlc": [],
-        "latest": 65536
+        "latest": 131072
     },
     "01003A801A0DC000": {
         "0": "0D93458A301BCB11",
@@ -41292,7 +41304,8 @@
         "327680": "A1965D6A8C405C34",
         "65536": "F75F4AB763E7A7F9",
         "dlc": [],
-        "latest": 327680
+        "latest": 327680,
+        "title": "Cyanotype Daydream"
     },
     "01003B001A2EA000": {
         "0": "8CC574B7720B0DC1",
@@ -43182,9 +43195,10 @@
         "latest": 262144
     },
     "01003DD01F11E000": {
+        "131072": "55C08B90882B2D69",
         "65536": "DBCF8BB0938D05D3",
         "dlc": [],
-        "latest": 65536,
+        "latest": 131072,
         "title": "Collector's Cove"
     },
     "01003DD023F30000": {
@@ -52836,7 +52850,8 @@
     "01004C4026206000": {
         "65536": "2035B599BFF68B0D",
         "dlc": [],
-        "latest": 65536
+        "latest": 65536,
+        "title": "Etrange Overlord"
     },
     "01004C500AAF6000": {
         "0": "991FB2697BEFB543",
@@ -62703,8 +62718,9 @@
         "589824": "83E5F7A013858DD8",
         "655360": "E22022FB7024085F",
         "720896": "1A3BFE0C7BAA0E6A",
+        "786432": "80D3ED31C7B8C53A",
         "dlc": [],
-        "latest": 720896
+        "latest": 786432
     },
     "010059301E612000": {
         "131072": "3F6E13B85C4491F3",
@@ -67379,6 +67395,12 @@
         "dlc": [],
         "latest": 65536,
         "title": "Elrentaros Wanderings"
+    },
+    "01005FE020AC0000": {
+        "131072": "64A6D5D1C6B758B1",
+        "dlc": [],
+        "latest": 131072,
+        "title": "Lofi Chill Sessions: Relax Island"
     },
     "01005FE025F22000": {
         "65536": "D357B8FDA1FB68C9",
@@ -77067,9 +77089,10 @@
     },
     "01006C601C5EC000": {
         "131072": "E8770896A2B7FCDD",
+        "196608": "CB7624DAC04666F7",
         "65536": "6B353CD75D7C4CDD",
         "dlc": [],
-        "latest": 131072,
+        "latest": 196608,
         "title": "Pizza Tower"
     },
     "01006C602010C000": {
@@ -80238,9 +80261,10 @@
         "327680": "09BD2170138FB80C",
         "393216": "09BD2170138FB80C",
         "458752": "09BD2170138FB80C",
+        "524288": "E6912A968DB5EADC",
         "65536": "E5F3DDDAF011E2BC",
         "dlc": [],
-        "latest": 458752,
+        "latest": 524288,
         "title": "Golfing in Aether"
     },
     "010070B01F01C000": {
@@ -83969,9 +83993,10 @@
         "131072": "B3150112E331A081",
         "196608": "51309F8CA51C1F6C",
         "262144": "5E73D55168079668",
+        "327680": "F602FC2F59D3A824",
         "65536": "ECAE1D861B5A7F79",
         "dlc": [],
-        "latest": 262144,
+        "latest": 327680,
         "title": "Two Strikes"
     },
     "010075C013AA0000": {
@@ -103219,9 +103244,10 @@
         "131072": "C7B755EC9B18AE22",
         "196608": "B4883458408CCAC7",
         "262144": "DE79FB16B93488A8",
+        "327680": "00368C89124C45BB",
         "65536": "5FAD6C8D1DFFF678",
         "dlc": [],
-        "latest": 262144,
+        "latest": 327680,
         "title": "Wizardry: The Five Ordeals"
     },
     "010090E0209EC000": {
@@ -107937,8 +107963,9 @@
         "65536": "EC6507144C6A91D1",
         "655360": "E5C5339B612B84F5",
         "720896": "33DD9CD0A7D00F58",
+        "786432": "8F0587954B420073",
         "dlc": [],
-        "latest": 720896,
+        "latest": 786432,
         "title": "Pets and Friends"
     },
     "010097302328A000": {
@@ -109082,9 +109109,10 @@
     "010098A02288A000": {
         "131072": "2F35434E494EACC8",
         "196608": "7E610F688F92412B",
+        "262144": "0D2C301B9A0C4B8C",
         "65536": "FD81A8A9E2CE1709",
         "dlc": [],
-        "latest": 196608,
+        "latest": 262144,
         "title": "Out of Sight"
     },
     "010098A0234F8000": {
@@ -122834,8 +122862,9 @@
         "65536": "9FDCDDD7EFDF8705",
         "655360": "E22022FB7024085F",
         "720896": "1A3BFE0C7BAA0E6A",
+        "786432": "80D3ED31C7B8C53A",
         "dlc": [],
-        "latest": 720896,
+        "latest": 786432,
         "title": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2"
     },
     "0100AD900E830000": {
@@ -130544,7 +130573,8 @@
     "0100B700273E2000": {
         "65536": "02C36846108EDDC8",
         "dlc": [],
-        "latest": 65536
+        "latest": 65536,
+        "title": "Master Detective: Logic & Mystery Puzzles"
     },
     "0100B7101475E000": {
         "0": "EA630EFBDC4BB9BD",
@@ -136152,9 +136182,10 @@
     },
     "0100BDB020F62000": {
         "131072": "AD0A802DF6236366",
+        "196608": "0FAFBF59D6B0E39C",
         "65536": "78D61503749FEA70",
         "dlc": [],
-        "latest": 131072,
+        "latest": 196608,
         "title": "Fiz and the Rainbow Planet"
     },
     "0100BDC00A664000": {
@@ -138155,8 +138186,9 @@
     },
     "0100C09019472000": {
         "0": "BEB7535C30B9A864",
+        "131072": "752EA74282B919DB",
         "dlc": [],
-        "latest": 0,
+        "latest": 131072,
         "title": "Kanjozoku Game \u30ec\u30fc\u30b5\u30fc - Car Racing & Highway Driving Simulator Games"
     },
     "0100C0901BFDC000": {
@@ -153278,7 +153310,7 @@
     "0100D59006266000": {
         "0": "1250D99225CCAB54",
         "dlc": [],
-        "latest": 0
+        "latest": 65536
     },
     "0100D5900B4CA000": {
         "0": "D29C4EF894552BF3",
@@ -159937,9 +159969,10 @@
     },
     "0100DCA024EE8000": {
         "131072": "F98901FD4C748FD9",
+        "196608": "56B315DA77A5EFA1",
         "65536": "619DECCD8250ABEB",
         "dlc": [],
-        "latest": 131072,
+        "latest": 196608,
         "title": "Cipheur: Trivia"
     },
     "0100DCB019CAE000": {
@@ -162104,9 +162137,10 @@
         "latest": 786432
     },
     "0100E09023B20000": {
+        "131072": "21490A63AED255D2",
         "65536": "4ED5956A2605DD04",
         "dlc": [],
-        "latest": 65536,
+        "latest": 131072,
         "title": "Bonnie Bear Saves Frogtime"
     },
     "0100E0A010520000": {
@@ -165908,6 +165942,12 @@
         "latest": 0,
         "title": "amazin' Mage"
     },
+    "0100E4E02402A000": {
+        "65536": "804C16D2A06ACB82",
+        "dlc": [],
+        "latest": 65536,
+        "title": "Machine Gun Fury"
+    },
     "0100E4F00AE14000": {
         "0": "5859711871518945",
         "dlc": [],
@@ -167229,6 +167269,12 @@
         "dlc": [],
         "latest": 65536,
         "title": "My Incubi Harem"
+    },
+    "0100E6A02606E000": {
+        "65536": "D00AAF2F35F3D671",
+        "dlc": [],
+        "latest": 65536,
+        "title": "Taito Milestones 4"
     },
     "0100E6B00DEA4000": {
         "0": "345A5FCEF09361B8",
@@ -174585,6 +174631,12 @@
         "latest": 131072,
         "title": "Bubsy in: The Purrfect Collection"
     },
+    "0100F01023324000": {
+        "65536": "2E01BB6D1E975A45",
+        "dlc": [],
+        "latest": 65536,
+        "title": "ONLY UP! REMASTER"
+    },
     "0100F02005D1E000": {
         "0": "21CC83CF5A6C67AE",
         "dlc": [],
@@ -180118,8 +180170,9 @@
     },
     "0100F77025F18000": {
         "131072": "5B3A19FD35D1DC41",
+        "196608": "50C57E419B39035F",
         "dlc": [],
-        "latest": 131072,
+        "latest": 196608,
         "title": "Manny\u2019s"
     },
     "0100F78002040000": {
@@ -182437,9 +182490,10 @@
     },
     "0100FB2021B0E000": {
         "131072": "2D98DA628EFF62B2",
+        "196608": "2D98DA628EFF62B2",
         "65536": "0B4044A6FC5A14B8",
         "dlc": [],
-        "latest": 131072,
+        "latest": 196608,
         "title": "Croc Legend of the Gobbos"
     },
     "0100FB30148EC000": {
