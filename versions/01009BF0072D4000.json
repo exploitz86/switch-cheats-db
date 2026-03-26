@@ -4,6 +4,7 @@
     "196608": "8F75C9B8B7FF69D9",
     "262144": "8F75C9B8B7FF69D9",
     "327680": "A342983A91CACF49",
+    "393216": "41EAE379C103E9A5",
     "dlc": [
         {
             "id": "01009BF0072D5001",
@@ -14,6 +15,6 @@
             "name": "Captain Toad\u2122: Treasure Tracker - Special Episode"
         }
     ],
-    "latest": 327680,
+    "latest": 393216,
     "title": "Captain Toad\u2122: Treasure Tracker"
 }
