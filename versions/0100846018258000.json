@@ -6,6 +6,7 @@
     "327680": "EAAEFB6EB35E234C",
     "393216": "223446D94BA99D4F",
     "458752": "A1B83C2D5599BD45",
+    "524288": "B476E9AB4BE9C248",
     "65536": "BFFE74C2043D4846",
     "dlc": [
         {
@@ -13,6 +14,6 @@
             "name": "ANNO: Mutationem - Upgrade Pack"
         }
     ],
-    "latest": 458752,
+    "latest": 524288,
     "title": "ANNO: Mutationem"
 }
