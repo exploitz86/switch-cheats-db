@@ -5,6 +5,7 @@
     "262144": "624637160754C874",
     "524288": "FC8D0840F3556041",
     "65536": "D07C167F67CADDC0",
+    "655360": "25CFD7F3587567CA",
     "dlc": [
         {
             "id": "010057D017B0B001",
@@ -15,6 +16,6 @@
             "name": "Headbangers - Flock and Roll"
         }
     ],
-    "latest": 524288,
+    "latest": 655360,
     "title": "Headbangers: Rhythm Royale"
 }

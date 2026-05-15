@@ -9,6 +9,7 @@
     "589824": "A6C0AA925BB8E34F",
     "65536": "E4D80D998303CC45",
     "655360": "BD5F1ED30FDBA245",
+    "720896": "02A91F6F2440724D",
     "dlc": [
         {
             "id": "010058600E531001",
@@ -31,6 +32,6 @@
             "name": "Empire of Sin - Hunt For Aurora"
         }
     ],
-    "latest": 655360,
+    "latest": 720896,
     "title": "Empire of Sin"
 }

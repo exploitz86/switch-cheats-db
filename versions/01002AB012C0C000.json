@@ -24,6 +24,7 @@
     "2621440": "C203B15FD47A3C5C",
     "2686976": "740C656D1C3AC33B",
     "2752512": "9FC2913C47CC2AD7",
+    "2818048": "29303277CDD50C3F",
     "327680": "58D3E2EF8AD9CD0F",
     "393216": "B56677C8D09EFF40",
     "458752": "6EEF1B5A07E162BD",
@@ -42,6 +43,6 @@
             "name": "Project Winter - Blackout"
         }
     ],
-    "latest": 2752512,
+    "latest": 2818048,
     "title": "Project Winter"
 }
