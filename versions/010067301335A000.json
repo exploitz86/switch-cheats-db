@@ -21,6 +21,7 @@
     "2490368": "E250BE553747FF31",
     "2555904": "E250BE553747FF31",
     "2621440": "F433F75F13348ECE",
+    "2686976": "8732649AE3E6B0D5",
     "851968": "60881E35B3B7BE3D",
     "dlc": [
         {
@@ -28,6 +29,6 @@
             "name": "GigaBash - Godzilla 4 Kaiju Pack"
         }
     ],
-    "latest": 2621440,
+    "latest": 2686976,
     "title": "GigaBash"
 }
