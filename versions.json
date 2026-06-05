@@ -27760,9 +27760,10 @@
     },
     "010029001C71A000": {
         "131072": "46C9CA097A81A799",
+        "262144": "46C9CA097A81A799",
         "65536": "46C9CA097A81A799",
         "dlc": [],
-        "latest": 131072,
+        "latest": 262144,
         "title": "Toziuha Night: Order of the Alchemists"
     },
     "010029001D8A8000": {
@@ -39265,6 +39266,7 @@
         "1245184": "92B248A2051D958D",
         "1310720": "8AD79D4C7C732317",
         "1376256": "A381DBA433D2A112",
+        "1441792": "5D7265213AFF72E4",
         "262144": "2A3EDEDD7FA8C48C",
         "327680": "E6261C1A362E3A34",
         "393216": "A5F8EB72B8B3C0E1",
@@ -39278,7 +39280,7 @@
         "917504": "7ED813B25556284C",
         "983040": "B0EC8765A144221A",
         "dlc": [],
-        "latest": 1376256,
+        "latest": 1441792,
         "title": "You adorable! Elfin Clay 2"
     },
     "010037601CE4C000": {
@@ -77095,6 +77097,7 @@
         "1048576": "A67818AD87D51119",
         "1114112": "C51A2C50BDFC9ECD",
         "1179648": "4A7497E70A5DD806",
+        "1245184": "A7441288FBE9A56C",
         "131072": "4BEE4631C4C82AF7",
         "196608": "717FD7154AE88C33",
         "262144": "937775363E22A3DE",
@@ -111485,9 +111488,10 @@
         "title": "Speediest - Car Racing Formula & Auto Sport"
     },
     "01009A202621A000": {
+        "131072": "AE6E1F3ADCE983B7",
         "65536": "AE6E1F3ADCE983B7",
         "dlc": [],
-        "latest": 65536,
+        "latest": 131072,
         "title": "Perennial Dusk -Kinsenka-"
     },
     "01009A300C836000": {
@@ -115709,7 +115713,8 @@
     "01009FF0247F4000": {
         "65536": "83ECD3A565540D1A",
         "dlc": [],
-        "latest": 65536
+        "latest": 65536,
+        "title": "The Last Salvage Squad"
     },
     "0100A00012652000": {
         "0": "88AC9C477343E648",
@@ -128614,9 +128619,10 @@
         "title": "Gynoug"
     },
     "0100B15027342000": {
+        "131072": "CE21422CEF88F43D",
         "65536": "4F6CA5D321C60E37",
         "dlc": [],
-        "latest": 65536,
+        "latest": 131072,
         "title": "Who tells your story"
     },
     "0100B16009C10000": {
@@ -150057,9 +150063,10 @@
         "327680": "1EBD1CC08CEFD995",
         "393216": "C0CFA68313AB0AE3",
         "458752": "AA4C930DC5F5BB28",
+        "524288": "4C7F246F4F6F1169",
         "65536": "FCBA2012F3238E94",
         "dlc": [],
-        "latest": 458752,
+        "latest": 524288,
         "title": "Demonschool"
     },
     "0100CD6023C84000": {
@@ -167321,7 +167328,8 @@
     "0100E38027A8C000": {
         "65536": "119D8A6755B9C908",
         "dlc": [],
-        "latest": 65536
+        "latest": 65536,
+        "title": "Parking Garage Rally Circuit"
     },
     "0100E3900B598000": {
         "0": "94D3859DF7D0C843",
@@ -177313,6 +177321,7 @@
         "2686976": "21B1B8F3C9025697",
         "2752512": "E54B986E93F0E32F",
         "2883584": "BE21817152BE07B9",
+        "2949120": "096A611385141F1C",
         "327680": "A33E9762894E0298",
         "458752": "EDF0C0BD54C7EDD2",
         "524288": "B80AA7EB93FA5083",
@@ -177328,7 +177337,7 @@
                 "name": "Disney Speedstorm - Ultimate Founder\u2019s Pack"
             }
         ],
-        "latest": 2883584,
+        "latest": 2949120,
         "title": "Disney Speedstorm"
     },
     "0100F04019298000": {
@@ -177662,9 +177671,10 @@
         "262144": "DE087A5446463730",
         "393216": "8B9717B6503519C8",
         "524288": "D4AC3EF2EF1F4D6A",
+        "589824": "CEA050479DFA2623",
         "65536": "7E8EC9604BEB5C1D",
         "dlc": [],
-        "latest": 524288,
+        "latest": 589824,
         "title": "Blood: Refreshed Supply\u2122 - Nintendo Switch 2 Edition"
     },
     "0100F0C00685E000": {
@@ -184810,9 +184820,10 @@
         "title": "WORLD OF HORROR"
     },
     "0100FA801DB0A000": {
+        "131072": "25BEF7E8C7658F1D",
         "65536": "25BEF7E8C7658F1D",
         "dlc": [],
-        "latest": 65536,
+        "latest": 131072,
         "title": "PARANORMASIGHT: The Mermaid's Curse"
     },
     "0100FA8022FFA000": {
