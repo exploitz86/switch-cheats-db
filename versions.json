@@ -36803,6 +36803,7 @@
         "1441792": "C51878CA787A54E5",
         "1507328": "61491C096F77C4FB",
         "1572864": "EC106BFF48D49598",
+        "1638400": "C21DBD37DAD9BC8C",
         "196608": "6879EF0C7DB95A41",
         "262144": "98426607E9D99A49",
         "327680": "73D30BBBBB241F43",
@@ -36826,7 +36827,7 @@
                 "name": "Cozy Grove: New Neighbears"
             }
         ],
-        "latest": 1572864,
+        "latest": 1638400,
         "title": "Cozy Grove \u2013 Nintendo Switch\u2122 2 Edition"
     },
     "01003370139D4000": {
@@ -45476,9 +45477,10 @@
         "262144": "299FEBDB6F15C124",
         "393216": "694DB109F445042D",
         "458752": "74C70AEF08ABC9B3",
+        "524288": "040AD650120B583A",
         "65536": "43CB326549DBFB11",
         "dlc": [],
-        "latest": 458752,
+        "latest": 524288,
         "title": "Blasphemous 2"
     },
     "0100408025856000": {
@@ -63514,6 +63516,11 @@
         "latest": 196608,
         "title": "Everdeep Aurora"
     },
+    "010058E025F42000": {
+        "131072": "CEC4DFCB43011352",
+        "dlc": [],
+        "latest": 131072
+    },
     "010058F010296000": {
         "0": "F43287BDB2A7C84E",
         "65536": "4D3D5111DB60E743",
@@ -70602,6 +70609,11 @@
         "dlc": [],
         "latest": 0,
         "title": "Unblock The Brick: Casual Block Puzzle"
+    },
+    "0100631026AD8000": {
+        "65536": "6543D4721D8E63F8",
+        "dlc": [],
+        "latest": 65536
     },
     "010063200AB12000": {
         "0": "D8648C2D98663C44",
@@ -96581,9 +96593,10 @@
         "0": "1CBC7D9D98219A85",
         "196608": "D197ABBD62C2862E",
         "262144": "739E9E9CD9135114",
+        "327680": "F36A2D9678830DF0",
         "65536": "1CBC7D9D98219A85",
         "dlc": [],
-        "latest": 262144
+        "latest": 327680
     },
     "010086101CCD2000": {
         "65536": "007C61F9277B05B6",
@@ -101004,6 +101017,12 @@
         ],
         "latest": 327680,
         "title": "Dying Light: Definitive Edition"
+    },
+    "01008C8025C8E000": {
+        "65536": "97831E035CF278E8",
+        "dlc": [],
+        "latest": 65536,
+        "title": "Moonlight Peaks \u2013 Nintendo Switch\u2122 2 Edition"
     },
     "01008C900982E000": {
         "0": "44F1B4597BF9050E",
@@ -119772,7 +119791,7 @@
         "917504": "3F40B46AA06EB36B",
         "dlc": [],
         "latest": 917504,
-        "title": "Citizen Sleeper"
+        "title": "Citizen Sleeper \u2013 Nintendo Switch\u2122 2 Edition"
     },
     "0100A65017D68000": {
         "0": "D0F4F98131D9E262",
@@ -130288,7 +130307,7 @@
         "655360": "1180F5EDC227094D",
         "dlc": [],
         "latest": 655360,
-        "title": "Citizen Sleeper 2: Starward Vector"
+        "title": "Citizen Sleeper 2: Starward Vector \u2013 Nintendo Switch\u2122 2 Edition"
     },
     "0100B40020B72000": {
         "65536": "1DB92FCBD3D4748A",
@@ -153130,8 +153149,9 @@
     "0100D1C01DC82000": {
         "131072": "9B4A7A13B0B9B85C",
         "196608": "6432837A2BD9887A",
+        "262144": "9FDC602AE2177105",
         "dlc": [],
-        "latest": 196608
+        "latest": 262144
     },
     "0100D1C0249A8000": {
         "131072": "4B46865247D68728",
@@ -158269,6 +158289,11 @@
         "589824": "A65AAB815F387943",
         "dlc": [],
         "latest": 655360
+    },
+    "0100D97026A68000": {
+        "65536": "09CA6F22C214A29A",
+        "dlc": [],
+        "latest": 65536
     },
     "0100D98005E8C000": {
         "0": "AC882E9BF1DCBA42",
@@ -170004,6 +170029,13 @@
         "latest": 131072,
         "title": "Hidden Cats in Rio de Janeiro"
     },
+    "0100E700276C8000": {
+        "131072": "245165ED4D0390F9",
+        "65536": "58E1FE70C883A413",
+        "dlc": [],
+        "latest": 131072,
+        "title": "Cozy Grove: Camp Spirit \u2013 Nintendo Switch\u2122 2 Edition"
+    },
     "0100E7100B198000": {
         "0": "DACBAA20FAF85A2C",
         "65536": "66E22626F4C9BDC5",
@@ -175111,8 +175143,9 @@
         "131072": "6FEFBE929CD94406",
         "262144": "86966D4DCB125FE0",
         "458752": "4F1A2FC252D20A25",
+        "524288": "46EA33662E6ED4D0",
         "dlc": [],
-        "latest": 458752,
+        "latest": 524288,
         "title": "Japanese Rural Life Adventure"
     },
     "0100ECC00B070000": {
