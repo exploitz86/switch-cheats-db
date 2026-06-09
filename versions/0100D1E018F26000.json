@@ -1,5 +1,6 @@
 {
     "0": "40B99A5B8D3C5C48",
+    "65536": "7EC1DA63C2CA5376",
     "dlc": [
         {
             "id": "0100D1E018F27001",
@@ -22,6 +23,6 @@
             "name": "No Skill Cost - Silver Nornir"
         }
     ],
-    "latest": 0,
+    "latest": 65536,
     "title": "Silver Nornir"
 }
