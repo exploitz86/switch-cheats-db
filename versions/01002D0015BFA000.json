@@ -1,5 +1,6 @@
 {
     "0": "A7720F3FC4254385",
+    "65536": "4A3CCB686562890F",
     "dlc": [
         {
             "id": "01002D0015BFB001",
@@ -14,6 +15,6 @@
             "name": "Experience & CP x2 - Legend of Ixtona"
         }
     ],
-    "latest": 0,
+    "latest": 65536,
     "title": "Legend of Ixtona"
 }

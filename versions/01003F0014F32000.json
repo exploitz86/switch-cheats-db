@@ -1,6 +1,7 @@
 {
     "0": "731EA9CECD4AB381",
     "131072": "CF20D92342B828F6",
+    "196608": "282F3C29CE4E2DFA",
     "65536": "C58E5664D94F9204",
     "dlc": [
         {
@@ -20,6 +21,6 @@
             "name": "Damage x2 - Chroma Quaternion"
         }
     ],
-    "latest": 131072,
+    "latest": 196608,
     "title": "Chroma Quaternion"
 }
