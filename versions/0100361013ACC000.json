@@ -1,5 +1,6 @@
 {
     "0": "E8D5A386597A9C4C",
+    "131072": "16106A305105F847",
     "65536": "DFAFC311585C3244",
     "dlc": [
         {
@@ -15,6 +16,6 @@
             "name": "No Skill Cost - Ruinverse"
         }
     ],
-    "latest": 65536,
+    "latest": 131072,
     "title": "Ruinverse"
 }
