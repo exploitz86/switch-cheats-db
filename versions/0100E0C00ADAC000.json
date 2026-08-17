@@ -1,5 +1,6 @@
 {
     "0": "0EF380B591392487",
+    "131072": "E4D70308C40E5D6A",
     "65536": "EE0B430814181D1C",
     "dlc": [
         {
@@ -87,6 +88,6 @@
             "name": "Glorious Reflexology \u2014 Set of Three"
         }
     ],
-    "latest": 65536,
+    "latest": 131072,
     "title": "SENRAN KAGURA Reflexions"
 }

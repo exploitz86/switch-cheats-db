@@ -1,5 +1,6 @@
 {
     "0": "555C31C0B8C8D540",
+    "131072": "5035A656E10E424F",
     "65536": "80DF59304275054E",
     "dlc": [
         {
@@ -15,6 +16,6 @@
             "name": "Damage x2 - Monster Viator"
         }
     ],
-    "latest": 65536,
+    "latest": 131072,
     "title": "Monster Viator"
 }

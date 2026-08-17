@@ -4,6 +4,7 @@
     "262144": "28C9323CEF7A0C09",
     "327680": "753C9D77C83FA5BD",
     "393216": "86C38FBDDB7714EE",
+    "458752": "65B29F9EA5FD3068",
     "65536": "1CB890C0FD2DE966",
     "dlc": [
         {
@@ -15,6 +16,6 @@
             "name": "\"Kagamine Rin / Len Happy 14th Birthday\" Downloadable Content"
         }
     ],
-    "latest": 393216,
+    "latest": 458752,
     "title": "Hatsune Miku Connecting Puzzle TAMAGOTORI"
 }
