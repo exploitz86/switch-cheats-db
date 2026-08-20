@@ -1,6 +1,7 @@
 {
     "0": "2568B187959D32D1",
     "1048576": "9E2EE6F9AB500023",
+    "1114112": "9E2EE6F9AB500023",
     "131072": "10F2B7DE78155BCE",
     "196608": "0A50C2B742DE16D1",
     "262144": "122B8EDE38DAAE35",
@@ -28,6 +29,6 @@
             "name": "Sixtar Gate: STARTRAIL - Sixtartales"
         }
     ],
-    "latest": 1048576,
+    "latest": 1114112,
     "title": "Sixtar Gate: STARTRAIL"
 }
