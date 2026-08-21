@@ -4,6 +4,7 @@
     "196608": "CAA6A42652BD7248",
     "262144": "ABA6BCD8DC1DD496",
     "327680": "6CAD6C984A6002C7",
+    "393216": "6CAD6C984A6002C7",
     "65536": "8ED4510B37337A82",
     "dlc": [
         {
@@ -23,6 +24,6 @@
             "name": "OlliOlli World: Finding the Flowzone"
         }
     ],
-    "latest": 327680,
+    "latest": 393216,
     "title": "OlliOlli World"
 }
