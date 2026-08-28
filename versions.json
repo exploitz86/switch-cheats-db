@@ -12853,7 +12853,8 @@
     "0100135024AAA000": {
         "65536": "85DBDC343B9B5284",
         "dlc": [],
-        "latest": 65536
+        "latest": 65536,
+        "title": "Pretty Home Run Derby - Re: Return of KUSOGAKI"
     },
     "0100136015456000": {
         "0": "84EFE88C1AE6E655",
@@ -17138,9 +17139,10 @@
         "393216": "70575598FC75F32A",
         "458752": "B4F859BA44751F26",
         "524288": "53E2366A73EF1A06",
+        "589824": "53E2366A73EF1A06",
         "65536": "C83438881649A371",
         "dlc": [],
-        "latest": 524288,
+        "latest": 589824,
         "title": "Until Then"
     },
     "010019D010F0E000": {
@@ -18774,9 +18776,10 @@
     },
     "01001BA027DD8000": {
         "131072": "B555983F4D5C64DE",
+        "196608": "52E5A73342083DBC",
         "65536": "42C41D8402C49086",
         "dlc": [],
-        "latest": 131072
+        "latest": 196608
     },
     "01001BB00AC26000": {
         "0": "0409A7BBB5E88F40",
@@ -24692,9 +24695,10 @@
     },
     "01002410189B4000": {
         "196608": "06ADA1403BBD0503",
+        "327680": "06ADA1403BBD0503",
         "65536": "A2CD0EB30090A761",
         "dlc": [],
-        "latest": 196608
+        "latest": 327680
     },
     "010024101A716000": {
         "327680": "A2DC1025FE622CD5",
@@ -28342,6 +28346,12 @@
         "dlc": [],
         "latest": 131072,
         "title": "Korean Drone Flying Tour Jeju Island-1"
+    },
+    "0100293027A7C000": {
+        "65536": "504C16E6F9472B1C",
+        "dlc": [],
+        "latest": 65536,
+        "title": "SPORTAL"
     },
     "010029400CA20000": {
         "0": "5D65079B66FB7C47",
@@ -35530,6 +35540,7 @@
         "1048576": "EDCB31A5EE1A30D4",
         "1114112": "EDCB31A5EE1A30D4",
         "1179648": "EDCB31A5EE1A30D4",
+        "1245184": "BEC956BC390AB06D",
         "131072": "1A0F8C2B424A04FA",
         "196608": "722EEBCAA8C3A9DF",
         "262144": "99F4FDF73139E2D4",
@@ -35543,7 +35554,7 @@
         "917504": "EDCB31A5EE1A30D4",
         "983040": "EDCB31A5EE1A30D4",
         "dlc": [],
-        "latest": 1179648,
+        "latest": 1245184,
         "title": "The Garden Path"
     },
     "010030F01AB56000": {
@@ -38937,7 +38948,8 @@
     "010035B027028000": {
         "65536": "2F798783EA5B495D",
         "dlc": [],
-        "latest": 65536
+        "latest": 65536,
+        "title": "Murders on the Yangtze River"
     },
     "010035C00A4BC000": {
         "0": "18C6B181FAC7C447",
@@ -61017,8 +61029,9 @@
     },
     "0100556026C90000": {
         "131072": "65F88C8CCBB81A87",
+        "196608": "CB283AAFC974B2A3",
         "dlc": [],
-        "latest": 131072,
+        "latest": 196608,
         "title": "Aooni2"
     },
     "010055700CEA8000": {
@@ -65971,7 +65984,8 @@
     "01005AE02934C000": {
         "65536": "5C39BA4FA2670829",
         "dlc": [],
-        "latest": 65536
+        "latest": 65536,
+        "title": "Super Takoyaki Battle"
     },
     "01005AF004DBC000": {
         "0": "CC39C06BF1194EB6",
@@ -85495,8 +85509,9 @@
         "0": "8DC861EA5129114D",
         "131072": "AFAAE7E8FD18F04C",
         "262144": "BA2E0A56055639D7",
+        "327680": "4FF3BB3E51E4B4B7",
         "dlc": [],
-        "latest": 262144,
+        "latest": 327680,
         "title": "Bendy and the Ink Machine"
     },
     "010074500E6BC000": {
@@ -93099,7 +93114,8 @@
         "327680": "AE4F56BC6432FA39",
         "393216": "DFE009C07F60B849",
         "dlc": [],
-        "latest": 393216
+        "latest": 393216,
+        "title": "AMEL BROAT"
     },
     "01007ED01B0C0000": {
         "65536": "3490B30AAB18D679",
@@ -93743,7 +93759,8 @@
     "01007FB02933E000": {
         "65536": "A311D2FB37E4D23B",
         "dlc": [],
-        "latest": 65536
+        "latest": 65536,
+        "title": "Scary Stories Grotesque"
     },
     "01007FC00206E000": {
         "0": "738C5CC9160FC14A",
@@ -101952,9 +101969,10 @@
         "title": "SURVIVOR HEROES"
     },
     "01008BC024FDE000": {
+        "131072": "E9016A42A1B2BFA3",
         "65536": "3C433A35D0CF5763",
         "dlc": [],
-        "latest": 65536
+        "latest": 131072
     },
     "01008BC026898000": {
         "131072": "517E67E79B210C08",
@@ -109049,9 +109067,10 @@
     },
     "01009440164AE000": {
         "131072": "1241A823EB58AF35",
+        "196608": "6CD31C0486890FE8",
         "65536": "688E29833B2E2ADD",
         "dlc": [],
-        "latest": 131072,
+        "latest": 196608,
         "title": "Hunt the Night"
     },
     "0100944018702000": {
@@ -109252,9 +109271,10 @@
         "latest": 65536
     },
     "0100948027FB0000": {
+        "131072": "1C070924DE32FFAD",
         "65536": "E9B8987383D59D0B",
         "dlc": [],
-        "latest": 65536,
+        "latest": 131072,
         "title": "Dungeon Antiqua"
     },
     "010094901950C000": {
@@ -110900,7 +110920,8 @@
     "01009680296C0000": {
         "65536": "D373FB0F4967031A",
         "dlc": [],
-        "latest": 65536
+        "latest": 65536,
+        "title": "Real Girls: Burning Whisper"
     },
     "0100969005E98000": {
         "0": "7A0E8BFC7B19FB4C",
@@ -111648,6 +111669,7 @@
         "2621440": "D71AEF123D1FFB8F",
         "2818048": "D26FA1059AE0B629",
         "2883584": "D783C5EC6D60B6B2",
+        "2949120": "F327D4AD3C429AA4",
         "65536": "1D9C2E1BB01CA786",
         "dlc": [
             {
@@ -111655,7 +111677,7 @@
                 "name": "DAVE THE DIVER Exclusive Pre-Order Bonus : 8-Bit Deco Item pack"
             }
         ],
-        "latest": 2883584,
+        "latest": 2949120,
         "title": "DAVE THE DIVER Nintendo Switch 2 Edition"
     },
     "010097F01A79E000": {
@@ -112637,9 +112659,10 @@
         "title": "METRO QUESTER | OSAKA"
     },
     "0100992027888000": {
+        "131072": "C6982F251FD2F979",
         "65536": "4D558CE6FE892BA2",
         "dlc": [],
-        "latest": 65536,
+        "latest": 131072,
         "title": "Wabisabi SushiDerby"
     },
     "010099300DAEA000": {
@@ -118008,9 +118031,10 @@
         "title": "Mai: Child of Ages"
     },
     "0100A0A025F1E000": {
+        "196608": "03FAFE8E1D036F9F",
         "65536": "83126D4FD0469451",
         "dlc": [],
-        "latest": 65536,
+        "latest": 196608,
         "title": "Changeable Guardian ESTIQUE"
     },
     "0100A0A0264E4000": {
@@ -124258,6 +124282,7 @@
         "1507328": "59FFD91FA70F8D40",
         "1572864": "11F4A95A40846745",
         "1638400": "90FF70621D98B2F8",
+        "1703936": "1A1CDB76E6857A80",
         "262144": "23288E120F5D3946",
         "327680": "3B9BFEAC93D63049",
         "393216": "10B9449FF6A1074F",
@@ -124271,7 +124296,7 @@
         "917504": "46C7ED2F93D50D49",
         "983040": "1A4C274C351EA14C",
         "dlc": [],
-        "latest": 1638400,
+        "latest": 1703936,
         "title": "Clone Drone in the Danger Zone"
     },
     "0100AA20125D6000": {
@@ -125216,6 +125241,12 @@
         "dlc": [],
         "latest": 196608,
         "title": "Gothic II Complete Classic"
+    },
+    "0100AB00287FC000": {
+        "65536": "76EE6099007C50B7",
+        "dlc": [],
+        "latest": 65536,
+        "title": "Asdivine Knot - Nintendo Switch 2 Edition"
     },
     "0100AB100E2FA000": {
         "0": "29287F24B3832B24",
@@ -128356,9 +128387,10 @@
         "title": "Police Simulator: Patrol Officers: Nintendo Switch\u2122 Extended Edition"
     },
     "0100AFC028C14000": {
+        "131072": "E0DFC392971AB41B",
         "65536": "E0DFC392971AB41B",
         "dlc": [],
-        "latest": 65536,
+        "latest": 131072,
         "title": "Metal Garden"
     },
     "0100AFD00F13C000": {
@@ -130203,8 +130235,9 @@
         "65536": "A9D5FD3A135583BD",
         "655360": "27A48095341C3765",
         "720896": "5481336B879BB3D8",
+        "786432": "2BA9B67CEFC2AC8B",
         "dlc": [],
-        "latest": 720896,
+        "latest": 786432,
         "title": "Cat Girl Survivor"
     },
     "0100B0E0086F6000": {
@@ -146338,7 +146371,8 @@
     "0100C600288E8000": {
         "65536": "D373FB0F4967031A",
         "dlc": [],
-        "latest": 65536
+        "latest": 65536,
+        "title": "Puzzle Girls: Dark Temptation"
     },
     "0100C6100D75E000": {
         "0": "A48056747ACAB0A5",
@@ -157624,8 +157658,9 @@
         "0": "8DC861EA5129114D",
         "131072": "91B6BD011F0C2C46",
         "196608": "DAC99B7AC6E59E49",
+        "262144": "8852A1C8D61310B9",
         "dlc": [],
-        "latest": 196608
+        "latest": 262144
     },
     "0100D4C00C9FC000": {
         "0": "D1365A4C5295004F",
@@ -158102,9 +158137,10 @@
         "131072": "6208445661C0D09A",
         "262144": "9E2B92DF9780F00A",
         "327680": "21AB081ADA275AFB",
+        "393216": "A3096B048CDDE800",
         "65536": "E8DC5C9E4F0810E7",
         "dlc": [],
-        "latest": 327680,
+        "latest": 393216,
         "title": "Scott Pilgrim EX"
     },
     "0100D59023352000": {
@@ -176572,9 +176608,10 @@
         "title": "The Gardener Simulator - Plant, Grow, Decorate, Build Sim"
     },
     "0100EB402989C000": {
+        "131072": "740932DD4DAD9B01",
         "65536": "FB39E946DAD2BBD7",
         "dlc": [],
-        "latest": 65536,
+        "latest": 131072,
         "title": "PLATONICA SPACE"
     },
     "0100EB500D92E000": {
