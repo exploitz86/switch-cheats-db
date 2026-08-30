@@ -133395,8 +133395,9 @@
         "196608": "3F28ED56EA0FFE5A",
         "262144": "750EE834EAFB7C2F",
         "393216": "E132EDBB79A09803",
+        "458752": "BCE42C4EF880B0A1",
         "dlc": [],
-        "latest": 393216,
+        "latest": 458752,
         "title": "Lucky Tower Ultimate"
     },
     "0100B5B01ACCE000": {
@@ -145474,6 +145475,7 @@
         "title": "your future"
     },
     "0100C49025D3E000": {
+        "65536": "C2A256339B299224",
         "dlc": [],
         "latest": 65536
     },
