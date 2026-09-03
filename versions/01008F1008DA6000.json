@@ -3,6 +3,7 @@
     "262144": "4B104B8145CC9402",
     "327680": "BEDBA708383FD7EB",
     "393216": "FF2BF22565188D11",
+    "458752": "D4ED8D7ACC3A7B57",
     "dlc": [
         {
             "id": "01008F1008DA7001",
@@ -21,6 +22,6 @@
             "name": "Darkest Dungeon\u00ae: The Color of Madness"
         }
     ],
-    "latest": 393216,
+    "latest": 458752,
     "title": "Darkest Dungeon"
 }
