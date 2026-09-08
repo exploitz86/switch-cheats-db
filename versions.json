@@ -1140,6 +1140,12 @@
         "dlc": [],
         "latest": 0
     },
+    "010001E025CCE000": {
+        "65536": "2A145B20628FE470",
+        "dlc": [],
+        "latest": 65536,
+        "title": "Wander Scoop"
+    },
     "010001E02636A000": {
         "65536": "9E4EC5336E6D9F71",
         "dlc": [],
@@ -20097,6 +20103,12 @@
         "latest": 262144,
         "title": "All in Abyss: Judge the Fake"
     },
+    "01001D7027CCC000": {
+        "65536": "9DF8CFB291EA66A9",
+        "dlc": [],
+        "latest": 65536,
+        "title": "Culdcept The First Saturn Tribute"
+    },
     "01001D800AAA0000": {
         "0": "1CD3D75F1A80864A",
         "131072": "E111306CEF7AE04D",
@@ -21038,9 +21050,10 @@
         "196608": "169AD641E042A8B4",
         "262144": "8CFF66758D7BD507",
         "393216": "6656BA1B5B8AC30A",
+        "458752": "4F4FD1AED39EB96A",
         "65536": "DE5DBE8F203A82AA",
         "dlc": [],
-        "latest": 393216
+        "latest": 458752
     },
     "01001EA004E14000": {
         "0": "30B41475E43B5218",
@@ -29693,9 +29706,10 @@
     "01002B2025D9E000": {
         "262144": "2F72D3D8D22070B5",
         "393216": "C07E225CEBA6739D",
+        "458752": "12843EC4057561F8",
         "65536": "6CA914F69E7A68D6",
         "dlc": [],
-        "latest": 393216,
+        "latest": 458752,
         "title": "Neopets - Mega Mini Games Collection - The Neopian Arcade Odyssey"
     },
     "01002B30028F6000": {
@@ -113295,9 +113309,10 @@
         "latest": 0
     },
     "010099C010E86000": {
+        "131072": "4E3B1AAD0F483840",
         "65536": "4E3B1AAD0F483840",
         "dlc": [],
-        "latest": 65536
+        "latest": 131072
     },
     "010099C016410000": {
         "0": "0A5937592D101B4A",
@@ -120912,6 +120927,11 @@
         "dlc": [],
         "latest": 131072,
         "title": "The Prisoning: Fletcher's Quest"
+    },
+    "0100A4A028FAE000": {
+        "65536": "C524989131D36507",
+        "dlc": [],
+        "latest": 65536
     },
     "0100A4B012D72000": {
         "0": "BBC446E0E25E3B98",
@@ -138187,6 +138207,12 @@
         "latest": 327680,
         "title": "Little Big Adventure \u2013 Twinsen\u2019s Quest"
     },
+    "0100BB902537E000": {
+        "65536": "131A8C10B243AA4C",
+        "dlc": [],
+        "latest": 65536,
+        "title": "HORSE CLUB Ride West"
+    },
     "0100BBA00B23E000": {
         "0": "06E61AB0BA4E297B",
         "131072": "C877268D7CC34255",
@@ -143580,8 +143606,9 @@
         "327680": "67D821CF14AD8EA2",
         "393216": "EFA897C8B97F1C9E",
         "524288": "3A72F51B6DF98CC7",
+        "589824": "54CEEEA3752EE96F",
         "dlc": [],
-        "latest": 524288,
+        "latest": 589824,
         "title": "Terraformers"
     },
     "0100C1B018DF2000": {
@@ -153253,6 +153280,12 @@
         "0": "4DFBCB8CD2BABEBF",
         "dlc": [],
         "latest": 0
+    },
+    "0100CE4026B60000": {
+        "131072": "B02654ED0A77549A",
+        "dlc": [],
+        "latest": 131072,
+        "title": "Farming Camp"
     },
     "0100CE500B724000": {
         "0": "63D4B5C4894E894B",
@@ -167366,6 +167399,7 @@
         "4194304": "8180D9F93037201B",
         "4390912": "F4395F88FDBB6A64",
         "4456448": "B63DEE0C91CF665B",
+        "4521984": "ADDC2DC2B207FCB3",
         "458752": "35A3821FC30D8543",
         "524288": "E4AE9275F52CA84B",
         "589824": "A1406FFEE2AA274A",
@@ -167385,7 +167419,7 @@
                 "name": "Seasonal Decorative Pack"
             }
         ],
-        "latest": 4456448,
+        "latest": 4521984,
         "title": "WINGSPAN"
     },
     "0100E0501A58E000": {
