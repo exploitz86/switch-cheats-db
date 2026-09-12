@@ -4,6 +4,7 @@
     "196608": "908CD685037018E9",
     "262144": "3A2D1227979971E5",
     "327680": "C3CF52BF2B05D731",
+    "458752": "E5F275B5D0889899",
     "65536": "5A982FA25220E4DF",
     "dlc": [
         {
@@ -23,6 +24,6 @@
             "name": "Guardian of Remembrance"
         }
     ],
-    "latest": 327680,
+    "latest": 458752,
     "title": "Hyrule Warriors: Age of Calamity"
 }
