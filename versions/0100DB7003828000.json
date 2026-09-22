@@ -7,6 +7,7 @@
     "655360": "F80B4AE5A39C0F47",
     "720896": "33CD9A69E88E3FFE",
     "786432": "B18C632E882E9637",
+    "851968": "89D2DA3FADD2A1D7",
     "dlc": [
         {
             "id": "0100DB7003829001",
@@ -93,6 +94,6 @@
             "name": "Pinball FX3 - Indiana Jones\u2122\ufe0f: The Pinball Adventure"
         }
     ],
-    "latest": 786432,
+    "latest": 851968,
     "title": "Pinball FX3"
 }
